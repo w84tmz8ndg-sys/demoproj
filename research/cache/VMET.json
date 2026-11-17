@@ -1,0 +1,27 @@
+{
+ "ticker": "VMET",
+ "name": "Versamet Royalties Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 821662778.0,
+ "price": "$7.55",
+ "cik": 2080073,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VMET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vmet",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:56+00:00"
+}

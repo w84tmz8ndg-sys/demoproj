@@ -1,0 +1,27 @@
+{
+ "ticker": "RCBC",
+ "name": "River City Bank Common stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 831818660.0,
+ "price": "$58.58",
+ "cik": null,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RCBC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rcbc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:51+00:00"
+}

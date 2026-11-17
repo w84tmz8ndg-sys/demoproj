@@ -1,0 +1,27 @@
+{
+ "ticker": "KBDC",
+ "name": "Kayne Anderson BDC Inc. Common Stock",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "United States",
+ "mcap": 833743763.0,
+ "price": "$12.67",
+ "cik": 1747172,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KBDC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Kayne Anderson BDC Inc (KBDC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/kbdc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:48+00:00"
+}

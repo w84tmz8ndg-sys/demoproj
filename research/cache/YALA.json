@@ -1,0 +1,27 @@
+{
+ "ticker": "YALA",
+ "name": "Yalla Group Limited American Depositary Shares each representing one Class A Ordinary Share",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United Arab Emirates",
+ "mcap": 831263704.0,
+ "price": "$5.475",
+ "cik": 1794350,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YALA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yala",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:51+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "FWRG",
+ "name": "First Watch Restaurant Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "United States",
+ "mcap": 815407501.0,
+ "price": "$13.21",
+ "cik": 1789940,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FWRG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, First Watch Restaurant Group Inc (FWRG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fwrg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:57+00:00"
+}

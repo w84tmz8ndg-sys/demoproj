@@ -1,0 +1,27 @@
+{
+ "ticker": "SID",
+ "name": "Companhia Siderurgica Nacional S.A. Common Stock",
+ "sector": "Industrials",
+ "industry": "Steel/Iron Ore",
+ "country": "Brazil",
+ "mcap": 826554357.0,
+ "price": "$0.6233",
+ "cik": 1049659,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SID/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sid",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:53+00:00"
+}

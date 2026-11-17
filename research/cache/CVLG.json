@@ -1,0 +1,27 @@
+{
+ "ticker": "CVLG",
+ "name": "Covenant Logistics Group Inc. Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Trucking Freight/Courier Services",
+ "country": "United States",
+ "mcap": 832604723.0,
+ "price": "$32.78",
+ "cik": 928658,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CVLG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Covenant Logistics Group Inc - Ordinary Shares - Class A (CVLG) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cvlg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:48+00:00"
+}

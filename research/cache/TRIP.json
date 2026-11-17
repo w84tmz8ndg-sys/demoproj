@@ -1,0 +1,27 @@
+{
+ "ticker": "TRIP",
+ "name": "TripAdvisor Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 822428642.0,
+ "price": "$6.98",
+ "cik": 1526520,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRIP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Tripadvisor, Inc. (TRIP) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/trip",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:56+00:00"
+}

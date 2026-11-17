@@ -1,0 +1,27 @@
+{
+ "ticker": "BBNX",
+ "name": "Beta Bionics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 826923089.0,
+ "price": "$15.21",
+ "cik": 1674632,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BBNX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Beta Bionics Inc. (BBNX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bbnx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:51+00:00"
+}

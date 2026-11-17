@@ -1,0 +1,27 @@
+{
+ "ticker": "MFIC",
+ "name": "MidCap Financial Investment Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Finance/Investors Services",
+ "country": "United States",
+ "mcap": 835258448.0,
+ "price": "$10.14",
+ "cik": 1278752,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MFIC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, MidCap Financial Investment Corporation (MFIC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mfic",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:48+00:00"
+}

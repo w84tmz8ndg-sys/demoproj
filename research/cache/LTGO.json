@@ -1,0 +1,27 @@
+{
+ "ticker": "LTGO",
+ "name": "Latigo Biotherapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 835371772.0,
+ "price": "$12.60",
+ "cik": 2056611,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LTGO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ltgo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:44+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ASA",
+ "name": "ASA  Gold and Precious Metals Limited",
+ "sector": "Industrials",
+ "industry": "Precious Metals",
+ "country": "United States",
+ "mcap": 840295951.0,
+ "price": "$46.76",
+ "cik": 1230869,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ASA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/asa",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:43+00:00"
+}

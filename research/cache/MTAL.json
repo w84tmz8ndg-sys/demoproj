@@ -1,0 +1,27 @@
+{
+ "ticker": "MTAL",
+ "name": "Metals Acquisition Corp. II Class A Ordinary Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "",
+ "mcap": 836165025.0,
+ "price": "$10.14",
+ "cik": 2107724,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MTAL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mtal",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:45+00:00"
+}
