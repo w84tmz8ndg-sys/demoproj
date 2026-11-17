@@ -1,0 +1,63 @@
+{
+ "ticker": "ZETA",
+ "src_stats": "https://stockanalysis.com/stocks/zeta/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/zeta/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/zeta/financials/ratios/",
+ "Market Cap": "8.85B",
+ "Enterprise Value": "8.77B",
+ "PE Ratio": "219.79",
+ "Forward PE": "26.98",
+ "PS Ratio": "5.30",
+ "EV / EBITDA": "58.76",
+ "Gross Margin": "59.51%",
+ "Operating Margin": "5.10%",
+ "Profit Margin": "2.30%",
+ "FCF Margin": "15.08%",
+ "Debt / Equity": "0.27",
+ "Debt / EBITDA": "1.59",
+ "Net Cash": "75.53M",
+ "Total Debt": "264.55M",
+ "Cash & Cash Equivalents": "340.09M",
+ "Return on Invested Capital (ROIC)": "5.10%",
+ "Return on Equity (ROE)": "4.71%",
+ "Revenue": "1.73B",
+ "Net Income": "39.74M",
+ "Free Cash Flow": "260.28M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.25",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,726",
+  "1,305",
+  "1,006",
+  "728.72",
+  "590.96",
+  "458.34"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "39.74",
+  "-31.51",
+  "-69.77",
+  "-187.48",
+  "-279.24",
+  "-256.62"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

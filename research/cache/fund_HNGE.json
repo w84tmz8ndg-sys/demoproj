@@ -1,0 +1,55 @@
+{
+ "ticker": "HNGE",
+ "src_stats": "https://stockanalysis.com/stocks/hnge/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/hnge/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/hnge/financials/ratios/",
+ "Market Cap": "9.51B",
+ "Enterprise Value": "9.19B",
+ "PE Ratio": "58.84",
+ "Forward PE": "39.83",
+ "PS Ratio": "11.84",
+ "EV / EBITDA": "59.88",
+ "Gross Margin": "85.79%",
+ "Operating Margin": "18.75%",
+ "Profit Margin": "21.02%",
+ "FCF Margin": "39.08%",
+ "Debt / Equity": "0.11",
+ "Debt / EBITDA": "0.21",
+ "Net Cash": "320.32M",
+ "Total Debt": "33.88M",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "388.63%",
+ "Return on Equity (ROE)": "47.59%",
+ "Revenue": "800.82M",
+ "Net Income": "166.26M",
+ "Free Cash Flow": "312.97M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "n/a",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023"
+ ],
+ "rev_hist": [
+  "800.82",
+  "587.86",
+  "390.4",
+  "292.73"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "166.26",
+  "-424.09",
+  "-11.93",
+  "-108.14"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023"
+ ],
+ "pe_hist": null
+}

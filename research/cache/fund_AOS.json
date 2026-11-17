@@ -1,0 +1,70 @@
+{
+ "ticker": "AOS",
+ "src_stats": "https://stockanalysis.com/stocks/aos/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/aos/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/aos/financials/ratios/",
+ "Market Cap": "8.63B",
+ "Enterprise Value": "9.11B",
+ "PE Ratio": "17.95",
+ "Forward PE": "17.53",
+ "PS Ratio": "2.26",
+ "EV / EBITDA": "11.54",
+ "Gross Margin": "38.62%",
+ "Operating Margin": "18.17%",
+ "Profit Margin": "13.01%",
+ "FCF Margin": "14.77%",
+ "Debt / Equity": "0.39",
+ "Debt / EBITDA": "0.88",
+ "Net Cash": "-480.50M",
+ "Total Debt": "715.00M",
+ "Cash & Cash Equivalents": "234.50M",
+ "Return on Invested Capital (ROIC)": "23.01%",
+ "Return on Equity (ROE)": "26.97%",
+ "Revenue": "3.80B",
+ "Net Income": "494.60M",
+ "Free Cash Flow": "561.70M",
+ "Dividend Yield": "2.37%",
+ "Beta (5Y)": "1.04",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,803",
+  "3,830",
+  "3,818",
+  "3,853",
+  "3,754",
+  "3,539"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "494.6",
+  "546.2",
+  "533.6",
+  "556.6",
+  "235.7",
+  "487.1"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "18.06",
+  "17.05",
+  "18.54",
+  "22.03",
+  "37.10",
+  "28.05"
+ ]
+}

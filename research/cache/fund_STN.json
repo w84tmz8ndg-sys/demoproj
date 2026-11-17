@@ -1,0 +1,70 @@
+{
+ "ticker": "STN",
+ "src_stats": "https://stockanalysis.com/stocks/stn/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/stn/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/stn/financials/ratios/",
+ "Market Cap": "9.22B",
+ "Enterprise Value": "10.81B",
+ "PE Ratio": "25.44",
+ "Forward PE": "17.61",
+ "PS Ratio": "1.88",
+ "EV / EBITDA": "14.27",
+ "Gross Margin": "54.48%",
+ "Operating Margin": "12.63%",
+ "Profit Margin": "7.66%",
+ "FCF Margin": "10.56%",
+ "Debt / Equity": "0.81",
+ "Debt / EBITDA": "2.24",
+ "Net Cash": "-1.61B",
+ "Total Debt": "1.92B",
+ "Cash & Cash Equivalents": "315.64M",
+ "Return on Invested Capital (ROIC)": "11.61%",
+ "Return on Equity (ROE)": "16.19%",
+ "Revenue": "4.92B",
+ "Net Income": "376.57M",
+ "Free Cash Flow": "515.72M",
+ "Dividend Yield": "0.83%",
+ "Beta (5Y)": "0.69",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,980",
+  "6,495",
+  "5,867",
+  "5,066",
+  "4,457",
+  "3,636"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "534.6",
+  "479.4",
+  "361.5",
+  "316.5",
+  "247",
+  "200.7"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "25.44",
+  "30.82",
+  "35.59",
+  "38.34",
+  "29.10",
+  "39.37"
+ ]
+}

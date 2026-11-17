@@ -1,6 +1,6 @@
 # Running portfolio
 
-_Last updated 2026-11-17 after batch(es) 1, 2, 3, 4, 5, 6, 7, 8, 9. Built only from companies that passed **both** layers and had a manual ethics review. Individual stocks only. Research for review — not financial advice; the user is not relying on it as such._
+_Last updated 2026-11-17 after batch(es) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Built only from companies that passed **both** layers and had a manual ethics review. Individual stocks only. Research for review — not financial advice; the user is not relying on it as such._
 
 | # | Ticker | Company | Sector | Mkt cap | Weight | Valuation view | Why included |
 |---|---|---|---|---|---|---|---|
@@ -58,3 +58,22 @@ _Last updated 2026-11-17 after batch(es) 1, 2, 3, 4, 5, 6, 7, 8, 9. Built only f
 - The ethics screen relies on AFSC, Who Profits, BDS and web searches. Absence of evidence is not proof of no involvement. Supply chains (Apple, Tesla) carry (c) forced-labour flags.
 - The fundamentals come from stockanalysis.com, an aggregator, and could not all be checked against the 10-K/20-F filings. Foreign filers (NVO, TSM, ASML, AZN) report in their own currencies; the growth rates shown are in those currencies.
 - Valuation calls use a simple rule: forward P/E against the company's own 5-year median P/E. That rule ignores interest rates and changes in growth outlook.
+
+## Strongest candidates right now (refreshed 2026-11-17, batches 1–10)
+
+These rank highest among the 253 companies that pass both screens. The ranking combines operating margin, ROIC, revenue growth, and forward P/E against each company's own 5-year median. All 15 portfolio holdings were re-checked on Zoya and Musaffa today and still pass.
+
+| Rank | Ticker | Why it ranks well | Main caveat |
+|---|---|---|---|
+| 1 | TSM | 58% op. margin, 24% revenue CAGR, ~18x fwd vs ~24 median | Taiwan geopolitics; (c) chip-diversion flag |
+| 2 | NVO | 51% op. margin at ~13x fwd (median ~35) | Losing GLP-1 share to Lilly; price cuts |
+| 3 | ASML | EUV monopoly, ROIC ~92%, ~23x fwd vs ~36 median | China export controls; chip-capex cycle |
+| 4 | ADBE | ROIC ~57%, ~10–11x fwd on raised FY26 EPS guide (~$24.40) | Market fears AI erodes creative software |
+| 5 | LLY | 23% revenue CAGR, ~31x fwd vs ~56 median | Still the priciest of the group in absolute terms |
+| 6 | AZN | ~12% growth at ~17x fwd vs ~32 median | Drug-pricing policy; China exposure |
+| 7 | V | 66% op. margin; fairly priced (~28x fwd) | Interchange regulation/litigation |
+| 8 | AEM | Low-cost gold miner, net cash, ~15x fwd | Depends on gold price |
+
+**Watch list** (these pass both screens but are not in the portfolio): KLAC (~23x fwd; 43% op. margin), MPWR (fast-growing power chips, ~31x), NBIX (profitable biotech, ~14x), DECK (Hoka/UGG, ~11x), EXEL (net-cash oncology, ~17x), FTNT ((c) flag; ~33x). FICO screens cheap, but it carries heavy debt (negative equity). MEDP's ROIC figure is distorted by its negative equity.
+
+**What this does not cover:** the ethics review stops at batch 10 (the ~1,000 largest stocks), so smaller companies are unreviewed. Valuations use aggregator data (stockanalysis.com) and a simple P/E-versus-history rule. This list is research for review, not a recommendation to buy.

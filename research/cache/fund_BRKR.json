@@ -1,0 +1,70 @@
+{
+ "ticker": "BRKR",
+ "src_stats": "https://stockanalysis.com/stocks/brkr/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/brkr/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/brkr/financials/ratios/",
+ "Market Cap": "9.26B",
+ "Enterprise Value": "10.88B",
+ "PE Ratio": "n/a",
+ "Forward PE": "26.08",
+ "PS Ratio": "2.64",
+ "EV / EBITDA": "19.75",
+ "Gross Margin": "49.11%",
+ "Operating Margin": "9.17%",
+ "Profit Margin": "-3.51%",
+ "FCF Margin": "6.97%",
+ "Debt / Equity": "0.74",
+ "Debt / EBITDA": "2.86",
+ "Net Cash": "-1.62B",
+ "Total Debt": "1.74B",
+ "Cash & Cash Equivalents": "119.70M",
+ "Return on Invested Capital (ROIC)": "7.99%",
+ "Return on Equity (ROE)": "-4.79%",
+ "Revenue": "3.51B",
+ "Net Income": "-167.30M",
+ "Free Cash Flow": "244.70M",
+ "Dividend Yield": "0.33%",
+ "Beta (5Y)": "1.27",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,513",
+  "3,437",
+  "3,366",
+  "2,965",
+  "2,531",
+  "2,418"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-167.3",
+  "-22.5",
+  "113.1",
+  "427.2",
+  "296.6",
+  "277.1"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "-",
+  "78.57",
+  "23.81",
+  "33.89",
+  "45.92"
+ ]
+}

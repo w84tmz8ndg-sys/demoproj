@@ -1,0 +1,70 @@
+{
+ "ticker": "LEVI",
+ "src_stats": "https://stockanalysis.com/stocks/levi/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/levi/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/levi/financials/ratios/",
+ "Market Cap": "9.35B",
+ "Enterprise Value": "10.90B",
+ "PE Ratio": "16.32",
+ "Forward PE": "15.57",
+ "PS Ratio": "1.40",
+ "EV / EBITDA": "11.62",
+ "Gross Margin": "61.61%",
+ "Operating Margin": "10.69%",
+ "Profit Margin": "8.83%",
+ "FCF Margin": "9.63%",
+ "Debt / Equity": "0.97",
+ "Debt / EBITDA": "1.72",
+ "Net Cash": "-1.55B",
+ "Total Debt": "2.33B",
+ "Cash & Cash Equivalents": "779.30M",
+ "Return on Invested Capital (ROIC)": "14.77%",
+ "Return on Equity (ROE)": "26.24%",
+ "Revenue": "6.68B",
+ "Net Income": "589.70M",
+ "Free Cash Flow": "643.00M",
+ "Dividend Yield": "2.63%",
+ "Beta (5Y)": "1.30",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,680",
+  "6,282",
+  "6,032",
+  "5,842",
+  "6,169",
+  "5,764"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "589.7",
+  "578.1",
+  "210.6",
+  "249.6",
+  "569.1",
+  "553.5"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "16.22",
+  "14.89",
+  "32.89",
+  "24.49",
+  "11.16",
+  "19.76"
+ ]
+}

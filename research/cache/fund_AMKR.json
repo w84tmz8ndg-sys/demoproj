@@ -1,0 +1,70 @@
+{
+ "ticker": "AMKR",
+ "src_stats": "https://stockanalysis.com/stocks/amkr/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/amkr/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/amkr/financials/ratios/",
+ "Market Cap": "8.47B",
+ "Enterprise Value": "8.80B",
+ "PE Ratio": "13.79",
+ "Forward PE": "12.56",
+ "PS Ratio": "1.15",
+ "EV / EBITDA": "6.29",
+ "Gross Margin": "16.56%",
+ "Operating Margin": "9.51%",
+ "Profit Margin": "8.30%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.56",
+ "Debt / EBITDA": "1.87",
+ "Net Cash": "-336.08M",
+ "Total Debt": "2.71B",
+ "Cash & Cash Equivalents": "2.38B",
+ "Return on Invested Capital (ROIC)": "12.40%",
+ "Return on Equity (ROE)": "13.56%",
+ "Revenue": "7.46B",
+ "Net Income": "619.48M",
+ "Free Cash Flow": "-156.06M",
+ "Dividend Yield": "0.97%",
+ "Beta (5Y)": "2.40",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "7,461",
+  "6,708",
+  "6,318",
+  "6,503",
+  "7,092",
+  "6,138"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "619.48",
+  "373.9",
+  "354.01",
+  "359.81",
+  "765.82",
+  "643"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "13.77",
+  "26.10",
+  "17.90",
+  "22.73",
+  "7.67",
+  "9.43"
+ ]
+}

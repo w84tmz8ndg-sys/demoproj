@@ -1,0 +1,70 @@
+{
+ "ticker": "ALV",
+ "src_stats": "https://stockanalysis.com/stocks/alv/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/alv/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/alv/financials/ratios/",
+ "Market Cap": "8.50B",
+ "Enterprise Value": "10.39B",
+ "PE Ratio": "14.14",
+ "Forward PE": "10.93",
+ "PS Ratio": "0.78",
+ "EV / EBITDA": "6.69",
+ "Gross Margin": "19.21%",
+ "Operating Margin": "10.22%",
+ "Profit Margin": "5.63%",
+ "FCF Margin": "6.59%",
+ "Debt / Equity": "0.85",
+ "Debt / EBITDA": "1.28",
+ "Net Cash": "-1.89B",
+ "Total Debt": "2.09B",
+ "Cash & Cash Equivalents": "197.00M",
+ "Return on Invested Capital (ROIC)": "18.51%",
+ "Return on Equity (ROE)": "24.82%",
+ "Revenue": "11.07B",
+ "Net Income": "623.00M",
+ "Free Cash Flow": "729.00M",
+ "Dividend Yield": "3.39%",
+ "Beta (5Y)": "1.37",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "11,066",
+  "10,815",
+  "10,390",
+  "10,475",
+  "8,842",
+  "8,230"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "623",
+  "735",
+  "646",
+  "488",
+  "423",
+  "435"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "14.18",
+  "12.07",
+  "11.28",
+  "18.66",
+  "15.72",
+  "20.80"
+ ]
+}

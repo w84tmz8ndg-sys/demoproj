@@ -1,0 +1,70 @@
+{
+ "ticker": "AEIS",
+ "src_stats": "https://stockanalysis.com/stocks/aeis/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/aeis/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/aeis/financials/ratios/",
+ "Market Cap": "8.43B",
+ "Enterprise Value": "8.40B",
+ "PE Ratio": "29.89",
+ "Forward PE": "12.37",
+ "PS Ratio": "3.83",
+ "EV / EBITDA": "19.52",
+ "Gross Margin": "40.76%",
+ "Operating Margin": "16.72%",
+ "Profit Margin": "12.72%",
+ "FCF Margin": "3.08%",
+ "Debt / Equity": "0.88",
+ "Debt / EBITDA": "2.92",
+ "Net Cash": "32.80M",
+ "Total Debt": "1.39B",
+ "Cash & Cash Equivalents": "1.42B",
+ "Return on Invested Capital (ROIC)": "21.29%",
+ "Return on Equity (ROE)": "20.02%",
+ "Revenue": "2.27B",
+ "Net Income": "288.80M",
+ "Free Cash Flow": "69.90M",
+ "Dividend Yield": "0.19%",
+ "Beta (5Y)": "1.37",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,271",
+  "1,799",
+  "1,482",
+  "1,656",
+  "1,845",
+  "1,456"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "288.8",
+  "148.4",
+  "54.2",
+  "128.3",
+  "199.66",
+  "134.74"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "30.08",
+  "53.25",
+  "80.37",
+  "31.65",
+  "16.06",
+  "25.46"
+ ]
+}

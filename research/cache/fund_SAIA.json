@@ -1,0 +1,70 @@
+{
+ "ticker": "SAIA",
+ "src_stats": "https://stockanalysis.com/stocks/saia/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/saia/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/saia/financials/ratios/",
+ "Market Cap": "9.00B",
+ "Enterprise Value": "9.06B",
+ "PE Ratio": "32.02",
+ "Forward PE": "24.23",
+ "PS Ratio": "2.53",
+ "EV / EBITDA": "14.51",
+ "Gross Margin": "23.14%",
+ "Operating Margin": "10.35%",
+ "Profit Margin": "8.01%",
+ "FCF Margin": "7.89%",
+ "Debt / Equity": "0.09",
+ "Debt / EBITDA": "0.39",
+ "Net Cash": "-60.84M",
+ "Total Debt": "263.37M",
+ "Cash & Cash Equivalents": "202.52M",
+ "Return on Invested Capital (ROIC)": "9.58%",
+ "Return on Equity (ROE)": "10.59%",
+ "Revenue": "3.54B",
+ "Net Income": "283.09M",
+ "Free Cash Flow": "278.80M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "2.11",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,535",
+  "3,234",
+  "3,209",
+  "2,881",
+  "2,792",
+  "2,289"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "283.09",
+  "255.04",
+  "362.07",
+  "354.86",
+  "357.42",
+  "253.24"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "31.87",
+  "34.02",
+  "33.39",
+  "32.70",
+  "15.48",
+  "34.92"
+ ]
+}

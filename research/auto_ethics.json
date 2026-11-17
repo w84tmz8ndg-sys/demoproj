@@ -1,100 +1,4 @@
 {
- "HNGE": {
-  "hits": [],
-  "sources": []
- },
- "MDGL": {
-  "hits": [],
-  "sources": []
- },
- "SMTC": {
-  "hits": [],
-  "sources": []
- },
- "AYI": {
-  "hits": [],
-  "sources": []
- },
- "LFUS": {
-  "hits": [],
-  "sources": []
- },
- "TGTX": {
-  "hits": [],
-  "sources": []
- },
- "LEVI": {
-  "hits": [],
-  "sources": []
- },
- "GMED": {
-  "hits": [],
-  "sources": []
- },
- "STN": {
-  "hits": [
-   "(a?) defense-related industry classification 'Military/Government/Technical' \u2014 verify"
-  ],
-  "sources": []
- },
- "DOCN": {
-  "hits": [],
-  "sources": []
- },
- "BRKR": {
-  "hits": [],
-  "sources": []
- },
- "ZETA": {
-  "hits": [],
-  "sources": []
- },
- "ESTC": {
-  "hits": [],
-  "sources": []
- },
- "ATR": {
-  "hits": [],
-  "sources": []
- },
- "SAIA": {
-  "hits": [],
-  "sources": []
- },
- "WMS": {
-  "hits": [],
-  "sources": []
- },
- "NTSK": {
-  "hits": [],
-  "sources": []
- },
- "AOS": {
-  "hits": [],
-  "sources": []
- },
- "MHK": {
-  "hits": [],
-  "sources": []
- },
- "AEIS": {
-  "hits": [],
-  "sources": []
- },
- "ALV": {
-  "hits": [],
-  "sources": []
- },
- "AMKR": {
-  "hits": [],
-  "sources": []
- },
- "STRL": {
-  "hits": [
-   "(a?) defense-related industry classification 'Military/Government/Technical' \u2014 verify"
-  ],
-  "sources": []
- },
  "RMBS": {
   "hits": [],
   "sources": []
@@ -880,6 +784,268 @@
   "sources": []
  },
  "ASAN": {
+  "hits": [],
+  "sources": []
+ },
+ "AMPL": {
+  "hits": [],
+  "sources": []
+ },
+ "BHE": {
+  "hits": [],
+  "sources": []
+ },
+ "ROG": {
+  "hits": [],
+  "sources": []
+ },
+ "BKE": {
+  "hits": [],
+  "sources": []
+ },
+ "DV": {
+  "hits": [],
+  "sources": []
+ },
+ "ATEN": {
+  "hits": [],
+  "sources": []
+ },
+ "AZTA": {
+  "hits": [],
+  "sources": []
+ },
+ "NESR": {
+  "hits": [],
+  "sources": []
+ },
+ "BTU": {
+  "hits": [],
+  "sources": []
+ },
+ "CNXN": {
+  "hits": [],
+  "sources": []
+ },
+ "SONO": {
+  "hits": [],
+  "sources": []
+ },
+ "FIVN": {
+  "hits": [],
+  "sources": []
+ },
+ "EPAC": {
+  "hits": [],
+  "sources": []
+ },
+ "DGII": {
+  "hits": [],
+  "sources": []
+ },
+ "CALX": {
+  "hits": [],
+  "sources": []
+ },
+ "NEO": {
+  "hits": [],
+  "sources": []
+ },
+ "AGL": {
+  "hits": [],
+  "sources": []
+ },
+ "IOSP": {
+  "hits": [],
+  "sources": []
+ },
+ "VCYT": {
+  "hits": [],
+  "sources": []
+ },
+ "VC": {
+  "hits": [],
+  "sources": []
+ },
+ "ETON": {
+  "hits": [],
+  "sources": []
+ },
+ "GRC": {
+  "hits": [],
+  "sources": []
+ },
+ "CRCT": {
+  "hits": [],
+  "sources": []
+ },
+ "AMR": {
+  "hits": [],
+  "sources": []
+ },
+ "TILE": {
+  "hits": [],
+  "sources": []
+ },
+ "LMAT": {
+  "hits": [],
+  "sources": []
+ },
+ "CERT": {
+  "hits": [],
+  "sources": []
+ },
+ "GIC": {
+  "hits": [],
+  "sources": []
+ },
+ "BLBD": {
+  "hits": [],
+  "sources": []
+ },
+ "INSP": {
+  "hits": [],
+  "sources": []
+ },
+ "DFIN": {
+  "hits": [],
+  "sources": []
+ },
+ "INVX": {
+  "hits": [],
+  "sources": []
+ },
+ "AEHR": {
+  "hits": [],
+  "sources": []
+ },
+ "ALG": {
+  "hits": [],
+  "sources": []
+ },
+ "OMCL": {
+  "hits": [],
+  "sources": []
+ },
+ "ADEA": {
+  "hits": [],
+  "sources": []
+ },
+ "NRP": {
+  "hits": [],
+  "sources": []
+ },
+ "PRLB": {
+  "hits": [],
+  "sources": []
+ },
+ "WGS": {
+  "hits": [],
+  "sources": []
+ },
+ "HUBG": {
+  "hits": [],
+  "sources": []
+ },
+ "HLIO": {
+  "hits": [],
+  "sources": []
+ },
+ "PDFS": {
+  "hits": [],
+  "sources": []
+ },
+ "XPRO": {
+  "hits": [],
+  "sources": []
+ },
+ "LQDT": {
+  "hits": [],
+  "sources": []
+ },
+ "PRCT": {
+  "hits": [],
+  "sources": []
+ },
+ "SHLS": {
+  "hits": [],
+  "sources": []
+ },
+ "PLPC": {
+  "hits": [],
+  "sources": []
+ },
+ "ARLO": {
+  "hits": [],
+  "sources": []
+ },
+ "INNV": {
+  "hits": [],
+  "sources": []
+ },
+ "STAA": {
+  "hits": [],
+  "sources": []
+ },
+ "RVLV": {
+  "hits": [],
+  "sources": []
+ },
+ "ICHR": {
+  "hits": [],
+  "sources": []
+ },
+ "UTI": {
+  "hits": [],
+  "sources": []
+ },
+ "CRSR": {
+  "hits": [],
+  "sources": []
+ },
+ "RES": {
+  "hits": [],
+  "sources": []
+ },
+ "STRA": {
+  "hits": [],
+  "sources": []
+ },
+ "RDVT": {
+  "hits": [],
+  "sources": []
+ },
+ "INOD": {
+  "hits": [],
+  "sources": []
+ },
+ "HROW": {
+  "hits": [],
+  "sources": []
+ },
+ "HLIT": {
+  "hits": [],
+  "sources": []
+ },
+ "IRMD": {
+  "hits": [],
+  "sources": []
+ },
+ "WLDN": {
+  "hits": [
+   "(a?) defense-related industry classification 'Military/Government/Technical' \u2014 verify"
+  ],
+  "sources": []
+ },
+ "SIBN": {
+  "hits": [],
+  "sources": []
+ },
+ "LNN": {
+  "hits": [],
+  "sources": []
+ },
+ "AMPX": {
   "hits": [],
   "sources": []
  }

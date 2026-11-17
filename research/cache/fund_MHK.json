@@ -1,0 +1,70 @@
+{
+ "ticker": "MHK",
+ "src_stats": "https://stockanalysis.com/stocks/mhk/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/mhk/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/mhk/financials/ratios/",
+ "Market Cap": "8.55B",
+ "Enterprise Value": "9.94B",
+ "PE Ratio": "17.34",
+ "Forward PE": "16.09",
+ "PS Ratio": "0.76",
+ "EV / EBITDA": "6.58",
+ "Gross Margin": "25.77%",
+ "Operating Margin": "7.43%",
+ "Profit Margin": "4.63%",
+ "FCF Margin": "7.96%",
+ "Debt / Equity": "0.27",
+ "Debt / EBITDA": "1.28",
+ "Net Cash": "-1.39B",
+ "Total Debt": "2.21B",
+ "Cash & Cash Equivalents": "816.80M",
+ "Return on Invested Capital (ROIC)": "7.21%",
+ "Return on Equity (ROE)": "6.23%",
+ "Revenue": "11.21B",
+ "Net Income": "518.40M",
+ "Free Cash Flow": "891.50M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.18",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "11,206",
+  "10,785",
+  "10,837",
+  "11,135",
+  "11,737",
+  "11,201"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "518.4",
+  "369.9",
+  "514.7",
+  "-449",
+  "25.2",
+  "1,033"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "17.42",
+  "18.27",
+  "14.61",
+  "-",
+  "257.72",
+  "11.94"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "AYI",
+ "src_stats": "https://stockanalysis.com/stocks/ayi/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ayi/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ayi/financials/ratios/",
+ "Market Cap": "9.69B",
+ "Enterprise Value": "9.86B",
+ "PE Ratio": "19.27",
+ "Forward PE": "15.25",
+ "PS Ratio": "2.07",
+ "EV / EBITDA": "11.66",
+ "Gross Margin": "49.54%",
+ "Operating Margin": "14.70%",
+ "Profit Margin": "11.45%",
+ "FCF Margin": "16.11%",
+ "Debt / Equity": "0.27",
+ "Debt / EBITDA": "0.92",
+ "Net Cash": "-172.60M",
+ "Total Debt": "808.90M",
+ "Cash & Cash Equivalents": "636.30M",
+ "Return on Invested Capital (ROIC)": "16.67%",
+ "Return on Equity (ROE)": "18.64%",
+ "Revenue": "4.64B",
+ "Net Income": "531.30M",
+ "Free Cash Flow": "747.90M",
+ "Dividend Yield": "0.25%",
+ "Beta (5Y)": "1.24",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "4,642",
+  "4,642",
+  "4,346",
+  "3,841",
+  "3,952",
+  "4,006"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "531.3",
+  "531.3",
+  "396.6",
+  "422.6",
+  "346",
+  "384"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "19.26",
+  "18.57",
+  "24.98",
+  "18.32",
+  "14.40",
+  "13.79"
+ ]
+}

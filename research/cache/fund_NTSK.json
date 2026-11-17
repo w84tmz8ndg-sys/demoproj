@@ -1,0 +1,55 @@
+{
+ "ticker": "NTSK",
+ "src_stats": "https://stockanalysis.com/stocks/ntsk/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ntsk/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ntsk/financials/ratios/",
+ "Market Cap": "8.40B",
+ "Enterprise Value": "8.06B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "11.13",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "69.92%",
+ "Operating Margin": "-94.23%",
+ "Profit Margin": "-91.84%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "4.67",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "335.13M",
+ "Total Debt": "732.23M",
+ "Cash & Cash Equivalents": "1.07B",
+ "Return on Invested Capital (ROIC)": "-93.32%",
+ "Return on Equity (ROE)": "n/a",
+ "Revenue": "802.64M",
+ "Net Income": "-737.16M",
+ "Free Cash Flow": "-70.14M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "n/a",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024"
+ ],
+ "rev_hist": [
+  "802.64",
+  "709",
+  "538.27",
+  "406.88"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-737.16",
+  "-679.39",
+  "-354.51",
+  "-344.85"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024"
+ ],
+ "pe_hist": null
+}

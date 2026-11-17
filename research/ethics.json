@@ -2823,5 +2823,224 @@
   "findings": [],
   "batch": 9,
   "review": "manual"
+ },
+ "ESTC": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Military software to defense ministries",
+    "text": "DISA delivery order for Elastic licenses (up to $11.2M, June 2025); $25.7M Elastic enterprise licence bundle; Army sole-source enterprise agreement (2026).",
+    "sources": [
+     "https://www.highergov.com/contract/NNG15SC61B-HC102825F0587",
+     "https://www.defensedaily.com/contract-awards/contract-award-fcn-inc-rockville-maryland-25675000/",
+     "https://samsearch.co/gov-explore/federal/notice-of-intent-to-award-a-sole-source-enterprise-agreement-for-elastic-softwar/0618c3a17882"
+    ]
+   }
+  ],
+  "batch": 10,
+  "review": "manual"
+ },
+ "SMTC": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Defense supply chain (military-grade parts)",
+    "text": "Military & space hi-rel product line; MIL-PRF-19500 qualified devices from Defense Supply Center Columbus.",
+    "sources": [
+     "https://www.semtech.com/applications/military-space",
+     "https://eepower.com/new-industry-products/semtech-launches-new-platform-of-silicon-voltage-regulators-for-military-applications/"
+    ]
+   }
+  ],
+  "batch": 10,
+  "review": "manual"
+ },
+ "LFUS": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Defense supply chain (military-grade parts)",
+    "text": "Aviation, Defense & Space product line incl. C&K Aerospace; mil-spec aerospace/defense connectors (MIL-DTL-24308).",
+    "sources": [
+     "https://littelfuse.com/applications/aviation-defense-space-solutions",
+     "https://www.littelfuse.com/products/connectors-cable-assemblies/aerospace-defense-connectors"
+    ]
+   }
+  ],
+  "batch": 10,
+  "review": "manual"
+ },
+ "NTSK": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [
+   {
+    "label": "c",
+    "category": "DoD marketing",
+    "text": "Publishes a DoD CIO zero-trust mapping guide and hires DoD sales staff; no DoD contract or authorisation located. Verify.",
+    "sources": [
+     "https://www.netskope.com/pt/wp-content/uploads/2025/12/2025-11-DoD-CIO-ZT-mapping-guide.pdf"
+    ]
+   }
+  ],
+  "batch": 10,
+  "review": "manual"
+ },
+ "STN": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [
+   {
+    "label": "c",
+    "category": "Possible defense engineering",
+    "text": "Nasdaq classifies it as 'Military/Government/Technical'; engineering consultancy that may serve defense clients. Not researched in depth \u2014 verify.",
+    "sources": []
+   }
+  ],
+  "batch": 10,
+  "review": "manual"
+ },
+ "STRL": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [
+   {
+    "label": "c",
+    "category": "Possible military construction",
+    "text": "Nasdaq classifies it as 'Military/Government/Technical'; civil/e-infrastructure contractor. Not researched in depth \u2014 verify.",
+    "sources": []
+   }
+  ],
+  "batch": 10,
+  "review": "manual"
+ },
+ "AEIS": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [
+   {
+    "label": "c",
+    "category": "Possible defense power supplies",
+    "text": "Precision power products for semicap, data center and industrial markets incl. some aerospace/defense; no defense contract located. Verify.",
+    "sources": []
+   }
+  ],
+  "batch": 10,
+  "review": "manual"
+ },
+ "HNGE": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "MDGL": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "AYI": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "TGTX": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "LEVI": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "GMED": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "DOCN": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "BRKR": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "ZETA": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "ATR": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "SAIA": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "WMS": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "AOS": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "MHK": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "ALV": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
+ },
+ "AMKR": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 10,
+  "review": "manual"
  }
 }

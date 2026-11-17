@@ -1,0 +1,70 @@
+{
+ "ticker": "TGTX",
+ "src_stats": "https://stockanalysis.com/stocks/tgtx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/tgtx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/tgtx/financials/ratios/",
+ "Market Cap": "8.79B",
+ "Enterprise Value": "9.04B",
+ "PE Ratio": "95.04",
+ "Forward PE": "23.23",
+ "PS Ratio": "9.79",
+ "EV / EBITDA": "46.84",
+ "Gross Margin": "82.74%",
+ "Operating Margin": "21.48%",
+ "Profit Margin": "11.81%",
+ "FCF Margin": "9.53%",
+ "Debt / Equity": "1.32",
+ "Debt / EBITDA": "3.87",
+ "Net Cash": "-249.70M",
+ "Total Debt": "754.37M",
+ "Cash & Cash Equivalents": "504.67M",
+ "Return on Invested Capital (ROIC)": "16.80%",
+ "Return on Equity (ROE)": "17.99%",
+ "Revenue": "897.76M",
+ "Net Income": "106.06M",
+ "Free Cash Flow": "85.56M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.81",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "897.76",
+  "616.29",
+  "329",
+  "233.66",
+  "2.79",
+  "6.69"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "106.06",
+  "447.18",
+  "23.38",
+  "12.67",
+  "-223.81",
+  "-348.1"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "95.04",
+  "9.75",
+  "184.75",
+  "190.66",
+  "-",
+  "-"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "WMS",
+ "src_stats": "https://stockanalysis.com/stocks/wms/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/wms/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/wms/financials/ratios/",
+ "Market Cap": "8.92B",
+ "Enterprise Value": "10.54B",
+ "PE Ratio": "23.12",
+ "Forward PE": "18.58",
+ "PS Ratio": "2.74",
+ "EV / EBITDA": "11.11",
+ "Gross Margin": "38.36%",
+ "Operating Margin": "22.43%",
+ "Profit Margin": "12.44%",
+ "FCF Margin": "16.25%",
+ "Debt / Equity": "1.00",
+ "Debt / EBITDA": "1.82",
+ "Net Cash": "-1.62B",
+ "Total Debt": "1.77B",
+ "Cash & Cash Equivalents": "153.25M",
+ "Return on Invested Capital (ROIC)": "16.43%",
+ "Return on Equity (ROE)": "24.23%",
+ "Revenue": "3.26B",
+ "Net Income": "405.49M",
+ "Free Cash Flow": "529.95M",
+ "Dividend Yield": "0.66%",
+ "Beta (5Y)": "1.32",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "3,261",
+  "3,050",
+  "2,904",
+  "2,874",
+  "3,071",
+  "2,769"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "405.49",
+  "426.47",
+  "450.17",
+  "509.92",
+  "507.09",
+  "229.53"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "23.06",
+  "25.05",
+  "18.72",
+  "26.22",
+  "13.49",
+  "37.23"
+ ]
+}

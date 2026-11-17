@@ -1,0 +1,70 @@
+{
+ "ticker": "GMED",
+ "src_stats": "https://stockanalysis.com/stocks/gmed/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/gmed/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/gmed/financials/ratios/",
+ "Market Cap": "9.34B",
+ "Enterprise Value": "8.58B",
+ "PE Ratio": "17.36",
+ "Forward PE": "13.65",
+ "PS Ratio": "2.97",
+ "EV / EBITDA": "8.36",
+ "Gross Margin": "69.33%",
+ "Operating Margin": "23.76%",
+ "Profit Margin": "17.76%",
+ "FCF Margin": "24.42%",
+ "Debt / Equity": "0.02",
+ "Debt / EBITDA": "0.10",
+ "Net Cash": "762.99M",
+ "Total Debt": "108.19M",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "13.72%",
+ "Return on Equity (ROE)": "12.13%",
+ "Revenue": "3.14B",
+ "Net Income": "557.64M",
+ "Free Cash Flow": "766.55M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.95",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,140",
+  "2,939",
+  "2,519",
+  "1,568",
+  "1,023",
+  "958.1"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "557.64",
+  "537.87",
+  "102.98",
+  "122.87",
+  "190.17",
+  "149.19"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "17.33",
+  "21.73",
+  "109.36",
+  "59.76",
+  "38.99",
+  "49.11"
+ ]
+}

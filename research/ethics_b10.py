@@ -1,0 +1,11 @@
+from ethics_lib import *
+b = Batch(10)
+b.ex("ESTC","a","Military software to defense ministries","DISA delivery order for Elastic licenses (up to $11.2M, June 2025); $25.7M Elastic enterprise licence bundle; Army sole-source enterprise agreement (2026).", "https://www.highergov.com/contract/NNG15SC61B-HC102825F0587","https://www.defensedaily.com/contract-awards/contract-award-fcn-inc-rockville-maryland-25675000/","https://samsearch.co/gov-explore/federal/notice-of-intent-to-award-a-sole-source-enterprise-agreement-for-elastic-softwar/0618c3a17882")
+b.ex("SMTC","a","Defense supply chain (military-grade parts)","Military & space hi-rel product line; MIL-PRF-19500 qualified devices from Defense Supply Center Columbus.", "https://www.semtech.com/applications/military-space","https://eepower.com/new-industry-products/semtech-launches-new-platform-of-silicon-voltage-regulators-for-military-applications/")
+b.ex("LFUS","a","Defense supply chain (military-grade parts)","Aviation, Defense & Space product line incl. C&K Aerospace; mil-spec aerospace/defense connectors (MIL-DTL-24308).", "https://littelfuse.com/applications/aviation-defense-space-solutions","https://www.littelfuse.com/products/connectors-cable-assemblies/aerospace-defense-connectors")
+b.ok("NTSK", flags=[("DoD marketing","Publishes a DoD CIO zero-trust mapping guide and hires DoD sales staff; no DoD contract or authorisation located. Verify.",["https://www.netskope.com/pt/wp-content/uploads/2025/12/2025-11-DoD-CIO-ZT-mapping-guide.pdf"])])
+b.ok("STN", flags=[("Possible defense engineering","Nasdaq classifies it as 'Military/Government/Technical'; engineering consultancy that may serve defense clients. Not researched in depth — verify.",[])])
+b.ok("STRL", flags=[("Possible military construction","Nasdaq classifies it as 'Military/Government/Technical'; civil/e-infrastructure contractor. Not researched in depth — verify.",[])])
+b.ok("AEIS", flags=[("Possible defense power supplies","Precision power products for semicap, data center and industrial markets incl. some aerospace/defense; no defense contract located. Verify.",[])])
+b.oks("HNGE MDGL AYI TGTX LEVI GMED DOCN BRKR ZETA ATR SAIA WMS AOS MHK ALV AMKR")
+b.save()

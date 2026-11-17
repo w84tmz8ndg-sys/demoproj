@@ -1,0 +1,70 @@
+{
+ "ticker": "DOCN",
+ "src_stats": "https://stockanalysis.com/stocks/docn/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/docn/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/docn/financials/ratios/",
+ "Market Cap": "9.10B",
+ "Enterprise Value": "10.31B",
+ "PE Ratio": "236.36",
+ "Forward PE": "47.05",
+ "PS Ratio": "8.56",
+ "EV / EBITDA": "31.79",
+ "Gross Margin": "54.66%",
+ "Operating Margin": "12.49%",
+ "Profit Margin": "3.11%",
+ "FCF Margin": "10.64%",
+ "Debt / Equity": "1.45",
+ "Debt / EBITDA": "4.09",
+ "Net Cash": "-1.21B",
+ "Total Debt": "2.05B",
+ "Cash & Cash Equivalents": "844.74M",
+ "Return on Invested Capital (ROIC)": "4.15%",
+ "Return on Equity (ROE)": "5.09%",
+ "Revenue": "1.10B",
+ "Net Income": "34.26M",
+ "Free Cash Flow": "117.29M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.69",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,103",
+  "901.43",
+  "780.62",
+  "692.88",
+  "576.32",
+  "428.56"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "34.26",
+  "259.26",
+  "84.49",
+  "19.41",
+  "-27.8",
+  "-19.5"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "239.69",
+  "16.98",
+  "37.21",
+  "162.59",
+  "-",
+  "-"
+ ]
+}
