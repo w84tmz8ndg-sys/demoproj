@@ -1,0 +1,70 @@
+{
+ "ticker": "INSW",
+ "src_stats": "https://stockanalysis.com/stocks/insw/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/insw/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/insw/financials/ratios/",
+ "Market Cap": "5.11B",
+ "Enterprise Value": "5.36B",
+ "PE Ratio": "4.73",
+ "Forward PE": "6.02",
+ "PS Ratio": "3.29",
+ "EV / EBITDA": "5.12",
+ "Gross Margin": "74.46%",
+ "Operating Margin": "60.10%",
+ "Profit Margin": "67.90%",
+ "FCF Margin": "28.68%",
+ "Debt / Equity": "0.30",
+ "Debt / EBITDA": "0.64",
+ "Net Cash": "-253.27M",
+ "Total Debt": "706.89M",
+ "Cash & Cash Equivalents": "453.63M",
+ "Return on Invested Capital (ROIC)": "36.35%",
+ "Return on Equity (ROE)": "48.97%",
+ "Revenue": "1.55B",
+ "Net Income": "1.05B",
+ "Free Cash Flow": "444.66M",
+ "Dividend Yield": "16.82%",
+ "Beta (5Y)": "-0.10",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,550",
+  "843.3",
+  "951.61",
+  "1,072",
+  "864.67",
+  "272.55"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,052",
+  "309.11",
+  "416.55",
+  "556.04",
+  "387.4",
+  "-133.65"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "4.71",
+  "7.76",
+  "4.24",
+  "4.00",
+  "4.69",
+  "-"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "WFG",
+ "src_stats": "https://stockanalysis.com/stocks/wfg/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/wfg/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/wfg/financials/ratios/",
+ "Market Cap": "5.07B",
+ "Enterprise Value": "5.40B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "0.96",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "24.61%",
+ "Operating Margin": "-11.39%",
+ "Profit Margin": "-20.40%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.10",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "-329.00M",
+ "Total Debt": "532.00M",
+ "Cash & Cash Equivalents": "203.00M",
+ "Return on Invested Capital (ROIC)": "-10.32%",
+ "Return on Equity (ROE)": "-17.86%",
+ "Revenue": "5.30B",
+ "Net Income": "-1.08B",
+ "Free Cash Flow": "-428.00M",
+ "Dividend Yield": "1.98%",
+ "Beta (5Y)": "1.23",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,295",
+  "5,462",
+  "6,174",
+  "6,454",
+  "9,701",
+  "10,518"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-1,080",
+  "-937",
+  "-5",
+  "-167",
+  "1,975",
+  "2,947"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "-",
+  "-",
+  "-",
+  "3.07",
+  "3.46"
+ ]
+}

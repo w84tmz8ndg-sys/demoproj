@@ -1,0 +1,70 @@
+{
+ "ticker": "LPX",
+ "src_stats": "https://stockanalysis.com/stocks/lpx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/lpx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/lpx/financials/ratios/",
+ "Market Cap": "5.20B",
+ "Enterprise Value": "5.31B",
+ "PE Ratio": "76.68",
+ "Forward PE": "36.66",
+ "PS Ratio": "2.11",
+ "EV / EBITDA": "20.36",
+ "Gross Margin": "17.23%",
+ "Operating Margin": "4.69%",
+ "Profit Margin": "2.72%",
+ "FCF Margin": "1.20%",
+ "Debt / Equity": "0.22",
+ "Debt / EBITDA": "1.38",
+ "Net Cash": "-112.00M",
+ "Total Debt": "377.00M",
+ "Cash & Cash Equivalents": "265.00M",
+ "Return on Invested Capital (ROIC)": "4.72%",
+ "Return on Equity (ROE)": "3.91%",
+ "Revenue": "2.50B",
+ "Net Income": "68.00M",
+ "Free Cash Flow": "30.00M",
+ "Dividend Yield": "1.60%",
+ "Beta (5Y)": "1.69",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,496",
+  "2,708",
+  "2,941",
+  "2,581",
+  "3,854",
+  "3,915"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "68",
+  "146",
+  "420",
+  "178",
+  "1,086",
+  "1,377"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "75.99",
+  "38.52",
+  "17.32",
+  "28.70",
+  "3.91",
+  "5.01"
+ ]
+}

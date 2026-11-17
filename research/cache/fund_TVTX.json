@@ -1,0 +1,63 @@
+{
+ "ticker": "TVTX",
+ "src_stats": "https://stockanalysis.com/stocks/tvtx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/tvtx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/tvtx/financials/ratios/",
+ "Market Cap": "4.91B",
+ "Enterprise Value": "5.05B",
+ "PE Ratio": "n/a",
+ "Forward PE": "10.86",
+ "PS Ratio": "7.53",
+ "EV / EBITDA": "155.84",
+ "Gross Margin": "61.07%",
+ "Operating Margin": "-3.13%",
+ "Profit Margin": "-18.66%",
+ "FCF Margin": "27.18%",
+ "Debt / Equity": "27.28",
+ "Debt / EBITDA": "16.74",
+ "Net Cash": "-144.34M",
+ "Total Debt": "616.16M",
+ "Cash & Cash Equivalents": "471.82M",
+ "Return on Invested Capital (ROIC)": "-12.77%",
+ "Return on Equity (ROE)": "-321.22%",
+ "Revenue": "651.03M",
+ "Net Income": "-121.51M",
+ "Free Cash Flow": "176.96M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.12",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "651.03",
+  "490.73",
+  "233.18",
+  "145.24",
+  "109.46",
+  "131.84"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-121.51",
+  "-25.55",
+  "-321.55",
+  "-111.4",
+  "-278.48",
+  "-180.09"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

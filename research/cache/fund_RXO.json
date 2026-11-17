@@ -1,0 +1,70 @@
+{
+ "ticker": "RXO",
+ "src_stats": "https://stockanalysis.com/stocks/rxo/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/rxo/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/rxo/financials/ratios/",
+ "Market Cap": "4.73B",
+ "Enterprise Value": "5.43B",
+ "PE Ratio": "n/a",
+ "Forward PE": "55.59",
+ "PS Ratio": "0.72",
+ "EV / EBITDA": "46.83",
+ "Gross Margin": "14.48%",
+ "Operating Margin": "0.12%",
+ "Profit Margin": "-1.35%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.48",
+ "Debt / EBITDA": "2.94",
+ "Net Cash": "-702.00M",
+ "Total Debt": "727.00M",
+ "Cash & Cash Equivalents": "25.00M",
+ "Return on Invested Capital (ROIC)": "0.36%",
+ "Return on Equity (ROE)": "-5.68%",
+ "Revenue": "6.54B",
+ "Net Income": "-88.00M",
+ "Free Cash Flow": "-73.00M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.85",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,539",
+  "5,742",
+  "4,550",
+  "3,927",
+  "4,796",
+  "4,689"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-88",
+  "-100",
+  "-290",
+  "4",
+  "92",
+  "150"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "-",
+  "-",
+  "680.36",
+  "21.74",
+  "-"
+ ]
+}

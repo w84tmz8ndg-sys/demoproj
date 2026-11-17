@@ -1,6 +1,6 @@
 # Screen results
 
-_Last updated 2026-11-17. Universe: 5275 US-listed common stocks and ADRs (ETFs, funds, warrants, units, rights, preferreds excluded), sorted by market cap, largest first, in batches of 100. Batches completed: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 of 53._
+_Last updated 2026-11-17. Universe: 5275 US-listed common stocks and ADRs (ETFs, funds, warrants, units, rights, preferreds excluded), sorted by market cap, largest first, in batches of 100. Batches completed: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 of 53._
 
 _Research for the user's own review — not financial advice._
 
@@ -1315,8 +1315,108 @@ _Research for the user's own review — not financial advice._
 | 13 | PSN | Parsons Corporation Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
 | 13 | MAIN | Main Street Capital Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
 | 13 | BILI | Bilibili Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | ATAT | Atour Lifestyle Holdings Limited American Dep | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 14 | LPX | Louisiana-Pacific Corporation Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | SR | Spire Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | AMTM | Amentum Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | MMED | MiniMed Group Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 14 | RUSHA | Rush Enterprises Inc. Common Stock Cl A | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 14 | ALGM | Allegro MicroSystems Inc. Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | BGC | BGC Group Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | MRX | Marex Group Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 14 | OMAB | Grupo Aeroportuario del Centro Norte S.A.B. d | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 14 | CNO | CNO Financial Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | INSW | International Seaways Inc. Common Stock  | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | SSRM | SSR Mining Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 14 | WFG | West Fraser Timber Co. Ltd Common stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | MEOH | Methanex Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 14 | MMSI | Merit Medical Systems Inc. Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | CNX | CNX Resources Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | BB | BlackBerry Limited Common Stock | **FAIL** | Ethics: (a) Military software to defense ministries |
+| 14 | LEA | Lear Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | TREX | Trex Company Inc. Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | HWC | Hancock Whitney Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | SNDR | Schneider National Inc. Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | VSEC | VSE Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 14 | LSTR | Landstar System Inc. Common Stock | **PASS** | Shariah pass; ethics manual review pass — open (c) flags |
+| 14 | NXE | Nexgen Energy Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 14 | RRR | Red Rock Resorts Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | PTCT | PTC Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | EBC | Eastern Bankshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | LIVN | LivaNova PLC Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 14 | TPC | Tutor Perini Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | PSMT | PriceSmart Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya questionable |
+| 14 | AX | Axos Financial Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | LQDA | Liquidia Corporation Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | GLXY | Galaxy Digital Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | MUR | Murphy Oil Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | BETA | Beta Technologies Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | KRG | Kite Realty Group Trust Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | HLNE | Hamilton Lane Incorporated Class A Common Sto | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 14 | DNTH | Dianthus Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | PI | Impinj Inc. Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | VSNT | Versant Media Group Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | HAFN | Hafnia Limited Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 14 | FND | Floor & Decor Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 14 | CACC | Credit Acceptance Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | KRMN | Karman Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | HHH | Howard Hughes Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | BILL | BILL Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | SKY | Champion Homes Inc. Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | ENS | EnerSys Common Stock | **FAIL** | Ethics: (a) Defense supply chain |
+| 14 | RITM | Rithm Capital Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | ESAB | ESAB Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | CUZ | Cousins Properties Incorporated Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | HASI | HA Sustainable Infrastructure Capital Inc. Co | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | BC | Brunswick Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | SEI | Solaris Energy Infrastructure Inc. Class A Co | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | CRGY | Crescent Energy Company Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | SXT | Sensient Technologies Corporation Common Stoc | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | CMBT | CMB.TECH NV Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 14 | CVCO | Cavco Industries Inc. Common Stock When Issue | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | BIPC | Brookfield Infrastructure Corporation Brookfi | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | LKQ | LKQ Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | PRM | Perimeter Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 14 | BCO | Brinks Company (The) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | MMYT | MakeMyTrip Limited Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 14 | WHD | Cactus Inc. Class A Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | JOBY | Joby Aviation Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | SON | Sonoco Products Company Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | EWTX | Edgewise Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | IRDM | Iridium Communications Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | SITE | SiteOne Landscape Supply Inc. Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | COGT | Cogent Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | TNL | Travel   Leisure Co. Common  Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | TVTX | Travere Therapeutics Inc. Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | MRCY | Mercury Systems Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | COLD | Americold Realty Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | DPC | DPC Holdings PLC Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 14 | OPCH | Option Care Health Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 14 | GRAL | GRAIL Inc. Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | CIGI | Colliers International Group Inc. Subordinate | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | MCY | Mercury General Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | AROC | Archrock Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | MXL | MaxLinear Inc. Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | LAZ | Lazard Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | GOLF | Acushnet Holdings Corp. Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | CNK | Cinemark Holdings Inc Cinemark Holdings Inc.  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | DOX | Amdocs Limited Ordinary Shares | **FAIL** | Ethics: (b) Campaign-targeted |
+| 14 | RDN | Radian Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | RELY | Remitly Global Inc. Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | LAUR | Laureate Education Inc. Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | RXO | RXO Inc. Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | SYNA | Synaptics Incorporated Common Stock $0.001 Pa | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | IONS | Ionis Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | FHI | Federated Hermes Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | SHC | Sotera Health Company Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | PL | Planet Labs PBC Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 14 | SFM | Sprouts Farmers Market Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | PIPR | Piper Sandler Companies Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | EPR | EPR Properties Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 14 | BLLN | BillionToOne Inc. Class A Common Stock | **PASS** | Shariah pass; ethics manual review pass |
+| 14 | GEF.B | Greif Inc. Corporation Class B Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
 
-**Totals:** FAIL: 959, PASS: 307, UNVERIFIED: 34
+**Totals:** FAIL: 1031, PASS: 330, UNVERIFIED: 39
 
 ## Excluded on ethics — evidence
 
@@ -1552,6 +1652,15 @@ _Research for the user's own review — not financial advice._
 
 **PEGA — Pegasystems Inc. Common Stock**
 - (a) Military software to defense ministries: US Army sole-source 10-year IDIQ for Pega software and services (up to $419M). Sources: <https://www.govconwire.com/articles/pegasystems-419m-army-enterprise-software-contract>
+
+**BB — BlackBerry Limited Common Stock**
+- (a) Military software to defense ministries: Pentagon Force Protection Agency AtHoc contract; BlackBerry UEM on DoDIN Approved Products List and DISA STIG-approved; US Air Force selected BlackBerry Spark. Sources: <https://mobilesyrup.com/2016/06/06/blackberry-signs-new-1-year-secure-alert-systems-contract-with-pentagon/>, <https://www.executivegov.com/articles/usaf-selects-blackberry-spark-to-support-uem-and-ues-john-chen-quoted>
+
+**ENS — EnerSys Common Stock**
+- (a) Defense supply chain: Precision Power Solutions segment supplies military vehicles, soldier power, munitions and defense programs; management calls EnerSys 'the largest supplier to the U.S. military' (batteries). Sources: <https://s206.q4cdn.com/482396552/files/doc_news/EnerSys-Announces-Segment-Realignment-2026.pdf>, <https://www.fool.com/earnings/call-transcripts/2026/05/21/enersys-ens-q4-2026-earnings-transcript/>
+
+**DOX — Amdocs Limited Ordinary Shares**
+- (b) Campaign-targeted: The Palestinian BDS National Committee campaigned against Amdocs (urging Telkom South Africa not to contract with it). No documented occupation/military contract found. Sources: <https://bdsmovement.net/ar/node/11452>
 
 ## Companies that pass both layers — detail
 
@@ -4011,112 +4120,196 @@ _Research for the user's own review — not financial advice._
 - **Valuation:** trailing P/E n/a, forward P/E 57.76; insufficient P/E history for comparison.
 - **Open flags (c) / risks:** No (c) flags found.
 
-## Shariah-only results for batches not yet ethics-reviewed (batches 14–53)
+### Louisiana-Pacific Corporation (LPX)
+- **Sector:** Basic Materials / Forest Products · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/LPX/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/lpx>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/lpx/financials/): revenue CAGR -8.8%/yr; net income falling/volatile; operating margin 4.69%, net margin 2.72%; debt/equity 0.22, net cash -112.00M (negative = net debt); ROIC 4.72%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 76.68, forward P/E 36.66, 5-yr median fiscal-year P/E 17.3 → **HIGH**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/lpx/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Allegro MicroSystems Inc. (ALGM)
+- **Sector:** Technology / Semiconductors · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/ALGM/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/algm>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2022–FY 2026, from https://stockanalysis.com/stocks/algm/financials/): revenue CAGR 3.7%/yr; net income falling/volatile; operating margin 9.50%, net margin 3.07%; debt/equity 0.30, net cash -110.07M (negative = net debt); ROIC 6.24%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 167.93, forward P/E 21.99, 5-yr median fiscal-year P/E 46.4 → **LOW**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/algm/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### International Seaways Inc.  (INSW)
+- **Sector:** Consumer Discretionary / Marine Transportation · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/INSW/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/insw>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/insw/financials/): revenue CAGR 32.6%/yr; net income rising; operating margin 60.10%, net margin 67.90%; debt/equity 0.30, net cash -253.27M (negative = net debt); ROIC 36.35%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 4.73, forward P/E 6.02, 5-yr median fiscal-year P/E 4.5 → **HIGH**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/insw/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### West Fraser Timber Co. Ltd Common stock (WFG)
+- **Sector:** Basic Materials / Forest Products · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/WFG/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/wfg>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/wfg/financials/): revenue CAGR -15.1%/yr; net income falling/volatile; operating margin -11.39%, net margin -20.40%; debt/equity 0.10, net cash -329.00M (negative = net debt); ROIC -10.32%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E n/a, forward P/E n/a; insufficient P/E history for comparison.
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Merit Medical Systems Inc. (MMSI)
+- **Sector:** Health Care / Medical/Dental Instruments · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/MMSI/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/mmsi>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/mmsi/financials/): revenue CAGR 9.0%/yr; net income rising; operating margin 13.89%, net margin 9.94%; debt/equity 0.47, net cash -318.51M (negative = net debt); ROIC 8.23%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 31.94, forward P/E 19.22, 5-yr median fiscal-year P/E 46.8 → **LOW**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/mmsi/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Trex Company Inc. (TREX)
+- **Sector:** Basic Materials / Forest Products · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/TREX/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/trex>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/trex/financials/): revenue CAGR -0.5%/yr; net income falling/volatile; operating margin 19.17%, net margin 13.89%; debt/equity 0.22, net cash -214.41M (negative = net debt); ROIC 14.25%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 29.64, forward P/E 24.89, 5-yr median fiscal-year P/E 31.0 → **LOW**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/trex/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Schneider National Inc. (SNDR)
+- **Sector:** Industrials / Trucking Freight/Courier Services · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/SNDR/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/sndr>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/sndr/financials/): revenue CAGR 0.3%/yr; net income falling/volatile; operating margin 3.42%, net margin 2.38%; debt/equity 0.13, net cash -33.20M (negative = net debt); ROIC 4.91%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 35.54, forward P/E 19.68, 5-yr median fiscal-year P/E 18.8 → **FAIR**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/sndr/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Landstar System Inc. (LSTR)
+- **Sector:** Industrials / Trucking Freight/Courier Services · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/LSTR/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/lstr>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/lstr/financials/): revenue CAGR -7.6%/yr; net income falling/volatile; operating margin 3.98%, net margin 3.03%; debt/equity 0.18, net cash 199.21M (negative = net debt); ROIC 25.29%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 31.63, forward P/E 20.89, 5-yr median fiscal-year P/E 26.3 → **LOW**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/lstr/statistics/).
+- **Open flags (c) / risks:** (c) Q2 2026 call cites aerospace and defense among drivers of heavy-haul freight; no DoD contract found. Flagged. Sources: <https://www.marketbeat.com/instant-alerts/landstar-system-q2-earnings-call-highlights-2026-07-28/>
+
+### Liquidia Corporation (LQDA)
+- **Sector:** Health Care / Biotechnology: Pharmaceutical Preparations · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/LQDA/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/lqda>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/lqda/financials/): revenue CAGR 87.4%/yr; net income falling/volatile; operating margin 47.12%, net margin -15.15%; debt/equity n/a, net cash 227.33M (negative = net debt); ROIC 306.25%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E n/a, forward P/E 16.77; insufficient P/E history for comparison.
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Impinj Inc. (PI)
+- **Sector:** Technology / Industrial Machinery/Components · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/PI/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/pi>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/pi/financials/): revenue CAGR 17.4%/yr; net income rising; operating margin -0.72%, net margin -2.45%; debt/equity 0.70, net cash -98.03M (negative = net debt); ROIC -0.72%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E n/a, forward P/E 59.30; insufficient P/E history for comparison.
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Champion Homes Inc. (SKY)
+- **Sector:** Consumer Discretionary / Homebuilding · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/SKY/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/sky>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2022–FY 2026, from https://stockanalysis.com/stocks/sky/financials/): revenue CAGR 4.8%/yr; net income falling/volatile; operating margin 8.29%, net margin 6.84%; debt/equity 0.07, net cash 594.05M (negative = net debt); ROIC 18.49%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 26.72, forward P/E 24.39, 5-yr median fiscal-year P/E 19.4 → **HIGH**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/sky/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Sensient Technologies Corporation (SXT)
+- **Sector:** Industrials / Major Chemicals · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/SXT/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/sxt>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/sxt/financials/): revenue CAGR 4.0%/yr; net income rising; operating margin 14.87%, net margin 9.69%; debt/equity 0.61, net cash -747.78M (negative = net debt); ROIC 9.84%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 29.39, forward P/E 23.92, 5-yr median fiscal-year P/E 29.7 → **LOW**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/sxt/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Cavco Industries Inc. When Issued (CVCO)
+- **Sector:** Consumer Discretionary / Homebuilding · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/CVCO/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/cvco>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2022–FY 2026, from https://stockanalysis.com/stocks/cvco/financials/): revenue CAGR 8.4%/yr; net income falling/volatile; operating margin 9.25%, net margin 7.68%; debt/equity 0.04, net cash 248.83M (negative = net debt); ROIC 19.04%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 27.10, forward P/E 24.01, 5-yr median fiscal-year P/E 19.0 → **HIGH**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/cvco/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Cactus Inc. Class A (WHD)
+- **Sector:** Consumer Discretionary / Oil and Gas Field Machinery · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/WHD/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/whd>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/whd/financials/): revenue CAGR 25.2%/yr; net income rising; operating margin 19.27%, net margin 12.02%; debt/equity 0.03, net cash 300.12M (negative = net debt); ROIC 15.84%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 41.13, forward P/E 17.84, 5-yr median fiscal-year P/E 21.0 → **FAIR**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/whd/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### SiteOne Landscape Supply Inc. (SITE)
+- **Sector:** Consumer Discretionary / Professional and commerical equipment · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/SITE/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/site>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/site/financials/): revenue CAGR 7.9%/yr; net income falling/volatile; operating margin 5.45%, net margin 3.49%; debt/equity 0.65, net cash -1.01B (negative = net debt); ROIC 7.29%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 30.31, forward P/E 23.70, 5-yr median fiscal-year P/E 42.3 → **LOW**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/site/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Travere Therapeutics Inc. (TVTX)
+- **Sector:** Health Care / Biotechnology: Pharmaceutical Preparations · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/TVTX/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/tvtx>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/tvtx/financials/): revenue CAGR 38.9%/yr; net income rising; operating margin -3.13%, net margin -18.66%; debt/equity 27.28, net cash -144.34M (negative = net debt); ROIC -12.77%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E n/a, forward P/E 10.86; insufficient P/E history for comparison.
+- **Open flags (c) / risks:** No (c) flags found.
+
+### MaxLinear Inc. (MXL)
+- **Sector:** Technology / Semiconductors · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/MXL/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/mxl>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/mxl/financials/): revenue CAGR -14.9%/yr; net income falling/volatile; operating margin -0.83%, net margin -4.45%; debt/equity 0.35, net cash -104.92M (negative = net debt); ROIC -0.91%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E n/a, forward P/E 13.17; insufficient P/E history for comparison.
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Acushnet Holdings Corp. (GOLF)
+- **Sector:** Consumer Discretionary / Recreational Games/Products/Toys · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/GOLF/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/golf>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/golf/financials/): revenue CAGR 4.5%/yr; net income rising; operating margin 11.61%, net margin 8.17%; debt/equity 1.02, net cash -777.45M (negative = net debt); ROIC 13.56%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 22.46, forward P/E 20.93, 5-yr median fiscal-year P/E 20.8 → **FAIR**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/golf/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Remitly Global Inc. (RELY)
+- **Sector:** Consumer Discretionary / Business Services · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/RELY/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/rely>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/rely/financials/): revenue CAGR 37.4%/yr; net income rising; operating margin 12.98%, net margin 19.14%; debt/equity 0.03, net cash 632.08M (negative = net debt); ROIC 45.52%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 12.45, forward P/E 11.80; insufficient P/E history for comparison.
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Laureate Education Inc. (LAUR)
+- **Sector:** Real Estate / Other Consumer Services · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/LAUR/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/laur>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/laur/financials/): revenue CAGR 11.9%/yr; net income rising; operating margin 25.82%, net margin 20.28%; debt/equity 0.67, net cash -592.69M (negative = net debt); ROIC 22.37%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 12.39, forward P/E 14.70, 5-yr median fiscal-year P/E 17.6 → **LOW**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/laur/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### RXO Inc. (RXO)
+- **Sector:** Consumer Discretionary / Transportation Services · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/RXO/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/rxo>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2021–FY 2025, from https://stockanalysis.com/stocks/rxo/financials/): revenue CAGR 5.2%/yr; net income falling/volatile; operating margin 0.12%, net margin -1.35%; debt/equity 0.48, net cash -702.00M (negative = net debt); ROIC 0.36%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E n/a, forward P/E 55.59; insufficient P/E history for comparison.
+- **Open flags (c) / risks:** No (c) flags found.
+
+### Synaptics Incorporated $0.001 Par Value (SYNA)
+- **Sector:** Technology / Semiconductors · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/SYNA/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/syna>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2022–FY 2026, from https://stockanalysis.com/stocks/syna/financials/): revenue CAGR -8.9%/yr; net income falling/volatile; operating margin -2.89%, net margin -40.70%; debt/equity 0.96, net cash -509.30M (negative = net debt); ROIC -2.49%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E n/a, forward P/E 21.81, 5-yr median fiscal-year P/E 27.7 → **LOW**. Assumption: forward P/E ÷ own 5-yr median P/E < 0.85 = low, 0.85–1.15 = fair, > 1.15 = high; consensus forward EPS from stockanalysis.com (https://stockanalysis.com/stocks/syna/statistics/).
+- **Open flags (c) / risks:** No (c) flags found.
+
+### BillionToOne Inc. Class A (BLLN)
+- **Sector:** Health Care / Medical Specialities · **Market cap:** ~$5B
+- **Why it passes:** Musaffa HALAL (as of November 2026, <https://musaffa.com/stock/BLLN/>); Zoya Shariah-compliant (as of November 17, 2026, <https://zoya.finance/stocks/blln>). Ethics: No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none. Sources checked: AFSC Investigate, Who Profits, BDS guide.
+- **Business quality** (FY 2023–FY 2025, from https://stockanalysis.com/stocks/blln/financials/): revenue CAGR 106.2%/yr; net income rising; operating margin 10.23%, net margin 10.52%; debt/equity 0.25, net cash 421.06M (negative = net debt); ROIC 31.99%.
+- **Competitive position:** Not yet assessed.
+- **Valuation:** trailing P/E 106.29, forward P/E 116.79; insufficient P/E history for comparison.
+- **Open flags (c) / risks:** No (c) flags found.
+
+## Shariah-only results for batches not yet ethics-reviewed (batches 15–53)
 
 _These were fetched automatically. Companies marked PENDING-ETHICS passed both Shariah screeners, but their ethics review is limited to the automated list checks. None of them is eligible for the portfolio._
 
 | Batch | Ticker | Company | Result | Reason |
 |---|---|---|---|---|
-| 14 | ATAT | Atour Lifestyle Holdings Limited American Dep | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
-| 14 | LPX | Louisiana-Pacific Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | SR | Spire Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | AMTM | Amentum Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | MMED | MiniMed Group Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
-| 14 | RUSHA | Rush Enterprises Inc. Common Stock Cl A | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
-| 14 | ALGM | Allegro MicroSystems Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | BGC | BGC Group Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | MRX | Marex Group Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
-| 14 | OMAB | Grupo Aeroportuario del Centro Norte S.A.B. d | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
-| 14 | CNO | CNO Financial Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | INSW | International Seaways Inc. Common Stock  | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | SSRM | SSR Mining Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
-| 14 | WFG | West Fraser Timber Co. Ltd Common stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | MEOH | Methanex Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
-| 14 | MMSI | Merit Medical Systems Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | CNX | CNX Resources Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | BB | BlackBerry Limited Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | LEA | Lear Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | TREX | Trex Company Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | HWC | Hancock Whitney Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | SNDR | Schneider National Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | VSEC | VSE Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
-| 14 | LSTR | Landstar System Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | NXE | Nexgen Energy Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
-| 14 | RRR | Red Rock Resorts Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | PTCT | PTC Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | EBC | Eastern Bankshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | LIVN | LivaNova PLC Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
-| 14 | TPC | Tutor Perini Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | PSMT | PriceSmart Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya questionable |
-| 14 | AX | Axos Financial Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | LQDA | Liquidia Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | GLXY | Galaxy Digital Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | MUR | Murphy Oil Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | BETA | Beta Technologies Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | KRG | Kite Realty Group Trust Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | HLNE | Hamilton Lane Incorporated Class A Common Sto | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
-| 14 | DNTH | Dianthus Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | PI | Impinj Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | VSNT | Versant Media Group Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | HAFN | Hafnia Limited Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
-| 14 | FND | Floor & Decor Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
-| 14 | CACC | Credit Acceptance Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | KRMN | Karman Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | HHH | Howard Hughes Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | BILL | BILL Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | SKY | Champion Homes Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | ENS | EnerSys Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | RITM | Rithm Capital Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | ESAB | ESAB Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | CUZ | Cousins Properties Incorporated Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | HASI | HA Sustainable Infrastructure Capital Inc. Co | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | BC | Brunswick Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | SEI | Solaris Energy Infrastructure Inc. Class A Co | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | CRGY | Crescent Energy Company Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | SXT | Sensient Technologies Corporation Common Stoc | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | CMBT | CMB.TECH NV Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
-| 14 | CVCO | Cavco Industries Inc. Common Stock When Issue | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | BIPC | Brookfield Infrastructure Corporation Brookfi | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | LKQ | LKQ Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | PRM | Perimeter Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
-| 14 | BCO | Brinks Company (The) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | MMYT | MakeMyTrip Limited Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
-| 14 | WHD | Cactus Inc. Class A Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | JOBY | Joby Aviation Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | SON | Sonoco Products Company Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | EWTX | Edgewise Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | IRDM | Iridium Communications Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | SITE | SiteOne Landscape Supply Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | COGT | Cogent Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | TNL | Travel   Leisure Co. Common  Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | TVTX | Travere Therapeutics Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | MRCY | Mercury Systems Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | COLD | Americold Realty Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | DPC | DPC Holdings PLC Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
-| 14 | OPCH | Option Care Health Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
-| 14 | GRAL | GRAIL Inc. Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | CIGI | Colliers International Group Inc. Subordinate | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | MCY | Mercury General Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | AROC | Archrock Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | MXL | MaxLinear Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | LAZ | Lazard Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | GOLF | Acushnet Holdings Corp. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | CNK | Cinemark Holdings Inc Cinemark Holdings Inc.  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | DOX | Amdocs Limited Ordinary Shares | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | RDN | Radian Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | RELY | Remitly Global Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | LAUR | Laureate Education Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | RXO | RXO Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | SYNA | Synaptics Incorporated Common Stock $0.001 Pa | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | IONS | Ionis Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | FHI | Federated Hermes Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | SHC | Sotera Health Company Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | PL | Planet Labs PBC Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
-| 14 | SFM | Sprouts Farmers Market Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | PIPR | Piper Sandler Companies Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | EPR | EPR Properties Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
-| 14 | BLLN | BillionToOne Inc. Class A Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
-| 14 | GEF.B | Greif Inc. Corporation Class B Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
 | 15 | ALH | Alliance Laundry Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
 | 15 | APLE | Apple Hospitality REIT Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
 | 15 | PLNT | Planet Fitness Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
@@ -7993,4 +8186,4 @@ _These were fetched automatically. Companies marked PENDING-ETHICS passed both S
 | 53 | LGHL | Lion Group Holding Ltd. American Depositary S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
 | 53 | DKI | DarkIris Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
 
-**Totals (Shariah-only batches):** FAIL: 3262, PENDING-ETHICS: 384, UNVERIFIED: 329
+**Totals (Shariah-only batches):** FAIL: 3193, PENDING-ETHICS: 358, UNVERIFIED: 324

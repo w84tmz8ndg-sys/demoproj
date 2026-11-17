@@ -1,0 +1,70 @@
+{
+ "ticker": "SXT",
+ "src_stats": "https://stockanalysis.com/stocks/sxt/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/sxt/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/sxt/financials/ratios/",
+ "Market Cap": "4.97B",
+ "Enterprise Value": "5.71B",
+ "PE Ratio": "29.39",
+ "Forward PE": "23.92",
+ "PS Ratio": "2.78",
+ "EV / EBITDA": "17.39",
+ "Gross Margin": "35.32%",
+ "Operating Margin": "14.87%",
+ "Profit Margin": "9.69%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.61",
+ "Debt / EBITDA": "2.35",
+ "Net Cash": "-747.78M",
+ "Total Debt": "790.41M",
+ "Cash & Cash Equivalents": "42.63M",
+ "Return on Invested Capital (ROIC)": "9.84%",
+ "Return on Equity (ROE)": "13.73%",
+ "Revenue": "1.75B",
+ "Net Income": "169.36M",
+ "Free Cash Flow": "-17.51M",
+ "Dividend Yield": "1.44%",
+ "Beta (5Y)": "0.85",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,747",
+  "1,612",
+  "1,557",
+  "1,456",
+  "1,437",
+  "1,380"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "169.36",
+  "134.49",
+  "124.67",
+  "93.39",
+  "140.89",
+  "118.75"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "29.44",
+  "29.68",
+  "24.21",
+  "29.86",
+  "21.76",
+  "35.41"
+ ]
+}

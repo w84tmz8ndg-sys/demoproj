@@ -1,0 +1,70 @@
+{
+ "ticker": "TREX",
+ "src_stats": "https://stockanalysis.com/stocks/trex/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/trex/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/trex/financials/ratios/",
+ "Market Cap": "5.08B",
+ "Enterprise Value": "5.29B",
+ "PE Ratio": "29.64",
+ "Forward PE": "24.89",
+ "PS Ratio": "3.99",
+ "EV / EBITDA": "16.64",
+ "Gross Margin": "37.09%",
+ "Operating Margin": "19.17%",
+ "Profit Margin": "13.89%",
+ "FCF Margin": "15.69%",
+ "Debt / Equity": "0.22",
+ "Debt / EBITDA": "0.65",
+ "Net Cash": "-214.41M",
+ "Total Debt": "217.69M",
+ "Cash & Cash Equivalents": "3.27M",
+ "Return on Invested Capital (ROIC)": "14.25%",
+ "Return on Equity (ROE)": "17.35%",
+ "Revenue": "1.28B",
+ "Net Income": "178.07M",
+ "Free Cash Flow": "201.10M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.51",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,282",
+  "1,174",
+  "1,151",
+  "1,095",
+  "1,106",
+  "1,197"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "178.07",
+  "190.42",
+  "238.45",
+  "204.12",
+  "184.63",
+  "208.74"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "29.64",
+  "19.76",
+  "31.02",
+  "44.05",
+  "25.16",
+  "74.47"
+ ]
+}

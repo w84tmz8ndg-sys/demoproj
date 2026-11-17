@@ -1,6 +1,6 @@
 # Running portfolio
 
-_Last updated 2026-11-17 after batch(es) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13. Built only from companies that passed **both** layers and had a manual ethics review. Individual stocks only. Research for review — not financial advice; the user is not relying on it as such._
+_Last updated 2026-11-17 after batch(es) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14. Built only from companies that passed **both** layers and had a manual ethics review. Individual stocks only. Research for review — not financial advice; the user is not relying on it as such._
 
 | # | Ticker | Company | Sector | Mkt cap | Weight | Valuation view | Why included |
 |---|---|---|---|---|---|---|---|

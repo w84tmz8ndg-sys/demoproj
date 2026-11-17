@@ -1,0 +1,70 @@
+{
+ "ticker": "LAUR",
+ "src_stats": "https://stockanalysis.com/stocks/laur/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/laur/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/laur/financials/ratios/",
+ "Market Cap": "4.58B",
+ "Enterprise Value": "5.17B",
+ "PE Ratio": "12.39",
+ "Forward PE": "14.70",
+ "PS Ratio": "2.42",
+ "EV / EBITDA": "8.92",
+ "Gross Margin": "37.68%",
+ "Operating Margin": "25.82%",
+ "Profit Margin": "20.28%",
+ "FCF Margin": "15.02%",
+ "Debt / Equity": "0.67",
+ "Debt / EBITDA": "1.19",
+ "Net Cash": "-592.69M",
+ "Total Debt": "782.59M",
+ "Cash & Cash Equivalents": "189.90M",
+ "Return on Invested Capital (ROIC)": "22.37%",
+ "Return on Equity (ROE)": "34.08%",
+ "Revenue": "1.91B",
+ "Net Income": "388.28M",
+ "Free Cash Flow": "287.60M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.44",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,915",
+  "1,702",
+  "1,567",
+  "1,484",
+  "1,242",
+  "1,087"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "388.28",
+  "281.63",
+  "296.47",
+  "107.59",
+  "69.57",
+  "192.36"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "12.27",
+  "17.62",
+  "9.30",
+  "20.05",
+  "21.66",
+  "7.32"
+ ]
+}

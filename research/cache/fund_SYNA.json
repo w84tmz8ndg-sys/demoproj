@@ -1,0 +1,70 @@
+{
+ "ticker": "SYNA",
+ "src_stats": "https://stockanalysis.com/stocks/syna/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/syna/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/syna/financials/ratios/",
+ "Market Cap": "4.66B",
+ "Enterprise Value": "5.17B",
+ "PE Ratio": "n/a",
+ "Forward PE": "21.81",
+ "PS Ratio": "3.89",
+ "EV / EBITDA": "51.77",
+ "Gross Margin": "45.98%",
+ "Operating Margin": "-2.89%",
+ "Profit Margin": "-40.70%",
+ "FCF Margin": "5.41%",
+ "Debt / Equity": "0.96",
+ "Debt / EBITDA": "7.80",
+ "Net Cash": "-509.30M",
+ "Total Debt": "877.00M",
+ "Cash & Cash Equivalents": "367.70M",
+ "Return on Invested Capital (ROIC)": "-2.49%",
+ "Return on Equity (ROE)": "-42.09%",
+ "Revenue": "1.20B",
+ "Net Income": "-487.90M",
+ "Free Cash Flow": "64.80M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "2.02",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,199",
+  "1,197",
+  "1,074",
+  "959.4",
+  "1,355",
+  "1,740"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-487.9",
+  "-490.8",
+  "-47.8",
+  "125.6",
+  "73.6",
+  "257.5"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "-",
+  "-",
+  "-",
+  "27.74",
+  "43.58",
+  "19.81"
+ ]
+}

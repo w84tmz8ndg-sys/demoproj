@@ -1,0 +1,70 @@
+{
+ "ticker": "WHD",
+ "src_stats": "https://stockanalysis.com/stocks/whd/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/whd/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/whd/financials/ratios/",
+ "Market Cap": "4.84B",
+ "Enterprise Value": "4.54B",
+ "PE Ratio": "41.13",
+ "Forward PE": "17.84",
+ "PS Ratio": "3.13",
+ "EV / EBITDA": "10.52",
+ "Gross Margin": "33.51%",
+ "Operating Margin": "19.27%",
+ "Profit Margin": "12.02%",
+ "FCF Margin": "17.61%",
+ "Debt / Equity": "0.03",
+ "Debt / EBITDA": "0.12",
+ "Net Cash": "300.12M",
+ "Total Debt": "54.10M",
+ "Cash & Cash Equivalents": "354.22M",
+ "Return on Invested Capital (ROIC)": "15.84%",
+ "Return on Equity (ROE)": "14.15%",
+ "Revenue": "1.53B",
+ "Net Income": "102.40M",
+ "Free Cash Flow": "269.50M",
+ "Dividend Yield": "0.99%",
+ "Beta (5Y)": "1.36",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,530",
+  "1,079",
+  "1,130",
+  "1,097",
+  "688.37",
+  "438.59"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "102.4",
+  "166.01",
+  "185.41",
+  "169.17",
+  "110.17",
+  "49.59"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "40.86",
+  "18.94",
+  "20.98",
+  "17.53",
+  "27.70",
+  "45.32"
+ ]
+}

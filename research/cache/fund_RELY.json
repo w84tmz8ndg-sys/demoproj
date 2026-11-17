@@ -1,0 +1,70 @@
+{
+ "ticker": "RELY",
+ "src_stats": "https://stockanalysis.com/stocks/rely/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/rely/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/rely/financials/ratios/",
+ "Market Cap": "4.42B",
+ "Enterprise Value": "3.78B",
+ "PE Ratio": "12.45",
+ "Forward PE": "11.80",
+ "PS Ratio": "2.35",
+ "EV / EBITDA": "14.86",
+ "Gross Margin": "62.48%",
+ "Operating Margin": "12.98%",
+ "Profit Margin": "19.14%",
+ "FCF Margin": "20.77%",
+ "Debt / Equity": "0.03",
+ "Debt / EBITDA": "0.14",
+ "Net Cash": "632.08M",
+ "Total Debt": "37.00M",
+ "Cash & Cash Equivalents": "669.08M",
+ "Return on Invested Capital (ROIC)": "45.52%",
+ "Return on Equity (ROE)": "35.95%",
+ "Revenue": "1.90B",
+ "Net Income": "363.73M",
+ "Free Cash Flow": "394.53M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.43",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,900",
+  "1,635",
+  "1,264",
+  "944.29",
+  "653.56",
+  "458.61"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "363.73",
+  "67.93",
+  "-36.98",
+  "-117.84",
+  "-114.02",
+  "-38.76"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "12.39",
+  "42.47",
+  "-",
+  "-",
+  "-",
+  "-"
+ ]
+}

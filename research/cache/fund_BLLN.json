@@ -1,0 +1,60 @@
+{
+ "ticker": "BLLN",
+ "src_stats": "https://stockanalysis.com/stocks/blln/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/blln/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/blln/financials/ratios/",
+ "Market Cap": "4.66B",
+ "Enterprise Value": "4.24B",
+ "PE Ratio": "106.29",
+ "Forward PE": "116.79",
+ "PS Ratio": "10.65",
+ "EV / EBITDA": "81.51",
+ "Gross Margin": "71.41%",
+ "Operating Margin": "10.23%",
+ "Profit Margin": "10.52%",
+ "FCF Margin": "7.76%",
+ "Debt / Equity": "0.25",
+ "Debt / EBITDA": "2.14",
+ "Net Cash": "421.06M",
+ "Total Debt": "140.45M",
+ "Cash & Cash Equivalents": "561.51M",
+ "Return on Invested Capital (ROIC)": "31.99%",
+ "Return on Equity (ROE)": "13.23%",
+ "Revenue": "436.87M",
+ "Net Income": "45.95M",
+ "Free Cash Flow": "33.90M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "n/a",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023"
+ ],
+ "rev_hist": [
+  "436.87",
+  "305.11",
+  "152.58",
+  "71.73"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "45.95",
+  "2.92",
+  "-41.57",
+  "-82.68"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023"
+ ],
+ "pe_hist": [
+  "106.29",
+  "1283.22",
+  "-",
+  "-"
+ ]
+}

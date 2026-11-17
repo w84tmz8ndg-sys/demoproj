@@ -1,0 +1,70 @@
+{
+ "ticker": "ALGM",
+ "src_stats": "https://stockanalysis.com/stocks/algm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/algm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/algm/financials/ratios/",
+ "Market Cap": "5.22B",
+ "Enterprise Value": "5.33B",
+ "PE Ratio": "167.93",
+ "Forward PE": "21.99",
+ "PS Ratio": "5.28",
+ "EV / EBITDA": "33.00",
+ "Gross Margin": "48.09%",
+ "Operating Margin": "9.50%",
+ "Profit Margin": "3.07%",
+ "FCF Margin": "10.36%",
+ "Debt / Equity": "0.30",
+ "Debt / EBITDA": "1.71",
+ "Net Cash": "-110.07M",
+ "Total Debt": "303.11M",
+ "Cash & Cash Equivalents": "193.04M",
+ "Return on Invested Capital (ROIC)": "6.24%",
+ "Return on Equity (ROE)": "3.20%",
+ "Revenue": "1.01B",
+ "Net Income": "30.94M",
+ "Free Cash Flow": "104.43M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "2.05",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,009",
+  "890.1",
+  "725.01",
+  "1,049",
+  "973.65",
+  "768.67"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "30.94",
+  "-14.9",
+  "-73.01",
+  "152.7",
+  "187.36",
+  "119.41"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "169.43",
+  "-",
+  "-",
+  "34.10",
+  "49.05",
+  "46.41"
+ ]
+}

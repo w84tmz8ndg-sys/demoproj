@@ -1,0 +1,70 @@
+{
+ "ticker": "MMSI",
+ "src_stats": "https://stockanalysis.com/stocks/mmsi/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/mmsi/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/mmsi/financials/ratios/",
+ "Market Cap": "5.11B",
+ "Enterprise Value": "5.43B",
+ "PE Ratio": "31.94",
+ "Forward PE": "19.22",
+ "PS Ratio": "3.21",
+ "EV / EBITDA": "15.75",
+ "Gross Margin": "48.98%",
+ "Operating Margin": "13.89%",
+ "Profit Margin": "9.94%",
+ "FCF Margin": "12.64%",
+ "Debt / Equity": "0.47",
+ "Debt / EBITDA": "2.24",
+ "Net Cash": "-318.51M",
+ "Total Debt": "822.06M",
+ "Cash & Cash Equivalents": "503.55M",
+ "Return on Invested Capital (ROIC)": "8.23%",
+ "Return on Equity (ROE)": "9.78%",
+ "Revenue": "1.61B",
+ "Net Income": "160.12M",
+ "Free Cash Flow": "203.59M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.55",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,611",
+  "1,516",
+  "1,357",
+  "1,257",
+  "1,151",
+  "1,075"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "160.12",
+  "128.49",
+  "120.36",
+  "94.41",
+  "74.52",
+  "48.45"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "31.63",
+  "40.67",
+  "46.83",
+  "46.46",
+  "53.94",
+  "72.59"
+ ]
+}

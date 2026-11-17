@@ -3662,5 +3662,222 @@
   "findings": [],
   "batch": 13,
   "review": "manual"
+ },
+ "BB": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Military software to defense ministries",
+    "text": "Pentagon Force Protection Agency AtHoc contract; BlackBerry UEM on DoDIN Approved Products List and DISA STIG-approved; US Air Force selected BlackBerry Spark.",
+    "sources": [
+     "https://mobilesyrup.com/2016/06/06/blackberry-signs-new-1-year-secure-alert-systems-contract-with-pentagon/",
+     "https://www.executivegov.com/articles/usaf-selects-blackberry-spark-to-support-uem-and-ues-john-chen-quoted"
+    ]
+   }
+  ],
+  "batch": 14,
+  "review": "manual"
+ },
+ "ENS": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Defense supply chain",
+    "text": "Precision Power Solutions segment supplies military vehicles, soldier power, munitions and defense programs; management calls EnerSys 'the largest supplier to the U.S. military' (batteries).",
+    "sources": [
+     "https://s206.q4cdn.com/482396552/files/doc_news/EnerSys-Announces-Segment-Realignment-2026.pdf",
+     "https://www.fool.com/earnings/call-transcripts/2026/05/21/enersys-ens-q4-2026-earnings-transcript/"
+    ]
+   }
+  ],
+  "batch": 14,
+  "review": "manual"
+ },
+ "DOX": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "b",
+    "category": "Campaign-targeted",
+    "text": "The Palestinian BDS National Committee campaigned against Amdocs (urging Telkom South Africa not to contract with it). No documented occupation/military contract found.",
+    "sources": [
+     "https://bdsmovement.net/ar/node/11452"
+    ]
+   }
+  ],
+  "batch": 14,
+  "review": "manual"
+ },
+ "LSTR": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [
+   {
+    "label": "c",
+    "category": "Defense freight demand",
+    "text": "Q2 2026 call cites aerospace and defense among drivers of heavy-haul freight; no DoD contract found. Flagged.",
+    "sources": [
+     "https://www.marketbeat.com/instant-alerts/landstar-system-q2-earnings-call-highlights-2026-07-28/"
+    ]
+   }
+  ],
+  "batch": 14,
+  "review": "manual"
+ },
+ "LPX": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "ALGM": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "INSW": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "WFG": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "MMSI": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "TREX": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "SNDR": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "LQDA": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "PI": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "SKY": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "SXT": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "CVCO": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "WHD": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "SITE": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "TVTX": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "MXL": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "GOLF": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "RELY": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "LAUR": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "RXO": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "SYNA": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
+ },
+ "BLLN": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 14,
+  "review": "manual"
  }
 }
