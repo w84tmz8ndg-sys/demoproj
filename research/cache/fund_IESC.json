@@ -1,0 +1,70 @@
+{
+ "ticker": "IESC",
+ "src_stats": "https://stockanalysis.com/stocks/iesc/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/iesc/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/iesc/financials/ratios/",
+ "Market Cap": "6.50B",
+ "Enterprise Value": "6.19B",
+ "PE Ratio": "14.49",
+ "Forward PE": "12.98",
+ "PS Ratio": "1.66",
+ "EV / EBITDA": "11.42",
+ "Gross Margin": "26.31%",
+ "Operating Margin": "12.38%",
+ "Profit Margin": "11.44%",
+ "FCF Margin": "5.73%",
+ "Debt / Equity": "0.06",
+ "Debt / EBITDA": "0.13",
+ "Net Cash": "310.92M",
+ "Total Debt": "76.94M",
+ "Cash & Cash Equivalents": "387.86M",
+ "Return on Invested Capital (ROIC)": "41.01%",
+ "Return on Equity (ROE)": "44.52%",
+ "Revenue": "3.99B",
+ "Net Income": "454.17M",
+ "Free Cash Flow": "228.40M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.85",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,986",
+  "3,371",
+  "2,884",
+  "2,377",
+  "2,167",
+  "1,536"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "454.17",
+  "303.06",
+  "201.98",
+  "92.58",
+  "30.05",
+  "66.29"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "14.77",
+  "26.05",
+  "19.75",
+  "14.37",
+  "18.85",
+  "14.35"
+ ]
+}

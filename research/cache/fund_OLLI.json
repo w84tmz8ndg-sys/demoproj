@@ -1,0 +1,70 @@
+{
+ "ticker": "OLLI",
+ "src_stats": "https://stockanalysis.com/stocks/olli/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/olli/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/olli/financials/ratios/",
+ "Market Cap": "5.59B",
+ "Enterprise Value": "6.12B",
+ "PE Ratio": "21.04",
+ "Forward PE": "20.44",
+ "PS Ratio": "2.07",
+ "EV / EBITDA": "16.94",
+ "Gross Margin": "40.61%",
+ "Operating Margin": "11.25%",
+ "Profit Margin": "9.79%",
+ "FCF Margin": "7.99%",
+ "Debt / Equity": "0.38",
+ "Debt / EBITDA": "1.35",
+ "Net Cash": "-538.14M",
+ "Total Debt": "725.65M",
+ "Cash & Cash Equivalents": "187.50M",
+ "Return on Invested Capital (ROIC)": "9.90%",
+ "Return on Equity (ROE)": "14.86%",
+ "Revenue": "2.79B",
+ "Net Income": "273.58M",
+ "Free Cash Flow": "223.24M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.35",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "2,793",
+  "2,649",
+  "2,272",
+  "2,103",
+  "1,827",
+  "1,753"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "273.58",
+  "240.6",
+  "199.76",
+  "181.44",
+  "102.79",
+  "157.46"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "21.51",
+  "28.12",
+  "34.20",
+  "25.48",
+  "32.68",
+  "18.01"
+ ]
+}

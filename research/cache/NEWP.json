@@ -1,0 +1,27 @@
+{
+ "ticker": "NEWP",
+ "name": "New Pacific Metals Corp. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 848209233.0,
+ "price": "$4.565",
+ "cik": 1369085,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NEWP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/newp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:38+00:00"
+}

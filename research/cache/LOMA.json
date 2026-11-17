@@ -1,0 +1,27 @@
+{
+ "ticker": "LOMA",
+ "name": "Loma Negra Compania Industrial Argentina Sociedad Anonima ADS",
+ "sector": "Industrials",
+ "industry": "Building Materials",
+ "country": "Argentina",
+ "mcap": 938240905.0,
+ "price": "$8.04",
+ "cik": 1711375,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LOMA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/loma",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:53+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "RIOT",
+ "src_stats": "https://stockanalysis.com/stocks/riot/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/riot/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/riot/financials/ratios/",
+ "Market Cap": "6.40B",
+ "Enterprise Value": "6.42B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "9.47",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "23.86%",
+ "Operating Margin": "-193.86%",
+ "Profit Margin": "-210.79%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.32",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "-20.61M",
+ "Total Debt": "689.66M",
+ "Cash & Cash Equivalents": "669.05M",
+ "Return on Invested Capital (ROIC)": "-55.11%",
+ "Return on Equity (ROE)": "-50.52%",
+ "Revenue": "675.71M",
+ "Net Income": "-1.42B",
+ "Free Cash Flow": "-1.02B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "3.98",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "675.71",
+  "647.44",
+  "376.66",
+  "280.68",
+  "259.17",
+  "213.24"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-1,424",
+  "-663.18",
+  "109.4",
+  "-49.47",
+  "-509.55",
+  "-15.44"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "-",
+  "31.02",
+  "-",
+  "-",
+  "-"
+ ]
+}

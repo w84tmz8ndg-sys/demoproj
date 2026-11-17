@@ -1,0 +1,70 @@
+{
+ "ticker": "SPXC",
+ "src_stats": "https://stockanalysis.com/stocks/spxc/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/spxc/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/spxc/financials/ratios/",
+ "Market Cap": "7.24B",
+ "Enterprise Value": "8.46B",
+ "PE Ratio": "24.53",
+ "Forward PE": "15.52",
+ "PS Ratio": "2.82",
+ "EV / EBITDA": "15.53",
+ "Gross Margin": "39.92%",
+ "Operating Margin": "15.80%",
+ "Profit Margin": "11.48%",
+ "FCF Margin": "8.72%",
+ "Debt / Equity": "0.55",
+ "Debt / EBITDA": "2.34",
+ "Net Cash": "-1.22B",
+ "Total Debt": "1.33B",
+ "Cash & Cash Equivalents": "119.20M",
+ "Return on Invested Capital (ROIC)": "9.89%",
+ "Return on Equity (ROE)": "13.24%",
+ "Revenue": "2.60B",
+ "Net Income": "298.10M",
+ "Free Cash Flow": "226.60M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.26",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,598",
+  "2,265",
+  "1,984",
+  "1,741",
+  "1,461",
+  "1,220"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "298.1",
+  "244",
+  "200.5",
+  "89.9",
+  "0.2",
+  "425.4"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "24.53",
+  "40.86",
+  "33.65",
+  "51.29",
+  "14832.64",
+  "6.37"
+ ]
+}

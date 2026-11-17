@@ -1,0 +1,63 @@
+{
+ "ticker": "BRZE",
+ "src_stats": "https://stockanalysis.com/stocks/brze/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/brze/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/brze/financials/ratios/",
+ "Market Cap": "5.27B",
+ "Enterprise Value": "4.95B",
+ "PE Ratio": "n/a",
+ "Forward PE": "57.76",
+ "PS Ratio": "6.34",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "66.30%",
+ "Operating Margin": "-11.92%",
+ "Profit Margin": "-13.55%",
+ "FCF Margin": "10.15%",
+ "Debt / Equity": "0.16",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "313.46M",
+ "Total Debt": "96.41M",
+ "Cash & Cash Equivalents": "409.87M",
+ "Return on Invested Capital (ROIC)": "-8.99%",
+ "Return on Equity (ROE)": "-18.51%",
+ "Revenue": "834.24M",
+ "Net Income": "-113.05M",
+ "Free Cash Flow": "84.64M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.77",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "834.24",
+  "738.18",
+  "593.41",
+  "471.8",
+  "355.43",
+  "238.04"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-113.05",
+  "-131.29",
+  "-103.74",
+  "-129.17",
+  "-138.97",
+  "-76.72"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": null
+}

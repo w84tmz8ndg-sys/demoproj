@@ -1,0 +1,70 @@
+{
+ "ticker": "IDCC",
+ "src_stats": "https://stockanalysis.com/stocks/idcc/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/idcc/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/idcc/financials/ratios/",
+ "Market Cap": "6.96B",
+ "Enterprise Value": "6.16B",
+ "PE Ratio": "29.92",
+ "Forward PE": "27.27",
+ "PS Ratio": "8.65",
+ "EV / EBITDA": "13.98",
+ "Gross Margin": "82.54%",
+ "Operating Margin": "45.22%",
+ "Profit Margin": "38.53%",
+ "FCF Margin": "37.76%",
+ "Debt / Equity": "0.26",
+ "Debt / EBITDA": "0.70",
+ "Net Cash": "804.16M",
+ "Total Debt": "318.44M",
+ "Cash & Cash Equivalents": "1.12B",
+ "Return on Invested Capital (ROIC)": "66.72%",
+ "Return on Equity (ROE)": "26.82%",
+ "Revenue": "817.25M",
+ "Net Income": "314.90M",
+ "Free Cash Flow": "308.59M",
+ "Dividend Yield": "1.11%",
+ "Beta (5Y)": "1.49",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "817.25",
+  "834.02",
+  "868.52",
+  "549.59",
+  "457.79",
+  "425.41"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "314.9",
+  "406.64",
+  "358.61",
+  "214.07",
+  "93.69",
+  "55.3"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "29.79",
+  "20.16",
+  "13.69",
+  "13.03",
+  "15.67",
+  "39.74"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "TRNO",
+ "src_stats": "https://stockanalysis.com/stocks/trno/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/trno/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/trno/financials/ratios/",
+ "Market Cap": "7.21B",
+ "Enterprise Value": "8.02B",
+ "PE Ratio": "19.75",
+ "Forward PE": "37.70",
+ "PS Ratio": "13.95",
+ "EV / EBITDA": "25.59",
+ "Gross Margin": "75.87%",
+ "Operating Margin": "41.69%",
+ "Profit Margin": "68.10%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.20",
+ "Debt / EBITDA": "2.86",
+ "Net Cash": "-810.26M",
+ "Total Debt": "898.60M",
+ "Cash & Cash Equivalents": "88.34M",
+ "Return on Invested Capital (ROIC)": "2.58%",
+ "Return on Equity (ROE)": "8.25%",
+ "Revenue": "518.86M",
+ "Net Income": "351.69M",
+ "Free Cash Flow": "-270.41M",
+ "Dividend Yield": "3.49%",
+ "Beta (5Y)": "1.00",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "518.86",
+  "476.38",
+  "382.62",
+  "323.59",
+  "276.21",
+  "221.93"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "351.69",
+  "401.19",
+  "183.71",
+  "150.75",
+  "197.16",
+  "86.94"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "19.78",
+  "15.13",
+  "32.11",
+  "35.50",
+  "21.94",
+  "73.40"
+ ]
+}

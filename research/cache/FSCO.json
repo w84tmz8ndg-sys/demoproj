@@ -1,0 +1,27 @@
+{
+ "ticker": "FSCO",
+ "name": "FS Credit Opportunities Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Trusts Except Educational Religious and Charitable",
+ "country": "United States",
+ "mcap": 1004672634.0,
+ "price": "$5.065",
+ "cik": 1568194,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FSCO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fsco",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:18+00:00"
+}

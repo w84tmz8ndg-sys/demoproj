@@ -1,0 +1,27 @@
+{
+ "ticker": "VLRS",
+ "name": "Controladora Vuela Compania de Aviacion S.A.B. de C.V. American Depositary Shares each representing ten (10) Ordinary Participation Certificates",
+ "sector": "Consumer Discretionary",
+ "industry": "Air Freight/Delivery Services",
+ "country": "",
+ "mcap": 940605980.0,
+ "price": "$8.095",
+ "cik": 1520504,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VLRS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vlrs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:53+00:00"
+}

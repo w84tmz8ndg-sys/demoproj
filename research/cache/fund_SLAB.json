@@ -1,0 +1,70 @@
+{
+ "ticker": "SLAB",
+ "src_stats": "https://stockanalysis.com/stocks/slab/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/slab/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/slab/financials/ratios/",
+ "Market Cap": "7.40B",
+ "Enterprise Value": "6.96B",
+ "PE Ratio": "n/a",
+ "Forward PE": "52.67",
+ "PS Ratio": "8.21",
+ "EV / EBITDA": "183.45",
+ "Gross Margin": "61.32%",
+ "Operating Margin": "0.52%",
+ "Profit Margin": "-2.26%",
+ "FCF Margin": "0.79%",
+ "Debt / Equity": "n/a",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "439.84M",
+ "Total Debt": "n/a",
+ "Cash & Cash Equivalents": "439.84M",
+ "Return on Invested Capital (ROIC)": "0.67%",
+ "Return on Equity (ROE)": "-1.85%",
+ "Revenue": "900.79M",
+ "Net Income": "-20.32M",
+ "Free Cash Flow": "7.10M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.21",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "900.79",
+  "784.76",
+  "584.39",
+  "782.26",
+  "1,024",
+  "720.86"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-20.32",
+  "-64.91",
+  "-191.01",
+  "-34.52",
+  "91.4",
+  "2,117"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "-",
+  "-",
+  "-",
+  "49.40",
+  "3.92"
+ ]
+}

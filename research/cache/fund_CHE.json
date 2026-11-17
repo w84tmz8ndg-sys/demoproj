@@ -1,0 +1,70 @@
+{
+ "ticker": "CHE",
+ "src_stats": "https://stockanalysis.com/stocks/che/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/che/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/che/financials/ratios/",
+ "Market Cap": "7.13B",
+ "Enterprise Value": "7.47B",
+ "PE Ratio": "26.28",
+ "Forward PE": "20.30",
+ "PS Ratio": "2.68",
+ "EV / EBITDA": "16.79",
+ "Gross Margin": "33.54%",
+ "Operating Margin": "14.32%",
+ "Profit Margin": "10.61%",
+ "FCF Margin": "11.10%",
+ "Debt / Equity": "0.46",
+ "Debt / EBITDA": "0.76",
+ "Net Cash": "-343.77M",
+ "Total Debt": "392.19M",
+ "Cash & Cash Equivalents": "48.43M",
+ "Return on Invested Capital (ROIC)": "24.58%",
+ "Return on Equity (ROE)": "29.14%",
+ "Revenue": "2.66B",
+ "Net Income": "282.40M",
+ "Free Cash Flow": "295.45M",
+ "Dividend Yield": "0.51%",
+ "Beta (5Y)": "0.49",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,661",
+  "2,530",
+  "2,431",
+  "2,264",
+  "2,135",
+  "2,139"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "282.4",
+  "265.24",
+  "302",
+  "272.51",
+  "249.62",
+  "268.55"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "26.11",
+  "22.76",
+  "26.19",
+  "32.20",
+  "30.41",
+  "30.20"
+ ]
+}

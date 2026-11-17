@@ -1,0 +1,27 @@
+{
+ "ticker": "OIG",
+ "name": "Orion180 Insurance Group Inc. Class A common stock",
+ "sector": "Finance",
+ "industry": "Specialty Insurers",
+ "country": "United States",
+ "mcap": 1033176953.0,
+ "price": "$10.43",
+ "cik": 2124472,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OIG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/oig",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:04+00:00"
+}

@@ -1,0 +1,59 @@
+{
+ "ticker": "CAI",
+ "src_stats": "https://stockanalysis.com/stocks/cai/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/cai/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/cai/financials/ratios/",
+ "Market Cap": "5.76B",
+ "Enterprise Value": "5.45B",
+ "PE Ratio": "60.23",
+ "Forward PE": "85.85",
+ "PS Ratio": "5.52",
+ "EV / EBITDA": "33.75",
+ "Gross Margin": "69.27%",
+ "Operating Margin": "13.35%",
+ "Profit Margin": "9.16%",
+ "FCF Margin": "2.76%",
+ "Debt / Equity": "0.72",
+ "Debt / EBITDA": "2.67",
+ "Net Cash": "304.36M",
+ "Total Debt": "463.02M",
+ "Cash & Cash Equivalents": "767.38M",
+ "Return on Invested Capital (ROIC)": "47.01%",
+ "Return on Equity (ROE)": "17.19%",
+ "Revenue": "1.05B",
+ "Net Income": "96.06M",
+ "Free Cash Flow": "28.91M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "n/a",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,048",
+  "812.03",
+  "412.26",
+  "306.13",
+  "258.49"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "96.06",
+  "-537.96",
+  "-378.26",
+  "-462.53",
+  "-399.83"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": null
+}

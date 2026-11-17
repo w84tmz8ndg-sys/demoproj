@@ -1,0 +1,70 @@
+{
+ "ticker": "KNSA",
+ "src_stats": "https://stockanalysis.com/stocks/knsa/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/knsa/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/knsa/financials/ratios/",
+ "Market Cap": "7.45B",
+ "Enterprise Value": "6.89B",
+ "PE Ratio": "71.60",
+ "Forward PE": "53.29",
+ "PS Ratio": "7.84",
+ "EV / EBITDA": "51.76",
+ "Gross Margin": "54.27%",
+ "Operating Margin": "13.79%",
+ "Profit Margin": "11.58%",
+ "FCF Margin": "20.85%",
+ "Debt / Equity": "0.01",
+ "Debt / EBITDA": "0.06",
+ "Net Cash": "560.87M",
+ "Total Debt": "7.88M",
+ "Cash & Cash Equivalents": "568.76M",
+ "Return on Invested Capital (ROIC)": "68.29%",
+ "Return on Equity (ROE)": "17.59%",
+ "Revenue": "945.96M",
+ "Net Income": "109.57M",
+ "Free Cash Flow": "197.20M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.08",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "945.96",
+  "677.56",
+  "423.24",
+  "270.26",
+  "220.18",
+  "38.54"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "109.57",
+  "59.01",
+  "-43.19",
+  "14.08",
+  "183.36",
+  "-157.92"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "71.14",
+  "52.99",
+  "-",
+  "87.60",
+  "5.68",
+  "-"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MAX",
+ "name": "MediaAlpha Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 876634586.0,
+ "price": "$14.81",
+ "cik": 1818383,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MAX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, MediaAlpha Inc - Ordinary Shares - Class A (MAX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/max",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:26+00:00"
+}

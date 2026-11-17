@@ -1,0 +1,27 @@
+{
+ "ticker": "AIP",
+ "name": "Arteris Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 931040398.0,
+ "price": "$18.72",
+ "cik": 1667011,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Arteris (AIP) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aip",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:54+00:00"
+}

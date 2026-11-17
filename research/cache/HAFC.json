@@ -1,0 +1,27 @@
+{
+ "ticker": "HAFC",
+ "name": "Hanmi Financial Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 954472664.0,
+ "price": "$32.37",
+ "cik": 1109242,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HAFC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Hanmi Financial Corp. (HAFC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hafc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:42+00:00"
+}

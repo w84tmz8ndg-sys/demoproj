@@ -1,0 +1,27 @@
+{
+ "ticker": "ITRN",
+ "name": "Ituran Location and Control Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Electronic Components",
+ "country": "Israel",
+ "mcap": 920277011.0,
+ "price": "$46.26",
+ "cik": 1337117,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ITRN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/itrn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:01+00:00"
+}

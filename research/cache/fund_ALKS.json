@@ -1,0 +1,70 @@
+{
+ "ticker": "ALKS",
+ "src_stats": "https://stockanalysis.com/stocks/alks/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/alks/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/alks/financials/ratios/",
+ "Market Cap": "7.63B",
+ "Enterprise Value": "8.45B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "4.34",
+ "EV / EBITDA": "29.91",
+ "Gross Margin": "87.01%",
+ "Operating Margin": "11.46%",
+ "Profit Margin": "-0.02%",
+ "FCF Margin": "12.97%",
+ "Debt / Equity": "0.84",
+ "Debt / EBITDA": "5.33",
+ "Net Cash": "-815.62M",
+ "Total Debt": "1.57B",
+ "Cash & Cash Equivalents": "755.46M",
+ "Return on Invested Capital (ROIC)": "-0.23%",
+ "Return on Equity (ROE)": "-0.02%",
+ "Revenue": "1.75B",
+ "Net Income": "-351,000",
+ "Free Cash Flow": "227.37M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.23",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,754",
+  "1,476",
+  "1,558",
+  "1,663",
+  "1,112",
+  "1,174"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-0.35",
+  "241.66",
+  "367.07",
+  "355.76",
+  "-158.27",
+  "-48.17"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "19.12",
+  "12.68",
+  "13.01",
+  "-",
+  "-"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "LNTH",
+ "src_stats": "https://stockanalysis.com/stocks/lnth/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/lnth/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/lnth/financials/ratios/",
+ "Market Cap": "6.65B",
+ "Enterprise Value": "6.59B",
+ "PE Ratio": "25.31",
+ "Forward PE": "15.82",
+ "PS Ratio": "4.26",
+ "EV / EBITDA": "18.59",
+ "Gross Margin": "61.26%",
+ "Operating Margin": "16.88%",
+ "Profit Margin": "17.28%",
+ "FCF Margin": "25.16%",
+ "Debt / Equity": "0.46",
+ "Debt / EBITDA": "1.73",
+ "Net Cash": "59.33M",
+ "Total Debt": "624.28M",
+ "Cash & Cash Equivalents": "683.61M",
+ "Return on Invested Capital (ROIC)": "15.75%",
+ "Return on Equity (ROE)": "21.81%",
+ "Revenue": "1.56B",
+ "Net Income": "269.91M",
+ "Free Cash Flow": "393.09M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.02",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,562",
+  "1,542",
+  "1,534",
+  "1,296",
+  "935.06",
+  "425.21"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "269.91",
+  "233.56",
+  "312.44",
+  "326.66",
+  "28.07",
+  "-71.28"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "25.32",
+  "18.90",
+  "19.91",
+  "13.00",
+  "122.54",
+  "-"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "MSM",
+ "src_stats": "https://stockanalysis.com/stocks/msm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/msm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/msm/financials/ratios/",
+ "Market Cap": "6.50B",
+ "Enterprise Value": "6.97B",
+ "PE Ratio": "29.25",
+ "Forward PE": "20.79",
+ "PS Ratio": "1.62",
+ "EV / EBITDA": "14.68",
+ "Gross Margin": "40.88%",
+ "Operating Margin": "9.30%",
+ "Profit Margin": "5.55%",
+ "FCF Margin": "5.62%",
+ "Debt / Equity": "0.37",
+ "Debt / EBITDA": "1.05",
+ "Net Cash": "-463.17M",
+ "Total Debt": "528.19M",
+ "Cash & Cash Equivalents": "65.03M",
+ "Return on Invested Capital (ROIC)": "14.82%",
+ "Return on Equity (ROE)": "15.58%",
+ "Revenue": "4.01B",
+ "Net Income": "222.59M",
+ "Free Cash Flow": "225.16M",
+ "Dividend Yield": "3.06%",
+ "Beta (5Y)": "0.81",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "4,010",
+  "4,010",
+  "3,770",
+  "3,821",
+  "4,009",
+  "3,692"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "222.59",
+  "222.59",
+  "199.33",
+  "258.59",
+  "343.23",
+  "339.79"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "29.25",
+  "29.91",
+  "25.20",
+  "17.85",
+  "16.61",
+  "12.95"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "IRS",
+ "name": "IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock)",
+ "sector": "Real Estate",
+ "industry": "Homebuilding",
+ "country": "Argentina",
+ "mcap": 1011108524.0,
+ "price": "$11.95",
+ "cik": 933267,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IRS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/irs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:15+00:00"
+}

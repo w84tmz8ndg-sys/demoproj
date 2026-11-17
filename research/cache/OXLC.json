@@ -1,0 +1,27 @@
+{
+ "ticker": "OXLC",
+ "name": "Oxford Lane Capital Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 864528000.0,
+ "price": "$4.98",
+ "cik": 1495222,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OXLC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/oxlc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:31+00:00"
+}

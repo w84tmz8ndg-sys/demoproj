@@ -1,0 +1,27 @@
+{
+ "ticker": "GSBD",
+ "name": "Goldman Sachs BDC Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 892279760.0,
+ "price": "$8.035",
+ "cik": 1572694,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GSBD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Goldman Sachs BDC Inc (GSBD) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gsbd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:17+00:00"
+}

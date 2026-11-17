@@ -1,0 +1,27 @@
+{
+ "ticker": "IGIC",
+ "name": "International General Insurance Holdings Ltd. Ordinary Share",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "Jordan",
+ "mcap": 1043207960.0,
+ "price": "$24.35",
+ "cik": 1794338,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IGIC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/igic",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:49:58+00:00"
+}

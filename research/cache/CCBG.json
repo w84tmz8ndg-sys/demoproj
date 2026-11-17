@@ -1,0 +1,27 @@
+{
+ "ticker": "CCBG",
+ "name": "Capital City Bank Group Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 865539482.0,
+ "price": "$50.57",
+ "cik": 726601,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CCBG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Capital City Bank Group, Inc. (CCBG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ccbg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:28+00:00"
+}

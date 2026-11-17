@@ -1,0 +1,70 @@
+{
+ "ticker": "TTD",
+ "src_stats": "https://stockanalysis.com/stocks/ttd/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ttd/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ttd/financials/ratios/",
+ "Market Cap": "6.98B",
+ "Enterprise Value": "5.92B",
+ "PE Ratio": "21.43",
+ "Forward PE": "12.36",
+ "PS Ratio": "2.35",
+ "EV / EBITDA": "8.83",
+ "Gross Margin": "75.70%",
+ "Operating Margin": "18.82%",
+ "Profit Margin": "11.03%",
+ "FCF Margin": "28.87%",
+ "Debt / Equity": "0.22",
+ "Debt / EBITDA": "0.73",
+ "Net Cash": "1.07B",
+ "Total Debt": "581.29M",
+ "Cash & Cash Equivalents": "1.65B",
+ "Return on Invested Capital (ROIC)": "20.62%",
+ "Return on Equity (ROE)": "12.42%",
+ "Revenue": "2.99B",
+ "Net Income": "329.39M",
+ "Free Cash Flow": "862.19M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.04",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,987",
+  "2,896",
+  "2,445",
+  "1,946",
+  "1,578",
+  "1,196"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "329.39",
+  "443.3",
+  "393.08",
+  "178.94",
+  "53.39",
+  "137.76"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "21.48",
+  "41.41",
+  "147.58",
+  "197.17",
+  "411.07",
+  "319.72"
+ ]
+}

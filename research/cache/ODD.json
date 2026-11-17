@@ -1,0 +1,27 @@
+{
+ "ticker": "ODD",
+ "name": "ODDITY Tech Ltd. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "Israel",
+ "mcap": 881011452.0,
+ "price": "$15.55",
+ "cik": 1907085,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ODD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/odd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:26+00:00"
+}

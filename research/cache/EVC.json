@@ -1,0 +1,27 @@
+{
+ "ticker": "EVC",
+ "name": "Entravision Communications Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Broadcasting",
+ "country": "United States",
+ "mcap": 868432950.0,
+ "price": "$9.41",
+ "cik": 1109116,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EVC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Entravision Communications (EVC) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/evc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:30+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SLSR",
+ "name": "Solaris Resources Inc. Common Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "",
+ "mcap": 1023926561.0,
+ "price": "$6.13",
+ "cik": 2019103,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLSR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/slsr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:07+00:00"
+}

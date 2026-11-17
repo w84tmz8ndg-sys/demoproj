@@ -1,0 +1,27 @@
+{
+ "ticker": "PSUS",
+ "name": "Pershing Square USA Ltd. Common Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "",
+ "mcap": 945845500.0,
+ "price": "$36.17",
+ "cik": 2002660,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PSUS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/psus",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:47+00:00"
+}

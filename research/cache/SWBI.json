@@ -1,0 +1,27 @@
+{
+ "ticker": "SWBI",
+ "name": "Smith & Wesson Brands Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Ordnance And Accessories",
+ "country": "United States",
+ "mcap": 856493340.0,
+ "price": "$15.91",
+ "cik": 1092796,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SWBI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Smith & Wesson Brands Inc (SWBI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/swbi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:34+00:00"
+}

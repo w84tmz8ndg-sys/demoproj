@@ -1,0 +1,27 @@
+{
+ "ticker": "RERE",
+ "name": "ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares)",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "Cayman Islands",
+ "mcap": 884734259.0,
+ "price": "$4.035",
+ "cik": 1838957,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RERE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rere",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:22+00:00"
+}

@@ -1,276 +1,4 @@
 {
- "RMBS": {
-  "hits": [],
-  "sources": []
- },
- "EPAM": {
-  "hits": [],
-  "sources": []
- },
- "DSGX": {
-  "hits": [],
-  "sources": []
- },
- "CGNX": {
-  "hits": [],
-  "sources": []
- },
- "SSD": {
-  "hits": [],
-  "sources": []
- },
- "TTAN": {
-  "hits": [],
-  "sources": []
- },
- "APPF": {
-  "hits": [],
-  "sources": []
- },
- "GTLB": {
-  "hits": [],
-  "sources": []
- },
- "VMI": {
-  "hits": [],
-  "sources": []
- },
- "ALKS": {
-  "hits": [],
-  "sources": []
- },
- "CHRD": {
-  "hits": [],
-  "sources": []
- },
- "S": {
-  "hits": [],
-  "sources": []
- },
- "POOL": {
-  "hits": [],
-  "sources": []
- },
- "CORT": {
-  "hits": [],
-  "sources": []
- },
- "RAL": {
-  "hits": [],
-  "sources": []
- },
- "ZWS": {
-  "hits": [],
-  "sources": []
- },
- "KNSA": {
-  "hits": [],
-  "sources": []
- },
- "SLAB": {
-  "hits": [],
-  "sources": []
- },
- "YOU": {
-  "hits": [],
-  "sources": []
- },
- "TRNO": {
-  "hits": [],
-  "sources": []
- },
- "SPXC": {
-  "hits": [],
-  "sources": []
- },
- "AWI": {
-  "hits": [],
-  "sources": []
- },
- "TXG": {
-  "hits": [],
-  "sources": []
- },
- "AXSM": {
-  "hits": [],
-  "sources": []
- },
- "URBN": {
-  "hits": [],
-  "sources": []
- },
- "CHE": {
-  "hits": [],
-  "sources": []
- },
- "IDCC": {
-  "hits": [],
-  "sources": []
- },
- "VIAV": {
-  "hits": [],
-  "sources": []
- },
- "FSS": {
-  "hits": [],
-  "sources": []
- },
- "XMTR": {
-  "hits": [],
-  "sources": []
- },
- "TTD": {
-  "hits": [],
-  "sources": []
- },
- "MOD": {
-  "hits": [],
-  "sources": []
- },
- "ELF": {
-  "hits": [],
-  "sources": []
- },
- "PATH": {
-  "hits": [],
-  "sources": []
- },
- "NAVN": {
-  "hits": [],
-  "sources": []
- },
- "VICR": {
-  "hits": [],
-  "sources": []
- },
- "IESC": {
-  "hits": [],
-  "sources": []
- },
- "LNTH": {
-  "hits": [],
-  "sources": []
- },
- "KEX": {
-  "hits": [],
-  "sources": []
- },
- "MSM": {
-  "hits": [],
-  "sources": []
- },
- "MSA": {
-  "hits": [],
-  "sources": []
- },
- "CWST": {
-  "hits": [],
-  "sources": []
- },
- "IBP": {
-  "hits": [],
-  "sources": []
- },
- "AAON": {
-  "hits": [],
-  "sources": []
- },
- "KVYO": {
-  "hits": [],
-  "sources": []
- },
- "FTDR": {
-  "hits": [],
-  "sources": []
- },
- "NEU": {
-  "hits": [],
-  "sources": []
- },
- "RIOT": {
-  "hits": [],
-  "sources": []
- },
- "QLYS": {
-  "hits": [],
-  "sources": []
- },
- "FORM": {
-  "hits": [],
-  "sources": []
- },
- "BROS": {
-  "hits": [],
-  "sources": []
- },
- "MATX": {
-  "hits": [],
-  "sources": []
- },
- "WFRD": {
-  "hits": [],
-  "sources": []
- },
- "CVLT": {
-  "hits": [],
-  "sources": []
- },
- "CTVA": {
-  "hits": [],
-  "sources": []
- },
- "CAI": {
-  "hits": [],
-  "sources": []
- },
- "BOX": {
-  "hits": [],
-  "sources": []
- },
- "MIRM": {
-  "hits": [],
-  "sources": []
- },
- "MIDD": {
-  "hits": [],
-  "sources": []
- },
- "CRUS": {
-  "hits": [],
-  "sources": []
- },
- "OLLI": {
-  "hits": [],
-  "sources": []
- },
- "NPO": {
-  "hits": [],
-  "sources": []
- },
- "VAL": {
-  "hits": [],
-  "sources": []
- },
- "POWL": {
-  "hits": [],
-  "sources": []
- },
- "LFST": {
-  "hits": [],
-  "sources": []
- },
- "BCPC": {
-  "hits": [],
-  "sources": []
- },
- "BRZE": {
-  "hits": [],
-  "sources": []
- },
- "PEGA": {
-  "hits": [],
-  "sources": []
- },
  "LPX": {
   "hits": [],
   "sources": []
@@ -1046,6 +774,62 @@
   "sources": []
  },
  "AMPX": {
+  "hits": [],
+  "sources": []
+ },
+ "NSSC": {
+  "hits": [],
+  "sources": []
+ },
+ "ODC": {
+  "hits": [],
+  "sources": []
+ },
+ "CBLL": {
+  "hits": [],
+  "sources": []
+ },
+ "XPEL": {
+  "hits": [],
+  "sources": []
+ },
+ "KFRC": {
+  "hits": [],
+  "sources": []
+ },
+ "MRTN": {
+  "hits": [],
+  "sources": []
+ },
+ "TRNS": {
+  "hits": [],
+  "sources": []
+ },
+ "WINA": {
+  "hits": [],
+  "sources": []
+ },
+ "AIP": {
+  "hits": [],
+  "sources": []
+ },
+ "DAKT": {
+  "hits": [],
+  "sources": []
+ },
+ "TTI": {
+  "hits": [],
+  "sources": []
+ },
+ "FTK": {
+  "hits": [],
+  "sources": []
+ },
+ "SCSC": {
+  "hits": [],
+  "sources": []
+ },
+ "OMDA": {
   "hits": [],
   "sources": []
  }

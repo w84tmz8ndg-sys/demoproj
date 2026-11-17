@@ -1,0 +1,27 @@
+{
+ "ticker": "EVER",
+ "name": "EverQuote Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 1026208750.0,
+ "price": "$28.93",
+ "cik": 1640428,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EVER/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, EverQuote (EVER) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ever",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:06+00:00"
+}

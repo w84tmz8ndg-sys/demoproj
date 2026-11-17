@@ -1,0 +1,59 @@
+{
+ "ticker": "TTAN",
+ "src_stats": "https://stockanalysis.com/stocks/ttan/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ttan/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ttan/financials/ratios/",
+ "Market Cap": "7.77B",
+ "Enterprise Value": "7.34B",
+ "PE Ratio": "n/a",
+ "Forward PE": "54.36",
+ "PS Ratio": "7.49",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "71.23%",
+ "Operating Margin": "-12.60%",
+ "Profit Margin": "-12.12%",
+ "FCF Margin": "12.57%",
+ "Debt / Equity": "0.03",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "431.77M",
+ "Total Debt": "47.76M",
+ "Cash & Cash Equivalents": "479.54M",
+ "Return on Invested Capital (ROIC)": "-5.08%",
+ "Return on Equity (ROE)": "-8.34%",
+ "Revenue": "1.06B",
+ "Net Income": "-129.00M",
+ "Free Cash Flow": "133.88M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "n/a",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023"
+ ],
+ "rev_hist": [
+  "1,065",
+  "960.97",
+  "771.88",
+  "614.34",
+  "467.73"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-129",
+  "-159.85",
+  "-359.73",
+  "-241.02",
+  "-283"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023"
+ ],
+ "pe_hist": null
+}

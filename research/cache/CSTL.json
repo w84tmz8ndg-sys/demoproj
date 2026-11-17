@@ -1,0 +1,27 @@
+{
+ "ticker": "CSTL",
+ "name": "Castle Biosciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 1009299030.0,
+ "price": "$32.75",
+ "cik": 1447362,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CSTL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Castle Biosciences (CSTL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cstl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:16+00:00"
+}

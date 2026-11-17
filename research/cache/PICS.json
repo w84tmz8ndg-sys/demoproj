@@ -1,0 +1,27 @@
+{
+ "ticker": "PICS",
+ "name": "PicS N.V. Class A Common Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Brazil",
+ "mcap": 886378794.0,
+ "price": "$6.84",
+ "cik": 1841644,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PICS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pics",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:21+00:00"
+}

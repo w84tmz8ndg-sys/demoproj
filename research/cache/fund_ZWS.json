@@ -1,0 +1,70 @@
+{
+ "ticker": "ZWS",
+ "src_stats": "https://stockanalysis.com/stocks/zws/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/zws/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/zws/financials/ratios/",
+ "Market Cap": "7.51B",
+ "Enterprise Value": "7.75B",
+ "PE Ratio": "26.52",
+ "Forward PE": "22.75",
+ "PS Ratio": "4.12",
+ "EV / EBITDA": "17.32",
+ "Gross Margin": "47.72%",
+ "Operating Margin": "19.82%",
+ "Profit Margin": "15.91%",
+ "FCF Margin": "21.19%",
+ "Debt / Equity": "0.32",
+ "Debt / EBITDA": "1.18",
+ "Net Cash": "-241.30M",
+ "Total Debt": "548.40M",
+ "Cash & Cash Equivalents": "307.10M",
+ "Return on Invested Capital (ROIC)": "14.47%",
+ "Return on Equity (ROE)": "17.61%",
+ "Revenue": "1.83B",
+ "Net Income": "290.60M",
+ "Free Cash Flow": "387.00M",
+ "Dividend Yield": "1.15%",
+ "Beta (5Y)": "1.07",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,826",
+  "1,696",
+  "1,567",
+  "1,531",
+  "1,282",
+  "910.9"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "290.6",
+  "198",
+  "160.2",
+  "112.7",
+  "61.7",
+  "120.9"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "26.48",
+  "39.29",
+  "39.52",
+  "45.10",
+  "60.95",
+  "36.53"
+ ]
+}

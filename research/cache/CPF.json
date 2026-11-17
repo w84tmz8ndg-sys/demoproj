@@ -1,0 +1,27 @@
+{
+ "ticker": "CPF",
+ "name": "Central Pacific Financial Corp New",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 982126280.0,
+ "price": "$38.60",
+ "cik": 701347,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CPF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Central Pacific Financial Corp. (CPF) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cpf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:31+00:00"
+}

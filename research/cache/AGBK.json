@@ -1,0 +1,27 @@
+{
+ "ticker": "AGBK",
+ "name": "AGI Inc Class A Common Shares",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "Cayman Islands",
+ "mcap": 944796925.0,
+ "price": "$5.90",
+ "cik": 2081206,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AGBK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/agbk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:50+00:00"
+}

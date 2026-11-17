@@ -1,0 +1,27 @@
+{
+ "ticker": "GOLD",
+ "name": "Gold.com Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Other Specialty Stores",
+ "country": "United States",
+ "mcap": 1027213335.0,
+ "price": "$35.23",
+ "cik": 1591588,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GOLD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Barrick Gold (GOLD) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gold",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:03+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "FCBC",
+ "name": "First Community Bankshares Inc. (VA) Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 862007406.0,
+ "price": "$45.57",
+ "cik": 859070,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FCBC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, First Community Bankshares Inc. (FCBC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fcbc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:34+00:00"
+}

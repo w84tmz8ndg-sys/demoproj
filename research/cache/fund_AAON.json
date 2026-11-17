@@ -1,0 +1,70 @@
+{
+ "ticker": "AAON",
+ "src_stats": "https://stockanalysis.com/stocks/aaon/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/aaon/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/aaon/financials/ratios/",
+ "Market Cap": "6.51B",
+ "Enterprise Value": "6.92B",
+ "PE Ratio": "32.36",
+ "Forward PE": "22.70",
+ "PS Ratio": "2.91",
+ "EV / EBITDA": "18.75",
+ "Gross Margin": "25.88%",
+ "Operating Margin": "12.33%",
+ "Profit Margin": "9.03%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.37",
+ "Debt / EBITDA": "1.09",
+ "Net Cash": "-406.69M",
+ "Total Debt": "406.71M",
+ "Cash & Cash Equivalents": "13,000",
+ "Return on Invested Capital (ROIC)": "15.11%",
+ "Return on Equity (ROE)": "21.00%",
+ "Revenue": "2.27B",
+ "Net Income": "204.57M",
+ "Free Cash Flow": "-34.38M",
+ "Dividend Yield": "0.51%",
+ "Beta (5Y)": "1.46",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,266",
+  "1,442",
+  "1,201",
+  "1,169",
+  "888.79",
+  "534.52"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "204.57",
+  "107.59",
+  "168.56",
+  "177.62",
+  "100.38",
+  "58.76"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "32.03",
+  "57.85",
+  "56.75",
+  "33.79",
+  "39.92",
+  "70.87"
+ ]
+}

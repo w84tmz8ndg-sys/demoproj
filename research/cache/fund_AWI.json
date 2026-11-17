@@ -1,0 +1,70 @@
+{
+ "ticker": "AWI",
+ "src_stats": "https://stockanalysis.com/stocks/awi/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/awi/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/awi/financials/ratios/",
+ "Market Cap": "7.18B",
+ "Enterprise Value": "7.66B",
+ "PE Ratio": "22.91",
+ "Forward PE": "18.60",
+ "PS Ratio": "4.18",
+ "EV / EBITDA": "16.99",
+ "Gross Margin": "39.61%",
+ "Operating Margin": "19.24%",
+ "Profit Margin": "18.38%",
+ "FCF Margin": "12.48%",
+ "Debt / Equity": "0.62",
+ "Debt / EBITDA": "1.17",
+ "Net Cash": "-482.90M",
+ "Total Debt": "554.30M",
+ "Cash & Cash Equivalents": "71.40M",
+ "Return on Invested Capital (ROIC)": "18.38%",
+ "Return on Equity (ROE)": "36.00%",
+ "Revenue": "1.75B",
+ "Net Income": "320.90M",
+ "Free Cash Flow": "217.90M",
+ "Dividend Yield": "0.87%",
+ "Beta (5Y)": "1.14",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,746",
+  "1,621",
+  "1,446",
+  "1,295",
+  "1,233",
+  "1,107"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "320.9",
+  "308.7",
+  "264.9",
+  "223.7",
+  "202.6",
+  "182.9"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "22.92",
+  "26.70",
+  "23.26",
+  "19.42",
+  "15.46",
+  "30.14"
+ ]
+}

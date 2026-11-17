@@ -1,0 +1,55 @@
+{
+ "ticker": "NAVN",
+ "src_stats": "https://stockanalysis.com/stocks/navn/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/navn/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/navn/financials/ratios/",
+ "Market Cap": "6.47B",
+ "Enterprise Value": "5.82B",
+ "PE Ratio": "n/a",
+ "Forward PE": "76.32",
+ "PS Ratio": "7.66",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "72.59%",
+ "Operating Margin": "-24.74%",
+ "Profit Margin": "-42.11%",
+ "FCF Margin": "5.51%",
+ "Debt / Equity": "0.13",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "649.83M",
+ "Total Debt": "170.22M",
+ "Cash & Cash Equivalents": "820.04M",
+ "Return on Invested Capital (ROIC)": "-11.16%",
+ "Return on Equity (ROE)": "-49.39%",
+ "Revenue": "825.87M",
+ "Net Income": "-347.77M",
+ "Free Cash Flow": "45.52M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "n/a",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024"
+ ],
+ "rev_hist": [
+  "825.87",
+  "702.27",
+  "536.84",
+  "402.26"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-347.77",
+  "-398.03",
+  "-181.08",
+  "-331.55"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024"
+ ],
+ "pe_hist": null
+}

@@ -1,0 +1,9 @@
+from ethics_lib import *
+b = Batch(12)
+b.ex("NEU","a","Weapons supply chain","Acquired AMPAC (Jan 2024, ~$700M), maker of ammonium perchlorate oxidizer for solid rocket/missile propellant, qualified on many DoD programs.", "https://www.defensedaily.com/newmarket-acquires-solid-rocket-motor-additives-company-ampac-intermediate/business-financial/","https://www.businesswire.com/news/home/20231204434466/en")
+b.ex("VICR","a","Defense supply chain","Dedicated defense & aerospace power-module line used in missiles, UAVs, C5ISR and military ground vehicles.", "https://www.vicorpower.com/industries/defense-and-aerospace","https://wwwqa.vicorpower.com/industries-and-innovations/aerospace-and-defense-solutions/aerospace-defense-air-to-surface-missile")
+b.ex("PATH","a","Military software to defense ministries","DoD DFAS UiPath licence order (~$5.6M); DoD Robotic Process Automation Program licences; DoD ESI agreement.", "https://orangeslices.ai/?p=111766","https://static.carahsoft.com/concrete/files/2617/7257/1480/Carahsoft_ESI_Reference_External_Guide_-_UiPath.pdf")
+b.ex("MSA","a","Military supplier","US Army Advanced Combat Helmet contracts (2004-2009, incl. $45M DSCP IDIQ); $35M US Air Force breathing-apparatus contract (Dec 2023).", "https://investors.msasafety.com/news-releases/news-release-details/msa-secures-26-million-army-contract-protective-helmets","https://news.msasafety.com/2023-12-06-MSA-Safety-awarded-35-Million-Breathing-Apparatus-Contract-with-U-S-Air-Force?asPDF=1")
+b.ex("MATX","a","Military logistics services","USTRANSCOM worldwide military cargo contracts (e.g. $73.7M option 2021; ~$358M across awards since 2022).", "https://www.govconwire.com/2021/07/transcom-awards-contract-modification-to-12-businesses-for-shipment-services","https://www.highergov.com/idv/HTC71124DW011/")
+b.oks("MOD ELF NAVN IESC LNTH KEX MSM CWST IBP AAON KVYO FTDR RIOT QLYS FORM BROS WFRD")
+b.save()

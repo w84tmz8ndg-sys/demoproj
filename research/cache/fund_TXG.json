@@ -1,0 +1,63 @@
+{
+ "ticker": "TXG",
+ "src_stats": "https://stockanalysis.com/stocks/txg/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/txg/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/txg/financials/ratios/",
+ "Market Cap": "7.33B",
+ "Enterprise Value": "6.83B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "11.83",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "71.96%",
+ "Operating Margin": "-10.62%",
+ "Profit Margin": "-10.84%",
+ "FCF Margin": "15.16%",
+ "Debt / Equity": "0.09",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "499.89M",
+ "Total Debt": "75.79M",
+ "Cash & Cash Equivalents": "575.68M",
+ "Return on Invested Capital (ROIC)": "-4.60%",
+ "Return on Equity (ROE)": "-8.27%",
+ "Revenue": "618.58M",
+ "Net Income": "-67.08M",
+ "Free Cash Flow": "93.77M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "2.03",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "618.58",
+  "642.82",
+  "610.79",
+  "618.73",
+  "516.41",
+  "490.49"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-67.08",
+  "-43.54",
+  "-182.63",
+  "-255.1",
+  "-166",
+  "-58.22"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PLTK",
+ "name": "Playtika Holding Corp. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Israel",
+ "mcap": 1017915109.0,
+ "price": "$2.66",
+ "cik": 1828016,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLTK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pltk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:08+00:00"
+}

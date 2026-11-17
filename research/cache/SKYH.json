@@ -1,0 +1,27 @@
+{
+ "ticker": "SKYH",
+ "name": "Sky Harbour Group Corporation Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 909785987.0,
+ "price": "$11.14",
+ "cik": 1823587,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SKYH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Sky Harbour Group Corporation - Ordinary Shares - Class A (SKYH) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/skyh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:08+00:00"
+}

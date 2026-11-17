@@ -1,0 +1,27 @@
+{
+ "ticker": "BH",
+ "name": "Biglari Holdings Inc. Class B Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "United States",
+ "mcap": 880274874.0,
+ "price": "$362.64",
+ "cik": 1726173,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Biglari Holdings (BH) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:27+00:00"
+}

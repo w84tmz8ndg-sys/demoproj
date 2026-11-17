@@ -1,0 +1,63 @@
+{
+ "ticker": "MIRM",
+ "src_stats": "https://stockanalysis.com/stocks/mirm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/mirm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/mirm/financials/ratios/",
+ "Market Cap": "5.94B",
+ "Enterprise Value": "6.31B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "8.77",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "81.72%",
+ "Operating Margin": "-21.63%",
+ "Profit Margin": "-134.75%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "n/a",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "-369.88M",
+ "Total Debt": "743.56M",
+ "Cash & Cash Equivalents": "373.69M",
+ "Return on Invested Capital (ROIC)": "-13.95%",
+ "Return on Equity (ROE)": "-760.01%",
+ "Revenue": "670.78M",
+ "Net Income": "-903.88M",
+ "Free Cash Flow": "-273.85M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.74",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "670.78",
+  "521.31",
+  "336.89",
+  "186.37",
+  "77.06",
+  "19.14"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-903.88",
+  "-23.36",
+  "-87.94",
+  "-163.42",
+  "-135.67",
+  "-83.99"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

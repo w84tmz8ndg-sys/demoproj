@@ -177,3 +177,5 @@ POS.update({
 "QGEN":"Sample-prep and diagnostics (QIAstat).","FLS":"Pumps/valves/seals for energy and chemicals.",
 "PODD":"Tubeless insulin pumps (Omnipod); fast growth.","TTC":"Turf equipment (Toro).",
 })
+
+POS.update({"QLYS":"Cloud vulnerability-management software; very high margins and net cash; slowing growth.","CRUS":"Audio/haptic chips, heavily dependent on Apple.","YOU":"Biometric identity (CLEAR) at airports; fast growth.","CGNX":"Machine-vision leader; cyclical.","SSD":"Structural connectors for construction (Simpson Strong-Tie).","FORM":"Probe cards for chip testing; cyclical."})

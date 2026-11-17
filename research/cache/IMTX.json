@@ -1,0 +1,27 @@
+{
+ "ticker": "IMTX",
+ "name": "Immatics N.V. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Germany",
+ "mcap": 923227441.0,
+ "price": "$6.17",
+ "cik": 1809196,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IMTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/imtx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:01+00:00"
+}

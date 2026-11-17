@@ -1,0 +1,27 @@
+{
+ "ticker": "OMDA",
+ "name": "Omada Health Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Nursing Services",
+ "country": "United States",
+ "mcap": 898926635.0,
+ "price": "$14.49",
+ "cik": 1611115,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OMDA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Omada Health, Inc. (OMDA) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/omda",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:13+00:00"
+}

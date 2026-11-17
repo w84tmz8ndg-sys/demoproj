@@ -1,0 +1,27 @@
+{
+ "ticker": "GHM",
+ "name": "Graham Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 930116664.0,
+ "price": "$79.24",
+ "cik": 716314,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GHM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Graham Corp. (GHM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ghm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:58+00:00"
+}

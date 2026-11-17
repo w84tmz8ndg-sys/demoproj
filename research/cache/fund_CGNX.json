@@ -1,0 +1,70 @@
+{
+ "ticker": "CGNX",
+ "src_stats": "https://stockanalysis.com/stocks/cgnx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/cgnx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/cgnx/financials/ratios/",
+ "Market Cap": "8.10B",
+ "Enterprise Value": "7.48B",
+ "PE Ratio": "33.64",
+ "Forward PE": "25.59",
+ "PS Ratio": "7.21",
+ "EV / EBITDA": "24.18",
+ "Gross Margin": "69.69%",
+ "Operating Margin": "25.01%",
+ "Profit Margin": "21.50%",
+ "FCF Margin": "25.42%",
+ "Debt / Equity": "0.04",
+ "Debt / EBITDA": "0.22",
+ "Net Cash": "625.33M",
+ "Total Debt": "70.36M",
+ "Cash & Cash Equivalents": "695.69M",
+ "Return on Invested Capital (ROIC)": "19.07%",
+ "Return on Equity (ROE)": "15.07%",
+ "Revenue": "1.13B",
+ "Net Income": "241.94M",
+ "Free Cash Flow": "286.04M",
+ "Dividend Yield": "0.74%",
+ "Beta (5Y)": "1.48",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,125",
+  "994.36",
+  "914.52",
+  "837.55",
+  "1,006",
+  "1,037"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "241.94",
+  "114.44",
+  "106.17",
+  "113.23",
+  "215.53",
+  "279.88"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "33.82",
+  "52.69",
+  "57.93",
+  "63.46",
+  "37.80",
+  "49.12"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "LFST",
+ "src_stats": "https://stockanalysis.com/stocks/lfst/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/lfst/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/lfst/financials/ratios/",
+ "Market Cap": "5.44B",
+ "Enterprise Value": "5.70B",
+ "PE Ratio": "80.39",
+ "Forward PE": "65.73",
+ "PS Ratio": "3.28",
+ "EV / EBITDA": "35.18",
+ "Gross Margin": "34.39%",
+ "Operating Margin": "6.43%",
+ "Profit Margin": "4.29%",
+ "FCF Margin": "10.69%",
+ "Debt / Equity": "0.32",
+ "Debt / EBITDA": "2.14",
+ "Net Cash": "-256.70M",
+ "Total Debt": "475.52M",
+ "Cash & Cash Equivalents": "218.82M",
+ "Return on Invested Capital (ROIC)": "4.97%",
+ "Return on Equity (ROE)": "4.82%",
+ "Revenue": "1.68B",
+ "Net Income": "71.91M",
+ "Free Cash Flow": "179.27M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.30",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,677",
+  "1,424",
+  "1,251",
+  "1,056",
+  "859.54",
+  "667.51"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "71.91",
+  "9.66",
+  "-57.44",
+  "-186.26",
+  "-215.56",
+  "-343.95"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "80.34",
+  "283.41",
+  "-",
+  "-",
+  "-",
+  "-"
+ ]
+}

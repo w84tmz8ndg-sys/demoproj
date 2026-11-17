@@ -1,0 +1,27 @@
+{
+ "ticker": "VZLA",
+ "name": "Vizsla Silver Corp. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 1040316635.0,
+ "price": "$2.93",
+ "cik": 1796073,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VZLA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vzla",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:49:59+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CRTO",
+ "name": "Criteo S.A. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Advertising",
+ "country": "France",
+ "mcap": 963126571.0,
+ "price": "$19.57",
+ "cik": 1576427,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRTO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/crto",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:38+00:00"
+}

@@ -1,0 +1,44 @@
+{
+ "ticker": "CTVA",
+ "src_stats": "https://stockanalysis.com/stocks/ctva/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ctva/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ctva/financials/ratios/",
+ "Market Cap": "5.90B",
+ "Enterprise Value": "9.41B",
+ "PE Ratio": "23.50",
+ "Forward PE": "10.43",
+ "PS Ratio": "0.78",
+ "EV / EBITDA": "7.84",
+ "Gross Margin": "44.52%",
+ "Operating Margin": "13.12%",
+ "Profit Margin": "3.24%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.30",
+ "Debt / EBITDA": "6.12",
+ "Net Cash": "-3.51B",
+ "Total Debt": "7.45B",
+ "Cash & Cash Equivalents": "3.93B",
+ "Return on Invested Capital (ROIC)": "3.28%",
+ "Return on Equity (ROE)": "n/a",
+ "Revenue": "7.75B",
+ "Net Income": "251.00M",
+ "Free Cash Flow": "-149.00M",
+ "Dividend Yield": "1.48%",
+ "Beta (5Y)": "0.58",
+ "fy": [
+  "TTM",
+  "FY 2025"
+ ],
+ "rev_hist": [
+  "7,754",
+  "7,503"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "251",
+  "586"
+ ],
+ "eps_growth": null,
+ "ratio_fy": null,
+ "pe_hist": null
+}

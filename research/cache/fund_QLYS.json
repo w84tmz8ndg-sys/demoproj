@@ -1,0 +1,70 @@
+{
+ "ticker": "QLYS",
+ "src_stats": "https://stockanalysis.com/stocks/qlys/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/qlys/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/qlys/financials/ratios/",
+ "Market Cap": "6.13B",
+ "Enterprise Value": "5.37B",
+ "PE Ratio": "29.27",
+ "Forward PE": "20.59",
+ "PS Ratio": "8.81",
+ "EV / EBITDA": "21.43",
+ "Gross Margin": "83.34%",
+ "Operating Margin": "34.46%",
+ "Profit Margin": "29.59%",
+ "FCF Margin": "44.99%",
+ "Debt / Equity": "0.08",
+ "Debt / EBITDA": "0.19",
+ "Net Cash": "756.80M",
+ "Total Debt": "51.24M",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "107.50%",
+ "Return on Equity (ROE)": "36.28%",
+ "Revenue": "721.14M",
+ "Net Income": "213.37M",
+ "Free Cash Flow": "324.44M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.54",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "721.14",
+  "669.13",
+  "607.57",
+  "554.46",
+  "489.72",
+  "411.17"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "213.37",
+  "198.32",
+  "173.68",
+  "151.6",
+  "107.99",
+  "70.96"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "28.95",
+  "24.03",
+  "29.54",
+  "47.63",
+  "39.48",
+  "75.08"
+ ]
+}

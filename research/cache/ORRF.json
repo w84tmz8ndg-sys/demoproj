@@ -1,0 +1,27 @@
+{
+ "ticker": "ORRF",
+ "name": "Orrstown Financial Services Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 864324362.0,
+ "price": "$43.94",
+ "cik": 826154,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ORRF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Orrstown Financial Services, Inc. (ORRF) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/orrf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:32+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ANGX",
+ "name": "Angel Studios Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Movies/Entertainment",
+ "country": "United States",
+ "mcap": 887226405.0,
+ "price": "$4.515",
+ "cik": 1865200,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ANGX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Angel Studios, Inc. (ANGX) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/angx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:17+00:00"
+}

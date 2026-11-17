@@ -1,0 +1,70 @@
+{
+ "ticker": "ELF",
+ "src_stats": "https://stockanalysis.com/stocks/elf/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/elf/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/elf/financials/ratios/",
+ "Market Cap": "6.81B",
+ "Enterprise Value": "7.38B",
+ "PE Ratio": "80.09",
+ "Forward PE": "34.85",
+ "PS Ratio": "3.54",
+ "EV / EBITDA": "27.45",
+ "Gross Margin": "71.75%",
+ "Operating Margin": "10.96%",
+ "Profit Margin": "4.47%",
+ "FCF Margin": "14.22%",
+ "Debt / Equity": "0.75",
+ "Debt / EBITDA": "3.18",
+ "Net Cash": "-569.53M",
+ "Total Debt": "920.33M",
+ "Cash & Cash Equivalents": "350.80M",
+ "Return on Invested Capital (ROIC)": "7.95%",
+ "Return on Equity (ROE)": "7.33%",
+ "Revenue": "1.94B",
+ "Net Income": "86.64M",
+ "Free Cash Flow": "275.69M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.58",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,939",
+  "1,636",
+  "1,314",
+  "1,024",
+  "578.84",
+  "392.16"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "86.64",
+  "26.32",
+  "112.09",
+  "127.66",
+  "61.53",
+  "21.77"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "77.30",
+  "136.00",
+  "31.59",
+  "85.23",
+  "71.33",
+  "61.84"
+ ]
+}

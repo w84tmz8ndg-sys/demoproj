@@ -1,0 +1,27 @@
+{
+ "ticker": "RPC",
+ "name": "Ridgepost Capital Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 1032601636.0,
+ "price": "$9.475",
+ "cik": 1841968,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RPC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, P10 Inc. (RPC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rpc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:05+00:00"
+}

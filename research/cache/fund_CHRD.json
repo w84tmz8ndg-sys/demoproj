@@ -1,0 +1,70 @@
+{
+ "ticker": "CHRD",
+ "src_stats": "https://stockanalysis.com/stocks/chrd/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/chrd/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/chrd/financials/ratios/",
+ "Market Cap": "7.62B",
+ "Enterprise Value": "8.32B",
+ "PE Ratio": "9.11",
+ "Forward PE": "6.18",
+ "PS Ratio": "1.23",
+ "EV / EBITDA": "3.07",
+ "Gross Margin": "51.08%",
+ "Operating Margin": "18.93%",
+ "Profit Margin": "14.24%",
+ "FCF Margin": "22.32%",
+ "Debt / Equity": "0.18",
+ "Debt / EBITDA": "0.53",
+ "Net Cash": "-701.66M",
+ "Total Debt": "1.51B",
+ "Cash & Cash Equivalents": "804.71M",
+ "Return on Invested Capital (ROIC)": "10.33%",
+ "Return on Equity (ROE)": "11.01%",
+ "Revenue": "6.32B",
+ "Net Income": "892.86M",
+ "Free Cash Flow": "1.41B",
+ "Dividend Yield": "3.63%",
+ "Beta (5Y)": "0.35",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,316",
+  "4,585",
+  "4,918",
+  "3,637",
+  "3,417",
+  "1,503"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "892.86",
+  "42.72",
+  "845.19",
+  "1,020",
+  "1,856",
+  "319.6"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "9.11",
+  "123.39",
+  "8.46",
+  "6.72",
+  "3.07",
+  "7.79"
+ ]
+}

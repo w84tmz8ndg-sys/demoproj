@@ -1,0 +1,27 @@
+{
+ "ticker": "ODTX",
+ "name": "Odyssey Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 930594099.0,
+ "price": "$19.36",
+ "cik": 1882782,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ODTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/odtx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:57+00:00"
+}

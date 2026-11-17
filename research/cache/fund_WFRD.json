@@ -1,0 +1,70 @@
+{
+ "ticker": "WFRD",
+ "src_stats": "https://stockanalysis.com/stocks/wfrd/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/wfrd/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/wfrd/financials/ratios/",
+ "Market Cap": "5.98B",
+ "Enterprise Value": "6.44B",
+ "PE Ratio": "14.72",
+ "Forward PE": "12.96",
+ "PS Ratio": "1.31",
+ "EV / EBITDA": "7.31",
+ "Gross Margin": "30.80%",
+ "Operating Margin": "13.16%",
+ "Profit Margin": "8.64%",
+ "FCF Margin": "12.35%",
+ "Debt / Equity": "0.82",
+ "Debt / EBITDA": "1.44",
+ "Net Cash": "-467.00M",
+ "Total Debt": "1.63B",
+ "Cash & Cash Equivalents": "1.16B",
+ "Return on Invested Capital (ROIC)": "24.57%",
+ "Return on Equity (ROE)": "23.32%",
+ "Revenue": "4.69B",
+ "Net Income": "405.00M",
+ "Free Cash Flow": "579.00M",
+ "Dividend Yield": "1.33%",
+ "Beta (5Y)": "0.83",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,689",
+  "4,918",
+  "5,513",
+  "5,135",
+  "4,331",
+  "3,645"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "405",
+  "431",
+  "506",
+  "417",
+  "26",
+  "-450"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "14.49",
+  "13.03",
+  "10.29",
+  "16.92",
+  "138.28",
+  "-"
+ ]
+}

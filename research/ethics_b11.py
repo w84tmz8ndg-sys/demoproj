@@ -1,0 +1,13 @@
+from ethics_lib import *
+b = Batch(11)
+b.ex("RAL","a","Weapons supply chain","Defense & Space segment backlog >$1B from missile and munitions replenishment programs; $27.3M Defense Production Act award to expand solid-rocket component production (PacSci EMC).", "https://www.01net.it/ralliant-reports-first-quarter-2026-results-and-raises-full-year-guidance/","https://www.01net.it/ralliant-spotlights-award-of-27-3m-investment-from-the-defense-production-act-to-scale-production-at-its-pacsci-emc-operating-company/")
+b.ex("VIAV","a","Defense supply chain","Government, Aerospace & Defense line: military avionics test sets, military-grade optical coatings; selected for US Army electronic-warfare testing.", "https://www.viavisolutions.com/en-uk/node/109465","https://www.zacks.com/stock/news/3007100/can-viavi-s-u-s-army-defense-testing-selection-propel-its-shares")
+b.ex("S","a","Military software to defense ministries","SentinelOne markets a dedicated platform 'built for the U.S. Department of War and Intelligence Community' (FedRAMP High, GovCloud).", "https://www.sentinelone.com/platform/federal-government-dod/")
+b.ex("GTLB","a","Military software to defense ministries","Offered through a DoD ESI DevSecOps agreement; US Army and Naval Research Laboratory GitLab licence awards (2025).", "https://www.cdwg.com/content/cdwg/en/industries/federal-it-solutions/federal-contracts/dod-esi/dod-esi-devsecops-gitlab.html","https://govcontractfinder.com/contracts/award-notice-of-gitlab-premium-software-W912CH25FA131")
+b.ex("RMBS","a","Military R&D (DoD) — weaker case","Joined the DARPA Toolbox initiative (2021) making its security/interface IP available to DARPA researchers; licenses DPA countermeasures to Boeing for defense products. Excluded for consistency with CDNS; weaker case.", "https://us.design-reuse.com/news/49828/rambus-darpa-toolbox-initiative-security-interface-ip.html","https://edacafe.com/nbc/articles/1/1440779/Boeing-Licenses-Rambus-DPA-Countermeasures-Protect-Critical-Aerospace-Defense-Systems-Security-Threats")
+for t, txt in [("SPXC","Detection & measurement businesses may include defense-related products; not researched in depth. Verify."),
+               ("YOU","Biometric identity company operating at airports alongside TSA; possible state-security data sharing not researched. Verify."),
+               ("FSS","Makes police sirens/lightbars and public-safety vehicles; possible military sales not researched. Verify.")]:
+    b.ok(t, flags=[("Not fully researched", txt, [])])
+b.oks("EPAM DSGX CGNX SSD TTAN APPF VMI ALKS CHRD POOL CORT ZWS KNSA SLAB TRNO AWI TXG AXSM URBN CHE IDCC XMTR TTD")
+b.save()

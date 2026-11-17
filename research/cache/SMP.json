@@ -1,0 +1,27 @@
+{
+ "ticker": "SMP",
+ "name": "Standard Motor Products Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "United States",
+ "mcap": 978347904.0,
+ "price": "$43.79",
+ "cik": 93389,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SMP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Standard Motor Products, Inc. (SMP) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/smp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:32+00:00"
+}

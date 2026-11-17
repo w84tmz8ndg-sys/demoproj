@@ -1,0 +1,27 @@
+{
+ "ticker": "SBSI",
+ "name": "Southside Bancshares Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 1019415063.0,
+ "price": "$34.23",
+ "cik": 705432,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SBSI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Southside Bancshares (SBSI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sbsi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:09+00:00"
+}

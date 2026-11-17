@@ -1,0 +1,27 @@
+{
+ "ticker": "DJCO",
+ "name": "Daily Journal Corp. (S.C.) Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Newspapers/Magazines",
+ "country": "United States",
+ "mcap": 878651093.0,
+ "price": "$637.65",
+ "cik": 783412,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DJCO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Daily Journal Corporation (DJCO) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/djco",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:26+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "MIDD",
+ "src_stats": "https://stockanalysis.com/stocks/midd/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/midd/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/midd/financials/ratios/",
+ "Market Cap": "5.87B",
+ "Enterprise Value": "7.53B",
+ "PE Ratio": "157.70",
+ "Forward PE": "17.21",
+ "PS Ratio": "1.77",
+ "EV / EBITDA": "10.70",
+ "Gross Margin": "38.69%",
+ "Operating Margin": "18.18%",
+ "Profit Margin": "1.20%",
+ "FCF Margin": "11.11%",
+ "Debt / Equity": "1.33",
+ "Debt / EBITDA": "2.39",
+ "Net Cash": "-1.66B",
+ "Total Debt": "1.76B",
+ "Cash & Cash Equivalents": "105.69M",
+ "Return on Invested Capital (ROIC)": "12.22%",
+ "Return on Equity (ROE)": "13.48%",
+ "Revenue": "3.35B",
+ "Net Income": "40.06M",
+ "Free Cash Flow": "372.23M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.31",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,351",
+  "3,201",
+  "3,150",
+  "3,242",
+  "4,033",
+  "3,251"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "40.06",
+  "-277.73",
+  "428.43",
+  "400.88",
+  "436.57",
+  "488.49"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "158.54",
+  "-",
+  "17.15",
+  "19.68",
+  "16.53",
+  "22.41"
+ ]
+}

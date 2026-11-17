@@ -1,0 +1,27 @@
+{
+ "ticker": "NABL",
+ "name": "N-able Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 864158443.0,
+ "price": "$4.89",
+ "cik": 1834488,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NABL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, N-able (NABL) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nabl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:31+00:00"
+}

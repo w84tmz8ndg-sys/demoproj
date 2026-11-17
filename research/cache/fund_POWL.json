@@ -1,0 +1,70 @@
+{
+ "ticker": "POWL",
+ "src_stats": "https://stockanalysis.com/stocks/powl/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/powl/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/powl/financials/ratios/",
+ "Market Cap": "5.41B",
+ "Enterprise Value": "4.55B",
+ "PE Ratio": "24.59",
+ "Forward PE": "21.38",
+ "PS Ratio": "4.38",
+ "EV / EBITDA": "16.98",
+ "Gross Margin": "31.28%",
+ "Operating Margin": "21.09%",
+ "Profit Margin": "17.59%",
+ "FCF Margin": "21.08%",
+ "Debt / Equity": "n/a",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "860.83M",
+ "Total Debt": "n/a",
+ "Cash & Cash Equivalents": "860.83M",
+ "Return on Invested Capital (ROIC)": "22.39%",
+ "Return on Equity (ROE)": "29.91%",
+ "Revenue": "1.26B",
+ "Net Income": "220.99M",
+ "Free Cash Flow": "243.96M",
+ "Dividend Yield": "0.24%",
+ "Beta (5Y)": "1.23",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,256",
+  "1,256",
+  "1,104",
+  "1,012",
+  "699.31",
+  "532.58"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "220.99",
+  "220.99",
+  "180.75",
+  "149.85",
+  "54.53",
+  "13.74"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "24.42",
+  "30.41",
+  "20.35",
+  "17.76",
+  "18.03",
+  "18.08"
+ ]
+}

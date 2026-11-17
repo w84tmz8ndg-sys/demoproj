@@ -1,0 +1,70 @@
+{
+ "ticker": "SSD",
+ "src_stats": "https://stockanalysis.com/stocks/ssd/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ssd/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ssd/financials/ratios/",
+ "Market Cap": "7.91B",
+ "Enterprise Value": "7.84B",
+ "PE Ratio": "21.15",
+ "Forward PE": "21.16",
+ "PS Ratio": "3.29",
+ "EV / EBITDA": "13.32",
+ "Gross Margin": "45.73%",
+ "Operating Margin": "20.25%",
+ "Profit Margin": "15.62%",
+ "FCF Margin": "20.35%",
+ "Debt / Equity": "0.19",
+ "Debt / EBITDA": "0.66",
+ "Net Cash": "78.17M",
+ "Total Debt": "413.08M",
+ "Cash & Cash Equivalents": "491.25M",
+ "Return on Invested Capital (ROIC)": "17.67%",
+ "Return on Equity (ROE)": "18.33%",
+ "Revenue": "2.44B",
+ "Net Income": "380.60M",
+ "Free Cash Flow": "495.80M",
+ "Dividend Yield": "0.61%",
+ "Beta (5Y)": "1.36",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,437",
+  "2,333",
+  "2,232",
+  "2,214",
+  "2,116",
+  "1,573"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "380.6",
+  "345.08",
+  "322.22",
+  "353.99",
+  "334",
+  "266.45"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "21.17",
+  "19.40",
+  "21.70",
+  "23.87",
+  "11.31",
+  "22.56"
+ ]
+}

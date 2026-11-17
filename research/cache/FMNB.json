@@ -1,0 +1,27 @@
+{
+ "ticker": "FMNB",
+ "name": "Farmers National Banc Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 910781074.0,
+ "price": "$15.37",
+ "cik": 709337,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FMNB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Farmers National Banc Corp. (FMNB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fmnb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:07+00:00"
+}

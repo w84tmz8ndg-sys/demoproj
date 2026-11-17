@@ -1,0 +1,27 @@
+{
+ "ticker": "AFYA",
+ "name": "Afya Limited Class A Common Shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "Brazil",
+ "mcap": 945663365.0,
+ "price": "$10.09",
+ "cik": 1771007,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AFYA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/afya",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:48+00:00"
+}

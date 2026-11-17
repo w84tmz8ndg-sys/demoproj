@@ -1,0 +1,70 @@
+{
+ "ticker": "POOL",
+ "src_stats": "https://stockanalysis.com/stocks/pool/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/pool/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/pool/financials/ratios/",
+ "Market Cap": "7.54B",
+ "Enterprise Value": "8.95B",
+ "PE Ratio": "19.48",
+ "Forward PE": "18.43",
+ "PS Ratio": "1.39",
+ "EV / EBITDA": "14.10",
+ "Gross Margin": "29.42%",
+ "Operating Margin": "10.70%",
+ "Profit Margin": "7.27%",
+ "FCF Margin": "8.11%",
+ "Debt / Equity": "1.24",
+ "Debt / EBITDA": "1.93",
+ "Net Cash": "-1.41B",
+ "Total Debt": "1.52B",
+ "Cash & Cash Equivalents": "109.84M",
+ "Return on Invested Capital (ROIC)": "15.83%",
+ "Return on Equity (ROE)": "30.38%",
+ "Revenue": "5.45B",
+ "Net Income": "393.72M",
+ "Free Cash Flow": "441.95M",
+ "Dividend Yield": "2.47%",
+ "Beta (5Y)": "0.94",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,448",
+  "5,289",
+  "5,311",
+  "5,542",
+  "6,180",
+  "5,296"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "393.72",
+  "404.42",
+  "432.08",
+  "520.46",
+  "744.31",
+  "646.3"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "19.66",
+  "21.07",
+  "30.03",
+  "29.63",
+  "15.86",
+  "35.11"
+ ]
+}

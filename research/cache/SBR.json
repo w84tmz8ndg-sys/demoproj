@@ -1,0 +1,27 @@
+{
+ "ticker": "SBR",
+ "name": "Sabine Royalty Trust Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 904939944.0,
+ "price": "$62.07",
+ "cik": 710752,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SBR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sbr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:09+00:00"
+}

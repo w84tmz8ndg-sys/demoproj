@@ -1,0 +1,27 @@
+{
+ "ticker": "SPTX",
+ "name": "Seaport Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 1023504116.0,
+ "price": "$19.12",
+ "cik": 2042347,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SPTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sptx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:09+00:00"
+}

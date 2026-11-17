@@ -1,0 +1,70 @@
+{
+ "ticker": "URBN",
+ "src_stats": "https://stockanalysis.com/stocks/urbn/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/urbn/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/urbn/financials/ratios/",
+ "Market Cap": "7.08B",
+ "Enterprise Value": "7.37B",
+ "PE Ratio": "13.01",
+ "Forward PE": "12.61",
+ "PS Ratio": "1.10",
+ "EV / EBITDA": "9.59",
+ "Gross Margin": "36.03%",
+ "Operating Margin": "9.74%",
+ "Profit Margin": "8.79%",
+ "FCF Margin": "4.56%",
+ "Debt / Equity": "0.43",
+ "Debt / EBITDA": "0.99",
+ "Net Cash": "-292.29M",
+ "Total Debt": "1.21B",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "14.76%",
+ "Return on Equity (ROE)": "20.94%",
+ "Revenue": "6.47B",
+ "Net Income": "569.06M",
+ "Free Cash Flow": "295.21M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.22",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "6,474",
+  "6,165",
+  "5,551",
+  "5,153",
+  "4,795",
+  "4,549"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "569.06",
+  "464.92",
+  "402.46",
+  "287.67",
+  "159.7",
+  "310.62"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "13.27",
+  "13.67",
+  "12.71",
+  "12.26",
+  "15.81",
+  "9.05"
+ ]
+}

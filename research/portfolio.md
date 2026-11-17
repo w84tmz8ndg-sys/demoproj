@@ -1,6 +1,6 @@
 # Running portfolio
 
-_Last updated 2026-11-17 after batch(es) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Built only from companies that passed **both** layers and had a manual ethics review. Individual stocks only. Research for review — not financial advice; the user is not relying on it as such._
+_Last updated 2026-11-17 after batch(es) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13. Built only from companies that passed **both** layers and had a manual ethics review. Individual stocks only. Research for review — not financial advice; the user is not relying on it as such._
 
 | # | Ticker | Company | Sector | Mkt cap | Weight | Valuation view | Why included |
 |---|---|---|---|---|---|---|---|
@@ -59,9 +59,9 @@ _Last updated 2026-11-17 after batch(es) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Built on
 - The fundamentals come from stockanalysis.com, an aggregator, and could not all be checked against the 10-K/20-F filings. Foreign filers (NVO, TSM, ASML, AZN) report in their own currencies; the growth rates shown are in those currencies.
 - Valuation calls use a simple rule: forward P/E against the company's own 5-year median P/E. That rule ignores interest rates and changes in growth outlook.
 
-## Strongest candidates right now (refreshed 2026-11-17, batches 1–10)
+## Strongest candidates right now (refreshed 2026-11-17, batches 1–13)
 
-These rank highest among the 253 companies that pass both screens. The ranking combines operating margin, ROIC, revenue growth, and forward P/E against each company's own 5-year median. All 15 portfolio holdings were re-checked on Zoya and Musaffa today and still pass.
+These rank highest among the 307 companies that pass both screens. The ranking combines operating margin, ROIC, revenue growth, and forward P/E against each company's own 5-year median. All 15 portfolio holdings were re-checked on Zoya and Musaffa today and still pass.
 
 | Rank | Ticker | Why it ranks well | Main caveat |
 |---|---|---|---|
@@ -74,6 +74,6 @@ These rank highest among the 253 companies that pass both screens. The ranking c
 | 7 | V | 66% op. margin; fairly priced (~28x fwd) | Interchange regulation/litigation |
 | 8 | AEM | Low-cost gold miner, net cash, ~15x fwd | Depends on gold price |
 
-**Watch list** (these pass both screens but are not in the portfolio): KLAC (~23x fwd; 43% op. margin), MPWR (fast-growing power chips, ~31x), NBIX (profitable biotech, ~14x), DECK (Hoka/UGG, ~11x), EXEL (net-cash oncology, ~17x), FTNT ((c) flag; ~33x). FICO screens cheap, but it carries heavy debt (negative equity). MEDP's ROIC figure is distorted by its negative equity.
+**Watch list** (these pass both screens but are not in the portfolio): KLAC (~23x fwd; 43% op. margin), MPWR (fast-growing power chips, ~31x), NBIX (profitable biotech, ~14x), DECK (Hoka/UGG, ~11x), EXEL (net-cash oncology, ~17x), FTNT ((c) flag; ~33x). New from batches 11–13: QLYS (vulnerability-management software, ROIC ~108%, 34% op. margin, ~21x fwd vs ~40 median; ~$6B cap) and CRUS (audio chips, ~17x). Smaller names carry more single-company risk. FICO screens cheap, but it carries heavy debt (negative equity). MEDP's ROIC figure is distorted by its negative equity.
 
-**What this does not cover:** the ethics review stops at batch 10 (the ~1,000 largest stocks), so smaller companies are unreviewed. Valuations use aggregator data (stockanalysis.com) and a simple P/E-versus-history rule. This list is research for review, not a recommendation to buy.
+**What this does not cover:** the ethics review stops at batch 13 (the ~1,300 largest stocks), so smaller companies are unreviewed. Valuations use aggregator data (stockanalysis.com) and a simple P/E-versus-history rule. This list is research for review, not a recommendation to buy.

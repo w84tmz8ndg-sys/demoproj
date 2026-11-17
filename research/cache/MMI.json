@@ -1,0 +1,27 @@
+{
+ "ticker": "MMI",
+ "name": "Marcus & Millichap Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 935129839.0,
+ "price": "$24.64",
+ "cik": 1578732,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MMI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Marcus & Millichap (MMI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mmi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:56+00:00"
+}

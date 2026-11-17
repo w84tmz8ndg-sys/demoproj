@@ -1,0 +1,27 @@
+{
+ "ticker": "SB",
+ "name": "Safe Bulkers Inc Common Stock ($0.001 par value)",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Monaco",
+ "mcap": 921384167.0,
+ "price": "$8.065",
+ "cik": 1434754,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:01+00:00"
+}

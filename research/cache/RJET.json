@@ -1,0 +1,27 @@
+{
+ "ticker": "RJET",
+ "name": "Republic Airways Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Air Freight/Delivery Services",
+ "country": "United States",
+ "mcap": 944823907.0,
+ "price": "$20.21",
+ "cik": 810332,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RJET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Republic Airways Holdings Inc. (RJET) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rjet",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:49+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "BROS",
+ "src_stats": "https://stockanalysis.com/stocks/bros/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/bros/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/bros/financials/ratios/",
+ "Market Cap": "6.21B",
+ "Enterprise Value": "7.32B",
+ "PE Ratio": "45.17",
+ "Forward PE": "31.06",
+ "PS Ratio": "3.16",
+ "EV / EBITDA": "21.75",
+ "Gross Margin": "24.76%",
+ "Operating Margin": "9.83%",
+ "Profit Margin": "5.08%",
+ "FCF Margin": "4.53%",
+ "Debt / Equity": "1.29",
+ "Debt / EBITDA": "3.13",
+ "Net Cash": "-1.10B",
+ "Total Debt": "1.30B",
+ "Cash & Cash Equivalents": "194.92M",
+ "Return on Invested Capital (ROIC)": "8.25%",
+ "Return on Equity (ROE)": "15.12%",
+ "Revenue": "2.01B",
+ "Net Income": "102.03M",
+ "Free Cash Flow": "90.93M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.94",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,009",
+  "1,638",
+  "1,281",
+  "965.78",
+  "739.01",
+  "497.88"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "102.03",
+  "79.84",
+  "35.26",
+  "1.72",
+  "-4.75",
+  "-12.68"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "45.08",
+  "97.40",
+  "169.10",
+  "1390.49",
+  "-",
+  "-"
+ ]
+}

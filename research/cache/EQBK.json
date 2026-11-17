@@ -1,0 +1,27 @@
+{
+ "ticker": "EQBK",
+ "name": "Equity Bancshares Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 1012885035.0,
+ "price": "$49.145",
+ "cik": 1227500,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EQBK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Equity Bancshares Inc - Ordinary Shares - Class A (EQBK) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/eqbk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:13+00:00"
+}

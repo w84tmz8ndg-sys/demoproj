@@ -1,0 +1,63 @@
+{
+ "ticker": "KVYO",
+ "src_stats": "https://stockanalysis.com/stocks/kvyo/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/kvyo/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/kvyo/financials/ratios/",
+ "Market Cap": "6.27B",
+ "Enterprise Value": "5.70B",
+ "PE Ratio": "836.46",
+ "Forward PE": "21.09",
+ "PS Ratio": "4.29",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "73.54%",
+ "Operating Margin": "-1.05%",
+ "Profit Margin": "0.54%",
+ "FCF Margin": "16.73%",
+ "Debt / Equity": "0.16",
+ "Debt / EBITDA": "5.05",
+ "Net Cash": "571.11M",
+ "Total Debt": "134.33M",
+ "Cash & Cash Equivalents": "705.44M",
+ "Return on Invested Capital (ROIC)": "-3.34%",
+ "Return on Equity (ROE)": "0.79%",
+ "Revenue": "1.47B",
+ "Net Income": "7.92M",
+ "Free Cash Flow": "245.30M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.50",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,466",
+  "1,234",
+  "937.46",
+  "698.1",
+  "472.75",
+  "290.64"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "7.92",
+  "-31.77",
+  "-46.14",
+  "-308.23",
+  "-49.19",
+  "-79.39"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

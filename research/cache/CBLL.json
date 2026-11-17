@@ -1,0 +1,27 @@
+{
+ "ticker": "CBLL",
+ "name": "CeriBell Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+ "country": "United States",
+ "mcap": 1026020964.0,
+ "price": "$26.42",
+ "cik": 1861107,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CBLL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Ceribell, Inc. (CBLL) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cbll",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:06+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "APPF",
+ "src_stats": "https://stockanalysis.com/stocks/appf/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/appf/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/appf/financials/ratios/",
+ "Market Cap": "7.57B",
+ "Enterprise Value": "7.29B",
+ "PE Ratio": "44.94",
+ "Forward PE": "26.70",
+ "PS Ratio": "7.26",
+ "EV / EBITDA": "35.13",
+ "Gross Margin": "63.79%",
+ "Operating Margin": "18.83%",
+ "Profit Margin": "15.62%",
+ "FCF Margin": "25.95%",
+ "Debt / Equity": "0.05",
+ "Debt / EBITDA": "0.13",
+ "Net Cash": "277.99M",
+ "Total Debt": "29.29M",
+ "Cash & Cash Equivalents": "307.28M",
+ "Return on Invested Capital (ROIC)": "50.70%",
+ "Return on Equity (ROE)": "31.42%",
+ "Revenue": "1.09B",
+ "Net Income": "169.86M",
+ "Free Cash Flow": "282.10M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.85",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,087",
+  "950.82",
+  "794.2",
+  "620.45",
+  "471.88",
+  "359.37"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "169.86",
+  "140.92",
+  "204.06",
+  "2.7",
+  "-68.12",
+  "1.03"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "44.62",
+  "59.30",
+  "43.42",
+  "2292.90",
+  "-",
+  "4082.59"
+ ]
+}

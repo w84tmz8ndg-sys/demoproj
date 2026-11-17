@@ -1,0 +1,27 @@
+{
+ "ticker": "BV",
+ "name": "BrightView Holdings Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "United States",
+ "mcap": 854088000.0,
+ "price": "$9.365",
+ "cik": 1734713,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, BrightView Holdings (BV) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bv",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:37+00:00"
+}

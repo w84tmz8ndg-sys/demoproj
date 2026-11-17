@@ -1,0 +1,27 @@
+{
+ "ticker": "HELE",
+ "name": "Helen of Troy Limited Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Home Furnishings",
+ "country": "Bermuda",
+ "mcap": 880657408.0,
+ "price": "$37.65",
+ "cik": 916789,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HELE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Helen of Troy Limited (HELE) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hele",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:25+00:00"
+}

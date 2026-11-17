@@ -1,0 +1,27 @@
+{
+ "ticker": "OPY",
+ "name": "Oppenheimer Holdings Inc. Class A Common Stock (DE)",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "United States",
+ "mcap": 940336687.0,
+ "price": "$87.79",
+ "cik": 791963,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OPY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Oppenheimer Holdings Inc - Ordinary Shares - Class A (OPY) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/opy",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:53+00:00"
+}

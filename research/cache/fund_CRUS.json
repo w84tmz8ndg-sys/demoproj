@@ -1,0 +1,70 @@
+{
+ "ticker": "CRUS",
+ "src_stats": "https://stockanalysis.com/stocks/crus/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/crus/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/crus/financials/ratios/",
+ "Market Cap": "5.81B",
+ "Enterprise Value": "4.86B",
+ "PE Ratio": "14.67",
+ "Forward PE": "17.32",
+ "PS Ratio": "2.82",
+ "EV / EBITDA": "9.42",
+ "Gross Margin": "53.12%",
+ "Operating Margin": "22.46%",
+ "Profit Margin": "20.20%",
+ "FCF Margin": "25.69%",
+ "Debt / Equity": "0.06",
+ "Debt / EBITDA": "0.24",
+ "Net Cash": "948.70M",
+ "Total Debt": "127.73M",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "25.47%",
+ "Return on Equity (ROE)": "19.54%",
+ "Revenue": "2.05B",
+ "Net Income": "413.71M",
+ "Free Cash Flow": "526.24M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.23",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "2,048",
+  "1,997",
+  "1,896",
+  "1,789",
+  "1,898",
+  "1,781"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "413.71",
+  "414.41",
+  "331.51",
+  "274.57",
+  "176.7",
+  "326.36"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "14.53",
+  "17.65",
+  "15.95",
+  "18.18",
+  "33.02",
+  "15.39"
+ ]
+}

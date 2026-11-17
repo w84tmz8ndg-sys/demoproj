@@ -1,0 +1,27 @@
+{
+ "ticker": "SVRA",
+ "name": "Savara Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 985083977.0,
+ "price": "$4.465",
+ "cik": 1160308,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SVRA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Savara Inc (SVRA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/svra",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:50:26+00:00"
+}

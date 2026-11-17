@@ -1,0 +1,70 @@
+{
+ "ticker": "KEX",
+ "src_stats": "https://stockanalysis.com/stocks/kex/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/kex/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/kex/financials/ratios/",
+ "Market Cap": "6.72B",
+ "Enterprise Value": "7.93B",
+ "PE Ratio": "18.48",
+ "Forward PE": "15.45",
+ "PS Ratio": "1.86",
+ "EV / EBITDA": "9.75",
+ "Gross Margin": "33.20%",
+ "Operating Margin": "14.80%",
+ "Profit Margin": "10.39%",
+ "FCF Margin": "11.12%",
+ "Debt / Equity": "0.36",
+ "Debt / EBITDA": "1.39",
+ "Net Cash": "-1.21B",
+ "Total Debt": "1.25B",
+ "Cash & Cash Equivalents": "38.29M",
+ "Return on Invested Capital (ROIC)": "8.67%",
+ "Return on Equity (ROE)": "10.99%",
+ "Revenue": "3.60B",
+ "Net Income": "373.51M",
+ "Free Cash Flow": "399.91M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.81",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,595",
+  "3,364",
+  "3,266",
+  "3,092",
+  "2,785",
+  "2,247"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "373.51",
+  "354.52",
+  "286.67",
+  "222.87",
+  "122.26",
+  "-246.95"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "18.29",
+  "16.85",
+  "21.18",
+  "20.81",
+  "31.53",
+  "-"
+ ]
+}

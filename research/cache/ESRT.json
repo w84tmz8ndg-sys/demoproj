@@ -1,0 +1,27 @@
+{
+ "ticker": "ESRT",
+ "name": "Empire State Realty Trust Inc. Class A Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 869373111.0,
+ "price": "$5.49",
+ "cik": 1541401,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ESRT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Empire State Realty Trust, Inc. (ESRT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/esrt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:28+00:00"
+}
