@@ -1,0 +1,27 @@
+{
+ "ticker": "FRMEP",
+ "name": "First Merchants Corporation Depository Shares",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 1566297930.0,
+ "price": "$24.99",
+ "cik": 712534,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/FRMEP/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/frmep",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:24+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GLIBK",
+ "name": "Liberty Capital Corporation Series C GCI Group Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Cable & Other Pay Television Services",
+ "country": "United States",
+ "mcap": 1113748383.0,
+ "price": "$27.91",
+ "cik": 2057463,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GLIBK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/glibk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:52+00:00"
+}

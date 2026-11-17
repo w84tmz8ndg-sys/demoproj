@@ -1,0 +1,27 @@
+{
+ "ticker": "NWCL",
+ "name": "newcleo plc Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United Kingdom",
+ "mcap": 1096578630.0,
+ "price": "$3.895",
+ "cik": 2131813,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NWCL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nwcl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:56+00:00"
+}

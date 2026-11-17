@@ -1,0 +1,27 @@
+{
+ "ticker": "SVV",
+ "name": "Savers Value Village Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "United States",
+ "mcap": 1529251292.0,
+ "price": "$9.955",
+ "cik": 1883313,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SVV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Savers Value Village (SVV) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/svv",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:35+00:00"
+}

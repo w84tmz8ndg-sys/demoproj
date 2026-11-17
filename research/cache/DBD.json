@@ -1,0 +1,27 @@
+{
+ "ticker": "DBD",
+ "name": "Diebold Nixdorf Incorporated Common stock",
+ "sector": "Miscellaneous",
+ "industry": "Office Equipment/Supplies/Services",
+ "country": "United States",
+ "mcap": 1776042275.0,
+ "price": "$52.88",
+ "cik": 28823,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DBD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Diebold Nixdorf (DBD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dbd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:25+00:00"
+}

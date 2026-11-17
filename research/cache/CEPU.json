@@ -1,0 +1,27 @@
+{
+ "ticker": "CEPU",
+ "name": "Central Puerto S.A. American Depositary Shares (each represents ten Common Shares)",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "",
+ "mcap": 1562210867.0,
+ "price": "$10.32",
+ "cik": 1717161,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CEPU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cepu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:26+00:00"
+}

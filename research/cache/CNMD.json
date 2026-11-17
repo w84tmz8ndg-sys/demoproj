@@ -1,0 +1,27 @@
+{
+ "ticker": "CNMD",
+ "name": "CONMED Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+ "country": "United States",
+ "mcap": 1470793990.0,
+ "price": "$49.35",
+ "cik": 816956,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNMD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, CONMED Corporation (CNMD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cnmd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:54+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SBET",
+ "name": "Sharplink Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 1151934860.0,
+ "price": "$5.30",
+ "cik": 1981535,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SBET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, SharpLink Gaming Inc. (SBET) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sbet",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:36+00:00"
+}

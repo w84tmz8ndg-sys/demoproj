@@ -1,0 +1,27 @@
+{
+ "ticker": "DNN",
+ "name": "Denison Mines Corp Ordinary Shares (Canada)",
+ "sector": "Basic Materials",
+ "industry": "Other Metals and Minerals",
+ "country": "Canada",
+ "mcap": 1733294145.0,
+ "price": "$1.9143",
+ "cik": 1063259,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DNN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Denison Mines (DNN) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dnn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:39+00:00"
+}

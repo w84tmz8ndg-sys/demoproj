@@ -1,0 +1,27 @@
+{
+ "ticker": "WERN",
+ "name": "Werner Enterprises Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Trucking Freight/Courier Services",
+ "country": "United States",
+ "mcap": 1693754885.0,
+ "price": "$28.24",
+ "cik": 793074,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WERN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Werner Enterprises (WERN) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wern",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:49+00:00"
+}

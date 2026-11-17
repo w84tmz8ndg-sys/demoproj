@@ -1,0 +1,27 @@
+{
+ "ticker": "CMPR",
+ "name": "Cimpress plc Ordinary Shares (Ireland)",
+ "sector": "Consumer Discretionary",
+ "industry": "Publishing",
+ "country": "Netherlands",
+ "mcap": 1360062769.0,
+ "price": "$55.24",
+ "cik": 1262976,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CMPR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Cimpress plc (CMPR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cmpr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:26+00:00"
+}

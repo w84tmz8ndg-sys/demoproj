@@ -1,0 +1,27 @@
+{
+ "ticker": "FRNM",
+ "name": "Freenome Inc. Common stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 1125044646.0,
+ "price": "$10.09",
+ "cik": 2017526,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FRNM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/frnm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:48+00:00"
+}

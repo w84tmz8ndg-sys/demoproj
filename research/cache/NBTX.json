@@ -1,0 +1,27 @@
+{
+ "ticker": "NBTX",
+ "name": "Nanobiotix S.A. American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "France",
+ "mcap": 1450057552.0,
+ "price": "$28.54",
+ "cik": 1760854,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NBTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nbtx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:00+00:00"
+}

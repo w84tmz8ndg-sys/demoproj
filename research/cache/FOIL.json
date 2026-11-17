@@ -1,0 +1,27 @@
+{
+ "ticker": "FOIL",
+ "name": "Londian Wason New Energy Tech Inc. American Depositary Shares each representing five Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Industrial Specialties",
+ "country": "",
+ "mcap": 1209111020.0,
+ "price": "$15.47",
+ "cik": 2006960,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FOIL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/foil",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:19+00:00"
+}

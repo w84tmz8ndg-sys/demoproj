@@ -1,0 +1,27 @@
+{
+ "ticker": "REF",
+ "name": "Reformation Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Apparel",
+ "country": "",
+ "mcap": 1133732151.0,
+ "price": "$19.19",
+ "cik": 1787117,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/REF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ref",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:48+00:00"
+}

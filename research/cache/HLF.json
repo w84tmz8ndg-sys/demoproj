@@ -1,0 +1,27 @@
+{
+ "ticker": "HLF",
+ "name": "Herbalife Ltd. Common Shares",
+ "sector": "Health Care",
+ "industry": "Other Pharmaceuticals",
+ "country": "Cayman Islands",
+ "mcap": 1693542481.0,
+ "price": "$16.145",
+ "cik": 1180262,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HLF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Herbalife Nutrition Ltd. (HLF) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hlf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:48+00:00"
+}

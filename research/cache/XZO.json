@@ -1,0 +1,27 @@
+{
+ "ticker": "XZO",
+ "name": "Exzeo Group Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "",
+ "mcap": 1424756906.0,
+ "price": "$15.915",
+ "cik": 1873951,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XZO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Exzeo Group, Inc. (XZO) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/xzo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:07+00:00"
+}

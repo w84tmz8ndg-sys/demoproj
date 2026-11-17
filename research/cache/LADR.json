@@ -1,0 +1,27 @@
+{
+ "ticker": "LADR",
+ "name": "Ladder Capital Corp Class A Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 1063372505.0,
+ "price": "$8.44",
+ "cik": 1577670,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LADR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Ladder Capital Corp (LADR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ladr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:12+00:00"
+}

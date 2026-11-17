@@ -1,0 +1,27 @@
+{
+ "ticker": "SEDG",
+ "name": "SolarEdge Technologies Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Israel",
+ "mcap": 1441367255.0,
+ "price": "$23.28",
+ "cik": 1419612,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SEDG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sedg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:01+00:00"
+}

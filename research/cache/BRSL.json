@@ -1,0 +1,27 @@
+{
+ "ticker": "BRSL",
+ "name": "Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21 2025. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 1749060000.0,
+ "price": "$9.48",
+ "cik": 1619762,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BRSL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/brsl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:33+00:00"
+}

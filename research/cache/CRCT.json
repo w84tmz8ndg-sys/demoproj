@@ -1,0 +1,27 @@
+{
+ "ticker": "CRCT",
+ "name": "Cricut Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 1801762675.0,
+ "price": "$8.65",
+ "cik": 1828962,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRCT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Cricut (CRCT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/crct",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:19+00:00"
+}

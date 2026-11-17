@@ -1,0 +1,27 @@
+{
+ "ticker": "GHRS",
+ "name": "GH Research PLC Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Ireland",
+ "mcap": 1285447013.0,
+ "price": "$18.75",
+ "cik": 1855129,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GHRS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ghrs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:58+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "REAL",
+ "name": "The RealReal Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "United States",
+ "mcap": 1678637397.0,
+ "price": "$13.46",
+ "cik": 1573221,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/REAL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, The RealReal (REAL) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/real",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:51+00:00"
+}

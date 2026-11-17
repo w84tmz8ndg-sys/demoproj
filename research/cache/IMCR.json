@@ -1,0 +1,27 @@
+{
+ "ticker": "IMCR",
+ "name": "Immunocore Holdings plc American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United Kingdom",
+ "mcap": 1492558139.0,
+ "price": "$28.88",
+ "cik": 1671927,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IMCR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/imcr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:46+00:00"
+}

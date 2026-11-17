@@ -1,0 +1,27 @@
+{
+ "ticker": "CRAI",
+ "name": "CRA International Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "United States",
+ "mcap": 1324095271.0,
+ "price": "$210.94",
+ "cik": 1053706,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, CRA International (CRAI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/crai",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:40+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "EZPW",
+ "name": "EZCORP Inc. Class A Non Voting Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "United States",
+ "mcap": 1657018312.0,
+ "price": "$27.01",
+ "cik": 876523,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EZPW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, EZCorp, Inc. - Ordinary Shares - Class A (EZPW) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ezpw",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:57+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "RSKD",
+ "name": "Riskified Ltd. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "",
+ "mcap": 1282161341.0,
+ "price": "$9.43",
+ "cik": 1851112,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RSKD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rskd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:56+00:00"
+}

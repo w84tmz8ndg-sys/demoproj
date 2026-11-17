@@ -1,0 +1,27 @@
+{
+ "ticker": "PONY",
+ "name": "Pony AI Inc. American Depositary Shares ",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "China",
+ "mcap": 1820874523.0,
+ "price": "$4.20",
+ "cik": 1969302,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PONY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pony",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:13+00:00"
+}

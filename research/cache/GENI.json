@@ -1,0 +1,27 @@
+{
+ "ticker": "GENI",
+ "name": "Genius Sports Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "Guernsey",
+ "mcap": 1616466820.0,
+ "price": "$6.04",
+ "cik": 1834489,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GENI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Genius Sports Limited (GENI) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/geni",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:14+00:00"
+}

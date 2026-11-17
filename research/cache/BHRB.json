@@ -1,0 +1,27 @@
+{
+ "ticker": "BHRB",
+ "name": "Burke & Herbert Financial Services Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 1433347477.0,
+ "price": "$70.98",
+ "cik": 1964333,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BHRB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Burke & Herbert Bank & Trust Company (BHRB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bhrb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:04+00:00"
+}

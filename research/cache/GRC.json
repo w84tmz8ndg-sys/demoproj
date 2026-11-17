@@ -1,0 +1,27 @@
+{
+ "ticker": "GRC",
+ "name": "Gorman-Rupp Company (The) Common Stock",
+ "sector": "Industrials",
+ "industry": "Fluid Controls",
+ "country": "United States",
+ "mcap": 1810158055.0,
+ "price": "$68.54",
+ "cik": 42682,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GRC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, The Gorman-Rupp Company (GRC) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/grc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:17+00:00"
+}

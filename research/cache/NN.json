@@ -1,0 +1,27 @@
+{
+ "ticker": "NN",
+ "name": "NextNav Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 1514533125.0,
+ "price": "$8.91",
+ "cik": 1865631,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, NextNav Inc. (NN) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:40+00:00"
+}

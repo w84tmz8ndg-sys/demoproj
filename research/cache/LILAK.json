@@ -1,0 +1,27 @@
+{
+ "ticker": "LILAK",
+ "name": "Liberty Latin America Ltd. Class C Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Cable & Other Pay Television Services",
+ "country": "United States",
+ "mcap": 1853685000.0,
+ "price": "$9.95",
+ "cik": 1712184,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LILAK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lilak",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:08+00:00"
+}

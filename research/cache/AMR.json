@@ -1,0 +1,27 @@
+{
+ "ticker": "AMR",
+ "name": "Alpha Metallurgical Resources Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Coal Mining",
+ "country": "United States",
+ "mcap": 1791299648.0,
+ "price": "$141.47",
+ "cik": 1704715,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Alpha Metallurgical Resources (AMR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/amr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:20+00:00"
+}

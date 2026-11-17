@@ -1,0 +1,27 @@
+{
+ "ticker": "SLN",
+ "name": "Silence Therapeutics Plc American Depository Share",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United Kingdom",
+ "mcap": 1231619875.0,
+ "price": "$19.80",
+ "cik": 1479615,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sln",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:13+00:00"
+}

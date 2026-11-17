@@ -1,0 +1,27 @@
+{
+ "ticker": "OMCL",
+ "name": "Omnicell Inc. Common Stock ($0.001 par value)",
+ "sector": "Technology",
+ "industry": "Computer Manufacturing",
+ "country": "United States",
+ "mcap": 1630064005.0,
+ "price": "$35.44",
+ "cik": 926326,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OMCL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Omnicell (OMCL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/omcl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:07+00:00"
+}

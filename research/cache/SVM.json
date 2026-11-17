@@ -1,0 +1,27 @@
+{
+ "ticker": "SVM",
+ "name": "Silvercorp Metals Inc. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 1780777868.0,
+ "price": "$8.05",
+ "cik": 1340677,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SVM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/svm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:22+00:00"
+}

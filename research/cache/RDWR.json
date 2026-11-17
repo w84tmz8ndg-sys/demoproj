@@ -1,0 +1,27 @@
+{
+ "ticker": "RDWR",
+ "name": "Radware Ltd. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "Israel",
+ "mcap": 1311516070.0,
+ "price": "$31.00",
+ "cik": 1094366,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RDWR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rdwr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:47+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "KALU",
+ "name": "Kaiser Aluminum Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 1694502185.0,
+ "price": "$103.64",
+ "cik": 811596,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KALU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Kaiser Aluminum Corporation (KALU) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/kalu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:48+00:00"
+}

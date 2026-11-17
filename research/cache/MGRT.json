@@ -1,0 +1,27 @@
+{
+ "ticker": "MGRT",
+ "name": "Mega Fortune Company Limited Ordinary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Hong Kong",
+ "mcap": 1760000000.0,
+ "price": "$128.00",
+ "cik": 2033377,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MGRT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mgrt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:30+00:00"
+}

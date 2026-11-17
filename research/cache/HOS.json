@@ -1,0 +1,27 @@
+{
+ "ticker": "HOS",
+ "name": "Hornbeck Offshore Services Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Oilfield Services/Equipment",
+ "country": "United States",
+ "mcap": 1311848817.0,
+ "price": "$5.91",
+ "cik": 866829,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HOS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hos",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:45+00:00"
+}

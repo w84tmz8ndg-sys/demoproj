@@ -1,0 +1,27 @@
+{
+ "ticker": "SSMR",
+ "name": "Sunshine Silver Mining & Refining Company Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "",
+ "mcap": 1827327098.0,
+ "price": "$12.695",
+ "cik": 2091017,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SSMR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ssmr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:14+00:00"
+}

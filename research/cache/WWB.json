@@ -1,0 +1,27 @@
+{
+ "ticker": "WWB",
+ "name": "Windward Bio Group AG Common Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Switzerland",
+ "mcap": 1743483990.0,
+ "price": "$30.04",
+ "cik": 2145089,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/WWB/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wwb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:36+00:00"
+}

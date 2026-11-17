@@ -1,0 +1,27 @@
+{
+ "ticker": "MLYS",
+ "name": "Mineralys Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 1286734619.0,
+ "price": "$14.53",
+ "cik": 1933414,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MLYS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Mineralys Therapeutics (MLYS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mlys",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:56+00:00"
+}

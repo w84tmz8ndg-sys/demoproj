@@ -1,0 +1,27 @@
+{
+ "ticker": "AADX",
+ "name": "Applied Aerospace & Defense Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "",
+ "mcap": 1173137890.0,
+ "price": "$6.805",
+ "cik": 2118195,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AADX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aadx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:30+00:00"
+}

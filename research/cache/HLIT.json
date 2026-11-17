@@ -1,0 +1,27 @@
+{
+ "ticker": "HLIT",
+ "name": "Harmonic Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Radio And Television Broadcasting And Communications Equipment",
+ "country": "United States",
+ "mcap": 1091694936.0,
+ "price": "$10.16",
+ "cik": 851310,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HLIT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Harmonic Inc. (HLIT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hlit",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:03+00:00"
+}

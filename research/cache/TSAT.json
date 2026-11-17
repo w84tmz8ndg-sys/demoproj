@@ -1,0 +1,27 @@
+{
+ "ticker": "TSAT",
+ "name": "Telesat Corporation Class A Common Shares and Class B Variable Voting Shares ",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "Canada",
+ "mcap": 1559133305.0,
+ "price": "$43.12",
+ "cik": 1845840,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TSAT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tsat",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:27+00:00"
+}

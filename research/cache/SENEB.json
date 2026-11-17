@@ -1,0 +1,27 @@
+{
+ "ticker": "SENEB",
+ "name": "Seneca Foods Corp. Class B Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 1212075890.0,
+ "price": "$179.31",
+ "cik": 88948,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SENEB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/seneb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:17+00:00"
+}

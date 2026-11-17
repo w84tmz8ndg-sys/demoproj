@@ -1,0 +1,27 @@
+{
+ "ticker": "ADRX",
+ "name": "ADARx Pharmaceuticals Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 1556708244.0,
+ "price": "$14.00",
+ "cik": 1802369,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/adrx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:28+00:00"
+}

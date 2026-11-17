@@ -1,0 +1,27 @@
+{
+ "ticker": "LMRI",
+ "name": "Lumexa Imaging Holdings Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 1421658978.0,
+ "price": "$14.79",
+ "cik": 2071288,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LMRI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lmri",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:11+00:00"
+}

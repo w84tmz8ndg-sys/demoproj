@@ -1,0 +1,27 @@
+{
+ "ticker": "INVX",
+ "name": "Innovex International Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Oil and Gas Field Machinery",
+ "country": "United States",
+ "mcap": 1683991950.0,
+ "price": "$24.02",
+ "cik": 1042893,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INVX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Innovex International Inc. (INVX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/invx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:49+00:00"
+}

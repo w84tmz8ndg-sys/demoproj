@@ -1,0 +1,27 @@
+{
+ "ticker": "DRTS",
+ "name": "Alpha Tau Medical Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "Israel",
+ "mcap": 1106963503.0,
+ "price": "$11.97",
+ "cik": 1871321,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DRTS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/drts",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:54+00:00"
+}

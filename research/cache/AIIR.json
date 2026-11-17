@@ -1,0 +1,27 @@
+{
+ "ticker": "AIIR",
+ "name": "Air Global PLC Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Tobacco",
+ "country": "United Arab Emirates",
+ "mcap": 1178841525.0,
+ "price": "$7.35",
+ "cik": 2097725,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIIR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aiir",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:27+00:00"
+}

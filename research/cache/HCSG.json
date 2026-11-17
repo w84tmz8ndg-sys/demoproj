@@ -1,0 +1,27 @@
+{
+ "ticker": "HCSG",
+ "name": "Healthcare Services Group Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Hospital/Nursing Management",
+ "country": "United States",
+ "mcap": 1676359694.0,
+ "price": "$24.86",
+ "cik": 731012,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HCSG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Healthcare Services Group (HCSG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hcsg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:55+00:00"
+}

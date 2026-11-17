@@ -1,0 +1,27 @@
+{
+ "ticker": "YELP",
+ "name": "Yelp Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "United States",
+ "mcap": 1119284104.0,
+ "price": "$20.54",
+ "cik": 1345016,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YELP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Yelp (YELP) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/yelp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:50+00:00"
+}

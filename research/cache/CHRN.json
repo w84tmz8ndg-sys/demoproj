@@ -1,0 +1,27 @@
+{
+ "ticker": "CHRN",
+ "name": "ChronoScale Holdings Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 1367535674.0,
+ "price": "$9.39",
+ "cik": 1549084,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CHRN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/chrn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:22+00:00"
+}

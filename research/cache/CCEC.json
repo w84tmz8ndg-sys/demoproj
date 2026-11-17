@@ -1,0 +1,27 @@
+{
+ "ticker": "CCEC",
+ "name": "Capital Clean Energy Carriers Corp. Common Share",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 1209412947.0,
+ "price": "$20.06",
+ "cik": 1392326,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CCEC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ccec",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:21+00:00"
+}

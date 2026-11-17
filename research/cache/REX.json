@@ -1,0 +1,27 @@
+{
+ "ticker": "REX",
+ "name": "REX American Resources Corporation",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 1225839898.0,
+ "price": "$36.95",
+ "cik": 744187,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/REX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, REX American Resources Corp (REX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rex",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:16+00:00"
+}

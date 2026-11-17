@@ -1,0 +1,27 @@
+{
+ "ticker": "PD",
+ "name": "PagerDuty Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 1260757464.0,
+ "price": "$16.03",
+ "cik": 1568100,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, PagerDuty, Inc. (PD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:02+00:00"
+}

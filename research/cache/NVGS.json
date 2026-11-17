@@ -1,0 +1,27 @@
+{
+ "ticker": "NVGS",
+ "name": "Navigator Holdings Ltd. Ordinary Shares (Marshall Islands)",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Marshall Islands",
+ "mcap": 1293231392.0,
+ "price": "$20.96",
+ "cik": 1581804,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NVGS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nvgs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:53+00:00"
+}

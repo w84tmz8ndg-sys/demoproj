@@ -1,0 +1,27 @@
+{
+ "ticker": "LZB",
+ "name": "La-Z-Boy Incorporated Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Home Furnishings",
+ "country": "United States",
+ "mcap": 1282489727.0,
+ "price": "$32.02",
+ "cik": 57131,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LZB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, La-Z-Boy Incorporated (LZB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lzb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:56+00:00"
+}

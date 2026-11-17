@@ -1,0 +1,27 @@
+{
+ "ticker": "WGS",
+ "name": "GeneDx Holdings Corp. Class A Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Nursing Services",
+ "country": "United States",
+ "mcap": 1529196593.0,
+ "price": "$51.02",
+ "cik": 1818331,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WGS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, GeneDx Holdings Corp - Ordinary Shares - Class A (WGS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wgs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:36+00:00"
+}

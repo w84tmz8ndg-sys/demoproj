@@ -1,0 +1,27 @@
+{
+ "ticker": "ENR",
+ "name": "Energizer Holdings Inc. Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 1669631070.0,
+ "price": "$24.38",
+ "cik": 1632790,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Energizer Holdings (ENR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/enr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:55+00:00"
+}

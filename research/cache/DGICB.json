@@ -1,0 +1,27 @@
+{
+ "ticker": "DGICB",
+ "name": "Donegal Group Inc. Class B Common Stock",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "United States",
+ "mcap": 1068328467.0,
+ "price": "$28.55",
+ "cik": 800457,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DGICB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dgicb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:10+00:00"
+}

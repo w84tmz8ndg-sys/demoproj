@@ -1,0 +1,27 @@
+{
+ "ticker": "RDW",
+ "name": "Redwire Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 1764046178.0,
+ "price": "$7.05",
+ "cik": 1819810,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RDW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Redwire Corporation (RDW) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rdw",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:28+00:00"
+}

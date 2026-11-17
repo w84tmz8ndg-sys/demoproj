@@ -1,0 +1,27 @@
+{
+ "ticker": "AGRO",
+ "name": "Adecoagro S.A. Common Shares",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "Luxembourg",
+ "mcap": 1252597485.0,
+ "price": "$8.68",
+ "cik": 1499505,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AGRO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/agro",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:02+00:00"
+}

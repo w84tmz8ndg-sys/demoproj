@@ -1,0 +1,27 @@
+{
+ "ticker": "MTRI",
+ "name": "Mentari Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Canada",
+ "mcap": 1049412471.0,
+ "price": "$19.87",
+ "cik": 1728328,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/MTRI/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mtri",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:17+00:00"
+}

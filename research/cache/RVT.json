@@ -1,0 +1,27 @@
+{
+ "ticker": "RVT",
+ "name": "Royce Small-Cap Trust Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Trusts Except Educational Religious and Charitable",
+ "country": "United States",
+ "mcap": 1800718006.0,
+ "price": "$16.68",
+ "cik": 804116,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RVT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rvt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:20+00:00"
+}

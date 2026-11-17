@@ -1,0 +1,27 @@
+{
+ "ticker": "WKC",
+ "name": "World Kinect Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Oil Refining/Marketing",
+ "country": "United States",
+ "mcap": 1840691046.0,
+ "price": "$35.985",
+ "cik": 789460,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WKC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, World Kinect Corporation (WKC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wkc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:10+00:00"
+}

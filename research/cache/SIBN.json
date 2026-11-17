@@ -1,0 +1,27 @@
+{
+ "ticker": "SIBN",
+ "name": "SI-BONE Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 1056097367.0,
+ "price": "$23.41",
+ "cik": 1459839,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SIBN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, SI-BONE Inc (SIBN) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sibn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:13+00:00"
+}

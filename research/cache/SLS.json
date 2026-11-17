@@ -1,0 +1,27 @@
+{
+ "ticker": "SLS",
+ "name": "SELLAS Life Sciences Group Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 1522827858.0,
+ "price": "$7.47",
+ "cik": 1390478,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, SELLAS Life Sciences Group (SLS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sls",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:38+00:00"
+}

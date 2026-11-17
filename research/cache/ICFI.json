@@ -1,0 +1,27 @@
+{
+ "ticker": "ICFI",
+ "name": "ICF International Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "United States",
+ "mcap": 1424989776.0,
+ "price": "$79.42",
+ "cik": 1362004,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ICFI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, ICF International, Inc. (ICFI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/icfi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:07+00:00"
+}

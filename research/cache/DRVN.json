@@ -1,0 +1,27 @@
+{
+ "ticker": "DRVN",
+ "name": "Driven Brands Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Automotive Aftermarket",
+ "country": "United States",
+ "mcap": 1809828582.0,
+ "price": "$10.97",
+ "cik": 1804745,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DRVN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Driven Brands Holdings Inc. (DRVN) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/drvn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:17+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PLPC",
+ "name": "Preformed Line Products Company Common Stock",
+ "sector": "Industrials",
+ "industry": "Water Sewer Pipeline Comm & Power Line Construction",
+ "country": "United States",
+ "mcap": 1350877655.0,
+ "price": "$276.78",
+ "cik": 80035,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLPC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Preformed Line Products Co. (PLPC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/plpc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:30+00:00"
+}

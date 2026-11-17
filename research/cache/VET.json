@@ -1,0 +1,27 @@
+{
+ "ticker": "VET",
+ "name": "Vermilion Energy Inc. Common (Canada)",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Canada",
+ "mcap": 1620737000.0,
+ "price": "$10.705",
+ "cik": 1293135,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vet",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:09+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ACEL",
+ "name": "Accel Entertainment Inc. ",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 1107817400.0,
+ "price": "$13.805",
+ "cik": 1698991,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACEL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Accel Entertainment Inc - Ordinary Shares - Class A1 (ACEL) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/acel",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:53+00:00"
+}

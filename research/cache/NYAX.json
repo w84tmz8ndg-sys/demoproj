@@ -1,0 +1,27 @@
+{
+ "ticker": "NYAX",
+ "name": "Nayax Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Israel",
+ "mcap": 1842181905.0,
+ "price": "$49.31",
+ "cik": 1901279,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NYAX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nyax",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:09+00:00"
+}

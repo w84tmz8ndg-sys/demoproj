@@ -1,0 +1,27 @@
+{
+ "ticker": "LBRX",
+ "name": "LB Pharmaceuticals Inc Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 1391287090.0,
+ "price": "$42.99",
+ "cik": 1691082,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LBRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, LB Pharmaceuticals Inc. (LBRX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lbrx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:16+00:00"
+}

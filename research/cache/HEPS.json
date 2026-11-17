@@ -1,0 +1,27 @@
+{
+ "ticker": "HEPS",
+ "name": "D-Market Electronic Services & Trading American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "Turkey",
+ "mcap": 1178797675.0,
+ "price": "$2.75",
+ "cik": 1850235,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HEPS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/heps",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:29+00:00"
+}

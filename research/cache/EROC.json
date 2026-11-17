@@ -1,0 +1,27 @@
+{
+ "ticker": "EROC",
+ "name": "ERock Inc. Class A Common Stock",
+ "sector": "Energy",
+ "industry": "Industrial Machinery/Components",
+ "country": "",
+ "mcap": 1642209599.0,
+ "price": "$7.485",
+ "cik": 2110029,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EROC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eroc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:02+00:00"
+}

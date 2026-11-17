@@ -1,0 +1,27 @@
+{
+ "ticker": "INNV",
+ "name": "InnovAge Holding Corp. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Nursing Services",
+ "country": "United States",
+ "mcap": 1307253327.0,
+ "price": "$9.58",
+ "cik": 1834376,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INNV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, InnovAge Holding Corp. (INNV) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/innv",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:47+00:00"
+}

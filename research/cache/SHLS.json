@@ -1,0 +1,27 @@
+{
+ "ticker": "SHLS",
+ "name": "Shoals Technologies Group Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 1351144638.0,
+ "price": "$8.02",
+ "cik": 1831651,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SHLS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Shoals Technologies Group (SHLS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/shls",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:27+00:00"
+}

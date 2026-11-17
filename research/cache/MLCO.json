@@ -1,0 +1,27 @@
+{
+ "ticker": "MLCO",
+ "name": "Melco Resorts & Entertainment Limited American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Hotels/Resorts",
+ "country": "Hong Kong",
+ "mcap": 1670259782.0,
+ "price": "$4.245",
+ "cik": 1381640,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MLCO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mlco",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:55+00:00"
+}

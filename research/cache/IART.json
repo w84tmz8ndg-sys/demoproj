@@ -1,0 +1,27 @@
+{
+ "ticker": "IART",
+ "name": "Integra LifeSciences Holdings Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 1087657644.0,
+ "price": "$13.98",
+ "cik": 917520,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IART/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Integra LifeSciences Holdings Corporation (IART) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/iart",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:04+00:00"
+}

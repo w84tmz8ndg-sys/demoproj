@@ -1,0 +1,27 @@
+{
+ "ticker": "IQMX",
+ "name": "IQM Quantum Computers Oyj American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Finland",
+ "mcap": 1216565720.0,
+ "price": "$6.42",
+ "cik": 2113060,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IQMX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/iqmx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:18+00:00"
+}

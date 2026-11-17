@@ -1,0 +1,27 @@
+{
+ "ticker": "TV",
+ "name": "Grupo Televisa S.A.B. Common Stock",
+ "sector": "Industrials",
+ "industry": "Broadcasting",
+ "country": "Mexico",
+ "mcap": 1357759920.0,
+ "price": "$2.20",
+ "cik": 912892,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:27+00:00"
+}

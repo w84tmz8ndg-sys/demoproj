@@ -1,0 +1,27 @@
+{
+ "ticker": "BY",
+ "name": "Byline Bancorp Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 1734358632.0,
+ "price": "$38.96",
+ "cik": 1702750,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Byline Bancorp (BY) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/by",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:36+00:00"
+}

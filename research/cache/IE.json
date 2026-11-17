@@ -1,0 +1,27 @@
+{
+ "ticker": "IE",
+ "name": "Ivanhoe Electric Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Canada",
+ "mcap": 1066306162.0,
+ "price": "$6.68",
+ "cik": 1879016,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ie",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:11+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "QNST",
+ "name": "QuinStreet Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 1097732558.0,
+ "price": "$19.16",
+ "cik": 1117297,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QNST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, QuinStreet (QNST) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/qnst",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:55+00:00"
+}

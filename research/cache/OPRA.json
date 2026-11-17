@@ -1,0 +1,27 @@
+{
+ "ticker": "OPRA",
+ "name": "Opera Limited American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Norway",
+ "mcap": 1384159900.0,
+ "price": "$15.40",
+ "cik": 1737450,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OPRA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/opra",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:19+00:00"
+}

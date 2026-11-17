@@ -1,0 +1,27 @@
+{
+ "ticker": "ARR",
+ "name": "ARMOUR Residential REIT Inc.",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 1700098636.0,
+ "price": "$11.455",
+ "cik": 1428205,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ARR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, ARMOUR Residential REIT (ARR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/arr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:45+00:00"
+}

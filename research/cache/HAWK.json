@@ -1,0 +1,27 @@
+{
+ "ticker": "HAWK",
+ "name": "HawkEye 360 Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 1838363778.0,
+ "price": "$18.51",
+ "cik": 1750704,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HAWK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hawk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:12+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CDZIP",
+ "name": "Cadiz Inc. Depositary Shares",
+ "sector": "Utilities",
+ "industry": "Water Supply",
+ "country": "United States",
+ "mcap": 1678870389.0,
+ "price": "$18.65",
+ "cik": 727273,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/CDZIP/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cdzip",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:51+00:00"
+}

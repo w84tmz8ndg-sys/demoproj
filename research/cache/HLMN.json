@@ -1,0 +1,27 @@
+{
+ "ticker": "HLMN",
+ "name": "Hillman Solutions Corp. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 1549232484.0,
+ "price": "$7.98",
+ "cik": 1822492,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HLMN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Hillman Solutions Corp. (HLMN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hlmn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:31+00:00"
+}

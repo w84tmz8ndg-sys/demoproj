@@ -1,0 +1,27 @@
+{
+ "ticker": "TILE",
+ "name": "Interface Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Home Furnishings",
+ "country": "United States",
+ "mcap": 1769272081.0,
+ "price": "$30.61",
+ "cik": 715787,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TILE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Interface (TILE) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tile",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:28+00:00"
+}

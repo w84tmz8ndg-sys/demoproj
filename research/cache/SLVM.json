@@ -1,0 +1,27 @@
+{
+ "ticker": "SLVM",
+ "name": "Sylvamo Corporation Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Paper",
+ "country": "United States",
+ "mcap": 1544259625.0,
+ "price": "$38.83",
+ "cik": 1856485,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLVM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Sylvamo (SLVM) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/slvm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:32+00:00"
+}

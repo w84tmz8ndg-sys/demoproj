@@ -1,0 +1,27 @@
+{
+ "ticker": "QURE",
+ "name": "uniQure N.V. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Netherlands",
+ "mcap": 1534638257.0,
+ "price": "$21.88",
+ "cik": 1590560,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QURE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, uniQure N.V. (QURE) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/qure",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:34+00:00"
+}

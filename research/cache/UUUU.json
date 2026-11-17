@@ -1,0 +1,27 @@
+{
+ "ticker": "UUUU",
+ "name": "Energy Fuels Inc Ordinary Shares (Canada)",
+ "sector": "Industrials",
+ "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+ "country": "Canada",
+ "mcap": 1600885260.0,
+ "price": "$6.045",
+ "cik": 1385849,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UUUU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Energy Fuels (UUUU) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/uuuu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:20+00:00"
+}

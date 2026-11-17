@@ -1,0 +1,27 @@
+{
+ "ticker": "LIME",
+ "name": "Neutron Holdings Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 1318886850.0,
+ "price": "$20.185",
+ "cik": 1699963,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LIME/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lime",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:44+00:00"
+}

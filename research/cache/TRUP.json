@@ -1,0 +1,27 @@
+{
+ "ticker": "TRUP",
+ "name": "Trupanion Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 1564496101.0,
+ "price": "$36.16",
+ "cik": 1371285,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRUP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Trupanion, Inc. (TRUP) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/trup",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:23+00:00"
+}

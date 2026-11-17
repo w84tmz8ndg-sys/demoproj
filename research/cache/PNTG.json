@@ -1,0 +1,27 @@
+{
+ "ticker": "PNTG",
+ "name": "The Pennant Group Inc. Common Stock ",
+ "sector": "Health Care",
+ "industry": "Medical/Nursing Services",
+ "country": "United States",
+ "mcap": 1300951439.0,
+ "price": "$37.03",
+ "cik": 1766400,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PNTG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, The Pennant Group (PNTG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pntg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:53+00:00"
+}

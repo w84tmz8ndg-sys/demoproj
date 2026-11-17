@@ -1,0 +1,27 @@
+{
+ "ticker": "NAT",
+ "name": "Nordic American Tankers Limited Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Bermuda",
+ "mcap": 1384849336.0,
+ "price": "$6.54",
+ "cik": 1000177,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NAT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nat",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:18+00:00"
+}

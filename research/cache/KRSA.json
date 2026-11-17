@@ -1,0 +1,27 @@
+{
+ "ticker": "KRSA",
+ "name": "Korsana Biosciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 1488291579.0,
+ "price": "$32.68",
+ "cik": 1755237,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KRSA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/krsa",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:47+00:00"
+}

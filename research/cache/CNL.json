@@ -1,0 +1,27 @@
+{
+ "ticker": "CNL",
+ "name": "Collective Mining Ltd. Common Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "United States",
+ "mcap": 1089254872.0,
+ "price": "$11.70",
+ "cik": 1953575,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cnl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:02+00:00"
+}

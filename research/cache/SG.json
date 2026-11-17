@@ -1,0 +1,27 @@
+{
+ "ticker": "SG",
+ "name": "Sweetgreen Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "United States",
+ "mcap": 1444247710.0,
+ "price": "$12.115",
+ "cik": 1477815,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Sweetgreen (SG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:01+00:00"
+}

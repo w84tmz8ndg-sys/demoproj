@@ -1,0 +1,27 @@
+{
+ "ticker": "NBR",
+ "name": "Nabors Industries Ltd.",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Bermuda",
+ "mcap": 1309131664.0,
+ "price": "$80.08",
+ "cik": 1163739,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NBR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Nabors Industries Ltd. (NBR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nbr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:48+00:00"
+}

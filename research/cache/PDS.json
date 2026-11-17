@@ -1,0 +1,27 @@
+{
+ "ticker": "PDS",
+ "name": "Precision Drilling Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Canada",
+ "mcap": 1151933676.0,
+ "price": "$91.87",
+ "cik": 1013605,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PDS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pds",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:38+00:00"
+}

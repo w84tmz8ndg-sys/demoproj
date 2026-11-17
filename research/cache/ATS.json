@@ -1,0 +1,27 @@
+{
+ "ticker": "ATS",
+ "name": "ATS Corporation Common Shares",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "Canada",
+ "mcap": 1721137401.0,
+ "price": "$17.95",
+ "cik": 1394832,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ATS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ats",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:41+00:00"
+}

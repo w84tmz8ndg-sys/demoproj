@@ -1,0 +1,27 @@
+{
+ "ticker": "PAX",
+ "name": "Patria Investments Limited Class A Common Shares",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "Cayman Islands",
+ "mcap": 1450843286.0,
+ "price": "$8.94",
+ "cik": 1825570,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PAX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pax",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:59+00:00"
+}

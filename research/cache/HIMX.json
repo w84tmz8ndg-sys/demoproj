@@ -1,0 +1,27 @@
+{
+ "ticker": "HIMX",
+ "name": "Himax Technologies Inc. American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Taiwan",
+ "mcap": 1388430275.0,
+ "price": "$7.96",
+ "cik": 1342338,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HIMX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/himx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:17+00:00"
+}

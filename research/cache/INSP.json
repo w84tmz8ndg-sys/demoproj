@@ -1,0 +1,27 @@
+{
+ "ticker": "INSP",
+ "name": "Inspire Medical Systems Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 1711028649.0,
+ "price": "$59.07",
+ "cik": 1609550,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INSP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Inspire Medical Systems (INSP) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/insp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:44+00:00"
+}

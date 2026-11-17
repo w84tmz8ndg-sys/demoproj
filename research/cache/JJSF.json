@@ -1,0 +1,27 @@
+{
+ "ticker": "JJSF",
+ "name": "J & J Snack Foods Corp. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Specialty Foods",
+ "country": "United States",
+ "mcap": 1648838722.0,
+ "price": "$88.26",
+ "cik": 785956,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JJSF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, J&J Snack Foods Corp. (JJSF) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jjsf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:59+00:00"
+}

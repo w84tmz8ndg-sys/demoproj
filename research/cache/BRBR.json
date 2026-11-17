@@ -1,0 +1,27 @@
+{
+ "ticker": "BRBR",
+ "name": "BellRing Brands Inc. Common Stock ",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 1228479120.0,
+ "price": "$10.565",
+ "cik": 1772016,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BRBR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, BellRing Brands, Inc. (BRBR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/brbr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:14+00:00"
+}

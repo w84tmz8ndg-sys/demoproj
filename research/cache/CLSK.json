@@ -1,0 +1,27 @@
+{
+ "ticker": "CLSK",
+ "name": "CleanSpark Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 1617947560.0,
+ "price": "$6.30",
+ "cik": 827876,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLSK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, CleanSpark (CLSK) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/clsk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:12+00:00"
+}

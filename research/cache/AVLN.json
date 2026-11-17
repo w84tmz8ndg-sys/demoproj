@@ -1,0 +1,27 @@
+{
+ "ticker": "AVLN",
+ "name": "Avalyn Pharma Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 1324959661.0,
+ "price": "$29.76",
+ "cik": 1540171,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AVLN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/avln",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:38+00:00"
+}

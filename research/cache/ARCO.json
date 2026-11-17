@@ -1,0 +1,27 @@
+{
+ "ticker": "ARCO",
+ "name": "Arcos Dorados Holdings Inc. Class A Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "Argentina",
+ "mcap": 1459894985.0,
+ "price": "$6.93",
+ "cik": 1508478,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ARCO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/arco",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:56+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "HAPN",
+ "name": "Happen Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 1773543088.0,
+ "price": "$15.395",
+ "cik": 1409970,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HAPN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hapn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:27+00:00"
+}

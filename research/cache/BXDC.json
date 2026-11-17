@@ -1,0 +1,27 @@
+{
+ "ticker": "BXDC",
+ "name": "Blackstone Digital Infrastructure Trust Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "",
+ "mcap": 1686892408.0,
+ "price": "$16.76",
+ "cik": 2100161,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BXDC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bxdc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:51+00:00"
+}

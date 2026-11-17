@@ -1,0 +1,27 @@
+{
+ "ticker": "ATEC",
+ "name": "Alphatec Holdings Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 1051848007.0,
+ "price": "$6.78",
+ "cik": 1350653,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ATEC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Alphatec Holdings Inc (ATEC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/atec",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:17+00:00"
+}

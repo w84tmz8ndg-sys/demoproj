@@ -1,0 +1,27 @@
+{
+ "ticker": "GSL",
+ "name": "Global Ship Lease Inc New Class A Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "United Kingdom",
+ "mcap": 1513056029.0,
+ "price": "$42.125",
+ "cik": 1430725,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GSL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gsl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:42+00:00"
+}

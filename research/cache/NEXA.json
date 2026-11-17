@@ -1,0 +1,27 @@
+{
+ "ticker": "NEXA",
+ "name": "Nexa Resources S.A. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Luxembourg",
+ "mcap": 1411799740.0,
+ "price": "$10.66",
+ "cik": 1713930,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NEXA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nexa",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:13+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ALG",
+ "name": "Alamo Group Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 1656742634.0,
+ "price": "$136.19",
+ "cik": 897077,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ALG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Alamo Group (ALG) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/alg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:59+00:00"
+}

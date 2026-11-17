@@ -1,0 +1,27 @@
+{
+ "ticker": "UPBD",
+ "name": "Upbound Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "United States",
+ "mcap": 1452895310.0,
+ "price": "$24.92",
+ "cik": 933036,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UPBD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Upbound Group, Inc. (UPBD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/upbd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:59+00:00"
+}

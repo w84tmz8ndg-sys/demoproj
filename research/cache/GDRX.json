@@ -1,0 +1,27 @@
+{
+ "ticker": "GDRX",
+ "name": "GoodRx Holdings Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 1197420312.0,
+ "price": "$3.51",
+ "cik": 1809519,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GDRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, GoodRx Holdings Inc - Ordinary Shares - Class A (GDRX) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gdrx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:23+00:00"
+}

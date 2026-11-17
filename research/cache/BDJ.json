@@ -1,0 +1,27 @@
+{
+ "ticker": "BDJ",
+ "name": "Blackrock Enhanced Equity Dividend Trust",
+ "sector": "Finance",
+ "industry": "Finance Companies",
+ "country": "United States",
+ "mcap": 1694399411.0,
+ "price": "$9.575",
+ "cik": 1332283,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BDJ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bdj",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:48+00:00"
+}

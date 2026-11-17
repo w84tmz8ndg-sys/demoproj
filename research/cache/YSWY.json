@@ -1,0 +1,27 @@
+{
+ "ticker": "YSWY",
+ "name": "Yesway Inc. Class A Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Food Chains",
+ "country": "United States",
+ "mcap": 1563438016.0,
+ "price": "$24.74",
+ "cik": 1859836,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YSWY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yswy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:25+00:00"
+}

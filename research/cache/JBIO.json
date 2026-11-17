@@ -1,0 +1,27 @@
+{
+ "ticker": "JBIO",
+ "name": "Jade Biosciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 1061020185.0,
+ "price": "$15.335",
+ "cik": 1798749,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JBIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Jade Biosciences Inc. (JBIO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jbio",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:12+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "HE",
+ "name": "Hawaiian Electric Industries Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 1477688074.0,
+ "price": "$8.555",
+ "cik": 354707,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Hawaiian Electric (HE) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/he",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:51+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "OSBC",
+ "name": "Old Second Bancorp Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 1239974060.0,
+ "price": "$25.08",
+ "cik": 357173,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OSBC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Old Second Bancorp (OSBC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/osbc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:10+00:00"
+}

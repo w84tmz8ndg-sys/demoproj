@@ -1,0 +1,27 @@
+{
+ "ticker": "PBT",
+ "name": "Permian Basin Royalty Trust Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 1446737028.0,
+ "price": "$31.04",
+ "cik": 319654,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PBT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pbt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:00+00:00"
+}

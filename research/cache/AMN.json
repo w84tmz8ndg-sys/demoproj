@@ -1,0 +1,27 @@
+{
+ "ticker": "AMN",
+ "name": "AMN Healthcare Services Inc",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "United States",
+ "mcap": 1528247886.0,
+ "price": "$39.63",
+ "cik": 1142750,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, AMN Healthcare Services (AMN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/amn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:38+00:00"
+}

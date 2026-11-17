@@ -1,0 +1,27 @@
+{
+ "ticker": "CRON",
+ "name": "Cronos Group Inc. Common Share",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "Canada",
+ "mcap": 1198361148.0,
+ "price": "$3.27",
+ "cik": 1656472,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRON/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cron",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:23+00:00"
+}

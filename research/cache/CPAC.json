@@ -1,0 +1,27 @@
+{
+ "ticker": "CPAC",
+ "name": "Cementos Pacasmayo S.A.A. American Depositary Shares (Each representing five Common Shares)",
+ "sector": "Industrials",
+ "industry": "Building Materials",
+ "country": "Peru",
+ "mcap": 1094428338.0,
+ "price": "$12.91",
+ "cik": 1221029,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CPAC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cpac",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:59+00:00"
+}

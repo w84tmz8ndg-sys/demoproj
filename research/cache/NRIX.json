@@ -1,0 +1,27 @@
+{
+ "ticker": "NRIX",
+ "name": "Nurix Therapeutics Inc. Common stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 1609249760.0,
+ "price": "$14.73",
+ "cik": 1549595,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NRIX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Nurix Therapeutics, Inc. (NRIX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nrix",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:17+00:00"
+}

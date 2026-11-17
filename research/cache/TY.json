@@ -1,0 +1,27 @@
+{
+ "ticker": "TY",
+ "name": "Tri Continental Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Finance Companies",
+ "country": "United States",
+ "mcap": 1820756323.0,
+ "price": "$33.50",
+ "cik": 99614,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ty",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:16+00:00"
+}

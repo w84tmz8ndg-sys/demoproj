@@ -1,0 +1,27 @@
+{
+ "ticker": "ASIC",
+ "name": "Ategrity Specialty Insurance Company Holdings Common Stock",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "",
+ "mcap": 1172110515.0,
+ "price": "$24.505",
+ "cik": 2040491,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ASIC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Ategrity Specialty Holdings (ASIC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/asic",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:30+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "TRS",
+ "name": "TriMas Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 1286140510.0,
+ "price": "$36.45",
+ "cik": 842633,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, TriMas Corporation (TRS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/trs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:56+00:00"
+}

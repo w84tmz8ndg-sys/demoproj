@@ -1,0 +1,27 @@
+{
+ "ticker": "BTDR",
+ "name": "Bitdeer Technologies Group Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Singapore",
+ "mcap": 1221661191.0,
+ "price": "$4.495",
+ "cik": 1899123,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BTDR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/btdr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:17+00:00"
+}

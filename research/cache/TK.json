@@ -1,0 +1,27 @@
+{
+ "ticker": "TK",
+ "name": "Teekay Corporation Ltd. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Bermuda",
+ "mcap": 1157191724.0,
+ "price": "$13.335",
+ "cik": 911971,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:35+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SECZ",
+ "name": "Securitize Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "",
+ "mcap": 1201990930.0,
+ "price": "$7.35",
+ "cik": 2094496,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SECZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/secz",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:22+00:00"
+}

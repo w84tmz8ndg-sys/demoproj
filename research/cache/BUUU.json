@@ -1,0 +1,27 @@
+{
+ "ticker": "BUUU",
+ "name": "BUUU Group Limited Class A Ordinary Share",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "Hong Kong",
+ "mcap": 1093290000.0,
+ "price": "$5.50",
+ "cik": 2047273,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BUUU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/buuu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:02+00:00"
+}

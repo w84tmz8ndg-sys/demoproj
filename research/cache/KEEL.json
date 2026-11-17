@@ -1,0 +1,27 @@
+{
+ "ticker": "KEEL",
+ "name": "Keel Infrastructure Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Canada",
+ "mcap": 1075117953.0,
+ "price": "$1.74",
+ "cik": 1812477,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KEEL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Keel Infrastructure Corp. (KEEL) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/keel",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:09+00:00"
+}

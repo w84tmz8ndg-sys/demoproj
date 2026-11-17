@@ -1,0 +1,27 @@
+{
+ "ticker": "DMC",
+ "name": "Del Monte Corporation Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "Cayman Islands",
+ "mcap": 1270158068.0,
+ "price": "$26.94",
+ "cik": 1047340,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DMC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dmc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:59+00:00"
+}

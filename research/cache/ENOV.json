@@ -1,0 +1,27 @@
+{
+ "ticker": "ENOV",
+ "name": "Enovis Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 1611415932.0,
+ "price": "$27.93",
+ "cik": 1420800,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENOV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Enovis (ENOV) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/enov",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:15+00:00"
+}

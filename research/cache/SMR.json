@@ -1,0 +1,27 @@
+{
+ "ticker": "SMR",
+ "name": "NuScale Power Corporation Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 1839973057.0,
+ "price": "$4.28",
+ "cik": 1822966,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SMR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, NuScale Power (SMR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/smr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:09+00:00"
+}

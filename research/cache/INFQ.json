@@ -1,0 +1,27 @@
+{
+ "ticker": "INFQ",
+ "name": "Infleqtion Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 1782574281.0,
+ "price": "$7.91",
+ "cik": 2007825,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INFQ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Infleqtion Inc. (INFQ) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/infq",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:23+00:00"
+}

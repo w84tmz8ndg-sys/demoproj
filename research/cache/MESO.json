@@ -1,0 +1,27 @@
+{
+ "ticker": "MESO",
+ "name": "Mesoblast Limited American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Australia",
+ "mcap": 1619555897.0,
+ "price": "$12.45",
+ "cik": 1345099,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MESO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/meso",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:12+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "WOLF",
+ "name": "Wolfspeed Inc. Common Stock New",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 1213897446.0,
+ "price": "$22.655",
+ "cik": 895419,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WOLF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Wolfspeed (WOLF) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wolf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:19+00:00"
+}

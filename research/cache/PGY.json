@@ -1,0 +1,27 @@
+{
+ "ticker": "PGY",
+ "name": "Pagaya Technologies Ltd. Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 1346123450.0,
+ "price": "$16.02",
+ "cik": 1883085,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PGY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pgy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:18:31+00:00"
+}

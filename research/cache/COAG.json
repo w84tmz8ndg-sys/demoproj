@@ -1,0 +1,27 @@
+{
+ "ticker": "COAG",
+ "name": "Hemab Therapeutics Holdings Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 1825063895.0,
+ "price": "$39.055",
+ "cik": 2114044,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COAG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/coag",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:14+00:00"
+}

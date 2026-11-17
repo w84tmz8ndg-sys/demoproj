@@ -1,0 +1,27 @@
+{
+ "ticker": "WAFDP",
+ "name": "WaFd Inc. Depositary Shares",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 1052952237.0,
+ "price": "$14.23",
+ "cik": 936528,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/WAFDP/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wafdp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:15+00:00"
+}

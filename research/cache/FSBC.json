@@ -1,0 +1,27 @@
+{
+ "ticker": "FSBC",
+ "name": "Five Star Bancorp Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 1076932441.0,
+ "price": "$43.89",
+ "cik": 1275168,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FSBC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Five Star Bancorp (FSBC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fsbc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:20:07+00:00"
+}

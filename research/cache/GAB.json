@@ -1,0 +1,27 @@
+{
+ "ticker": "GAB",
+ "name": "Gabelli Equity Trust Inc. (The) Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 1549885799.0,
+ "price": "$5.275",
+ "cik": 794685,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GAB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gab",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:17:30+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GO",
+ "name": "Grocery Outlet Holding Corp. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Food Chains",
+ "country": "United States",
+ "mcap": 1228654796.0,
+ "price": "$12.39",
+ "cik": 1771515,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Grocery Outlet Holding Corp. (GO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/go",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:13+00:00"
+}

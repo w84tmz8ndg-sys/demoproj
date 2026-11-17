@@ -1,0 +1,27 @@
+{
+ "ticker": "DJT",
+ "name": "Trump Media & Technology Group Corp. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 1135987309.0,
+ "price": "$4.08",
+ "cik": 1849635,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DJT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Trump Media & Technology Group (DJT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/djt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:19:44+00:00"
+}
