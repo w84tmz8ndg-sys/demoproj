@@ -1,0 +1,27 @@
+{
+ "ticker": "KELYB",
+ "name": "Kelly Services Inc. Class B Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "United States",
+ "mcap": 801347278.0,
+ "price": "$23.00",
+ "cik": 55135,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KELYB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kelyb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:58:54+00:00"
+}

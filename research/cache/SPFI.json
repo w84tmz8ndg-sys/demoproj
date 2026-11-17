@@ -1,0 +1,27 @@
+{
+ "ticker": "SPFI",
+ "name": "South Plains Financial Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 805545270.0,
+ "price": "$42.74",
+ "cik": 1163668,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SPFI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, South Plains Financial Inc (SPFI) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/spfi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:58:50+00:00"
+}

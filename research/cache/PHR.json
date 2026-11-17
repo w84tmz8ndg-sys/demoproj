@@ -1,0 +1,27 @@
+{
+ "ticker": "PHR",
+ "name": "Phreesia Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 796370212.0,
+ "price": "$12.83",
+ "cik": 1412408,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PHR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Phreesia, Inc. (PHR) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/phr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:58:52+00:00"
+}

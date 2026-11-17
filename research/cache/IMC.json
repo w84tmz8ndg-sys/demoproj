@@ -1,0 +1,27 @@
+{
+ "ticker": "IMC",
+ "name": "IMC Rare Earths Ltd Ordinary Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "",
+ "mcap": 792454000.0,
+ "price": "$7.54",
+ "cik": 2098395,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IMC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/imc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:58:55+00:00"
+}

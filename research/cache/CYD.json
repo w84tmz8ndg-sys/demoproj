@@ -1,0 +1,27 @@
+{
+ "ticker": "CYD",
+ "name": "China Yuchai International Limited Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "Singapore",
+ "mcap": 802141724.0,
+ "price": "$21.38",
+ "cik": 932695,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CYD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cyd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:58:53+00:00"
+}

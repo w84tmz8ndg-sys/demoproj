@@ -1,0 +1,27 @@
+{
+ "ticker": "POET",
+ "name": "POET Technologies Inc. Common Shares",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Canada",
+ "mcap": 806450690.0,
+ "price": "$4.66",
+ "cik": 1437424,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/POET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, POET Technologies (POET) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/poet",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:58:48+00:00"
+}
