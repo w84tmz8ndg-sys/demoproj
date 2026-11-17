@@ -1,0 +1,27 @@
+{
+ "ticker": "FMC",
+ "name": "FMC Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 815126011.0,
+ "price": "$5.24",
+ "cik": 37785,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FMC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, FMC (FMC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fmc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:52:00+00:00"
+}

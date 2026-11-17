@@ -1,0 +1,27 @@
+{
+ "ticker": "AZUL",
+ "name": "Azul S.A. American Depositary Shares each representing two (2) Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Air Freight/Delivery Services",
+ "country": "Brazil",
+ "mcap": 815687524.0,
+ "price": "$4.07",
+ "cik": 1432364,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AZUL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/azul",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:51:59+00:00"
+}

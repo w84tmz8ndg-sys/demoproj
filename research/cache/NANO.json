@@ -1,0 +1,27 @@
+{
+ "ticker": "NANO",
+ "name": "Forge Nano Holdings Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 812430193.0,
+ "price": "$3.62",
+ "cik": 2101833,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/NANO/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nano",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:52:03+00:00"
+}

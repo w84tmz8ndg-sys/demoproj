@@ -1,0 +1,27 @@
+{
+ "ticker": "CRML",
+ "name": "Critical Metals Corp. Ordinary Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "British Virgin Islands",
+ "mcap": 813780254.0,
+ "price": "$4.19",
+ "cik": 1951089,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRML/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Critical Metals Corp. (CRML) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/crml",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:52:01+00:00"
+}
