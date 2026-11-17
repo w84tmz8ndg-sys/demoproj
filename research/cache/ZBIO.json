@@ -1,0 +1,27 @@
+{
+ "ticker": "ZBIO",
+ "name": "Zenas BioPharma Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 1894150958.0,
+ "price": "$27.93",
+ "cik": 1953926,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZBIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Zenas BioPharma, Inc. (ZBIO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/zbio",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:57+00:00"
+}

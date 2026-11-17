@@ -1,0 +1,27 @@
+{
+ "ticker": "DRD",
+ "name": "DRDGOLD Limited American Depositary Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "South Africa",
+ "mcap": 1912611929.0,
+ "price": "$22.05",
+ "cik": 1023512,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DRD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/drd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:49+00:00"
+}

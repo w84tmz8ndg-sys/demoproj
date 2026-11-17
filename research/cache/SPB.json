@@ -1,0 +1,27 @@
+{
+ "ticker": "SPB",
+ "name": "Spectrum Brands Holdings Inc. Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 1924731385.0,
+ "price": "$83.70",
+ "cik": 109177,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SPB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Spectrum Brands Holdings (SPB) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/spb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:48+00:00"
+}

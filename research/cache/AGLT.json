@@ -1,0 +1,27 @@
+{
+ "ticker": "AGLT",
+ "name": "Agility Robotics Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 1928485505.0,
+ "price": "$7.18",
+ "cik": 2074973,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AGLT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aglt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:45+00:00"
+}

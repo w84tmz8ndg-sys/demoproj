@@ -1,0 +1,27 @@
+{
+ "ticker": "BLX",
+ "name": "Bladex Inc. Class E Common Stock",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "Panama",
+ "mcap": 1859266545.0,
+ "price": "$49.45",
+ "cik": 890541,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BLX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/blx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:05+00:00"
+}

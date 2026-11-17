@@ -1,0 +1,27 @@
+{
+ "ticker": "GTY",
+ "name": "Getty Realty Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 1932827258.0,
+ "price": "$28.795",
+ "cik": 1052752,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GTY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Getty Realty Corp. (GTY) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gty",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:44+00:00"
+}

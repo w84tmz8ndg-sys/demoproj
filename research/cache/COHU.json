@@ -1,0 +1,27 @@
+{
+ "ticker": "COHU",
+ "name": "Cohu Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Electrical Products",
+ "country": "United States",
+ "mcap": 1899147172.0,
+ "price": "$40.11",
+ "cik": 21535,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COHU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Cohu (COHU) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cohu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:53+00:00"
+}

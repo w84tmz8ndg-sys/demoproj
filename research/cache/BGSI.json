@@ -1,0 +1,27 @@
+{
+ "ticker": "BGSI",
+ "name": "Boyd Group Services Inc. Common Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "Canada",
+ "mcap": 1931848589.0,
+ "price": "$69.40",
+ "cik": 2091467,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BGSI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bgsi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:46+00:00"
+}

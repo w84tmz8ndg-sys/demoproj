@@ -1,0 +1,27 @@
+{
+ "ticker": "GFR",
+ "name": "Greenfire Resources Ltd. Common Shares",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Canada",
+ "mcap": 1850001120.0,
+ "price": "$7.695",
+ "cik": 1966287,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GFR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gfr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:07+00:00"
+}

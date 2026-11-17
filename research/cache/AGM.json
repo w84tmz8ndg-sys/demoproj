@@ -1,0 +1,27 @@
+{
+ "ticker": "AGM",
+ "name": "Federal Agricultural Mortgage Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Finance Companies",
+ "country": "United States",
+ "mcap": 1864633561.0,
+ "price": "$171.74",
+ "cik": 845877,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AGM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Federal Agricultural Mortgage Corporation (AGM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/agm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:02+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "WS",
+ "name": "Worthington Steel Inc. Common Shares",
+ "sector": "Industrials",
+ "industry": "Steel/Iron Ore",
+ "country": "United States",
+ "mcap": 1883769867.0,
+ "price": "$36.78",
+ "cik": 1968487,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Worthington Steel (WS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ws",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:00+00:00"
+}

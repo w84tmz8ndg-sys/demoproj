@@ -1,0 +1,27 @@
+{
+ "ticker": "PRKS",
+ "name": "United Parks & Resorts Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 1845205220.0,
+ "price": "$40.61",
+ "cik": 1564902,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PRKS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, United Parks & Resorts Inc. (PRKS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/prks",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:16:07+00:00"
+}

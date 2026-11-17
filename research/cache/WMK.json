@@ -1,0 +1,27 @@
+{
+ "ticker": "WMK",
+ "name": "Weis Markets Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Food Chains",
+ "country": "United States",
+ "mcap": 1967690353.0,
+ "price": "$79.52",
+ "cik": 105418,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WMK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Weis Markets, Inc. (WMK) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wmk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:38+00:00"
+}
