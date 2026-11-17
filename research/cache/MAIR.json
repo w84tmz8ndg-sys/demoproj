@@ -1,0 +1,27 @@
+{
+ "ticker": "MAIR",
+ "name": "Madison Air Solutions Corporation Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Pollution Control Equipment",
+ "country": "United States",
+ "mcap": 13244191473.0,
+ "price": "$22.37",
+ "cik": 2098430,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MAIR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mair",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:57+00:00"
+}

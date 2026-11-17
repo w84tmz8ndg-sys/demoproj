@@ -1,0 +1,70 @@
+{
+ "ticker": "ALLE",
+ "src_stats": "https://stockanalysis.com/stocks/alle/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/alle/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/alle/financials/ratios/",
+ "Market Cap": "16.01B",
+ "Enterprise Value": "17.85B",
+ "PE Ratio": "23.62",
+ "Forward PE": "19.09",
+ "PS Ratio": "3.67",
+ "EV / EBITDA": "16.32",
+ "Gross Margin": "45.09%",
+ "Operating Margin": "21.80%",
+ "Profit Margin": "15.74%",
+ "FCF Margin": "16.85%",
+ "Debt / Equity": "1.02",
+ "Debt / EBITDA": "1.90",
+ "Net Cash": "-1.84B",
+ "Total Debt": "2.22B",
+ "Cash & Cash Equivalents": "388.10M",
+ "Return on Invested Capital (ROIC)": "19.36%",
+ "Return on Equity (ROE)": "33.56%",
+ "Revenue": "4.39B",
+ "Net Income": "691.10M",
+ "Free Cash Flow": "739.90M",
+ "Dividend Yield": "1.16%",
+ "Beta (5Y)": "0.82",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,391",
+  "4,067",
+  "3,772",
+  "3,651",
+  "3,272",
+  "2,867"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "691.1",
+  "643.8",
+  "597.5",
+  "540.4",
+  "458",
+  "483"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "23.78",
+  "21.28",
+  "19.01",
+  "20.58",
+  "20.19",
+  "24.60"
+ ]
+}

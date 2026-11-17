@@ -1,0 +1,27 @@
+{
+ "ticker": "WIX",
+ "name": "Wix.com Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "Israel",
+ "mcap": 2780900006.0,
+ "price": "$66.45",
+ "cik": 1576789,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WIX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wix",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:21+00:00"
+}

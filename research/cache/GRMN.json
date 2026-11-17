@@ -1,0 +1,27 @@
+{
+ "ticker": "GRMN",
+ "name": "Garmin Ltd. Common Stock (Switzerland)",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "Switzerland",
+ "mcap": 53914217427.0,
+ "price": "$279.79",
+ "cik": 1121788,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GRMN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Garmin (GRMN) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/grmn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:25+00:00"
+}

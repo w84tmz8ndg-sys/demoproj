@@ -1,0 +1,70 @@
+{
+ "ticker": "DOV",
+ "src_stats": "https://stockanalysis.com/stocks/dov/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/dov/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/dov/financials/ratios/",
+ "Market Cap": "27.47B",
+ "Enterprise Value": "29.04B",
+ "PE Ratio": "24.04",
+ "Forward PE": "17.84",
+ "PS Ratio": "3.20",
+ "EV / EBITDA": "14.79",
+ "Gross Margin": "40.23%",
+ "Operating Margin": "18.28%",
+ "Profit Margin": "13.60%",
+ "FCF Margin": "13.83%",
+ "Debt / Equity": "0.43",
+ "Debt / EBITDA": "1.59",
+ "Net Cash": "-1.57B",
+ "Total Debt": "3.26B",
+ "Cash & Cash Equivalents": "1.69B",
+ "Return on Invested Capital (ROIC)": "13.68%",
+ "Return on Equity (ROE)": "15.20%",
+ "Revenue": "8.58B",
+ "Net Income": "1.17B",
+ "Free Cash Flow": "1.19B",
+ "Dividend Yield": "1.02%",
+ "Beta (5Y)": "1.10",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "8,577",
+  "8,093",
+  "7,746",
+  "7,684",
+  "7,844",
+  "7,907"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,166",
+  "1,094",
+  "2,697",
+  "1,057",
+  "1,065",
+  "1,124"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "23.70",
+  "24.48",
+  "9.54",
+  "20.36",
+  "17.84",
+  "23.27"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "TGB",
+ "name": "Trekor Metals Limited Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 2308852836.0,
+ "price": "$6.295",
+ "cik": 878518,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TGB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tgb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:38+00:00"
+}

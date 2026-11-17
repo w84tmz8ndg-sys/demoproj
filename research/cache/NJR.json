@@ -1,0 +1,27 @@
+{
+ "ticker": "NJR",
+ "name": "NewJersey Resources Corporation Common Stock",
+ "sector": "Utilities",
+ "industry": "Oil/Gas Transmission",
+ "country": "United States",
+ "mcap": 5705542604.0,
+ "price": "$56.23",
+ "cik": 356309,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NJR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, New Jersey Resources Corporation (NJR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/njr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:15+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MCK",
+ "name": "McKesson Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Other Pharmaceuticals",
+ "country": "United States",
+ "mcap": 127596932220.0,
+ "price": "$1105.15",
+ "cik": 927653,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MCK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, McKesson (MCK) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mck",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:11+00:00"
+}

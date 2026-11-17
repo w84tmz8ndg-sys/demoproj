@@ -1,0 +1,27 @@
+{
+ "ticker": "VIV",
+ "name": "Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share)",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "Brazil",
+ "mcap": 19005868779.0,
+ "price": "$11.895",
+ "cik": 1066119,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VIV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Telef\u00f4nica Brasil S.A. (VIV) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/viv",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:37+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "FLS",
+ "src_stats": "https://stockanalysis.com/stocks/fls/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/fls/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/fls/financials/ratios/",
+ "Market Cap": "10.17B",
+ "Enterprise Value": "11.69B",
+ "PE Ratio": "40.59",
+ "Forward PE": "17.77",
+ "PS Ratio": "2.15",
+ "EV / EBITDA": "15.84",
+ "Gross Margin": "35.41%",
+ "Operating Margin": "13.29%",
+ "Profit Margin": "5.42%",
+ "FCF Margin": "3.27%",
+ "Debt / Equity": "0.95",
+ "Debt / EBITDA": "2.81",
+ "Net Cash": "-1.52B",
+ "Total Debt": "2.26B",
+ "Cash & Cash Equivalents": "742.15M",
+ "Return on Invested Capital (ROIC)": "12.30%",
+ "Return on Equity (ROE)": "11.61%",
+ "Revenue": "4.70B",
+ "Net Income": "254.72M",
+ "Free Cash Flow": "153.66M",
+ "Dividend Yield": "1.10%",
+ "Beta (5Y)": "1.28",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,697",
+  "4,729",
+  "4,558",
+  "4,321",
+  "3,615",
+  "3,541"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "254.72",
+  "346.25",
+  "282.76",
+  "186.74",
+  "188.69",
+  "125.95"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "40.59",
+  "25.47",
+  "26.73",
+  "28.96",
+  "21.25",
+  "31.65"
+ ]
+}

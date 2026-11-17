@@ -1,0 +1,27 @@
+{
+ "ticker": "UA",
+ "name": "Under Armour Inc. Class C Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Apparel",
+ "country": "United States",
+ "mcap": 2007892213.0,
+ "price": "$4.67",
+ "cik": 1336917,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Under Armour, Inc. (UA) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ua",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:32+00:00"
+}

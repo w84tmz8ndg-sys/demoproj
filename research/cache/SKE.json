@@ -1,0 +1,27 @@
+{
+ "ticker": "SKE",
+ "name": "Skeena Resources Limited Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "",
+ "mcap": 3556867687.0,
+ "price": "$28.35",
+ "cik": 1713748,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SKE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ske",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:30+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "AXTA",
+ "name": "Axalta Coating Systems Ltd. Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Paints/Coatings",
+ "country": "United States",
+ "mcap": 7731308904.0,
+ "price": "$36.12",
+ "cik": 1616862,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AXTA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Axalta Coating Systems Ltd. (AXTA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/axta",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:30+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "FTAI",
+ "src_stats": "https://stockanalysis.com/stocks/ftai/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ftai/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ftai/financials/ratios/",
+ "Market Cap": "17.72B",
+ "Enterprise Value": "20.82B",
+ "PE Ratio": "35.14",
+ "Forward PE": "16.10",
+ "PS Ratio": "5.07",
+ "EV / EBITDA": "20.49",
+ "Gross Margin": "30.63%",
+ "Operating Margin": "23.36%",
+ "Profit Margin": "15.46%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "8.06",
+ "Debt / EBITDA": "3.50",
+ "Net Cash": "-3.11B",
+ "Total Debt": "3.49B",
+ "Cash & Cash Equivalents": "385.62M",
+ "Return on Invested Capital (ROIC)": "19.00%",
+ "Return on Equity (ROE)": "154.32%",
+ "Revenue": "3.42B",
+ "Net Income": "512.69M",
+ "Free Cash Flow": "-1.10B",
+ "Dividend Yield": "1.16%",
+ "Beta (5Y)": "1.58",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,423",
+  "2,507",
+  "1,735",
+  "1,171",
+  "708.41",
+  "335.58"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "512.69",
+  "477.49",
+  "-32.08",
+  "212.02",
+  "-220.37",
+  "-128.99"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "34.44",
+  "42.29",
+  "-",
+  "21.94",
+  "-",
+  "-"
+ ]
+}

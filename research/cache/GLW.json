@@ -1,0 +1,27 @@
+{
+ "ticker": "GLW",
+ "name": "Corning Incorporated Common Stock",
+ "sector": "Industrials",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 91489411468.0,
+ "price": "$106.21",
+ "cik": 24741,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GLW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Corning (GLW) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/glw",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:35+00:00"
+}

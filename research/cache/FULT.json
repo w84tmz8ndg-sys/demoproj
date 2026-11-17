@@ -1,0 +1,27 @@
+{
+ "ticker": "FULT",
+ "name": "Fulton Financial Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 4525548154.0,
+ "price": "$23.91",
+ "cik": 700564,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FULT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Fulton Financial Corporation (FULT) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fult",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:53+00:00"
+}

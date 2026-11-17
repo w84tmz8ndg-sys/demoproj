@@ -1,0 +1,27 @@
+{
+ "ticker": "PHG",
+ "name": "Koninklijke Philips N.V. NY Registry Shares",
+ "sector": "Health Care",
+ "industry": "Medical Electronics",
+ "country": "Netherlands",
+ "mcap": 29633976328.0,
+ "price": "$30.15",
+ "cik": 313216,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PHG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Koninklijke Philips N.V. (PHG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/phg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:42+00:00"
+}

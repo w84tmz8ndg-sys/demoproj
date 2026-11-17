@@ -1,0 +1,27 @@
+{
+ "ticker": "CVE",
+ "name": "Cenovus Energy Inc Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Canada",
+ "mcap": 51308652465.0,
+ "price": "$28.245",
+ "cik": 1475260,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CVE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Cenovus Energy Inc. (CVE) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cve",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:29+00:00"
+}

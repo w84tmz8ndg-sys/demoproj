@@ -1,0 +1,27 @@
+{
+ "ticker": "RNG",
+ "name": "RingCentral Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 6272447967.0,
+ "price": "$74.265",
+ "cik": 1384905,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RNG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, RingCentral (RNG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rng",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:39+00:00"
+}

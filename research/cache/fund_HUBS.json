@@ -1,0 +1,70 @@
+{
+ "ticker": "HUBS",
+ "src_stats": "https://stockanalysis.com/stocks/hubs/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/hubs/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/hubs/financials/ratios/",
+ "Market Cap": "10.74B",
+ "Enterprise Value": "9.67B",
+ "PE Ratio": "53.75",
+ "Forward PE": "13.77",
+ "PS Ratio": "2.95",
+ "EV / EBITDA": "42.86",
+ "Gross Margin": "83.02%",
+ "Operating Margin": "5.47%",
+ "Profit Margin": "5.95%",
+ "FCF Margin": "23.49%",
+ "Debt / Equity": "0.14",
+ "Debt / EBITDA": "0.85",
+ "Net Cash": "1.07B",
+ "Total Debt": "224.04M",
+ "Cash & Cash Equivalents": "1.30B",
+ "Return on Invested Capital (ROIC)": "31.33%",
+ "Return on Equity (ROE)": "12.25%",
+ "Revenue": "3.59B",
+ "Net Income": "213.29M",
+ "Free Cash Flow": "842.49M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.14",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,587",
+  "3,131",
+  "2,628",
+  "2,170",
+  "1,731",
+  "1,301"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "213.29",
+  "45.91",
+  "4.63",
+  "-164.51",
+  "-107.35",
+  "-77.84"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "54.11",
+  "457.89",
+  "7772.20",
+  "-",
+  "-",
+  "-"
+ ]
+}

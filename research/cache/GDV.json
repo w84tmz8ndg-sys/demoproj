@@ -1,0 +1,27 @@
+{
+ "ticker": "GDV",
+ "name": "Gabelli Dividend & Income Trust Common Shares of Beneficial Interest",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 2578488958.0,
+ "price": "$28.59",
+ "cik": 1260729,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GDV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gdv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:54+00:00"
+}

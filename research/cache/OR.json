@@ -1,0 +1,27 @@
+{
+ "ticker": "OR",
+ "name": "OR Royalties Inc. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 6257603060.0,
+ "price": "$33.57",
+ "cik": 1627272,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/or",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:40+00:00"
+}

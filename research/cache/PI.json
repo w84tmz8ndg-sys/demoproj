@@ -1,0 +1,27 @@
+{
+ "ticker": "PI",
+ "name": "Impinj Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 5042455535.0,
+ "price": "$163.40",
+ "cik": 1114995,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Impinj, Inc. (PI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:07+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PLBL",
+ "name": "Polibeli Group Ltd Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "Indonesia",
+ "mcap": 2707603403.0,
+ "price": "$7.39",
+ "cik": 2035697,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLBL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/plbl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:32+00:00"
+}

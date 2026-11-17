@@ -1,0 +1,27 @@
+{
+ "ticker": "LOW",
+ "name": "Lowe's Companies Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "RETAIL: Building Materials",
+ "country": "United States",
+ "mcap": 126203491034.0,
+ "price": "$224.94",
+ "cik": 60667,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LOW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Lowe's (LOW) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/low",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:12+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "BE",
+ "name": "Bloom Energy Corporation Class A Common Stock",
+ "sector": "Energy",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 52431757227.0,
+ "price": "$177.34",
+ "cik": 1664703,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Bloom Energy (BE) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/be",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:24+00:00"
+}

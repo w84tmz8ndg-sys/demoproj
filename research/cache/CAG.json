@@ -1,0 +1,27 @@
+{
+ "ticker": "CAG",
+ "name": "ConAgra Brands Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 7239945655.0,
+ "price": "$15.165",
+ "cik": 23217,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CAG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Conagra Brands (CAG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cag",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:51+00:00"
+}

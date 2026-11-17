@@ -1,0 +1,27 @@
+{
+ "ticker": "ZETA",
+ "name": "Zeta Global Holdings Corp. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 9163313505.0,
+ "price": "$35.87",
+ "cik": 1851003,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZETA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Zeta Global Holdings Corp. (ZETA) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/zeta",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:34+00:00"
+}

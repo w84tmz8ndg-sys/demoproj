@@ -1,0 +1,27 @@
+{
+ "ticker": "ALSN",
+ "name": "Allison Transmission Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "United States",
+ "mcap": 10228960888.0,
+ "price": "$124.54",
+ "cik": 1411207,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ALSN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Allison Transmission Holdings, Inc. (ALSN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/alsn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:01+00:00"
+}

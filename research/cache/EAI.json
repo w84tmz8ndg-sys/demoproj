@@ -1,0 +1,27 @@
+{
+ "ticker": "EAI",
+ "name": "Entergy Arkansas LLC First Mortgage Bonds 4.875% Series Due September 1 2066",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 8682118789.0,
+ "price": "$18.17",
+ "cik": 7323,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/EAI/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:54+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MLI",
+ "name": "Mueller Industries Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 11761897599.0,
+ "price": "$53.96",
+ "cik": 89439,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MLI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Mueller Industries, Inc. (MLI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mli",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:26+00:00"
+}

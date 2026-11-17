@@ -1,0 +1,27 @@
+{
+ "ticker": "ALC",
+ "name": "Alcon Inc. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Ophthalmic Goods",
+ "country": "Switzerland",
+ "mcap": 36810400500.0,
+ "price": "$73.665",
+ "cik": 1167379,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ALC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Alcon Inc. (ALC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/alc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:09+00:00"
+}

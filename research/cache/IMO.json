@@ -1,0 +1,27 @@
+{
+ "ticker": "IMO",
+ "name": "Imperial Oil Limited Common Stock",
+ "sector": "Energy",
+ "industry": "Integrated oil Companies",
+ "country": "Canada",
+ "mcap": 58805589729.0,
+ "price": "$124.585",
+ "cik": 49938,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IMO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/imo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:20+00:00"
+}

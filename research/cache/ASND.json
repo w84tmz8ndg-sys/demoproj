@@ -1,0 +1,27 @@
+{
+ "ticker": "ASND",
+ "name": "Ascendis Pharma A/S Ordinary Share",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Denmark",
+ "mcap": 17902685406.0,
+ "price": "$271.73",
+ "cik": 1612042,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ASND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Ascendis Pharma A/S (ASND) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/asnd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:48+00:00"
+}

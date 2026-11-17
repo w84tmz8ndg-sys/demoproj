@@ -1,0 +1,63 @@
+{
+ "ticker": "IOT",
+ "src_stats": "https://stockanalysis.com/stocks/iot/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/iot/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/iot/financials/ratios/",
+ "Market Cap": "22.72B",
+ "Enterprise Value": "21.46B",
+ "PE Ratio": "252.26",
+ "Forward PE": "45.89",
+ "PS Ratio": "12.95",
+ "EV / EBITDA": "721.52",
+ "Gross Margin": "76.43%",
+ "Operating Margin": "1.05%",
+ "Profit Margin": "4.90%",
+ "FCF Margin": "13.83%",
+ "Debt / Equity": "0.04",
+ "Debt / EBITDA": "1.44",
+ "Net Cash": "1.26B",
+ "Total Debt": "69.49M",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "2.11%",
+ "Return on Equity (ROE)": "6.43%",
+ "Revenue": "1.85B",
+ "Net Income": "90.55M",
+ "Free Cash Flow": "255.48M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.33",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,848",
+  "1,619",
+  "1,249",
+  "937.39",
+  "652.55",
+  "428.35"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "90.55",
+  "-9.12",
+  "-154.91",
+  "-286.73",
+  "-247.42",
+  "-355.02"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": null
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "NVR",
+ "name": "NVR Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Homebuilding",
+ "country": "United States",
+ "mcap": 15352978606.0,
+ "price": "$5802.80",
+ "cik": 906163,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NVR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, NVR (NVR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nvr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:19+00:00"
+}

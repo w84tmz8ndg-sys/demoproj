@@ -1,0 +1,70 @@
+{
+ "ticker": "UMC",
+ "src_stats": "https://stockanalysis.com/stocks/umc/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/umc/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/umc/financials/ratios/",
+ "Market Cap": "36.21B",
+ "Enterprise Value": "34.03B",
+ "PE Ratio": "14.05",
+ "Forward PE": "14.91",
+ "PS Ratio": "4.34",
+ "EV / EBITDA": "9.11",
+ "Gross Margin": "31.71%",
+ "Operating Margin": "21.45%",
+ "Profit Margin": "31.95%",
+ "FCF Margin": "26.81%",
+ "Debt / Equity": "0.17",
+ "Debt / EBITDA": "0.66",
+ "Net Cash": "2.26B",
+ "Total Debt": "2.50B",
+ "Cash & Cash Equivalents": "4.76B",
+ "Return on Invested Capital (ROIC)": "13.09%",
+ "Return on Equity (ROE)": "20.37%",
+ "Revenue": "8.34B",
+ "Net Income": "2.66B",
+ "Free Cash Flow": "2.16B",
+ "Dividend Yield": "2.14%",
+ "Beta (5Y)": "1.83",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "265,819",
+  "237,553",
+  "232,303",
+  "222,533",
+  "278,705",
+  "213,011"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "84,920",
+  "41,716",
+  "47,211",
+  "60,990",
+  "89,479",
+  "51,246"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "13.91",
+  "14.82",
+  "11.45",
+  "10.81",
+  "5.69",
+  "15.81"
+ ]
+}

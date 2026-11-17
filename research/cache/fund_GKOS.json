@@ -1,0 +1,63 @@
+{
+ "ticker": "GKOS",
+ "src_stats": "https://stockanalysis.com/stocks/gkos/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/gkos/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/gkos/financials/ratios/",
+ "Market Cap": "14.47B",
+ "Enterprise Value": "14.24B",
+ "PE Ratio": "n/a",
+ "Forward PE": "173.65",
+ "PS Ratio": "20.99",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "81.13%",
+ "Operating Margin": "-8.95%",
+ "Profit Margin": "-24.60%",
+ "FCF Margin": "5.22%",
+ "Debt / Equity": "0.15",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "231.55M",
+ "Total Debt": "105.15M",
+ "Cash & Cash Equivalents": "336.70M",
+ "Return on Invested Capital (ROIC)": "-12.49%",
+ "Return on Equity (ROE)": "-22.84%",
+ "Revenue": "690.33M",
+ "Net Income": "-169.80M",
+ "Free Cash Flow": "36.02M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.68",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "690.33",
+  "507.44",
+  "383.48",
+  "314.71",
+  "282.86",
+  "294.01"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-169.8",
+  "-187.69",
+  "-146.37",
+  "-134.66",
+  "-99.2",
+  "-49.59"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

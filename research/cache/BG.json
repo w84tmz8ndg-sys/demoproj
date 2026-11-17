@@ -1,0 +1,27 @@
+{
+ "ticker": "BG",
+ "name": "Bunge Limited Common Shares",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 19030881086.0,
+ "price": "$99.045",
+ "cik": 1996862,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Bunge Global (BG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:37+00:00"
+}

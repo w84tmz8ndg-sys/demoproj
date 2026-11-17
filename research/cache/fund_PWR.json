@@ -1,0 +1,70 @@
+{
+ "ticker": "PWR",
+ "src_stats": "https://stockanalysis.com/stocks/pwr/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/pwr/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/pwr/financials/ratios/",
+ "Market Cap": "90.51B",
+ "Enterprise Value": "95.71B",
+ "PE Ratio": "54.36",
+ "Forward PE": "28.61",
+ "PS Ratio": "2.37",
+ "EV / EBITDA": "25.01",
+ "Gross Margin": "15.76%",
+ "Operating Margin": "7.07%",
+ "Profit Margin": "4.51%",
+ "FCF Margin": "8.19%",
+ "Debt / Equity": "0.71",
+ "Debt / EBITDA": "1.35",
+ "Net Cash": "-5.20B",
+ "Total Debt": "7.51B",
+ "Cash & Cash Equivalents": "2.32B",
+ "Return on Invested Capital (ROIC)": "12.75%",
+ "Return on Equity (ROE)": "18.02%",
+ "Revenue": "37.29B",
+ "Net Income": "1.68B",
+ "Free Cash Flow": "3.05B",
+ "Dividend Yield": "0.07%",
+ "Beta (5Y)": "1.28",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "37,289",
+  "28,480",
+  "23,673",
+  "20,882",
+  "17,074",
+  "12,980"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,682",
+  "1,028",
+  "904.82",
+  "744.69",
+  "491.19",
+  "485.96"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "53.48",
+  "61.20",
+  "51.56",
+  "42.10",
+  "41.46",
+  "33.62"
+ ]
+}

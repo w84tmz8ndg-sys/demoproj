@@ -1,0 +1,27 @@
+{
+ "ticker": "SAP",
+ "name": "SAP  SE ADS",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Germany",
+ "mcap": 287310284738.0,
+ "price": "$233.87",
+ "cik": 1000184,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SAP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, SAP SE (SAP) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sap",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:32+00:00"
+}

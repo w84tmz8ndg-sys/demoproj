@@ -1,0 +1,27 @@
+{
+ "ticker": "RHP",
+ "name": "Ryman Hospitality Properties Inc. (REIT)",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 9498861714.0,
+ "price": "$137.685",
+ "cik": 1040829,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RHP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Ryman Hospitality Properties (RHP) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rhp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:26+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "HMC",
+ "name": "Honda Motor Company Ltd. Common Stock",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "Japan",
+ "mcap": 44518144988.0,
+ "price": "$34.31",
+ "cik": 715153,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HMC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Honda Motor Co., Ltd. (HMC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hmc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:45+00:00"
+}

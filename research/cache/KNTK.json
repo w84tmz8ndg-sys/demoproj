@@ -1,0 +1,27 @@
+{
+ "ticker": "KNTK",
+ "name": "Kinetik Holdings Inc. Class A Common Stock",
+ "sector": "Utilities",
+ "industry": "Natural Gas Distribution",
+ "country": "United States",
+ "mcap": 8928041154.0,
+ "price": "$54.975",
+ "cik": 1692787,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KNTK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Kinetik Holdings Inc. (KNTK) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/kntk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:49+00:00"
+}

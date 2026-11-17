@@ -1,0 +1,27 @@
+{
+ "ticker": "GNTX",
+ "name": "Gentex Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "United States",
+ "mcap": 3895044009.0,
+ "price": "$18.97",
+ "cik": 355811,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GNTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Gentex Corporation (GNTX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gntx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:52+00:00"
+}

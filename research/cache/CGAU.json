@@ -1,0 +1,27 @@
+{
+ "ticker": "CGAU",
+ "name": "Centerra Gold Inc. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 3797904174.0,
+ "price": "$19.61",
+ "cik": 1854640,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CGAU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cgau",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:07+00:00"
+}

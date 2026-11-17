@@ -1,0 +1,27 @@
+{
+ "ticker": "CIG",
+ "name": "Comp En De Mn Cemig ADS American Depositary Shares",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "Brazil",
+ "mcap": 5322914325.0,
+ "price": "$1.86",
+ "cik": 1157557,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/CIG/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Companhia Energ\u00e9tica de Minas Gerais (CIG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cig",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:43+00:00"
+}

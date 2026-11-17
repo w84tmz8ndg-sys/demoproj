@@ -1,0 +1,27 @@
+{
+ "ticker": "PCG",
+ "name": "Pacific Gas & Electric Co. Common Stock",
+ "sector": "Utilities",
+ "industry": "Power Generation",
+ "country": "United States",
+ "mcap": 36704973248.0,
+ "price": "$13.695",
+ "cik": 1004980,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PCG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, PG&E (PCG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pcg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:10+00:00"
+}

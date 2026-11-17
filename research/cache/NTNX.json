@@ -1,0 +1,27 @@
+{
+ "ticker": "NTNX",
+ "name": "Nutanix Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 16074840760.0,
+ "price": "$58.94",
+ "cik": 1618732,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NTNX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Nutanix, Inc. (NTNX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ntnx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:07+00:00"
+}

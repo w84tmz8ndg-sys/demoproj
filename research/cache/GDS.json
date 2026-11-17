@@ -1,0 +1,27 @@
+{
+ "ticker": "GDS",
+ "name": "GDS Holdings Limited ADS",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "China",
+ "mcap": 3386381660.0,
+ "price": "$16.90",
+ "cik": 1526125,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GDS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, GDS Holdings Limited (GDS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gds",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:00+00:00"
+}

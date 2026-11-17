@@ -1,0 +1,27 @@
+{
+ "ticker": "UBSI",
+ "name": "United Bankshares Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 6455024379.0,
+ "price": "$47.99",
+ "cik": 729986,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UBSI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, United Bankshares (UBSI) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ubsi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:26+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "TSLA",
+ "src_stats": "https://stockanalysis.com/stocks/tsla/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/tsla/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/tsla/financials/ratios/",
+ "Market Cap": "1.50T",
+ "Enterprise Value": "1.47T",
+ "PE Ratio": "417.21",
+ "Forward PE": "177.72",
+ "PS Ratio": "14.49",
+ "EV / EBITDA": "149.63",
+ "Gross Margin": "19.29%",
+ "Operating Margin": "3.03%",
+ "Profit Margin": "3.11%",
+ "FCF Margin": "3.19%",
+ "Debt / Equity": "0.18",
+ "Debt / EBITDA": "1.39",
+ "Net Cash": "29.00B",
+ "Total Debt": "16.45B",
+ "Cash & Cash Equivalents": "45.45B",
+ "Return on Invested Capital (ROIC)": "4.03%",
+ "Return on Equity (ROE)": "3.84%",
+ "Revenue": "103.57B",
+ "Net Income": "3.22B",
+ "Free Cash Flow": "3.30B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.74",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "103,570",
+  "94,827",
+  "97,690",
+  "96,773",
+  "81,462",
+  "53,823"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "3,220",
+  "3,794",
+  "7,130",
+  "14,999",
+  "12,583",
+  "5,524"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "415.85",
+  "394.22",
+  "181.82",
+  "52.66",
+  "30.91",
+  "192.54"
+ ]
+}

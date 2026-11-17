@@ -1,0 +1,27 @@
+{
+ "ticker": "BCH",
+ "name": "Banco De Chile ADS",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "Chile",
+ "mcap": 19299313363.0,
+ "price": "$38.21",
+ "cik": 1161125,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BCH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Banco de Chile (BCH) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bch",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:37+00:00"
+}

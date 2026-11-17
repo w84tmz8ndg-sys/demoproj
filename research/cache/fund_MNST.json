@@ -1,0 +1,70 @@
+{
+ "ticker": "MNST",
+ "src_stats": "https://stockanalysis.com/stocks/mnst/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/mnst/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/mnst/financials/ratios/",
+ "Market Cap": "89.65B",
+ "Enterprise Value": "86.04B",
+ "PE Ratio": "41.63",
+ "Forward PE": "36.39",
+ "PS Ratio": "9.35",
+ "EV / EBITDA": "28.88",
+ "Gross Margin": "55.26%",
+ "Operating Margin": "29.80%",
+ "Profit Margin": "22.66%",
+ "FCF Margin": "20.05%",
+ "Debt / Equity": "0.01",
+ "Debt / EBITDA": "0.03",
+ "Net Cash": "3.61B",
+ "Total Debt": "90.06M",
+ "Cash & Cash Equivalents": "3.70B",
+ "Return on Invested Capital (ROIC)": "35.62%",
+ "Return on Equity (ROE)": "24.70%",
+ "Revenue": "9.58B",
+ "Net Income": "2.17B",
+ "Free Cash Flow": "1.92B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.51",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "9,585",
+  "8,294",
+  "7,493",
+  "7,140",
+  "6,311",
+  "5,541"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,172",
+  "1,905",
+  "1,509",
+  "1,631",
+  "1,192",
+  "1,377"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "40.89",
+  "39.31",
+  "33.87",
+  "36.75",
+  "44.49",
+  "36.89"
+ ]
+}

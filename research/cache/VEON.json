@@ -1,0 +1,27 @@
+{
+ "ticker": "VEON",
+ "name": "VEON Ltd. ADS",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "Netherlands",
+ "mcap": 5435902733.0,
+ "price": "$78.94",
+ "cik": 1468091,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VEON/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/veon",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:36+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "HLI",
+ "name": "Houlihan Lokey Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 9809217070.0,
+ "price": "$141.31",
+ "cik": 1302215,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HLI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Houlihan Lokey, Inc. (HLI) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hli",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:15+00:00"
+}

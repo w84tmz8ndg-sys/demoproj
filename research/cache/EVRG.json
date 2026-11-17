@@ -1,0 +1,27 @@
+{
+ "ticker": "EVRG",
+ "name": "Evergy Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Power Generation",
+ "country": "United States",
+ "mcap": 20724814546.0,
+ "price": "$88.38",
+ "cik": 1711269,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EVRG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Evergy (EVRG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/evrg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:27+00:00"
+}

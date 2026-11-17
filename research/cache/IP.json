@@ -1,0 +1,27 @@
+{
+ "ticker": "IP",
+ "name": "International Paper Company Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Paper",
+ "country": "United States",
+ "mcap": 17603988430.0,
+ "price": "$33.24",
+ "cik": 51434,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, International Paper (IP) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ip",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:52+00:00"
+}

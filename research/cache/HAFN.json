@@ -1,0 +1,27 @@
+{
+ "ticker": "HAFN",
+ "name": "Hafnia Limited Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Transportation Services",
+ "country": "",
+ "mcap": 5029436192.0,
+ "price": "$9.395",
+ "cik": 1815779,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HAFN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hafn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:10+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "AZTA",
+ "name": "Azenta Inc.",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 2068632317.0,
+ "price": "$47.22",
+ "cik": 933974,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AZTA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Azenta (AZTA) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/azta",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:12+00:00"
+}

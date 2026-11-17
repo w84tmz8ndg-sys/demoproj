@@ -1,0 +1,70 @@
+{
+ "ticker": "FTNT",
+ "src_stats": "https://stockanalysis.com/stocks/ftnt/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ftnt/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ftnt/financials/ratios/",
+ "Market Cap": "90.57B",
+ "Enterprise Value": "86.33B",
+ "PE Ratio": "40.27",
+ "Forward PE": "32.80",
+ "PS Ratio": "11.49",
+ "EV / EBITDA": "31.35",
+ "Gross Margin": "79.75%",
+ "Operating Margin": "32.91%",
+ "Profit Margin": "28.96%",
+ "FCF Margin": "43.54%",
+ "Debt / Equity": "0.25",
+ "Debt / EBITDA": "0.20",
+ "Net Cash": "4.24B",
+ "Total Debt": "560.50M",
+ "Cash & Cash Equivalents": "4.80B",
+ "Return on Invested Capital (ROIC)": "70.01%",
+ "Return on Equity (ROE)": "153.08%",
+ "Revenue": "7.88B",
+ "Net Income": "2.28B",
+ "Free Cash Flow": "3.43B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.04",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "7,881",
+  "6,800",
+  "5,956",
+  "5,305",
+  "4,417",
+  "3,342"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,282",
+  "1,853",
+  "1,745",
+  "1,148",
+  "857.3",
+  "606.8"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "40.03",
+  "31.86",
+  "41.49",
+  "39.16",
+  "44.55",
+  "96.84"
+ ]
+}

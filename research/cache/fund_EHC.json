@@ -1,0 +1,70 @@
+{
+ "ticker": "EHC",
+ "src_stats": "https://stockanalysis.com/stocks/ehc/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ehc/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ehc/financials/ratios/",
+ "Market Cap": "13.78B",
+ "Enterprise Value": "16.50B",
+ "PE Ratio": "21.92",
+ "Forward PE": "21.03",
+ "PS Ratio": "2.20",
+ "EV / EBITDA": "10.96",
+ "Gross Margin": "44.15%",
+ "Operating Margin": "18.37%",
+ "Profit Margin": "10.17%",
+ "FCF Margin": "7.21%",
+ "Debt / Equity": "0.79",
+ "Debt / EBITDA": "1.78",
+ "Net Cash": "-2.73B",
+ "Total Debt": "2.80B",
+ "Cash & Cash Equivalents": "76.20M",
+ "Return on Invested Capital (ROIC)": "14.82%",
+ "Return on Equity (ROE)": "25.11%",
+ "Revenue": "6.34B",
+ "Net Income": "642.70M",
+ "Free Cash Flow": "457.20M",
+ "Dividend Yield": "0.60%",
+ "Beta (5Y)": "0.67",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,338",
+  "5,935",
+  "5,373",
+  "4,801",
+  "4,349",
+  "4,015"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "642.7",
+  "564.7",
+  "452.9",
+  "349.6",
+  "269.8",
+  "410.4"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "21.92",
+  "18.91",
+  "20.54",
+  "19.13",
+  "22.12",
+  "15.82"
+ ]
+}

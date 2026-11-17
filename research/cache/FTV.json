@@ -1,0 +1,27 @@
+{
+ "ticker": "FTV",
+ "name": "Fortive Corporation Common Stock ",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 20101418336.0,
+ "price": "$67.535",
+ "cik": 1659166,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FTV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Fortive (FTV) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ftv",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:31+00:00"
+}

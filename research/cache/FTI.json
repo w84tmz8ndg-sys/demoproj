@@ -1,0 +1,27 @@
+{
+ "ticker": "FTI",
+ "name": "TechnipFMC plc Ordinary Share",
+ "sector": "Consumer Discretionary",
+ "industry": "Oil and Gas Field Machinery",
+ "country": "",
+ "mcap": 24811455808.0,
+ "price": "$63.81",
+ "cik": 1681459,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FTI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, TechnipFMC plc (FTI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fti",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:02+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ADPT",
+ "name": "Adaptive Biotechnologies Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 4511503462.0,
+ "price": "$27.87",
+ "cik": 1478320,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADPT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Adaptive Biotechnologies Corp (ADPT) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/adpt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:54+00:00"
+}

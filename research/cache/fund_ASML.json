@@ -1,0 +1,70 @@
+{
+ "ticker": "ASML",
+ "src_stats": "https://stockanalysis.com/stocks/asml/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/asml/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/asml/financials/ratios/",
+ "Market Cap": "549.96B",
+ "Enterprise Value": "538.10B",
+ "PE Ratio": "36.57",
+ "Forward PE": "22.87",
+ "PS Ratio": "12.23",
+ "EV / EBITDA": "29.18",
+ "Gross Margin": "54.34%",
+ "Operating Margin": "38.55%",
+ "Profit Margin": "34.14%",
+ "FCF Margin": "53.61%",
+ "Debt / Equity": "0.09",
+ "Debt / EBITDA": "0.12",
+ "Net Cash": "12.28B",
+ "Total Debt": "2.24B",
+ "Cash & Cash Equivalents": "14.51B",
+ "Return on Invested Capital (ROIC)": "92.13%",
+ "Return on Equity (ROE)": "65.64%",
+ "Revenue": "44.98B",
+ "Net Income": "15.36B",
+ "Free Cash Flow": "23.28B",
+ "Dividend Yield": "0.56%",
+ "Beta (5Y)": "1.33",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "39,474",
+  "32,667",
+  "28,263",
+  "27,559",
+  "21,173",
+  "18,611"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "13,474",
+  "9,609",
+  "7,572",
+  "7,839",
+  "5,624",
+  "5,883"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "36.57",
+  "37.03",
+  "35.23",
+  "34.32",
+  "35.74",
+  "48.83"
+ ]
+}

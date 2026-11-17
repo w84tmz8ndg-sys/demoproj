@@ -1,0 +1,27 @@
+{
+ "ticker": "NGG",
+ "name": "National Grid Transco PLC National Grid PLC (NEW) American Depositary Shares",
+ "sector": "Utilities",
+ "industry": "Natural Gas Distribution",
+ "country": "United Kingdom",
+ "mcap": 88501660944.0,
+ "price": "$84.29",
+ "cik": 1004315,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NGG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, National Grid plc (NGG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ngg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:39+00:00"
+}

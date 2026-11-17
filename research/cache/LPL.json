@@ -1,0 +1,27 @@
+{
+ "ticker": "LPL",
+ "name": "LG Display Co Ltd AMERICAN DEPOSITORY SHARES",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "South Korea",
+ "mcap": 2515000000.0,
+ "price": "$2.515",
+ "cik": 1290109,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LPL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lpl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:08+00:00"
+}

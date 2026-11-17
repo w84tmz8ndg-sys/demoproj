@@ -1,0 +1,27 @@
+{
+ "ticker": "AEIS",
+ "name": "Advanced Energy Industries Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 8487859053.0,
+ "price": "$209.67",
+ "cik": 927003,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AEIS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Advanced Energy Industries, Inc. (AEIS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aeis",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:01+00:00"
+}

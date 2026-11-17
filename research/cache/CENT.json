@@ -1,0 +1,27 @@
+{
+ "ticker": "CENT",
+ "name": "Central Garden & Pet Company Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Consumer Specialties",
+ "country": "United States",
+ "mcap": 2928707660.0,
+ "price": "$46.79",
+ "cik": 887733,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CENT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Central Garden & Pet Co. (CENT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cent",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:02+00:00"
+}

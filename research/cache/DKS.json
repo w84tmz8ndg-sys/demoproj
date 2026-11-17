@@ -1,0 +1,27 @@
+{
+ "ticker": "DKS",
+ "name": "Dick's Sporting Goods Inc Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "United States",
+ "mcap": 13077539325.0,
+ "price": "$147.06",
+ "cik": 1089063,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DKS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, DICK'S Sporting Goods, Inc. (DKS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dks",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:01+00:00"
+}

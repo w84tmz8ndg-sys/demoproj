@@ -1,0 +1,27 @@
+{
+ "ticker": "KLIC",
+ "name": "Kulicke and Soffa Industries Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Singapore",
+ "mcap": 3436976273.0,
+ "price": "$65.68",
+ "cik": 56978,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KLIC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/klic",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:51+00:00"
+}

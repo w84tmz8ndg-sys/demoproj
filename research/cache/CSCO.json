@@ -1,0 +1,27 @@
+{
+ "ticker": "CSCO",
+ "name": "Cisco Systems Inc. Common Stock (DE)",
+ "sector": "Telecommunications",
+ "industry": "Computer Communications Equipment",
+ "country": "United States",
+ "mcap": 372653311236.0,
+ "price": "$94.52",
+ "cik": 858877,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CSCO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Cisco Systems (CSCO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/csco",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:28+00:00"
+}

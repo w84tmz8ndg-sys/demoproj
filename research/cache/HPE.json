@@ -1,0 +1,27 @@
+{
+ "ticker": "HPE",
+ "name": "Hewlett Packard Enterprise Company Common Stock",
+ "sector": "Technology",
+ "industry": "Retail: Computer Software & Peripheral Equipment",
+ "country": "United States",
+ "mcap": 61833309406.0,
+ "price": "$46.58",
+ "cik": 1645590,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HPE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Hewlett Packard (HPE) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hpe",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:13+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CART",
+ "name": "Maplebear Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 13755307132.0,
+ "price": "$58.13",
+ "cik": 1579091,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CART/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, CART is rated questionable under AAOIFI standards. Zoya cannot yet confirm that Instacart (Maplebear Inc.) is Shariah-compliant, for example because it does not disclose enough data or because scholars disagree about part of its business. The Zoya app shows the reason.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cart",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:48+00:00"
+}

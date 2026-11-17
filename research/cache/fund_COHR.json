@@ -1,0 +1,70 @@
+{
+ "ticker": "COHR",
+ "src_stats": "https://stockanalysis.com/stocks/cohr/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/cohr/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/cohr/financials/ratios/",
+ "Market Cap": "40.07B",
+ "Enterprise Value": "42.66B",
+ "PE Ratio": "41.90",
+ "Forward PE": "17.35",
+ "PS Ratio": "5.07",
+ "EV / EBITDA": "25.66",
+ "Gross Margin": "38.16%",
+ "Operating Margin": "14.11%",
+ "Profit Margin": "12.18%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.37",
+ "Debt / EBITDA": "2.51",
+ "Net Cash": "-2.59B",
+ "Total Debt": "4.35B",
+ "Cash & Cash Equivalents": "1.75B",
+ "Return on Invested Capital (ROIC)": "7.86%",
+ "Return on Equity (ROE)": "9.27%",
+ "Revenue": "7.91B",
+ "Net Income": "961.70M",
+ "Free Cash Flow": "-1.83B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "2.23",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "7,907",
+  "7,118",
+  "5,810",
+  "4,708",
+  "5,160",
+  "3,317"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "961.7",
+  "769.9",
+  "-80.56",
+  "-279.51",
+  "-403.67",
+  "166.53"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "41.90",
+  "100.24",
+  "-",
+  "-",
+  "-",
+  "32.57"
+ ]
+}

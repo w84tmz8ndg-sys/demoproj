@@ -1,0 +1,27 @@
+{
+ "ticker": "NE",
+ "name": "Noble Corporation plc A Ordinary Shares",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 6575352527.0,
+ "price": "$41.183",
+ "cik": 1895262,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Noble Corporation (NE) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ne",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:20+00:00"
+}

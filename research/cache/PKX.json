@@ -1,0 +1,27 @@
+{
+ "ticker": "PKX",
+ "name": "POSCO HOLDINGS INC. American Depositary Shares (Each representing 1/4th of a share of Common Stock)",
+ "sector": "Industrials",
+ "industry": "Steel/Iron Ore",
+ "country": "South Korea",
+ "mcap": 15645958281.0,
+ "price": "$48.33",
+ "cik": 889132,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PKX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, POSCO Holdings Inc. (PKX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pkx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:18+00:00"
+}

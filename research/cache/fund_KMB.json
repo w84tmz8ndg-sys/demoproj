@@ -1,0 +1,70 @@
+{
+ "ticker": "KMB",
+ "src_stats": "https://stockanalysis.com/stocks/kmb/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/kmb/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/kmb/financials/ratios/",
+ "Market Cap": "68.33B",
+ "Enterprise Value": "72.97B",
+ "PE Ratio": "11.25",
+ "Forward PE": "16.05",
+ "PS Ratio": "4.12",
+ "EV / EBITDA": "20.65",
+ "Gross Margin": "37.31%",
+ "Operating Margin": "17.34%",
+ "Profit Margin": "19.93%",
+ "FCF Margin": "11.73%",
+ "Debt / Equity": "2.12",
+ "Debt / EBITDA": "1.71",
+ "Net Cash": "-4.64B",
+ "Total Debt": "6.51B",
+ "Cash & Cash Equivalents": "1.87B",
+ "Return on Invested Capital (ROIC)": "28.56%",
+ "Return on Equity (ROE)": "78.38%",
+ "Revenue": "16.57B",
+ "Net Income": "3.30B",
+ "Free Cash Flow": "1.94B",
+ "Dividend Yield": "4.60%",
+ "Beta (5Y)": "0.28",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "16,566",
+  "16,447",
+  "16,805",
+  "17,146",
+  "20,175",
+  "19,440"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "3,302",
+  "2,021",
+  "2,545",
+  "1,764",
+  "1,934",
+  "1,814"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "11.25",
+  "16.57",
+  "17.17",
+  "23.28",
+  "23.69",
+  "26.53"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GEHC",
+ "name": "GE HealthCare Technologies Inc. Common Stock ",
+ "sector": "Health Care",
+ "industry": "Medical Electronics",
+ "country": "United States",
+ "mcap": 37509354460.0,
+ "price": "$82.96",
+ "cik": 1932393,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GEHC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, GE HealthCare (GEHC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gehc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:06+00:00"
+}

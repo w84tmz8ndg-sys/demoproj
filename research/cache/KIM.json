@@ -1,0 +1,27 @@
+{
+ "ticker": "KIM",
+ "name": "Kimco Realty Corporation (HC) Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 17100659595.0,
+ "price": "$25.735",
+ "cik": 879101,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KIM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Kimco Realty (KIM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/kim",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:58+00:00"
+}

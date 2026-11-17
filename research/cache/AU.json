@@ -1,0 +1,27 @@
+{
+ "ticker": "AU",
+ "name": "AngloGold Ashanti PLC Ordinary Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "South Africa",
+ "mcap": 42671752129.0,
+ "price": "$84.37",
+ "cik": 1973832,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/au",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:53+00:00"
+}

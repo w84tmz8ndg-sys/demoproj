@@ -1,0 +1,27 @@
+{
+ "ticker": "SEZL",
+ "name": "Sezzle Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 5470208452.0,
+ "price": "$161.92",
+ "cik": 1662991,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SEZL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Sezzle Inc. (SEZL) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sezl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:33+00:00"
+}

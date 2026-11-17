@@ -1,0 +1,70 @@
+{
+ "ticker": "DGX",
+ "src_stats": "https://stockanalysis.com/stocks/dgx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/dgx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/dgx/financials/ratios/",
+ "Market Cap": "28.85B",
+ "Enterprise Value": "34.45B",
+ "PE Ratio": "26.12",
+ "Forward PE": "22.60",
+ "PS Ratio": "2.44",
+ "EV / EBITDA": "14.65",
+ "Gross Margin": "33.18%",
+ "Operating Margin": "14.92%",
+ "Profit Margin": "9.53%",
+ "FCF Margin": "11.61%",
+ "Debt / Equity": "0.80",
+ "Debt / EBITDA": "2.23",
+ "Net Cash": "-5.60B",
+ "Total Debt": "6.40B",
+ "Cash & Cash Equivalents": "797.00M",
+ "Return on Invested Capital (ROIC)": "10.03%",
+ "Return on Equity (ROE)": "15.32%",
+ "Revenue": "11.84B",
+ "Net Income": "1.13B",
+ "Free Cash Flow": "1.38B",
+ "Dividend Yield": "1.31%",
+ "Beta (5Y)": "0.55",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "11,841",
+  "11,035",
+  "9,872",
+  "9,252",
+  "9,883",
+  "10,788"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,125",
+  "988",
+  "866",
+  "850",
+  "942",
+  "1,988"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "25.78",
+  "19.54",
+  "19.44",
+  "18.24",
+  "18.91",
+  "10.68"
+ ]
+}

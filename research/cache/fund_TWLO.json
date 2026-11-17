@@ -1,0 +1,70 @@
+{
+ "ticker": "TWLO",
+ "src_stats": "https://stockanalysis.com/stocks/twlo/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/twlo/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/twlo/financials/ratios/",
+ "Market Cap": "29.98B",
+ "Enterprise Value": "28.15B",
+ "PE Ratio": "23.57",
+ "Forward PE": "29.47",
+ "PS Ratio": "5.27",
+ "EV / EBITDA": "49.29",
+ "Gross Margin": "48.61%",
+ "Operating Margin": "7.68%",
+ "Profit Margin": "21.82%",
+ "FCF Margin": "20.11%",
+ "Debt / Equity": "0.12",
+ "Debt / EBITDA": "1.72",
+ "Net Cash": "1.83B",
+ "Total Debt": "1.06B",
+ "Cash & Cash Equivalents": "2.89B",
+ "Return on Invested Capital (ROIC)": "6.08%",
+ "Return on Equity (ROE)": "14.91%",
+ "Revenue": "5.83B",
+ "Net Income": "1.27B",
+ "Free Cash Flow": "1.17B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.49",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,831",
+  "5,067",
+  "4,458",
+  "4,154",
+  "3,826",
+  "2,842"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,273",
+  "33.83",
+  "-109.4",
+  "-1,015",
+  "-1,256",
+  "-949.9"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "23.59",
+  "637.39",
+  "-",
+  "-",
+  "-",
+  "-"
+ ]
+}

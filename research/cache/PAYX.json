@@ -1,0 +1,27 @@
+{
+ "ticker": "PAYX",
+ "name": "Paychex Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Diversified Commercial Services",
+ "country": "United States",
+ "mcap": 41923820305.0,
+ "price": "$117.77",
+ "cik": 723531,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PAYX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Paychex (PAYX) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/payx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:51+00:00"
+}

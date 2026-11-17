@@ -1,0 +1,70 @@
+{
+ "ticker": "FLEX",
+ "src_stats": "https://stockanalysis.com/stocks/flex/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/flex/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/flex/financials/ratios/",
+ "Market Cap": "27.59B",
+ "Enterprise Value": "30.49B",
+ "PE Ratio": "26.94",
+ "Forward PE": "11.62",
+ "PS Ratio": "0.89",
+ "EV / EBITDA": "13.89",
+ "Gross Margin": "9.67%",
+ "Operating Margin": "5.32%",
+ "Profit Margin": "3.35%",
+ "FCF Margin": "2.53%",
+ "Debt / Equity": "1.03",
+ "Debt / EBITDA": "2.47",
+ "Net Cash": "-2.90B",
+ "Total Debt": "5.98B",
+ "Cash & Cash Equivalents": "3.08B",
+ "Return on Invested Capital (ROIC)": "14.30%",
+ "Return on Equity (ROE)": "19.13%",
+ "Revenue": "30.95B",
+ "Net Income": "1.04B",
+ "Free Cash Flow": "783.00M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.79",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "30,954",
+  "27,914",
+  "25,813",
+  "26,415",
+  "28,502",
+  "24,633"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,037",
+  "880",
+  "838",
+  "1,006",
+  "793",
+  "936"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "26.98",
+  "27.35",
+  "15.12",
+  "11.98",
+  "13.09",
+  "9.20"
+ ]
+}

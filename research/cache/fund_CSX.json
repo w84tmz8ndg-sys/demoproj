@@ -1,0 +1,70 @@
+{
+ "ticker": "CSX",
+ "src_stats": "https://stockanalysis.com/stocks/csx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/csx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/csx/financials/ratios/",
+ "Market Cap": "95.84B",
+ "Enterprise Value": "113.68B",
+ "PE Ratio": "27.10",
+ "Forward PE": "22.75",
+ "PS Ratio": "6.41",
+ "EV / EBITDA": "15.92",
+ "Gross Margin": "47.78%",
+ "Operating Margin": "36.78%",
+ "Profit Margin": "23.97%",
+ "FCF Margin": "21.50%",
+ "Debt / Equity": "1.35",
+ "Debt / EBITDA": "2.68",
+ "Net Cash": "-17.84B",
+ "Total Debt": "19.44B",
+ "Cash & Cash Equivalents": "1.61B",
+ "Return on Invested Capital (ROIC)": "13.05%",
+ "Return on Equity (ROE)": "26.39%",
+ "Revenue": "14.94B",
+ "Net Income": "3.58B",
+ "Free Cash Flow": "3.21B",
+ "Dividend Yield": "1.08%",
+ "Beta (5Y)": "1.11",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "14,942",
+  "14,092",
+  "14,540",
+  "14,657",
+  "14,853",
+  "12,522"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "3,581",
+  "2,889",
+  "3,470",
+  "3,668",
+  "4,114",
+  "3,781"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "26.82",
+  "23.36",
+  "17.93",
+  "18.68",
+  "15.83",
+  "22.06"
+ ]
+}

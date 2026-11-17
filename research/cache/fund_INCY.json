@@ -1,0 +1,70 @@
+{
+ "ticker": "INCY",
+ "src_stats": "https://stockanalysis.com/stocks/incy/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/incy/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/incy/financials/ratios/",
+ "Market Cap": "24.51B",
+ "Enterprise Value": "20.70B",
+ "PE Ratio": "61.87",
+ "Forward PE": "15.24",
+ "PS Ratio": "4.08",
+ "EV / EBITDA": "10.17",
+ "Gross Margin": "56.02%",
+ "Operating Margin": "32.22%",
+ "Profit Margin": "6.71%",
+ "FCF Margin": "11.39%",
+ "Debt / Equity": "0.01",
+ "Debt / EBITDA": "0.02",
+ "Net Cash": "3.82B",
+ "Total Debt": "37.41M",
+ "Cash & Cash Equivalents": "3.85B",
+ "Return on Invested Capital (ROIC)": "53.44%",
+ "Return on Equity (ROE)": "7.84%",
+ "Revenue": "6.01B",
+ "Net Income": "403.41M",
+ "Free Cash Flow": "684.87M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.78",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,011",
+  "5,141",
+  "4,241",
+  "3,696",
+  "3,395",
+  "2,986"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "403.41",
+  "1,287",
+  "32.62",
+  "597.6",
+  "340.66",
+  "948.58"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "61.87",
+  "15.07",
+  "407.98",
+  "23.55",
+  "52.46",
+  "17.09"
+ ]
+}

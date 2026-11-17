@@ -1,0 +1,27 @@
+{
+ "ticker": "ACN",
+ "name": "Accenture plc Class A Ordinary Shares (Ireland)",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "Ireland",
+ "mcap": 165699482467.0,
+ "price": "$247.785",
+ "cik": 1467373,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Accenture Plc (ACN) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/acn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:42+00:00"
+}

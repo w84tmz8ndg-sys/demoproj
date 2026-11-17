@@ -1,0 +1,27 @@
+{
+ "ticker": "WSM",
+ "name": "Williams-Sonoma Inc. Common Stock (DE)",
+ "sector": "Consumer Discretionary",
+ "industry": "Home Furnishings",
+ "country": "United States",
+ "mcap": 29689773930.0,
+ "price": "$252.08",
+ "cik": 719955,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WSM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Williams-Sonoma, Inc. (WSM) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wsm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:38+00:00"
+}

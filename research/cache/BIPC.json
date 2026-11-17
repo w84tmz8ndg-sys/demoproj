@@ -1,0 +1,27 @@
+{
+ "ticker": "BIPC",
+ "name": "Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Canada",
+ "mcap": 4869173634.0,
+ "price": "$39.58",
+ "cik": 1788348,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BIPC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Brookfield Infrastructure Corporation (BIPC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bipc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:20+00:00"
+}

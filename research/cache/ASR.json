@@ -1,0 +1,27 @@
+{
+ "ticker": "ASR",
+ "name": "Grupo Aeroportuario del Sureste S.A. de C.V. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Aerospace",
+ "country": "Mexico",
+ "mcap": 8073300000.0,
+ "price": "$269.11",
+ "cik": 1123452,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ASR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Grupo Aeroportuario del Sureste, S. A. B. de C. V. (ASR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/asr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:15+00:00"
+}

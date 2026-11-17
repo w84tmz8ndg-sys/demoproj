@@ -1,0 +1,27 @@
+{
+ "ticker": "IESC",
+ "name": "IES Holdings Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Engineering & Construction",
+ "country": "United States",
+ "mcap": 6753898494.0,
+ "price": "$165.90",
+ "cik": 1048268,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IESC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, IES Holdings, Inc. (IESC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/iesc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:11+00:00"
+}

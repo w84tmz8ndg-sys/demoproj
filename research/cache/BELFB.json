@@ -1,0 +1,27 @@
+{
+ "ticker": "BELFB",
+ "name": "Bel Fuse Inc. Class B Common Stock",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "United States",
+ "mcap": 3007006840.0,
+ "price": "$208.24",
+ "cik": 729580,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BELFB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Bel Fuse (BELFB) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/belfb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:51+00:00"
+}

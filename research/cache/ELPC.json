@@ -1,0 +1,27 @@
+{
+ "ticker": "ELPC",
+ "name": "Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "Brazil",
+ "mcap": 7811235238.0,
+ "price": "$10.475",
+ "cik": 1041792,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ELPC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/elpc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:28+00:00"
+}

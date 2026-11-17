@@ -1,0 +1,27 @@
+{
+ "ticker": "XE",
+ "name": "X-Energy Inc. Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 4192046601.0,
+ "price": "$10.32",
+ "cik": 2088896,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/xe",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:26+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "HONA",
+ "name": "Honeywell Aerospace Inc. Common Stock ",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "United States",
+ "mcap": 51790320729.0,
+ "price": "$163.36",
+ "cik": 2089271,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HONA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hona",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:28+00:00"
+}

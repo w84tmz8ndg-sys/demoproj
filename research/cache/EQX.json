@@ -1,0 +1,27 @@
+{
+ "ticker": "EQX",
+ "name": "Equinox Gold Corp. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 11764615962.0,
+ "price": "$9.84",
+ "cik": 1756607,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EQX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eqx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:25+00:00"
+}

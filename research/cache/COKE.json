@@ -1,0 +1,27 @@
+{
+ "ticker": "COKE",
+ "name": "Coca-Cola Consolidated Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "United States",
+ "mcap": 13738204639.0,
+ "price": "$206.39",
+ "cik": 317540,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COKE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Coca-Cola (COKE) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/coke",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:47+00:00"
+}

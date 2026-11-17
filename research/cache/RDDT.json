@@ -1,0 +1,27 @@
+{
+ "ticker": "RDDT",
+ "name": "Reddit Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 17934545735.0,
+ "price": "$92.88",
+ "cik": 1713445,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RDDT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Reddit (RDDT) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rddt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:47+00:00"
+}

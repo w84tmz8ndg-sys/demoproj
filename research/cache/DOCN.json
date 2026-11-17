@@ -1,0 +1,27 @@
+{
+ "ticker": "DOCN",
+ "name": "DigitalOcean Holdings Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 9305228831.0,
+ "price": "$78.86",
+ "cik": 1582961,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DOCN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, DigitalOcean Holdings (DOCN) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/docn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:32+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "AZO",
+ "src_stats": "https://stockanalysis.com/stocks/azo/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/azo/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/azo/financials/ratios/",
+ "Market Cap": "52.27B",
+ "Enterprise Value": "64.98B",
+ "PE Ratio": "21.29",
+ "Forward PE": "19.09",
+ "PS Ratio": "2.56",
+ "EV / EBITDA": "15.14",
+ "Gross Margin": "51.71%",
+ "Operating Margin": "17.68%",
+ "Profit Margin": "12.65%",
+ "FCF Margin": "8.93%",
+ "Debt / Equity": "n/a",
+ "Debt / EBITDA": "2.73",
+ "Net Cash": "-12.70B",
+ "Total Debt": "13.16B",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "25.40%",
+ "Return on Equity (ROE)": "n/a",
+ "Revenue": "20.34B",
+ "Net Income": "2.57B",
+ "Free Cash Flow": "1.82B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.37",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "20,339",
+  "20,339",
+  "18,939",
+  "18,490",
+  "17,457",
+  "16,252"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,573",
+  "2,573",
+  "2,498",
+  "2,662",
+  "2,528",
+  "2,430"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "21.54",
+  "18.80",
+  "28.11",
+  "20.41",
+  "17.62",
+  "17.35"
+ ]
+}

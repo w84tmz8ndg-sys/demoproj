@@ -1,0 +1,27 @@
+{
+ "ticker": "RUSHB",
+ "name": "Rush Enterprises Inc. Class B",
+ "sector": "Consumer Discretionary",
+ "industry": "Retail-Auto Dealers and Gas Stations",
+ "country": "United States",
+ "mcap": 6996433249.0,
+ "price": "$60.22",
+ "cik": 1012019,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RUSHB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rushb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:00+00:00"
+}

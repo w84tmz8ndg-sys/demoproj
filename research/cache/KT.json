@@ -1,0 +1,27 @@
+{
+ "ticker": "KT",
+ "name": "KT Corporation Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "South Korea",
+ "mcap": 9065174369.0,
+ "price": "$18.80",
+ "cik": 892450,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, KT Corporation (KT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/kt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:39+00:00"
+}

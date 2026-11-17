@@ -1,0 +1,27 @@
+{
+ "ticker": "ENB",
+ "name": "Enbridge Inc Common Stock",
+ "sector": "Energy",
+ "industry": "Natural Gas Distribution",
+ "country": "Canada",
+ "mcap": 105426406562.0,
+ "price": "$47.30",
+ "cik": 895728,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Enbridge Inc. (ENB) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/enb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:25+00:00"
+}

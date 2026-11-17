@@ -1,0 +1,27 @@
+{
+ "ticker": "PLUS",
+ "name": "ePlus inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Retail: Computer Software & Peripheral Equipment",
+ "country": "United States",
+ "mcap": 2475759436.0,
+ "price": "$95.30",
+ "cik": 1022408,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLUS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, ePlus (PLUS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/plus",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:14+00:00"
+}

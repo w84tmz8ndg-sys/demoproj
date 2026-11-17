@@ -1,0 +1,27 @@
+{
+ "ticker": "MKC.V",
+ "name": "McCormick & Company Incorporated Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 12737512436.0,
+ "price": "$47.34",
+ "cik": 63754,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/MKC-V/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mkc-v",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:06+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "TRMD",
+ "name": "TORM plc Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "United Kingdom",
+ "mcap": 3699534003.0,
+ "price": "$36.04",
+ "cik": 1655891,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRMD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/trmd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:17+00:00"
+}

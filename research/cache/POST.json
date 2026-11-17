@@ -1,0 +1,27 @@
+{
+ "ticker": "POST",
+ "name": "Post Holdings Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 3587314856.0,
+ "price": "$81.61",
+ "cik": 1530950,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/POST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Post Holdings (POST) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/post",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:29+00:00"
+}

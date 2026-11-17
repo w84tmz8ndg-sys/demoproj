@@ -1,0 +1,70 @@
+{
+ "ticker": "ROK",
+ "src_stats": "https://stockanalysis.com/stocks/rok/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/rok/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/rok/financials/ratios/",
+ "Market Cap": "42.25B",
+ "Enterprise Value": "45.45B",
+ "PE Ratio": "30.69",
+ "Forward PE": "25.63",
+ "PS Ratio": "4.70",
+ "EV / EBITDA": "22.77",
+ "Gross Margin": "48.90%",
+ "Operating Margin": "18.83%",
+ "Profit Margin": "15.67%",
+ "FCF Margin": "18.92%",
+ "Debt / Equity": "1.02",
+ "Debt / EBITDA": "1.71",
+ "Net Cash": "-3.21B",
+ "Total Debt": "3.64B",
+ "Cash & Cash Equivalents": "433.00M",
+ "Return on Invested Capital (ROIC)": "21.12%",
+ "Return on Equity (ROE)": "38.73%",
+ "Revenue": "8.99B",
+ "Net Income": "1.41B",
+ "Free Cash Flow": "1.70B",
+ "Dividend Yield": "1.51%",
+ "Beta (5Y)": "1.52",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "8,989",
+  "8,989",
+  "8,342",
+  "8,264",
+  "9,058",
+  "7,760"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,405",
+  "1,405",
+  "867",
+  "948",
+  "1,381",
+  "929.3"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "30.69",
+  "34.41",
+  "45.33",
+  "32.13",
+  "23.78",
+  "26.72"
+ ]
+}

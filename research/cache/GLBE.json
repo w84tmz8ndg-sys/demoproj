@@ -1,0 +1,27 @@
+{
+ "ticker": "GLBE",
+ "name": "Global-E Online Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Israel",
+ "mcap": 6933975757.0,
+ "price": "$41.38",
+ "cik": 1835963,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GLBE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/glbe",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:02+00:00"
+}

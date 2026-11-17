@@ -1,0 +1,27 @@
+{
+ "ticker": "FIG",
+ "name": "Figma Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 10393984523.0,
+ "price": "$19.405",
+ "cik": 1579878,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FIG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Figma (FIG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fig",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:57+00:00"
+}

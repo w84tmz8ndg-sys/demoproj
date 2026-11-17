@@ -1,0 +1,70 @@
+{
+ "ticker": "RGEN",
+ "src_stats": "https://stockanalysis.com/stocks/rgen/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/rgen/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/rgen/financials/ratios/",
+ "Market Cap": "10.33B",
+ "Enterprise Value": "10.16B",
+ "PE Ratio": "n/a",
+ "Forward PE": "66.46",
+ "PS Ratio": "12.92",
+ "EV / EBITDA": "71.32",
+ "Gross Margin": "53.77%",
+ "Operating Margin": "8.14%",
+ "Profit Margin": "-1.47%",
+ "FCF Margin": "13.25%",
+ "Debt / Equity": "0.33",
+ "Debt / EBITDA": "3.55",
+ "Net Cash": "170.74M",
+ "Total Debt": "692.24M",
+ "Cash & Cash Equivalents": "862.98M",
+ "Return on Invested Capital (ROIC)": "-4.81%",
+ "Return on Equity (ROE)": "-0.57%",
+ "Revenue": "805.61M",
+ "Net Income": "-11.80M",
+ "Free Cash Flow": "106.72M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.12",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "805.61",
+  "738.26",
+  "634.44",
+  "632.36",
+  "801.54",
+  "670.53"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-11.8",
+  "48.89",
+  "-25.51",
+  "35.6",
+  "185.96",
+  "128.29"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "188.65",
+  "-",
+  "282.02",
+  "50.55",
+  "114.14"
+ ]
+}

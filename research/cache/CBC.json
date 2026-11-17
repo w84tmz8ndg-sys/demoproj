@@ -1,0 +1,27 @@
+{
+ "ticker": "CBC",
+ "name": "Central Bancompany Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 9228186162.0,
+ "price": "$38.55",
+ "cik": 2065601,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CBC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cbc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:34+00:00"
+}

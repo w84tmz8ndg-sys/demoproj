@@ -1,0 +1,27 @@
+{
+ "ticker": "IOND",
+ "name": "Ionic Digital Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 2792012659.0,
+ "price": "$62.05",
+ "cik": 2007691,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IOND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/iond",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:20+00:00"
+}

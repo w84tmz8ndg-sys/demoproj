@@ -1,0 +1,27 @@
+{
+ "ticker": "CCJ",
+ "name": "Cameco Corporation Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Other Metals and Minerals",
+ "country": "Canada",
+ "mcap": 28749531878.0,
+ "price": "$66.01",
+ "cik": 1009001,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CCJ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Cameco (CCJ) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ccj",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:44+00:00"
+}

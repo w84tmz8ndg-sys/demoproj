@@ -1,0 +1,27 @@
+{
+ "ticker": "CSX",
+ "name": "CSX Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Railroads",
+ "country": "United States",
+ "mcap": 95912008866.0,
+ "price": "$52.03",
+ "cik": 277948,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CSX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, CSX (CSX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/csx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:34+00:00"
+}

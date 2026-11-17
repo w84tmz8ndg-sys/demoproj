@@ -1,0 +1,27 @@
+{
+ "ticker": "BTU",
+ "name": "Peabody Energy Corporation Common Stock ",
+ "sector": "Energy",
+ "industry": "Coal Mining",
+ "country": "United States",
+ "mcap": 2064376500.0,
+ "price": "$16.935",
+ "cik": 1064728,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BTU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Peabody Energy (BTU) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/btu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:14+00:00"
+}

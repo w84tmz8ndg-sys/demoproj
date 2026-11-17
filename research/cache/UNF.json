@@ -1,0 +1,27 @@
+{
+ "ticker": "UNF",
+ "name": "Unifirst Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "United States",
+ "mcap": 4113122969.0,
+ "price": "$227.40",
+ "cik": 717954,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UNF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, UniFirst (UNF) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/unf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:39+00:00"
+}

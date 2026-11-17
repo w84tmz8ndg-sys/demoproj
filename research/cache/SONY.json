@@ -1,0 +1,27 @@
+{
+ "ticker": "SONY",
+ "name": "Sony Group Corporation American Depositary Shares ",
+ "sector": "Consumer Staples",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "Japan",
+ "mcap": 159429261060.0,
+ "price": "$27.04",
+ "cik": 313838,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SONY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Sony Group Corporation (SONY) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sony",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:43+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "KNF",
+ "name": "Knife Riv Holding Co. Common Stock",
+ "sector": "Industrials",
+ "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+ "country": "United States",
+ "mcap": 3087930048.0,
+ "price": "$54.40",
+ "cik": 1955520,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KNF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Knife River Corporation (KNF) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/knf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:36+00:00"
+}

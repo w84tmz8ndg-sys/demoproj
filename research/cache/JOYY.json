@@ -1,0 +1,27 @@
+{
+ "ticker": "JOYY",
+ "name": "JOYY Inc. American Depositary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Singapore",
+ "mcap": 3912367875.0,
+ "price": "$79.885",
+ "cik": 1530238,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JOYY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/joyy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:53+00:00"
+}

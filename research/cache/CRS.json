@@ -1,0 +1,27 @@
+{
+ "ticker": "CRS",
+ "name": "Carpenter Technology Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Steel/Iron Ore",
+ "country": "United States",
+ "mcap": 13806259176.0,
+ "price": "$278.685",
+ "cik": 17843,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Carpenter Technology (CRS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/crs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:45+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MRK",
+ "name": "Merck & Company Inc. Common Stock (new)",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 356277306830.0,
+ "price": "$144.52",
+ "cik": 310158,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MRK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Merck & Co (MRK) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mrk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:29+00:00"
+}

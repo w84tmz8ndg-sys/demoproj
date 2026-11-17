@@ -1,0 +1,27 @@
+{
+ "ticker": "MICC",
+ "name": "The Magnum Ice Cream Company N.V. Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Specialty Foods",
+ "country": "",
+ "mcap": 12086007248.0,
+ "price": "$19.74",
+ "cik": 2071668,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MICC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/micc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:18+00:00"
+}

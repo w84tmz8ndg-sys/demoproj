@@ -1,0 +1,27 @@
+{
+ "ticker": "HUBB",
+ "name": "Hubbell Inc Common Stock",
+ "sector": "Technology",
+ "industry": "Electrical Products",
+ "country": "United States",
+ "mcap": 22425302255.0,
+ "price": "$424.44",
+ "cik": 48898,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HUBB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Hubbell (HUBB) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hubb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:15+00:00"
+}

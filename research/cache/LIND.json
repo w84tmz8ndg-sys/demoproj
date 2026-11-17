@@ -1,0 +1,27 @@
+{
+ "ticker": "LIND",
+ "name": "Lindblad Expeditions Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Transportation Services",
+ "country": "United States",
+ "mcap": 2186407770.0,
+ "price": "$33.30",
+ "cik": 1512499,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LIND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Lindblad Expeditions Holdings Inc (LIND) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lind",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:59+00:00"
+}

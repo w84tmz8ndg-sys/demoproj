@@ -1,0 +1,70 @@
+{
+ "ticker": "CIEN",
+ "src_stats": "https://stockanalysis.com/stocks/cien/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/cien/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/cien/financials/ratios/",
+ "Market Cap": "36.26B",
+ "Enterprise Value": "36.70B",
+ "PE Ratio": "57.13",
+ "Forward PE": "24.60",
+ "PS Ratio": "6.07",
+ "EV / EBITDA": "36.05",
+ "Gross Margin": "44.07%",
+ "Operating Margin": "14.12%",
+ "Profit Margin": "10.87%",
+ "FCF Margin": "13.53%",
+ "Debt / Equity": "1.07",
+ "Debt / EBITDA": "3.15",
+ "Net Cash": "-442.32M",
+ "Total Debt": "3.29B",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "21.97%",
+ "Return on Equity (ROE)": "22.40%",
+ "Revenue": "6.02B",
+ "Net Income": "654.41M",
+ "Free Cash Flow": "814.36M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.35",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,021",
+  "4,770",
+  "4,015",
+  "4,387",
+  "3,633",
+  "3,621"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "654.41",
+  "123.34",
+  "83.96",
+  "254.83",
+  "152.9",
+  "500.2"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "57.56",
+  "217.20",
+  "110.05",
+  "23.80",
+  "46.75",
+  "16.82"
+ ]
+}

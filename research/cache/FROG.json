@@ -1,0 +1,27 @@
+{
+ "ticker": "FROG",
+ "name": "JFrog Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 13700999299.0,
+ "price": "$109.94",
+ "cik": 1800667,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FROG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, JFrog Ltd. (FROG) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/frog",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:48+00:00"
+}

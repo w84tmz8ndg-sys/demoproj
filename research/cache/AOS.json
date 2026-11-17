@@ -1,0 +1,27 @@
+{
+ "ticker": "AOS",
+ "name": "A.O. Smith Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "United States",
+ "mcap": 8587650157.0,
+ "price": "$63.93",
+ "cik": 91142,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AOS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, A. O. Smith (AOS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aos",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:59+00:00"
+}

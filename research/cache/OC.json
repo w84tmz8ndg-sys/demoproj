@@ -1,0 +1,27 @@
+{
+ "ticker": "OC",
+ "name": "Owens Corning Inc Common Stock New",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 8817263128.0,
+ "price": "$114.32",
+ "cik": 1370946,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Owens Corning (OC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/oc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:50+00:00"
+}

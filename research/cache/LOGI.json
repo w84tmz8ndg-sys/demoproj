@@ -1,0 +1,27 @@
+{
+ "ticker": "LOGI",
+ "name": "Logitech International S.A. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer peripheral equipment",
+ "country": "United States",
+ "mcap": 14044290412.0,
+ "price": "$99.03",
+ "cik": 1032975,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LOGI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Logitech International S.A. (LOGI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/logi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:41+00:00"
+}

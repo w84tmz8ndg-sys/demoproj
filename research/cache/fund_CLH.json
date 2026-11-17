@@ -1,0 +1,70 @@
+{
+ "ticker": "CLH",
+ "src_stats": "https://stockanalysis.com/stocks/clh/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/clh/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/clh/financials/ratios/",
+ "Market Cap": "15.43B",
+ "Enterprise Value": "18.28B",
+ "PE Ratio": "29.38",
+ "Forward PE": "30.20",
+ "PS Ratio": "2.36",
+ "EV / EBITDA": "13.68",
+ "Gross Margin": "33.13%",
+ "Operating Margin": "13.37%",
+ "Profit Margin": "8.05%",
+ "FCF Margin": "7.63%",
+ "Debt / Equity": "1.08",
+ "Debt / EBITDA": "2.06",
+ "Net Cash": "-2.84B",
+ "Total Debt": "3.36B",
+ "Cash & Cash Equivalents": "516.55M",
+ "Return on Invested Capital (ROIC)": "11.11%",
+ "Return on Equity (ROE)": "17.93%",
+ "Revenue": "6.56B",
+ "Net Income": "528.36M",
+ "Free Cash Flow": "500.54M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.86",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,564",
+  "6,031",
+  "5,890",
+  "5,409",
+  "5,167",
+  "3,806"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "528.36",
+  "390.97",
+  "402.3",
+  "377.86",
+  "411.74",
+  "203.25"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "29.24",
+  "32.05",
+  "30.83",
+  "24.98",
+  "14.99",
+  "26.71"
+ ]
+}

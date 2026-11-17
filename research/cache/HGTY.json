@@ -1,0 +1,27 @@
+{
+ "ticker": "HGTY",
+ "name": "Hagerty Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Specialty Insurers",
+ "country": "United States",
+ "mcap": 5588599349.0,
+ "price": "$16.26",
+ "cik": 1840776,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HGTY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Hagerty Inc - Ordinary Shares - Class A (HGTY) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hgty",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:22+00:00"
+}

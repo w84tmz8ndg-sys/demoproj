@@ -1,0 +1,70 @@
+{
+ "ticker": "EXEL",
+ "src_stats": "https://stockanalysis.com/stocks/exel/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/exel/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/exel/financials/ratios/",
+ "Market Cap": "16.37B",
+ "Enterprise Value": "15.14B",
+ "PE Ratio": "20.04",
+ "Forward PE": "16.79",
+ "PS Ratio": "6.56",
+ "EV / EBITDA": "14.67",
+ "Gross Margin": "96.26%",
+ "Operating Margin": "40.21%",
+ "Profit Margin": "35.45%",
+ "FCF Margin": "46.50%",
+ "Debt / Equity": "0.09",
+ "Debt / EBITDA": "0.15",
+ "Net Cash": "1.24B",
+ "Total Debt": "162.20M",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "73.33%",
+ "Return on Equity (ROE)": "44.32%",
+ "Revenue": "2.50B",
+ "Net Income": "885.14M",
+ "Free Cash Flow": "1.16B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.42",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,497",
+  "2,320",
+  "2,169",
+  "1,830",
+  "1,611",
+  "1,435"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "885.14",
+  "782.57",
+  "521.27",
+  "207.77",
+  "182.28",
+  "231.06"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "20.32",
+  "15.08",
+  "18.24",
+  "35.91",
+  "28.38",
+  "25.03"
+ ]
+}

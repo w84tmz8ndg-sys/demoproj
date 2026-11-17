@@ -1,0 +1,27 @@
+{
+ "ticker": "BMNR",
+ "name": "BitMine Immersion Technologies Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 10201754877.0,
+ "price": "$16.285",
+ "cik": 1829311,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BMNR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, BitMine Immersion Technologies Inc (BMNR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bmnr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:02+00:00"
+}

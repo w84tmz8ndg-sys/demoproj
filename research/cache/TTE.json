@@ -1,0 +1,27 @@
+{
+ "ticker": "TTE",
+ "name": "TotalEnergies SE Ordinary Shares",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "France",
+ "mcap": 196378471669.0,
+ "price": "$90.005",
+ "cik": 879764,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TTE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, TotalEnergies SE (TTE) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tte",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:38+00:00"
+}

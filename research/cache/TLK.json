@@ -1,0 +1,27 @@
+{
+ "ticker": "TLK",
+ "name": "PT Telekomunikasi Indonesia Tbk",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "Indonesia",
+ "mcap": 11610091786.0,
+ "price": "$11.72",
+ "cik": 1001807,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TLK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tlk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:31+00:00"
+}

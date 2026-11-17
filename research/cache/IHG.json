@@ -1,0 +1,27 @@
+{
+ "ticker": "IHG",
+ "name": "Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share)",
+ "sector": "Consumer Discretionary",
+ "industry": "Hotels/Resorts",
+ "country": "United Kingdom",
+ "mcap": 26611180411.0,
+ "price": "$180.83",
+ "cik": 858446,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IHG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, InterContinental Hotels Group PLC (IHG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ihg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:56+00:00"
+}

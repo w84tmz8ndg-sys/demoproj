@@ -1,0 +1,70 @@
+{
+ "ticker": "IEX",
+ "src_stats": "https://stockanalysis.com/stocks/iex/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/iex/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/iex/financials/ratios/",
+ "Market Cap": "17.16B",
+ "Enterprise Value": "18.33B",
+ "PE Ratio": "32.44",
+ "Forward PE": "24.41",
+ "PS Ratio": "4.69",
+ "EV / EBITDA": "18.42",
+ "Gross Margin": "44.91%",
+ "Operating Margin": "21.39%",
+ "Profit Margin": "14.65%",
+ "FCF Margin": "18.24%",
+ "Debt / Equity": "0.44",
+ "Debt / EBITDA": "1.71",
+ "Net Cash": "-1.18B",
+ "Total Debt": "1.78B",
+ "Cash & Cash Equivalents": "602.10M",
+ "Return on Invested Capital (ROIC)": "11.39%",
+ "Return on Equity (ROE)": "13.35%",
+ "Revenue": "3.66B",
+ "Net Income": "535.80M",
+ "Free Cash Flow": "667.10M",
+ "Dividend Yield": "1.25%",
+ "Beta (5Y)": "0.95",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,658",
+  "3,458",
+  "3,269",
+  "3,274",
+  "3,182",
+  "2,765"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "535.8",
+  "483.2",
+  "505",
+  "596.1",
+  "586.9",
+  "449.4"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "32.32",
+  "27.56",
+  "31.38",
+  "27.54",
+  "29.34",
+  "39.98"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "BHE",
+ "name": "Benchmark Electronics Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Electrical Products",
+ "country": "United States",
+ "mcap": 2202072045.0,
+ "price": "$61.57",
+ "cik": 863436,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BHE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Benchmark Electronics, Inc. (BHE) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bhe",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:56+00:00"
+}

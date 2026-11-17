@@ -1,0 +1,27 @@
+{
+ "ticker": "DLO",
+ "name": "DLocal Limited Class A Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "Uruguay",
+ "mcap": 3934392293.0,
+ "price": "$13.34",
+ "cik": 1846832,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DLO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dlo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:50+00:00"
+}

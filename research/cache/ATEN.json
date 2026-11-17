@@ -1,0 +1,27 @@
+{
+ "ticker": "ATEN",
+ "name": "A10 Networks Inc. Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Computer Communications Equipment",
+ "country": "United States",
+ "mcap": 2094898380.0,
+ "price": "$29.075",
+ "cik": 1580808,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ATEN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, A10 Networks (ATEN) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aten",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:08+00:00"
+}

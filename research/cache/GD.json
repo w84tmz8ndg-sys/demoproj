@@ -1,0 +1,27 @@
+{
+ "ticker": "GD",
+ "name": "General Dynamics Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Marine Transportation",
+ "country": "United States",
+ "mcap": 97215681550.0,
+ "price": "$359.76",
+ "cik": 40533,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, General Dynamics (GD) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:31+00:00"
+}

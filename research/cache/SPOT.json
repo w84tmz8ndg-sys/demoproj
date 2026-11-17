@@ -1,0 +1,27 @@
+{
+ "ticker": "SPOT",
+ "name": "Spotify Technology S.A. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Broadcasting",
+ "country": "Luxembourg",
+ "mcap": 128876715033.0,
+ "price": "$611.54",
+ "cik": 1639920,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SPOT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Spotify Technology S.A. (SPOT) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/spot",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:10+00:00"
+}

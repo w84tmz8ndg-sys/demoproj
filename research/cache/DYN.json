@@ -1,0 +1,27 @@
+{
+ "ticker": "DYN",
+ "name": "Dyne Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 3129362282.0,
+ "price": "$16.70",
+ "cik": 1818794,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DYN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Dyne Therapeutics, Inc. (DYN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dyn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:30+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "QLYS",
+ "name": "Qualys Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 6353862806.0,
+ "price": "$182.01",
+ "cik": 1107843,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QLYS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Qualys, Inc. (QLYS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/qlys",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:33+00:00"
+}

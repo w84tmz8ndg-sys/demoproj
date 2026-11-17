@@ -1,0 +1,27 @@
+{
+ "ticker": "SBLK",
+ "name": "Star Bulk Carriers Corp. Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 3055926110.0,
+ "price": "$27.40",
+ "cik": 1386716,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SBLK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sblk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:40+00:00"
+}

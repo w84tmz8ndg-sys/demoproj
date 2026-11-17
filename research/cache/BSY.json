@@ -1,0 +1,27 @@
+{
+ "ticker": "BSY",
+ "name": "Bentley Systems Incorporated Class B Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 13488744746.0,
+ "price": "$44.60",
+ "cik": 1031308,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BSY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Bentley Systems, Incorporated (BSY) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bsy",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:52+00:00"
+}

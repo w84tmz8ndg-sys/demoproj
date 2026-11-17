@@ -1,0 +1,27 @@
+{
+ "ticker": "CLMT",
+ "name": "Calumet Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Integrated oil Companies",
+ "country": "United States",
+ "mcap": 2815434382.0,
+ "price": "$31.96",
+ "cik": 2013745,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLMT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Calumet Inc. (CLMT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/clmt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:18+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "TCOM",
+ "name": "Trip.com Group Limited American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "China",
+ "mcap": 27877050178.0,
+ "price": "$44.27",
+ "cik": 1269238,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TCOM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Trip.com Group Limited (TCOM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tcom",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:47+00:00"
+}

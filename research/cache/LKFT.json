@@ -1,0 +1,27 @@
+{
+ "ticker": "LKFT",
+ "name": "Lakefront Biotherapeutics American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Belgium",
+ "mcap": 2292559100.0,
+ "price": "$34.79",
+ "cik": 1421876,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LKFT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lkft",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:41+00:00"
+}

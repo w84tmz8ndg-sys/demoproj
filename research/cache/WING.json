@@ -1,0 +1,27 @@
+{
+ "ticker": "WING",
+ "name": "Wingstop Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "United States",
+ "mcap": 4104771870.0,
+ "price": "$151.73",
+ "cik": 1636222,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WING/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Wingstop Inc (WING) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wing",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:39+00:00"
+}

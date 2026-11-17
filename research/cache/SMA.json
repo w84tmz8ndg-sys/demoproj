@@ -1,0 +1,27 @@
+{
+ "ticker": "SMA",
+ "name": "SmartStop Self Storage REIT Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 2189243603.0,
+ "price": "$39.54",
+ "cik": 1585389,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SMA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, SmartStop Self Storage REIT Inc. (SMA) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sma",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:57+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ATMU",
+ "name": "Atmus Filtration Technologies Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "United States",
+ "mcap": 4358247286.0,
+ "price": "$53.67",
+ "cik": 1921963,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ATMU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Atmus Filtration Technologies (ATMU) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/atmu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:03+00:00"
+}

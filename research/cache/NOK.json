@@ -1,0 +1,27 @@
+{
+ "ticker": "NOK",
+ "name": "Nokia Corporation Sponsored American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Radio And Television Broadcasting And Communications Equipment",
+ "country": "Finland",
+ "mcap": 44186534461.0,
+ "price": "$7.695",
+ "cik": 924613,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NOK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Nokia Oyj (NOK) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nok",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:45+00:00"
+}

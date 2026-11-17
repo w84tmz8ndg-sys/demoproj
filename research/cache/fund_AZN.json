@@ -1,0 +1,70 @@
+{
+ "ticker": "AZN",
+ "src_stats": "https://stockanalysis.com/stocks/azn/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/azn/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/azn/financials/ratios/",
+ "Market Cap": "287.09B",
+ "Enterprise Value": "313.16B",
+ "PE Ratio": "26.23",
+ "Forward PE": "16.70",
+ "PS Ratio": "4.60",
+ "EV / EBITDA": "14.72",
+ "Gross Margin": "81.78%",
+ "Operating Margin": "25.80%",
+ "Profit Margin": "17.68%",
+ "FCF Margin": "16.37%",
+ "Debt / Equity": "0.66",
+ "Debt / EBITDA": "1.58",
+ "Net Cash": "-26.16B",
+ "Total Debt": "34.33B",
+ "Cash & Cash Equivalents": "8.17B",
+ "Return on Invested Capital (ROIC)": "17.15%",
+ "Return on Equity (ROE)": "22.57%",
+ "Revenue": "62.38B",
+ "Net Income": "11.03B",
+ "Free Cash Flow": "10.21B",
+ "Dividend Yield": "1.76%",
+ "Beta (5Y)": "0.16",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "62,384",
+  "58,739",
+  "54,073",
+  "45,811",
+  "44,351",
+  "37,417"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "11,030",
+  "10,225",
+  "7,035",
+  "5,955",
+  "3,288",
+  "112"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "26.01",
+  "28.15",
+  "28.88",
+  "35.14",
+  "63.70",
+  "1625.31"
+ ]
+}

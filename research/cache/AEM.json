@@ -1,0 +1,27 @@
+{
+ "ticker": "AEM",
+ "name": "Agnico Eagle Mines Limited Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 86342283490.0,
+ "price": "$170.79",
+ "cik": 2809,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AEM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Agnico Eagle Mines Limited (AEM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aem",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:41+00:00"
+}

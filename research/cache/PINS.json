@@ -1,0 +1,27 @@
+{
+ "ticker": "PINS",
+ "name": "Pinterest Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 10566881952.0,
+ "price": "$18.425",
+ "cik": 1506293,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PINS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Pinterest, Inc. (PINS) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pins",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:52+00:00"
+}

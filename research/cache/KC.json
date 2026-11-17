@@ -1,0 +1,27 @@
+{
+ "ticker": "KC",
+ "name": "Kingsoft Cloud Holdings Limited American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 2056669592.0,
+ "price": "$6.87",
+ "cik": 1795589,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:17+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "IOVA",
+ "name": "Iovance Biotherapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 3493046390.0,
+ "price": "$7.55",
+ "cik": 1425205,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IOVA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Iovance Biotherapeutics (IOVA) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/iova",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:43+00:00"
+}

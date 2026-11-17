@@ -1,0 +1,70 @@
+{
+ "ticker": "CHT",
+ "src_stats": "https://stockanalysis.com/stocks/cht/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/cht/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/cht/financials/ratios/",
+ "Market Cap": "38.47B",
+ "Enterprise Value": "38.69B",
+ "PE Ratio": "30.01",
+ "Forward PE": "31.58",
+ "PS Ratio": "4.85",
+ "EV / EBITDA": "13.86",
+ "Gross Margin": "36.82%",
+ "Operating Margin": "20.91%",
+ "Profit Margin": "16.61%",
+ "FCF Margin": "21.70%",
+ "Debt / Equity": "0.10",
+ "Debt / EBITDA": "0.42",
+ "Net Cash": "280.74M",
+ "Total Debt": "1.23B",
+ "Cash & Cash Equivalents": "1.51B",
+ "Return on Invested Capital (ROIC)": "11.90%",
+ "Return on Equity (ROE)": "11.37%",
+ "Revenue": "7.99B",
+ "Net Income": "1.33B",
+ "Free Cash Flow": "1.68B",
+ "Dividend Yield": "2.52%",
+ "Beta (5Y)": "0.05",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "254,596",
+  "236,114",
+  "229,968",
+  "223,199",
+  "216,739",
+  "210,478"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "42,279",
+  "38,712",
+  "37,220",
+  "36,917",
+  "36,358",
+  "35,616"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "30.07",
+  "26.15",
+  "25.74",
+  "25.22",
+  "24.11",
+  "25.38"
+ ]
+}

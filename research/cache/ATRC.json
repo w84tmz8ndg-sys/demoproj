@@ -1,0 +1,27 @@
+{
+ "ticker": "ATRC",
+ "name": "AtriCure Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 2816511473.0,
+ "price": "$55.31",
+ "cik": 1323885,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ATRC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, AtriCure (ATRC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/atrc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:15+00:00"
+}

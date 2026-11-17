@@ -1,0 +1,27 @@
+{
+ "ticker": "CHA",
+ "name": "Chagee Holdings Limited American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "China",
+ "mcap": 2657333131.0,
+ "price": "$13.93",
+ "cik": 2013649,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CHA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cha",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:39+00:00"
+}

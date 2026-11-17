@@ -1,0 +1,27 @@
+{
+ "ticker": "NVTS",
+ "name": "Navitas Semiconductor Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 2123719321.0,
+ "price": "$7.88",
+ "cik": 1821769,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NVTS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Navitas Semiconductor (NVTS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nvts",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:04+00:00"
+}

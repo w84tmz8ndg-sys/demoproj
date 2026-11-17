@@ -1,0 +1,27 @@
+{
+ "ticker": "SXT",
+ "name": "Sensient Technologies Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 4876723940.0,
+ "price": "$114.58",
+ "cik": 310142,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SXT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Sensient Technologies Corporation (SXT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sxt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:18+00:00"
+}

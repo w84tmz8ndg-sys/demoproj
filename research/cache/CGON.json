@@ -1,0 +1,27 @@
+{
+ "ticker": "CGON",
+ "name": "CG Oncology Inc. Common stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 7572457698.0,
+ "price": "$84.78",
+ "cik": 1991792,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CGON/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, CG Oncology Common stock (CGON) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cgon",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:35+00:00"
+}

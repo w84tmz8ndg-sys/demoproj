@@ -1,0 +1,27 @@
+{
+ "ticker": "RIG",
+ "name": "Transocean Ltd (Switzerland) Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Switzerland",
+ "mcap": 5841501971.0,
+ "price": "$5.23",
+ "cik": 1451505,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RIG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Transocean Ltd. (RIG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rig",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:08+00:00"
+}

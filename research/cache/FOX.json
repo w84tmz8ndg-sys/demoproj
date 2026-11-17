@@ -1,0 +1,27 @@
+{
+ "ticker": "FOX",
+ "name": "Fox Corporation Class B Common Stock",
+ "sector": "Industrials",
+ "industry": "Broadcasting",
+ "country": "United States",
+ "mcap": 34402810901.0,
+ "price": "$60.75",
+ "cik": 1754301,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FOX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Fox (Class B) (FOX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fox",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:18+00:00"
+}

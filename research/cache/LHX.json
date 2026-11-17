@@ -1,0 +1,27 @@
+{
+ "ticker": "LHX",
+ "name": "L3Harris Technologies Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 48728731826.0,
+ "price": "$261.70",
+ "cik": 202058,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LHX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, L3Harris (LHX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lhx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:34+00:00"
+}

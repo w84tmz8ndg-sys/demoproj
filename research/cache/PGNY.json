@@ -1,0 +1,27 @@
+{
+ "ticker": "PGNY",
+ "name": "Progyny Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Misc Health and Biotechnology Services",
+ "country": "United States",
+ "mcap": 2735998458.0,
+ "price": "$37.15",
+ "cik": 1551306,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PGNY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Progyny (PGNY) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pgny",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:25+00:00"
+}

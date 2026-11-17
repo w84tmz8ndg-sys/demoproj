@@ -1,0 +1,27 @@
+{
+ "ticker": "MRVL",
+ "name": "Marvell Technology Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 127466184000.0,
+ "price": "$145.36",
+ "cik": 1835632,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MRVL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Marvell Technology, Inc. (MRVL) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mrvl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:12+00:00"
+}

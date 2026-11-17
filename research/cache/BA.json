@@ -1,0 +1,27 @@
+{
+ "ticker": "BA",
+ "name": "Boeing Company (The) Common Stock",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "United States",
+ "mcap": 130956314835.0,
+ "price": "$165.255",
+ "cik": 12927,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Boeing Co (BA) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ba",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:11+00:00"
+}

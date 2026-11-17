@@ -1,0 +1,27 @@
+{
+ "ticker": "CROX",
+ "name": "Crocs Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Shoe Manufacturing",
+ "country": "United States",
+ "mcap": 7316463490.0,
+ "price": "$160.01",
+ "cik": 1334036,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CROX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Crocs, Inc. (CROX) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/crox",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:45+00:00"
+}

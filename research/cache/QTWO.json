@@ -1,0 +1,27 @@
+{
+ "ticker": "QTWO",
+ "name": "Q2 Holdings Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 4553917461.0,
+ "price": "$73.71",
+ "cik": 1410384,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QTWO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Q2 Holdings, Inc. (QTWO) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/qtwo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:47+00:00"
+}

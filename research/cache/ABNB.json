@@ -1,0 +1,27 @@
+{
+ "ticker": "ABNB",
+ "name": "Airbnb Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "United States",
+ "mcap": 109394481659.0,
+ "price": "$186.19",
+ "cik": 1559720,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ABNB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Airbnb (ABNB) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/abnb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:23+00:00"
+}

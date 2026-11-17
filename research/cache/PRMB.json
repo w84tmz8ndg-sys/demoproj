@@ -1,0 +1,27 @@
+{
+ "ticker": "PRMB",
+ "name": "Primo Brands Corporation Class A Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "United States",
+ "mcap": 8697038607.0,
+ "price": "$24.055",
+ "cik": 2042694,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PRMB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Primo Brands Corp. Common Stock (PRMB) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/prmb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:52+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MBGL",
+ "name": "Mobility Global Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 7089538215.0,
+ "price": "$24.045",
+ "cik": 2090312,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MBGL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mbgl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:55+00:00"
+}

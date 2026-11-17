@@ -1,0 +1,70 @@
+{
+ "ticker": "STM",
+ "src_stats": "https://stockanalysis.com/stocks/stm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/stm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/stm/financials/ratios/",
+ "Market Cap": "39.73B",
+ "Enterprise Value": "38.31B",
+ "PE Ratio": "79.94",
+ "Forward PE": "18.01",
+ "PS Ratio": "2.96",
+ "EV / EBITDA": "12.95",
+ "Gross Margin": "35.53%",
+ "Operating Margin": "7.92%",
+ "Profit Margin": "3.80%",
+ "FCF Margin": "3.86%",
+ "Debt / Equity": "0.19",
+ "Debt / EBITDA": "1.11",
+ "Net Cash": "1.89B",
+ "Total Debt": "3.43B",
+ "Cash & Cash Equivalents": "5.31B",
+ "Return on Invested Capital (ROIC)": "4.38%",
+ "Return on Equity (ROE)": "2.95%",
+ "Revenue": "13.67B",
+ "Net Income": "520.00M",
+ "Free Cash Flow": "527.00M",
+ "Dividend Yield": "0.82%",
+ "Beta (5Y)": "1.54",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "13,669",
+  "11,800",
+  "13,269",
+  "17,286",
+  "16,128",
+  "12,761"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "520",
+  "166",
+  "1,557",
+  "4,211",
+  "3,960",
+  "2,000"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "81.25",
+  "141.06",
+  "14.50",
+  "10.72",
+  "8.10",
+  "22.36"
+ ]
+}

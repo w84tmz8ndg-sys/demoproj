@@ -1,0 +1,70 @@
+{
+ "ticker": "MTD",
+ "src_stats": "https://stockanalysis.com/stocks/mtd/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/mtd/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/mtd/financials/ratios/",
+ "Market Cap": "34.36B",
+ "Enterprise Value": "36.33B",
+ "PE Ratio": "37.42",
+ "Forward PE": "33.44",
+ "PS Ratio": "8.18",
+ "EV / EBITDA": "29.05",
+ "Gross Margin": "59.16%",
+ "Operating Margin": "27.82%",
+ "Profit Margin": "22.25%",
+ "FCF Margin": "20.74%",
+ "Debt / Equity": "26.06",
+ "Debt / EBITDA": "1.55",
+ "Net Cash": "-1.97B",
+ "Total Debt": "2.02B",
+ "Cash & Cash Equivalents": "52.24M",
+ "Return on Invested Capital (ROIC)": "46.62%",
+ "Return on Equity (ROE)": "n/a",
+ "Revenue": "4.20B",
+ "Net Income": "934.07M",
+ "Free Cash Flow": "870.57M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.17",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,198",
+  "4,026",
+  "3,872",
+  "3,788",
+  "3,920",
+  "3,718"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "934.07",
+  "869.19",
+  "863.14",
+  "788.78",
+  "872.5",
+  "768.99"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "37.55",
+  "32.77",
+  "29.92",
+  "33.35",
+  "36.93",
+  "50.73"
+ ]
+}

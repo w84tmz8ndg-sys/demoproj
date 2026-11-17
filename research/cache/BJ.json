@@ -1,0 +1,27 @@
+{
+ "ticker": "BJ",
+ "name": "BJ's Wholesale Club Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Department/Specialty Retail Stores",
+ "country": "United States",
+ "mcap": 14129561447.0,
+ "price": "$111.86",
+ "cik": 1531152,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BJ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, BJ's Wholesale Club (BJ) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bj",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:41+00:00"
+}

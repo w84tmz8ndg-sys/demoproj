@@ -1,0 +1,27 @@
+{
+ "ticker": "SENEA",
+ "name": "Seneca Foods Corp. Class A Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 6069389776.0,
+ "price": "$179.31",
+ "cik": 88948,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SENEA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Seneca Foods Corporation (SENEA) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/senea",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:51+00:00"
+}

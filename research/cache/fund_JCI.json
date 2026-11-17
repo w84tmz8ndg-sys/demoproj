@@ -1,0 +1,70 @@
+{
+ "ticker": "JCI",
+ "src_stats": "https://stockanalysis.com/stocks/jci/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/jci/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/jci/financials/ratios/",
+ "Market Cap": "82.16B",
+ "Enterprise Value": "92.19B",
+ "PE Ratio": "29.27",
+ "Forward PE": "21.65",
+ "PS Ratio": "3.20",
+ "EV / EBITDA": "20.44",
+ "Gross Margin": "37.07%",
+ "Operating Margin": "15.02%",
+ "Profit Margin": "11.12%",
+ "FCF Margin": "12.89%",
+ "Debt / Equity": "0.78",
+ "Debt / EBITDA": "2.10",
+ "Net Cash": "-10.04B",
+ "Total Debt": "10.65B",
+ "Cash & Cash Equivalents": "618.00M",
+ "Return on Invested Capital (ROIC)": "15.13%",
+ "Return on Equity (ROE)": "21.73%",
+ "Revenue": "25.67B",
+ "Net Income": "2.85B",
+ "Free Cash Flow": "3.31B",
+ "Dividend Yield": "1.17%",
+ "Beta (5Y)": "1.29",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "25,666",
+  "25,666",
+  "23,596",
+  "22,952",
+  "22,331",
+  "20,637"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,853",
+  "2,853",
+  "3,291",
+  "1,705",
+  "1,849",
+  "1,532"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "29.27",
+  "31.56",
+  "21.86",
+  "30.41",
+  "19.58",
+  "22.13"
+ ]
+}

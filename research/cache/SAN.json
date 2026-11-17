@@ -1,0 +1,27 @@
+{
+ "ticker": "SAN",
+ "name": "Banco Santander S.A. Sponsored ADR (Spain)",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "Spain",
+ "mcap": 173189886425.0,
+ "price": "$11.965",
+ "cik": 891478,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SAN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Banco Santander (SAN) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/san",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:41+00:00"
+}

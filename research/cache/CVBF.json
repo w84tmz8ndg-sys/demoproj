@@ -1,0 +1,27 @@
+{
+ "ticker": "CVBF",
+ "name": "CVB Financial Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 3904179549.0,
+ "price": "$22.37",
+ "cik": 354647,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CVBF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, CVB Financial Corp. (CVBF) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cvbf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:54+00:00"
+}

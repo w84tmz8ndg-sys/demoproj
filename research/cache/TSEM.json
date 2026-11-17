@@ -1,0 +1,27 @@
+{
+ "ticker": "TSEM",
+ "name": "Tower Semiconductor Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Israel",
+ "mcap": 15080596020.0,
+ "price": "$133.42",
+ "cik": 928876,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TSEM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tsem",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:26+00:00"
+}

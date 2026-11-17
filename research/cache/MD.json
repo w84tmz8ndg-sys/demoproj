@@ -1,0 +1,27 @@
+{
+ "ticker": "MD",
+ "name": "Pediatrix Medical Group Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Hospital/Nursing Management",
+ "country": "United States",
+ "mcap": 2491787817.0,
+ "price": "$31.895",
+ "cik": 893949,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Pediatrix Medical Group (MD) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/md",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:10+00:00"
+}

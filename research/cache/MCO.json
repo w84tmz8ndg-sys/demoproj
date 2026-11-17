@@ -1,0 +1,27 @@
+{
+ "ticker": "MCO",
+ "name": "Moody's Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 87305084000.0,
+ "price": "$506.41",
+ "cik": 1059556,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MCO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Moody's (MCO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mco",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:41+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "VRTX",
+ "src_stats": "https://stockanalysis.com/stocks/vrtx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/vrtx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/vrtx/financials/ratios/",
+ "Market Cap": "136.35B",
+ "Enterprise Value": "133.01B",
+ "PE Ratio": "34.59",
+ "Forward PE": "28.50",
+ "PS Ratio": "10.53",
+ "EV / EBITDA": "26.08",
+ "Gross Margin": "54.81%",
+ "Operating Margin": "37.79%",
+ "Profit Margin": "30.70%",
+ "FCF Margin": "24.73%",
+ "Debt / Equity": "0.31",
+ "Debt / EBITDA": "1.20",
+ "Net Cash": "3.34B",
+ "Total Debt": "6.48B",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "23.07%",
+ "Return on Equity (ROE)": "20.80%",
+ "Revenue": "12.95B",
+ "Net Income": "3.98B",
+ "Free Cash Flow": "3.20B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.28",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "12,952",
+  "12,001",
+  "11,020",
+  "9,869",
+  "8,931",
+  "7,574"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "3,976",
+  "3,953",
+  "-535.6",
+  "3,620",
+  "3,322",
+  "2,342"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "34.59",
+  "29.10",
+  "-",
+  "28.97",
+  "22.31",
+  "23.84"
+ ]
+}

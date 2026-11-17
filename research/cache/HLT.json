@@ -1,0 +1,27 @@
+{
+ "ticker": "HLT",
+ "name": "Hilton Worldwide Holdings Inc. Common Stock ",
+ "sector": "Consumer Discretionary",
+ "industry": "Hotels/Resorts",
+ "country": "United States",
+ "mcap": 83178803030.0,
+ "price": "$373.83",
+ "cik": 1585689,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HLT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Hilton Hotels (HLT) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hlt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:46+00:00"
+}

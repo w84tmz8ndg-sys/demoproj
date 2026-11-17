@@ -1,0 +1,63 @@
+{
+ "ticker": "ZS",
+ "src_stats": "https://stockanalysis.com/stocks/zs/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/zs/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/zs/financials/ratios/",
+ "Market Cap": "30.33B",
+ "Enterprise Value": "28.72B",
+ "PE Ratio": "n/a",
+ "Forward PE": "37.90",
+ "PS Ratio": "9.28",
+ "EV / EBITDA": "673.00",
+ "Gross Margin": "76.87%",
+ "Operating Margin": "-3.52%",
+ "Profit Margin": "-1.88%",
+ "FCF Margin": "25.42%",
+ "Debt / Equity": "0.72",
+ "Debt / EBITDA": "11.05",
+ "Net Cash": "1.61B",
+ "Total Debt": "1.87B",
+ "Cash & Cash Equivalents": "3.47B",
+ "Return on Invested Capital (ROIC)": "-1.83%",
+ "Return on Equity (ROE)": "-2.87%",
+ "Revenue": "3.35B",
+ "Net Income": "-63.18M",
+ "Free Cash Flow": "852.35M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.84",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "3,353",
+  "3,353",
+  "2,673",
+  "2,168",
+  "1,617",
+  "1,091"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-63.18",
+  "-63.18",
+  "-41.48",
+  "-57.71",
+  "-202.34",
+  "-390.28"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": null
+}

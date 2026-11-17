@@ -1,0 +1,27 @@
+{
+ "ticker": "NXT",
+ "name": "Nextpower Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 13447901031.0,
+ "price": "$89.31",
+ "cik": 1852131,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NXT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Nextracker (NXT) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nxt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:53+00:00"
+}

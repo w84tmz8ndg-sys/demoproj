@@ -1,0 +1,27 @@
+{
+ "ticker": "TEL",
+ "name": "TE Connectivity plc Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Electronic Components",
+ "country": "Ireland",
+ "mcap": 61192201504.0,
+ "price": "$213.44",
+ "cik": 1385157,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TEL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, TE Connectivity (TEL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tel",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:14+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "IRM",
+ "name": "Iron Mountain Incorporated (Delaware)Common Stock REIT",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 33539062641.0,
+ "price": "$112.61",
+ "cik": 1020569,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IRM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Iron Mountain (IRM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/irm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:20+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MGNI",
+ "name": "Magnite Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 4133077084.0,
+ "price": "$28.79",
+ "cik": 1595974,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MGNI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Magnite, Inc. (MGNI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mgni",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:34+00:00"
+}

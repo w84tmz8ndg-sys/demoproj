@@ -1,0 +1,70 @@
+{
+ "ticker": "AIT",
+ "src_stats": "https://stockanalysis.com/stocks/ait/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ait/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ait/financials/ratios/",
+ "Market Cap": "10.71B",
+ "Enterprise Value": "10.85B",
+ "PE Ratio": "25.98",
+ "Forward PE": "23.77",
+ "PS Ratio": "2.12",
+ "EV / EBITDA": "17.22",
+ "Gross Margin": "30.40%",
+ "Operating Margin": "11.15%",
+ "Profit Margin": "8.38%",
+ "FCF Margin": "8.34%",
+ "Debt / Equity": "0.15",
+ "Debt / EBITDA": "0.40",
+ "Net Cash": "-139.03M",
+ "Total Debt": "282.30M",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "20.11%",
+ "Return on Equity (ROE)": "22.51%",
+ "Revenue": "5.06B",
+ "Net Income": "424.12M",
+ "Free Cash Flow": "421.86M",
+ "Dividend Yield": "0.70%",
+ "Beta (5Y)": "0.86",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "5,058",
+  "4,967",
+  "4,563",
+  "4,479",
+  "4,413",
+  "3,811"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "424.12",
+  "414.53",
+  "392.99",
+  "385.76",
+  "346.74",
+  "257.41"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "26.07",
+  "30.15",
+  "22.53",
+  "19.41",
+  "16.15",
+  "14.36"
+ ]
+}

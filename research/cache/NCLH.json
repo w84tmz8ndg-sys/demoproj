@@ -1,0 +1,27 @@
+{
+ "ticker": "NCLH",
+ "name": "Norwegian Cruise Line Holdings Ltd. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "United States",
+ "mcap": 8230215974.0,
+ "price": "$17.92",
+ "cik": 1513761,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NCLH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Norwegian Cruise Line (NCLH) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nclh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:11+00:00"
+}

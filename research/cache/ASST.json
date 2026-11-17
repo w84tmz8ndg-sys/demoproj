@@ -1,0 +1,27 @@
+{
+ "ticker": "ASST",
+ "name": "Strive Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 2395098160.0,
+ "price": "$18.81",
+ "cik": 1920406,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ASST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Asset Entities Inc - Ordinary Shares - Class B (ASST) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/asst",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:26+00:00"
+}

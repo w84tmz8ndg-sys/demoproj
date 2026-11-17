@@ -1,0 +1,27 @@
+{
+ "ticker": "TTC",
+ "name": "Toro Company (The) Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Tools/Hardware",
+ "country": "United States",
+ "mcap": 9959533999.0,
+ "price": "$105.21",
+ "cik": 737758,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TTC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, The Toro Company (TTC) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ttc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:08+00:00"
+}

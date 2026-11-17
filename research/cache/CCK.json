@@ -1,0 +1,27 @@
+{
+ "ticker": "CCK",
+ "name": "Crown Holdings Inc.",
+ "sector": "Industrials",
+ "industry": "Containers/Packaging",
+ "country": "United States",
+ "mcap": 13147703235.0,
+ "price": "$121.68",
+ "cik": 1219601,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CCK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Crown Holdings, Inc. (CCK) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cck",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:59+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "BDX",
+ "name": "Becton Dickinson and Company Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 58971742200.0,
+ "price": "$216.50",
+ "cik": 10795,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BDX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Becton Dickinson (BDX) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bdx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:18+00:00"
+}

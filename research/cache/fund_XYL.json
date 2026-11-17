@@ -1,0 +1,70 @@
+{
+ "ticker": "XYL",
+ "src_stats": "https://stockanalysis.com/stocks/xyl/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/xyl/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/xyl/financials/ratios/",
+ "Market Cap": "21.88B",
+ "Enterprise Value": "24.19B",
+ "PE Ratio": "21.12",
+ "Forward PE": "17.05",
+ "PS Ratio": "2.43",
+ "EV / EBITDA": "12.38",
+ "Gross Margin": "39.32%",
+ "Operating Margin": "15.51%",
+ "Profit Margin": "11.94%",
+ "FCF Margin": "10.14%",
+ "Debt / Equity": "0.29",
+ "Debt / EBITDA": "1.43",
+ "Net Cash": "-2.32B",
+ "Total Debt": "3.03B",
+ "Cash & Cash Equivalents": "708.00M",
+ "Return on Invested Capital (ROIC)": "8.88%",
+ "Return on Equity (ROE)": "9.76%",
+ "Revenue": "9.06B",
+ "Net Income": "1.08B",
+ "Free Cash Flow": "919.00M",
+ "Dividend Yield": "1.81%",
+ "Beta (5Y)": "0.99",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "9,059",
+  "9,035",
+  "8,562",
+  "7,364",
+  "5,522",
+  "5,195"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,082",
+  "957",
+  "890",
+  "609",
+  "355",
+  "427"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "21.10",
+  "34.65",
+  "31.67",
+  "45.27",
+  "56.13",
+  "50.64"
+ ]
+}

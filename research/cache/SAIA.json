@@ -1,0 +1,27 @@
+{
+ "ticker": "SAIA",
+ "name": "Saia Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Trucking Freight/Courier Services",
+ "country": "United States",
+ "mcap": 9055316560.0,
+ "price": "$339.40",
+ "cik": 1177702,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SAIA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Saia, Inc. (SAIA) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/saia",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:40+00:00"
+}

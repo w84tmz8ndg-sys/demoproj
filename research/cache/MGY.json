@@ -1,0 +1,27 @@
+{
+ "ticker": "MGY",
+ "name": "Magnolia Oil & Gas Corporation Class A Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 6404779574.0,
+ "price": "$24.05",
+ "cik": 1698990,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MGY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Magnolia Oil & Gas Corporation (MGY) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mgy",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:31+00:00"
+}

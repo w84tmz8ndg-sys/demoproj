@@ -1,0 +1,27 @@
+{
+ "ticker": "ENTG",
+ "name": "Entegris Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Plastic Products",
+ "country": "United States",
+ "mcap": 21395056000.0,
+ "price": "$140.02",
+ "cik": 1101302,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENTG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Entegris, Inc. (ENTG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/entg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:21+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PLSE",
+ "name": "Pulse Biosciences Inc Common Stock (DE)",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 3409728117.0,
+ "price": "$46.36",
+ "cik": 1625101,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLSE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Pulse Biosciences (PLSE) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/plse",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:55+00:00"
+}

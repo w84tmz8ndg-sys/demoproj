@@ -1,0 +1,27 @@
+{
+ "ticker": "W",
+ "name": "Wayfair Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "United States",
+ "mcap": 15205654133.0,
+ "price": "$111.12",
+ "cik": 1616707,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/W/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Wayfair Inc. (W) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/w",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:23+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CHKP",
+ "name": "Check Point Software Technologies Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Israel",
+ "mcap": 15084347667.0,
+ "price": "$147.74",
+ "cik": 1015922,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CHKP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/chkp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:26+00:00"
+}

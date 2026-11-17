@@ -1,0 +1,27 @@
+{
+ "ticker": "BLLN",
+ "name": "BillionToOne Inc. Class A Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 4601195611.0,
+ "price": "$96.31",
+ "cik": 2070849,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BLLN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, BillionToOne, Inc. (BLLN) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/blln",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:40+00:00"
+}

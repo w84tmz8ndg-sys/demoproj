@@ -1,0 +1,27 @@
+{
+ "ticker": "BATRA",
+ "name": "Atlanta Braves Holdings Inc. Series A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 3632584581.0,
+ "price": "$56.32",
+ "cik": 1958140,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BATRA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, The Liberty Braves Group (BATRA) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/batra",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:22+00:00"
+}

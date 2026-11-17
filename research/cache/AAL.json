@@ -1,0 +1,27 @@
+{
+ "ticker": "AAL",
+ "name": "American Airlines Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Air Freight/Delivery Services",
+ "country": "United States",
+ "mcap": 8773068066.0,
+ "price": "$13.24",
+ "cik": 6201,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AAL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, American Airlines (AAL) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aal",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:52+00:00"
+}

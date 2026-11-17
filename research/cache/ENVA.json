@@ -1,0 +1,27 @@
+{
+ "ticker": "ENVA",
+ "name": "Enova International Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 4060617549.0,
+ "price": "$166.01",
+ "cik": 1529864,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENVA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Enova International (ENVA) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/enva",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:45+00:00"
+}

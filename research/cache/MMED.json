@@ -1,0 +1,27 @@
+{
+ "ticker": "MMED",
+ "name": "MiniMed Group Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 5247176213.0,
+ "price": "$18.65",
+ "cik": 2062583,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MMED/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mmed",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:50+00:00"
+}

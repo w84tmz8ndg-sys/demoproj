@@ -1,0 +1,27 @@
+{
+ "ticker": "SSL",
+ "name": "Sasol Ltd. American Depositary Shares",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "South Africa",
+ "mcap": 9010364830.0,
+ "price": "$13.91",
+ "cik": 314590,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SSL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ssl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:43+00:00"
+}

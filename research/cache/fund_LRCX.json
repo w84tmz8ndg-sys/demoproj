@@ -1,0 +1,70 @@
+{
+ "ticker": "LRCX",
+ "src_stats": "https://stockanalysis.com/stocks/lrcx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/lrcx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/lrcx/financials/ratios/",
+ "Market Cap": "263.36B",
+ "Enterprise Value": "259.66B",
+ "PE Ratio": "31.42",
+ "Forward PE": "20.51",
+ "PS Ratio": "10.08",
+ "EV / EBITDA": "25.67",
+ "Gross Margin": "51.05%",
+ "Operating Margin": "36.95%",
+ "Profit Margin": "32.34%",
+ "FCF Margin": "25.02%",
+ "Debt / Equity": "0.27",
+ "Debt / EBITDA": "0.36",
+ "Net Cash": "3.70B",
+ "Total Debt": "3.74B",
+ "Cash & Cash Equivalents": "7.44B",
+ "Return on Invested Capital (ROIC)": "79.14%",
+ "Return on Equity (ROE)": "70.12%",
+ "Revenue": "26.13B",
+ "Net Income": "8.45B",
+ "Free Cash Flow": "6.54B",
+ "Dividend Yield": "0.63%",
+ "Beta (5Y)": "2.01",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "26,128",
+  "23,233",
+  "18,436",
+  "14,905",
+  "17,429",
+  "17,227"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "8,450",
+  "7,265",
+  "5,358",
+  "3,828",
+  "4,511",
+  "4,605"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "30.75",
+  "65.25",
+  "23.20",
+  "36.37",
+  "18.13",
+  "13.56"
+ ]
+}

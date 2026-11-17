@@ -1,0 +1,63 @@
+{
+ "ticker": "PCOR",
+ "src_stats": "https://stockanalysis.com/stocks/pcor/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/pcor/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/pcor/financials/ratios/",
+ "Market Cap": "11.60B",
+ "Enterprise Value": "11.99B",
+ "PE Ratio": "n/a",
+ "Forward PE": "34.78",
+ "PS Ratio": "7.81",
+ "EV / EBITDA": "116.55",
+ "Gross Margin": "80.27%",
+ "Operating Margin": "-1.21%",
+ "Profit Margin": "-2.31%",
+ "FCF Margin": "21.13%",
+ "Debt / Equity": "0.92",
+ "Debt / EBITDA": "9.11",
+ "Net Cash": "-386.12M",
+ "Total Debt": "999.99M",
+ "Cash & Cash Equivalents": "613.87M",
+ "Return on Invested Capital (ROIC)": "-0.66%",
+ "Return on Equity (ROE)": "-2.98%",
+ "Revenue": "1.49B",
+ "Net Income": "-34.37M",
+ "Free Cash Flow": "313.96M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.75",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,486",
+  "1,323",
+  "1,152",
+  "950.01",
+  "720.2",
+  "514.82"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-34.37",
+  "-100.78",
+  "-105.96",
+  "-189.69",
+  "-286.93",
+  "-265.17"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

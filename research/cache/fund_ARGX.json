@@ -1,0 +1,70 @@
+{
+ "ticker": "ARGX",
+ "src_stats": "https://stockanalysis.com/stocks/argx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/argx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/argx/financials/ratios/",
+ "Market Cap": "59.78B",
+ "Enterprise Value": "54.81B",
+ "PE Ratio": "33.71",
+ "Forward PE": "27.42",
+ "PS Ratio": "10.21",
+ "EV / EBITDA": "29.16",
+ "Gross Margin": "59.84%",
+ "Operating Margin": "31.94%",
+ "Profit Margin": "31.73%",
+ "FCF Margin": "18.25%",
+ "Debt / Equity": "0.01",
+ "Debt / EBITDA": "0.02",
+ "Net Cash": "5.14B",
+ "Total Debt": "47.00M",
+ "Cash & Cash Equivalents": "5.18B",
+ "Return on Invested Capital (ROIC)": "56.96%",
+ "Return on Equity (ROE)": "23.64%",
+ "Revenue": "5.92B",
+ "Net Income": "1.88B",
+ "Free Cash Flow": "970.03M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "-0.06",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,915",
+  "4,236",
+  "2,248",
+  "1,269",
+  "441.01",
+  "528.27"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,877",
+  "1,292",
+  "833.04",
+  "-295.05",
+  "-709.59",
+  "-408.27"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "33.99",
+  "39.87",
+  "45.02",
+  "-",
+  "-",
+  "-"
+ ]
+}

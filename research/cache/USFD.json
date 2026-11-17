@@ -1,0 +1,27 @@
+{
+ "ticker": "USFD",
+ "name": "US Foods Holding Corp. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Food Distributors",
+ "country": "United States",
+ "mcap": 23230721783.0,
+ "price": "$108.205",
+ "cik": 1665918,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/USFD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, US Foods Holding Corp. (USFD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/usfd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:10+00:00"
+}

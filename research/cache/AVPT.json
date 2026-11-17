@@ -1,0 +1,27 @@
+{
+ "ticker": "AVPT",
+ "name": "AvePoint Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 3449459217.0,
+ "price": "$16.42",
+ "cik": 1777921,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AVPT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, AvePoint, Inc. (AVPT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/avpt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:48+00:00"
+}

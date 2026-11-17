@@ -1,0 +1,70 @@
+{
+ "ticker": "SYK",
+ "src_stats": "https://stockanalysis.com/stocks/syk/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/syk/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/syk/financials/ratios/",
+ "Market Cap": "120.65B",
+ "Enterprise Value": "132.82B",
+ "PE Ratio": "33.75",
+ "Forward PE": "19.83",
+ "PS Ratio": "4.50",
+ "EV / EBITDA": "17.37",
+ "Gross Margin": "65.70%",
+ "Operating Margin": "23.97%",
+ "Profit Margin": "13.78%",
+ "FCF Margin": "17.39%",
+ "Debt / Equity": "0.66",
+ "Debt / EBITDA": "2.00",
+ "Net Cash": "-12.16B",
+ "Total Debt": "15.43B",
+ "Cash & Cash Equivalents": "3.27B",
+ "Return on Invested Capital (ROIC)": "12.47%",
+ "Return on Equity (ROE)": "16.02%",
+ "Revenue": "26.30B",
+ "Net Income": "3.62B",
+ "Free Cash Flow": "4.57B",
+ "Dividend Yield": "1.11%",
+ "Beta (5Y)": "0.77",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "26,300",
+  "25,116",
+  "22,595",
+  "20,498",
+  "18,449",
+  "17,108"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "3,623",
+  "3,246",
+  "2,993",
+  "3,165",
+  "2,358",
+  "1,994"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "33.09",
+  "41.41",
+  "45.86",
+  "35.95",
+  "39.24",
+  "50.59"
+ ]
+}

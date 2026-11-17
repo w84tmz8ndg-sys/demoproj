@@ -1,0 +1,27 @@
+{
+ "ticker": "CLF",
+ "name": "Cleveland-Cliffs Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "United States",
+ "mcap": 6904078089.0,
+ "price": "$12.10",
+ "cik": 764065,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Cleveland-Cliffs Inc. (CLF) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/clf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:04+00:00"
+}

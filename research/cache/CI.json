@@ -1,0 +1,27 @@
+{
+ "ticker": "CI",
+ "name": "The Cigna Group Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 79088976171.0,
+ "price": "$300.145",
+ "cik": 1739940,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Cigna Group (CI) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ci",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:49+00:00"
+}

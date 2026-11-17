@@ -1,0 +1,27 @@
+{
+ "ticker": "FBK",
+ "name": "FB Financial Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 2649763253.0,
+ "price": "$54.05",
+ "cik": 1649749,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FBK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, FB Financial Corporation (FBK) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fbk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:44+00:00"
+}

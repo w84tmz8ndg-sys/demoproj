@@ -1,0 +1,27 @@
+{
+ "ticker": "SFM",
+ "name": "Sprouts Farmers Market Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Food Chains",
+ "country": "United States",
+ "mcap": 4627311298.0,
+ "price": "$50.17",
+ "cik": 1575515,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SFM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Sprouts Farmers Market, Inc. (SFM) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sfm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:39+00:00"
+}

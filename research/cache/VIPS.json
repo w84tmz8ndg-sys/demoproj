@@ -1,0 +1,27 @@
+{
+ "ticker": "VIPS",
+ "name": "Vipshop Holdings Limited American Depositary Shares each representing two ordinary shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "China",
+ "mcap": 6389999535.0,
+ "price": "$13.305",
+ "cik": 1529192,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VIPS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Vipshop Holdings Limited (VIPS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vips",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:31+00:00"
+}

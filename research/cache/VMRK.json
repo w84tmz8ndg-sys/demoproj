@@ -1,0 +1,27 @@
+{
+ "ticker": "VMRK",
+ "name": "Vivmark Residential Common Shares of Beneficial Interest",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 50168205789.0,
+ "price": "$64.75",
+ "cik": 906107,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VMRK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vmrk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:30+00:00"
+}

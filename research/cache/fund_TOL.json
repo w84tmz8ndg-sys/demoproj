@@ -1,0 +1,70 @@
+{
+ "ticker": "TOL",
+ "src_stats": "https://stockanalysis.com/stocks/tol/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/tol/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/tol/financials/ratios/",
+ "Market Cap": "13.59B",
+ "Enterprise Value": "15.44B",
+ "PE Ratio": "11.82",
+ "Forward PE": "11.14",
+ "PS Ratio": "1.26",
+ "EV / EBITDA": "9.17",
+ "Gross Margin": "24.83%",
+ "Operating Margin": "14.93%",
+ "Profit Margin": "11.14%",
+ "FCF Margin": "10.13%",
+ "Debt / Equity": "0.34",
+ "Debt / EBITDA": "1.70",
+ "Net Cash": "-1.85B",
+ "Total Debt": "2.91B",
+ "Cash & Cash Equivalents": "1.06B",
+ "Return on Invested Capital (ROIC)": "11.68%",
+ "Return on Equity (ROE)": "14.39%",
+ "Revenue": "10.76B",
+ "Net Income": "1.20B",
+ "Free Cash Flow": "1.09B",
+ "Dividend Yield": "0.70%",
+ "Beta (5Y)": "1.30",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "10,759",
+  "10,967",
+  "10,847",
+  "9,995",
+  "10,276",
+  "8,790"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,198",
+  "1,346",
+  "1,571",
+  "1,372",
+  "1,287",
+  "833.63"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "11.65",
+  "9.66",
+  "9.41",
+  "5.54",
+  "3.80",
+  "8.79"
+ ]
+}

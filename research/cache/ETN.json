@@ -1,0 +1,27 @@
+{
+ "ticker": "ETN",
+ "name": "Eaton Corporation PLC Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "Ireland",
+ "mcap": 130870110000.0,
+ "price": "$336.86",
+ "cik": 1551182,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ETN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Eaton (ETN) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/etn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:08+00:00"
+}

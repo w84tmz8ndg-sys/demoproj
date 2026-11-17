@@ -1,0 +1,70 @@
+{
+ "ticker": "PODD",
+ "src_stats": "https://stockanalysis.com/stocks/podd/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/podd/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/podd/financials/ratios/",
+ "Market Cap": "10.12B",
+ "Enterprise Value": "10.58B",
+ "PE Ratio": "23.80",
+ "Forward PE": "19.45",
+ "PS Ratio": "3.21",
+ "EV / EBITDA": "15.44",
+ "Gross Margin": "71.88%",
+ "Operating Margin": "18.43%",
+ "Profit Margin": "13.44%",
+ "FCF Margin": "8.15%",
+ "Debt / Equity": "0.66",
+ "Debt / EBITDA": "1.47",
+ "Net Cash": "-454.00M",
+ "Total Debt": "1.04B",
+ "Cash & Cash Equivalents": "584.40M",
+ "Return on Invested Capital (ROIC)": "23.33%",
+ "Return on Equity (ROE)": "28.93%",
+ "Revenue": "3.19B",
+ "Net Income": "428.70M",
+ "Free Cash Flow": "260.00M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.05",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,189",
+  "2,708",
+  "2,072",
+  "1,697",
+  "1,305",
+  "1,099"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "428.7",
+  "247.1",
+  "418.3",
+  "206.3",
+  "4.6",
+  "16.8"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "23.70",
+  "80.92",
+  "43.78",
+  "73.44",
+  "4444.57",
+  "1092.27"
+ ]
+}

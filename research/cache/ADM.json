@@ -1,0 +1,27 @@
+{
+ "ticker": "ADM",
+ "name": "Archer-Daniels-Midland Company Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 33609413339.0,
+ "price": "$70.62",
+ "cik": 7084,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Archer-Daniels-Midland Co (ADM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/adm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:20+00:00"
+}

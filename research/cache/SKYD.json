@@ -1,0 +1,27 @@
+{
+ "ticker": "SKYD",
+ "name": "Skydance Corporation Class B Common Stock",
+ "sector": "Industrials",
+ "industry": "Broadcasting",
+ "country": "United States",
+ "mcap": 35612209918.0,
+ "price": "$7.06",
+ "cik": 2041610,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SKYD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/skyd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:14+00:00"
+}

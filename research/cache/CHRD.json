@@ -1,0 +1,27 @@
+{
+ "ticker": "CHRD",
+ "name": "Chord Energy Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 7806229069.0,
+ "price": "$146.78",
+ "cik": 1486159,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CHRD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Chord Energy (CHRD) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/chrd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:30+00:00"
+}

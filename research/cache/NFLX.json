@@ -1,0 +1,27 @@
+{
+ "ticker": "NFLX",
+ "name": "Netflix Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Consumer Electronics/Video Chains",
+ "country": "United States",
+ "mcap": 249459298607.0,
+ "price": "$60.75",
+ "cik": 1065280,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NFLX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Netflix (NFLX) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nflx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:34+00:00"
+}

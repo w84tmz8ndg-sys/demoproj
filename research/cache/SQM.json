@@ -1,0 +1,27 @@
+{
+ "ticker": "SQM",
+ "name": "Sociedad Quimica y Minera S.A. Common Stock",
+ "sector": "Industrials",
+ "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+ "country": "Chile",
+ "mcap": 14607517501.0,
+ "price": "$51.14",
+ "cik": 909037,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SQM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Sociedad Qu\u00edmica y Minera de Chile S.A. (SQM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sqm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:35+00:00"
+}

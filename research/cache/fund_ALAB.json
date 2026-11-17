@@ -1,0 +1,65 @@
+{
+ "ticker": "ALAB",
+ "src_stats": "https://stockanalysis.com/stocks/alab/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/alab/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/alab/financials/ratios/",
+ "Market Cap": "35.31B",
+ "Enterprise Value": "33.97B",
+ "PE Ratio": "79.72",
+ "Forward PE": "29.42",
+ "PS Ratio": "22.72",
+ "EV / EBITDA": "82.48",
+ "Gross Margin": "73.89%",
+ "Operating Margin": "25.52%",
+ "Profit Margin": "29.64%",
+ "FCF Margin": "22.15%",
+ "Debt / Equity": "0.02",
+ "Debt / EBITDA": "0.11",
+ "Net Cash": "1.33B",
+ "Total Debt": "44.99M",
+ "Cash & Cash Equivalents": "1.38B",
+ "Return on Invested Capital (ROIC)": "67.11%",
+ "Return on Equity (ROE)": "28.21%",
+ "Revenue": "1.56B",
+ "Net Income": "461.32M",
+ "Free Cash Flow": "344.69M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "3.86",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,556",
+  "852.53",
+  "396.29",
+  "115.79",
+  "79.87"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "461.32",
+  "219.13",
+  "-83.42",
+  "-26.26",
+  "-58.35"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "79.85",
+  "128.23",
+  "-",
+  "-",
+  "-"
+ ]
+}

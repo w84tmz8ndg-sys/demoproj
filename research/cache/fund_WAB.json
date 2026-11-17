@@ -1,0 +1,70 @@
+{
+ "ticker": "WAB",
+ "src_stats": "https://stockanalysis.com/stocks/wab/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/wab/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/wab/financials/ratios/",
+ "Market Cap": "48.95B",
+ "Enterprise Value": "55.25B",
+ "PE Ratio": "36.27",
+ "Forward PE": "24.07",
+ "PS Ratio": "4.01",
+ "EV / EBITDA": "19.97",
+ "Gross Margin": "36.17%",
+ "Operating Margin": "18.38%",
+ "Profit Margin": "11.20%",
+ "FCF Margin": "14.60%",
+ "Debt / Equity": "0.60",
+ "Debt / EBITDA": "2.31",
+ "Net Cash": "-6.30B",
+ "Total Debt": "6.77B",
+ "Cash & Cash Equivalents": "478.00M",
+ "Return on Invested Capital (ROIC)": "9.56%",
+ "Return on Equity (ROE)": "12.24%",
+ "Revenue": "12.21B",
+ "Net Income": "1.37B",
+ "Free Cash Flow": "1.78B",
+ "Dividend Yield": "0.43%",
+ "Beta (5Y)": "0.93",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "12,214",
+  "11,167",
+  "10,387",
+  "9,677",
+  "8,362",
+  "7,822"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,366",
+  "1,167",
+  "1,053",
+  "813",
+  "631",
+  "558"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "36.29",
+  "31.27",
+  "30.95",
+  "27.97",
+  "28.77",
+  "30.84"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "BHP",
+ "src_stats": "https://stockanalysis.com/stocks/bhp/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/bhp/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/bhp/financials/ratios/",
+ "Market Cap": "186.61B",
+ "Enterprise Value": "201.51B",
+ "PE Ratio": "20.08",
+ "Forward PE": "15.85",
+ "PS Ratio": "3.18",
+ "EV / EBITDA": "6.74",
+ "Gross Margin": "85.92%",
+ "Operating Margin": "42.10%",
+ "Profit Margin": "16.73%",
+ "FCF Margin": "19.61%",
+ "Debt / Equity": "0.50",
+ "Debt / EBITDA": "0.92",
+ "Net Cash": "-9.87B",
+ "Total Debt": "28.43B",
+ "Cash & Cash Equivalents": "18.56B",
+ "Return on Invested Capital (ROIC)": "21.72%",
+ "Return on Equity (ROE)": "24.00%",
+ "Revenue": "58.76B",
+ "Net Income": "9.83B",
+ "Free Cash Flow": "11.52B",
+ "Dividend Yield": "4.51%",
+ "Beta (5Y)": "0.89",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "58,760",
+  "58,760",
+  "51,262",
+  "55,658",
+  "53,817",
+  "65,098"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "9,833",
+  "9,833",
+  "9,019",
+  "7,897",
+  "12,921",
+  "30,900"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "19.71",
+  "21.23",
+  "13.56",
+  "18.28",
+  "11.74",
+  "4.66"
+ ]
+}

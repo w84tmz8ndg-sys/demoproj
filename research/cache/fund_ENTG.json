@@ -1,0 +1,70 @@
+{
+ "ticker": "ENTG",
+ "src_stats": "https://stockanalysis.com/stocks/entg/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/entg/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/entg/financials/ratios/",
+ "Market Cap": "21.98B",
+ "Enterprise Value": "24.98B",
+ "PE Ratio": "55.92",
+ "Forward PE": "26.34",
+ "PS Ratio": "6.07",
+ "EV / EBITDA": "24.47",
+ "Gross Margin": "46.97%",
+ "Operating Margin": "18.64%",
+ "Profit Margin": "11.14%",
+ "FCF Margin": "17.48%",
+ "Debt / Equity": "0.78",
+ "Debt / EBITDA": "3.31",
+ "Net Cash": "-3.00B",
+ "Total Debt": "3.36B",
+ "Cash & Cash Equivalents": "356.50M",
+ "Return on Invested Capital (ROIC)": "7.90%",
+ "Return on Equity (ROE)": "9.55%",
+ "Revenue": "3.52B",
+ "Net Income": "392.80M",
+ "Free Cash Flow": "616.00M",
+ "Dividend Yield": "0.28%",
+ "Beta (5Y)": "1.39",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,525",
+  "3,197",
+  "3,241",
+  "3,524",
+  "3,282",
+  "2,299"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "392.8",
+  "235.6",
+  "292.8",
+  "180.7",
+  "208.92",
+  "409.13"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "54.61",
+  "54.21",
+  "51.09",
+  "99.57",
+  "46.79",
+  "45.89"
+ ]
+}

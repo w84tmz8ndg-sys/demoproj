@@ -1,0 +1,27 @@
+{
+ "ticker": "CALY",
+ "name": "Callaway Golf Company Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Recreational Games/Products/Toys",
+ "country": "United States",
+ "mcap": 2971861841.0,
+ "price": "$16.965",
+ "cik": 837465,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CALY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/caly",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:00+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "ITW",
+ "src_stats": "https://stockanalysis.com/stocks/itw/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/itw/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/itw/financials/ratios/",
+ "Market Cap": "80.15B",
+ "Enterprise Value": "88.72B",
+ "PE Ratio": "25.16",
+ "Forward PE": "23.36",
+ "PS Ratio": "4.86",
+ "EV / EBITDA": "18.37",
+ "Gross Margin": "44.32%",
+ "Operating Margin": "26.86%",
+ "Profit Margin": "19.39%",
+ "FCF Margin": "17.23%",
+ "Debt / Equity": "2.98",
+ "Debt / EBITDA": "1.89",
+ "Net Cash": "-8.56B",
+ "Total Debt": "9.37B",
+ "Cash & Cash Equivalents": "809.00M",
+ "Return on Invested Capital (ROIC)": "29.29%",
+ "Return on Equity (ROE)": "101.65%",
+ "Revenue": "16.65B",
+ "Net Income": "3.23B",
+ "Free Cash Flow": "2.87B",
+ "Dividend Yield": "2.44%",
+ "Beta (5Y)": "0.94",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "16,646",
+  "16,044",
+  "15,898",
+  "16,107",
+  "15,932",
+  "14,455"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "3,228",
+  "3,066",
+  "3,488",
+  "2,957",
+  "3,034",
+  "2,694"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "25.40",
+  "23.31",
+  "21.47",
+  "26.65",
+  "22.31",
+  "28.76"
+ ]
+}

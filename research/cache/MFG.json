@@ -1,0 +1,27 @@
+{
+ "ticker": "MFG",
+ "name": "Mizuho Financial Group Inc. Sponosred ADR (Japan)",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "Japan",
+ "mcap": 127604740443.0,
+ "price": "$10.25",
+ "cik": 1335730,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MFG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Mizuho Financial Group (MFG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mfg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:12+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "AIG",
+ "name": "American International Group Inc. New Common Stock",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "United States",
+ "mcap": 42903409349.0,
+ "price": "$82.755",
+ "cik": 5272,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, American International Group (AIG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aig",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:50+00:00"
+}

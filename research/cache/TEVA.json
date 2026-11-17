@@ -1,0 +1,27 @@
+{
+ "ticker": "TEVA",
+ "name": "Teva Pharmaceutical Industries Limited Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Israel",
+ "mcap": 49683484463.0,
+ "price": "$42.58",
+ "cik": 818686,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TEVA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/teva",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:31+00:00"
+}

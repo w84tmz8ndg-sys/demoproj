@@ -1,0 +1,27 @@
+{
+ "ticker": "TSN",
+ "name": "Tyson Foods Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Meat/Poultry/Fish",
+ "country": "United States",
+ "mcap": 22501224708.0,
+ "price": "$63.96",
+ "cik": 100493,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TSN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Tyson Foods (TSN) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tsn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:16+00:00"
+}

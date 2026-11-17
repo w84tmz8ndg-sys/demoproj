@@ -1,0 +1,27 @@
+{
+ "ticker": "TNET",
+ "name": "TriNet Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 3070195583.0,
+ "price": "$67.02",
+ "cik": 937098,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TNET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, TriNet Group, Inc. (TNET) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tnet",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:39+00:00"
+}

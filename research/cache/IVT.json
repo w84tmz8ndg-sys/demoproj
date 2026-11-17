@@ -1,0 +1,27 @@
+{
+ "ticker": "IVT",
+ "name": "InvenTrust Properties Corp. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 2467237557.0,
+ "price": "$31.64",
+ "cik": 1307748,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IVT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, InvenTrust Properties Corp. (IVT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ivt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:14+00:00"
+}

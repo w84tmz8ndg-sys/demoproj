@@ -1,0 +1,27 @@
+{
+ "ticker": "LNTH",
+ "name": "Lantheus Holdings Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+ "country": "United States",
+ "mcap": 6652631730.0,
+ "price": "$101.72",
+ "cik": 1521036,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LNTH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Lantheus Holdings, Inc. (LNTH) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lnth",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:15+00:00"
+}

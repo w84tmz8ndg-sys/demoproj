@@ -1,0 +1,27 @@
+{
+ "ticker": "CACC",
+ "name": "Credit Acceptance Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 4968371597.0,
+ "price": "$490.10",
+ "cik": 885550,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CACC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Credit Acceptance Corporation (CACC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cacc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:11+00:00"
+}

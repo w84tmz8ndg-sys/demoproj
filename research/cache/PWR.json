@@ -1,0 +1,27 @@
+{
+ "ticker": "PWR",
+ "name": "Quanta Services Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Engineering & Construction",
+ "country": "United States",
+ "mcap": 88275712170.0,
+ "price": "$585.86",
+ "cik": 1050915,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PWR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Quanta Services (PWR) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pwr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:38+00:00"
+}

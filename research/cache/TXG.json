@@ -1,0 +1,27 @@
+{
+ "ticker": "TXG",
+ "name": "10x Genomics Inc. Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Biotechnology: Laboratory Analytical Instruments",
+ "country": "United States",
+ "mcap": 7233065053.0,
+ "price": "$54.99",
+ "cik": 1770787,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TXG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, 10x Genomics (TXG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/txg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:49+00:00"
+}

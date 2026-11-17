@@ -1,0 +1,27 @@
+{
+ "ticker": "CNM",
+ "name": "Core & Main Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Durable Goods",
+ "country": "United States",
+ "mcap": 8361736325.0,
+ "price": "$43.895",
+ "cik": 1856525,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Core & Main, Inc. (CNM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cnm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:07+00:00"
+}

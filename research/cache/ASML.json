@@ -1,0 +1,27 @@
+{
+ "ticker": "ASML",
+ "name": "ASML Holding N.V. New York Registry Shares",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "Netherlands",
+ "mcap": 542199789857.0,
+ "price": "$1406.785",
+ "cik": 937966,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ASML/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, ASML Holding NV (ASML) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/asml",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:26+00:00"
+}

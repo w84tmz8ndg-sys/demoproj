@@ -1,0 +1,27 @@
+{
+ "ticker": "ENIC",
+ "name": "Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock)",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "Chile",
+ "mcap": 5754657559.0,
+ "price": "$4.16",
+ "cik": 1659939,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENIC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/enic",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:14+00:00"
+}

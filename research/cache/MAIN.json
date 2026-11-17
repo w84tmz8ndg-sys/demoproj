@@ -1,0 +1,27 @@
+{
+ "ticker": "MAIN",
+ "name": "Main Street Capital Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Finance/Investors Services",
+ "country": "United States",
+ "mcap": 5275117555.0,
+ "price": "$56.21",
+ "cik": 1396440,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MAIN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Main Street Capital Corporation (MAIN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/main",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:48+00:00"
+}

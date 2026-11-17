@@ -1,0 +1,70 @@
+{
+ "ticker": "ADM",
+ "src_stats": "https://stockanalysis.com/stocks/adm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/adm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/adm/financials/ratios/",
+ "Market Cap": "33.21B",
+ "Enterprise Value": "42.52B",
+ "PE Ratio": "13.63",
+ "Forward PE": "12.07",
+ "PS Ratio": "0.40",
+ "EV / EBITDA": "12.11",
+ "Gross Margin": "7.44%",
+ "Operating Margin": "2.91%",
+ "Profit Margin": "2.95%",
+ "FCF Margin": "0.41%",
+ "Debt / Equity": "0.42",
+ "Debt / EBITDA": "2.47",
+ "Net Cash": "-9.31B",
+ "Total Debt": "10.06B",
+ "Cash & Cash Equivalents": "756.00M",
+ "Return on Invested Capital (ROIC)": "6.33%",
+ "Return on Equity (ROE)": "10.64%",
+ "Revenue": "84.06B",
+ "Net Income": "2.48B",
+ "Free Cash Flow": "346.00M",
+ "Dividend Yield": "2.98%",
+ "Beta (5Y)": "0.62",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "84,062",
+  "80,269",
+  "85,530",
+  "93,935",
+  "101,556",
+  "85,249"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,483",
+  "1,078",
+  "1,800",
+  "3,483",
+  "4,340",
+  "2,709"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "13.72",
+  "25.63",
+  "13.43",
+  "11.06",
+  "11.75",
+  "13.96"
+ ]
+}

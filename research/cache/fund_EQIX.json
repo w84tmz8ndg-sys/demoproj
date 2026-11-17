@@ -1,0 +1,70 @@
+{
+ "ticker": "EQIX",
+ "src_stats": "https://stockanalysis.com/stocks/eqix/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/eqix/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/eqix/financials/ratios/",
+ "Market Cap": "103.98B",
+ "Enterprise Value": "128.03B",
+ "PE Ratio": "63.04",
+ "Forward PE": "54.92",
+ "PS Ratio": "10.18",
+ "EV / EBITDA": "27.14",
+ "Gross Margin": "52.00%",
+ "Operating Margin": "24.54%",
+ "Profit Margin": "16.24%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "1.81",
+ "Debt / EBITDA": "5.28",
+ "Net Cash": "-24.05B",
+ "Total Debt": "26.41B",
+ "Cash & Cash Equivalents": "2.36B",
+ "Return on Invested Capital (ROIC)": "5.65%",
+ "Return on Equity (ROE)": "11.45%",
+ "Revenue": "10.15B",
+ "Net Income": "1.65B",
+ "Free Cash Flow": "-2.49B",
+ "Dividend Yield": "1.98%",
+ "Beta (5Y)": "0.97",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "10,147",
+  "9,260",
+  "8,737",
+  "8,197",
+  "7,117",
+  "6,260"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,648",
+  "1,350",
+  "815",
+  "969",
+  "705",
+  "500.19"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "62.60",
+  "55.72",
+  "111.63",
+  "78.03",
+  "85.98",
+  "152.26"
+ ]
+}

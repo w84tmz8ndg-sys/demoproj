@@ -1,0 +1,70 @@
+{
+ "ticker": "ONON",
+ "src_stats": "https://stockanalysis.com/stocks/onon/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/onon/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/onon/financials/ratios/",
+ "Market Cap": "10.78B",
+ "Enterprise Value": "10.05B",
+ "PE Ratio": "20.05",
+ "Forward PE": "16.56",
+ "PS Ratio": "2.72",
+ "EV / EBITDA": "14.68",
+ "Gross Margin": "66.76%",
+ "Operating Margin": "15.31%",
+ "Profit Margin": "13.11%",
+ "FCF Margin": "12.84%",
+ "Debt / Equity": "0.34",
+ "Debt / EBITDA": "1.11",
+ "Net Cash": "726.80M",
+ "Total Debt": "878.06M",
+ "Cash & Cash Equivalents": "1.60B",
+ "Return on Invested Capital (ROIC)": "30.83%",
+ "Return on Equity (ROE)": "23.68%",
+ "Revenue": "4.02B",
+ "Net Income": "527.48M",
+ "Free Cash Flow": "514.41M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "2.08",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,357",
+  "3,014",
+  "2,318",
+  "1,792",
+  "1,222",
+  "724.6"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "440.1",
+  "203.7",
+  "242.3",
+  "79.6",
+  "57.7",
+  "-170.2"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "20.40",
+  "60.34",
+  "65.57",
+  "90.72",
+  "87.32",
+  "-"
+ ]
+}

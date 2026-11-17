@@ -1,0 +1,27 @@
+{
+ "ticker": "GMED",
+ "name": "Globus Medical Inc. Class A Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 9340579073.0,
+ "price": "$70.51",
+ "cik": 1237831,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GMED/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Globus Medical, Inc. (GMED) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gmed",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:29+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ASB",
+ "name": "Associated Banc-Corp Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 5697452809.0,
+ "price": "$30.68",
+ "cik": 7789,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ASB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Associated Banc-Corp (ASB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/asb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:17+00:00"
+}

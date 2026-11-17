@@ -1,0 +1,27 @@
+{
+ "ticker": "NWSA",
+ "name": "News Corporation Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Newspapers/Magazines",
+ "country": "United States",
+ "mcap": 14321089072.0,
+ "price": "$26.66",
+ "cik": 1564708,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NWSA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, News Corp (NWSA) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nwsa",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:39+00:00"
+}

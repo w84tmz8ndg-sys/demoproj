@@ -1,0 +1,27 @@
+{
+ "ticker": "HAE",
+ "name": "Haemonetics Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 5528253835.0,
+ "price": "$121.40",
+ "cik": 313143,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HAE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Haemonetics Corporation (HAE) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hae",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:26+00:00"
+}

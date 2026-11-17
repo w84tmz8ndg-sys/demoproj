@@ -1,0 +1,27 @@
+{
+ "ticker": "BLSH",
+ "name": "Bullish Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Cayman Islands",
+ "mcap": 3152115928.0,
+ "price": "$19.745",
+ "cik": 1872195,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BLSH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Bullish Inc. (BLSH) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/blsh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:29+00:00"
+}

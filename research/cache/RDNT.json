@@ -1,0 +1,27 @@
+{
+ "ticker": "RDNT",
+ "name": "RadNet Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 6057001446.0,
+ "price": "$76.89",
+ "cik": 790526,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RDNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, RadNet, Inc. (RDNT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rdnt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:53+00:00"
+}

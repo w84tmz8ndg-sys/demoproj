@@ -1,0 +1,27 @@
+{
+ "ticker": "IDT",
+ "name": "IDT Corporation Class B Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 2014863354.0,
+ "price": "$81.07",
+ "cik": 1005731,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IDT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, IDT Corporation (IDT) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/idt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:28+00:00"
+}

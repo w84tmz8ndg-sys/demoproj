@@ -1,0 +1,27 @@
+{
+ "ticker": "AXSM",
+ "name": "Axsome Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 7206723945.0,
+ "price": "$137.01",
+ "cik": 1579428,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AXSM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Axsome Therapeutics, Inc. (AXSM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/axsm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:49+00:00"
+}

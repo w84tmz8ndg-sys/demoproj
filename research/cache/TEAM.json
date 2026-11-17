@@ -1,0 +1,27 @@
+{
+ "ticker": "TEAM",
+ "name": "Atlassian Corporation Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Australia",
+ "mcap": 37762834922.0,
+ "price": "$149.94",
+ "cik": 1650372,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TEAM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Atlassian (TEAM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/team",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:05+00:00"
+}

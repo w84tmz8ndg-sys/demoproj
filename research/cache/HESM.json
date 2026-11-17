@@ -1,0 +1,27 @@
+{
+ "ticker": "HESM",
+ "name": "Hess Midstream LP Class A Representing Limited Partner Interests",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 3908926081.0,
+ "price": "$30.455",
+ "cik": 1789832,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HESM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Hess Midstream LP (HESM) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hesm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:53+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "BHC",
+ "name": "Bausch Health Companies Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Canada",
+ "mcap": 3153197082.0,
+ "price": "$8.425",
+ "cik": 885590,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BHC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bhc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:27+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "UL",
+ "name": "Unilever PLC American Depositary Shares (each representing One Ordinary Share)",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "United Kingdom",
+ "mcap": 143930609853.0,
+ "price": "$66.81",
+ "cik": 217410,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Unilever PLC (UL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ul",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:05+00:00"
+}

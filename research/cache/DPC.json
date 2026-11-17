@@ -1,0 +1,27 @@
+{
+ "ticker": "DPC",
+ "name": "DPC Holdings PLC Ordinary Shares",
+ "sector": "Telecommunications",
+ "industry": "Metal Fabrications",
+ "country": "United Kingdom",
+ "mcap": 4753685769.0,
+ "price": "$31.82",
+ "cik": 2107018,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DPC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dpc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:28+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PSO",
+ "name": "Pearson Plc Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Books",
+ "country": "United Kingdom",
+ "mcap": 10476315546.0,
+ "price": "$17.41",
+ "cik": 938323,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PSO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Pearson plc (PSO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pso",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:52+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "LIVN",
+ "name": "LivaNova PLC Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+ "country": "United Kingdom",
+ "mcap": 5092224624.0,
+ "price": "$92.44",
+ "cik": 1639691,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LIVN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/livn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:01+00:00"
+}

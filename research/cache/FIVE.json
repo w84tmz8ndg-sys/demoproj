@@ -1,0 +1,27 @@
+{
+ "ticker": "FIVE",
+ "name": "Five Below Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Department/Specialty Retail Stores",
+ "country": "United States",
+ "mcap": 13298852695.0,
+ "price": "$241.56",
+ "cik": 1177609,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FIVE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Five Below, Inc. (FIVE) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/five",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:54+00:00"
+}

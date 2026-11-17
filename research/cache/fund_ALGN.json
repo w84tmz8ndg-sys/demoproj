@@ -1,0 +1,70 @@
+{
+ "ticker": "ALGN",
+ "src_stats": "https://stockanalysis.com/stocks/algn/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/algn/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/algn/financials/ratios/",
+ "Market Cap": "11.57B",
+ "Enterprise Value": "10.57B",
+ "PE Ratio": "23.89",
+ "Forward PE": "13.72",
+ "PS Ratio": "2.81",
+ "EV / EBITDA": "11.12",
+ "Gross Margin": "71.53%",
+ "Operating Margin": "19.64%",
+ "Profit Margin": "11.83%",
+ "FCF Margin": "14.49%",
+ "Debt / Equity": "0.03",
+ "Debt / EBITDA": "0.14",
+ "Net Cash": "998.47M",
+ "Total Debt": "146.46M",
+ "Cash & Cash Equivalents": "1.14B",
+ "Return on Invested Capital (ROIC)": "19.02%",
+ "Return on Equity (ROE)": "11.91%",
+ "Revenue": "4.16B",
+ "Net Income": "491.87M",
+ "Free Cash Flow": "602.50M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.74",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,159",
+  "4,035",
+  "3,999",
+  "3,862",
+  "3,735",
+  "3,953"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "491.87",
+  "410.35",
+  "421.36",
+  "445.05",
+  "361.57",
+  "772.02"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "24.17",
+  "27.30",
+  "36.94",
+  "47.15",
+  "45.56",
+  "67.12"
+ ]
+}

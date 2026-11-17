@@ -1,0 +1,70 @@
+{
+ "ticker": "DHR",
+ "src_stats": "https://stockanalysis.com/stocks/dhr/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/dhr/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/dhr/financials/ratios/",
+ "Market Cap": "158.75B",
+ "Enterprise Value": "180.85B",
+ "PE Ratio": "36.97",
+ "Forward PE": "24.86",
+ "PS Ratio": "6.22",
+ "EV / EBITDA": "21.97",
+ "Gross Margin": "59.36%",
+ "Operating Margin": "21.97%",
+ "Profit Margin": "16.91%",
+ "FCF Margin": "22.36%",
+ "Debt / Equity": "0.52",
+ "Debt / EBITDA": "3.24",
+ "Net Cash": "-22.10B",
+ "Total Debt": "27.78B",
+ "Cash & Cash Equivalents": "5.68B",
+ "Return on Invested Capital (ROIC)": "6.60%",
+ "Return on Equity (ROE)": "8.19%",
+ "Revenue": "25.61B",
+ "Net Income": "4.33B",
+ "Free Cash Flow": "5.73B",
+ "Dividend Yield": "0.71%",
+ "Beta (5Y)": "0.80",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "25,608",
+  "24,568",
+  "23,875",
+  "23,890",
+  "26,643",
+  "24,802"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "4,331",
+  "3,614",
+  "3,899",
+  "4,743",
+  "7,103",
+  "6,269"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "37.67",
+  "44.74",
+  "42.52",
+  "36.04",
+  "27.20",
+  "37.50"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "AIT",
+ "name": "Applied Industrial Technologies Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 10697429127.0,
+ "price": "$292.96",
+ "cik": 109563,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Applied Industrial Technologies, Inc. (AIT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ait",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:50+00:00"
+}

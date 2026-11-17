@@ -1,0 +1,27 @@
+{
+ "ticker": "TECH",
+ "name": "Bio-Techne Corp Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 11434634018.0,
+ "price": "$72.79",
+ "cik": 842023,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TECH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Bio-Techne (TECH) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tech",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:37+00:00"
+}

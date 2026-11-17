@@ -1,0 +1,27 @@
+{
+ "ticker": "CTOS",
+ "name": "Custom Truck One Source Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "Cayman Islands",
+ "mcap": 2202445609.0,
+ "price": "$9.695",
+ "cik": 1709682,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CTOS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Custom Truck One Source (CTOS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ctos",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:54+00:00"
+}

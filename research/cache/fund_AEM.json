@@ -1,0 +1,70 @@
+{
+ "ticker": "AEM",
+ "src_stats": "https://stockanalysis.com/stocks/aem/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/aem/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/aem/financials/ratios/",
+ "Market Cap": "87.35B",
+ "Enterprise Value": "84.05B",
+ "PE Ratio": "14.08",
+ "Forward PE": "14.86",
+ "PS Ratio": "5.74",
+ "EV / EBITDA": "7.88",
+ "Gross Margin": "74.52%",
+ "Operating Margin": "60.32%",
+ "Profit Margin": "41.01%",
+ "FCF Margin": "27.68%",
+ "Debt / Equity": "0.01",
+ "Debt / EBITDA": "0.03",
+ "Net Cash": "3.30B",
+ "Total Debt": "328.08M",
+ "Cash & Cash Equivalents": "3.63B",
+ "Return on Invested Capital (ROIC)": "23.60%",
+ "Return on Equity (ROE)": "23.24%",
+ "Revenue": "15.05B",
+ "Net Income": "6.17B",
+ "Free Cash Flow": "4.17B",
+ "Dividend Yield": "1.04%",
+ "Beta (5Y)": "0.67",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "15,050",
+  "11,908",
+  "8,286",
+  "6,627",
+  "5,741",
+  "3,870"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "6,172",
+  "4,461",
+  "1,896",
+  "1,941",
+  "670.25",
+  "561.95"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "13.92",
+  "19.08",
+  "20.65",
+  "14.02",
+  "35.30",
+  "23.10"
+ ]
+}

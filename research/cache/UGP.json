@@ -1,0 +1,27 @@
+{
+ "ticker": "UGP",
+ "name": "Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share)",
+ "sector": "Utilities",
+ "industry": "Oil/Gas Transmission",
+ "country": "Brazil",
+ "mcap": 6203916820.0,
+ "price": "$5.575",
+ "cik": 1094972,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UGP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ugp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:46+00:00"
+}

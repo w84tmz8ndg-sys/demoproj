@@ -1,0 +1,27 @@
+{
+ "ticker": "IEX",
+ "name": "IDEX Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Fluid Controls",
+ "country": "United States",
+ "mcap": 17155636202.0,
+ "price": "$233.56",
+ "cik": 832101,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IEX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, IDEX (IEX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/iex",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:59+00:00"
+}

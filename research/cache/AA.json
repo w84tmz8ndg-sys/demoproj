@@ -1,0 +1,27 @@
+{
+ "ticker": "AA",
+ "name": "Alcoa Corporation Common Stock ",
+ "sector": "Industrials",
+ "industry": "Aluminum",
+ "country": "United States",
+ "mcap": 10207715028.0,
+ "price": "$38.67",
+ "cik": 1675149,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Alcoa (AA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aa",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:02+00:00"
+}

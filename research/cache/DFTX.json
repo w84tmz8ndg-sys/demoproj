@@ -1,0 +1,27 @@
+{
+ "ticker": "DFTX",
+ "name": "Definium Therapeutics Inc. Common Shares",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "United States",
+ "mcap": 4128902040.0,
+ "price": "$30.16",
+ "cik": 1813814,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DFTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Definium Therapeutics, Inc. (DFTX) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dftx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:36+00:00"
+}

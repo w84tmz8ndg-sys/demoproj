@@ -1,0 +1,27 @@
+{
+ "ticker": "OKLO",
+ "name": "Oklo Inc. Class A common stock",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 4499472223.0,
+ "price": "$23.04",
+ "cik": 1849056,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OKLO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Oklo (OKLO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/oklo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:54+00:00"
+}

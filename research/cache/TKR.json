@@ -1,0 +1,27 @@
+{
+ "ticker": "TKR",
+ "name": "Timken Company (The) Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 7302644602.0,
+ "price": "$106.39",
+ "cik": 98362,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TKR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, The Timken Company (TKR) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tkr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:46+00:00"
+}

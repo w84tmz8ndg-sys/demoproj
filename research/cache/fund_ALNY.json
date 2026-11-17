@@ -1,0 +1,70 @@
+{
+ "ticker": "ALNY",
+ "src_stats": "https://stockanalysis.com/stocks/alny/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/alny/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/alny/financials/ratios/",
+ "Market Cap": "21.39B",
+ "Enterprise Value": "20.80B",
+ "PE Ratio": "8.28",
+ "Forward PE": "22.07",
+ "PS Ratio": "4.27",
+ "EV / EBITDA": "20.14",
+ "Gross Margin": "77.28%",
+ "Operating Margin": "19.50%",
+ "Profit Margin": "52.85%",
+ "FCF Margin": "16.08%",
+ "Debt / Equity": "0.83",
+ "Debt / EBITDA": "2.69",
+ "Net Cash": "590.40M",
+ "Total Debt": "3.00B",
+ "Cash & Cash Equivalents": "3.59B",
+ "Return on Invested Capital (ROIC)": "48.31%",
+ "Return on Equity (ROE)": "138.07%",
+ "Revenue": "5.01B",
+ "Net Income": "2.65B",
+ "Free Cash Flow": "806.31M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.44",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,013",
+  "3,714",
+  "2,248",
+  "1,828",
+  "1,037",
+  "844.29"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,649",
+  "313.75",
+  "-278.16",
+  "-440.24",
+  "-1,131",
+  "-852.82"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "8.12",
+  "167.44",
+  "-",
+  "-",
+  "-",
+  "-"
+ ]
+}

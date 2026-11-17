@@ -1,0 +1,70 @@
+{
+ "ticker": "MEDP",
+ "src_stats": "https://stockanalysis.com/stocks/medp/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/medp/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/medp/financials/ratios/",
+ "Market Cap": "18.13B",
+ "Enterprise Value": "17.60B",
+ "PE Ratio": "35.95",
+ "Forward PE": "33.74",
+ "PS Ratio": "6.39",
+ "EV / EBITDA": "27.74",
+ "Gross Margin": "72.24%",
+ "Operating Margin": "21.39%",
+ "Profit Margin": "18.24%",
+ "FCF Margin": "23.52%",
+ "Debt / Equity": "0.29",
+ "Debt / EBITDA": "0.25",
+ "Net Cash": "533.86M",
+ "Total Debt": "171.46M",
+ "Cash & Cash Equivalents": "705.32M",
+ "Return on Invested Capital (ROIC)": "793.61%",
+ "Return on Equity (ROE)": "117.88%",
+ "Revenue": "2.84B",
+ "Net Income": "517.83M",
+ "Free Cash Flow": "667.63M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.11",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,838",
+  "2,530",
+  "2,109",
+  "1,886",
+  "1,460",
+  "1,142"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "517.83",
+  "451.12",
+  "404.34",
+  "282.62",
+  "245.21",
+  "181.39"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "35.90",
+  "35.07",
+  "25.54",
+  "33.28",
+  "26.94",
+  "43.12"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "WPP",
+ "name": "WPP plc American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Advertising",
+ "country": "Ireland",
+ "mcap": 5922624956.0,
+ "price": "$27.45",
+ "cik": 806968,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WPP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, WPP plc (WPP) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wpp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:05+00:00"
+}

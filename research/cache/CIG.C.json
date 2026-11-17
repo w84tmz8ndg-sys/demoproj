@@ -1,0 +1,27 @@
+{
+ "ticker": "CIG.C",
+ "name": "Comp En De Mn Cemig ADS American Depositary Receipts",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "Brazil",
+ "mcap": 8585345685.0,
+ "price": "$3.00",
+ "cik": 1157557,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/CIG-C/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cig-c",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:59+00:00"
+}

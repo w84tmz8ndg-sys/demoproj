@@ -1,0 +1,27 @@
+{
+ "ticker": "BWLP",
+ "name": "BW LPG Limited Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Transportation Services",
+ "country": "",
+ "mcap": 3517742970.0,
+ "price": "$22.085",
+ "cik": 1649313,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BWLP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bwlp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:38+00:00"
+}

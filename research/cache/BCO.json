@@ -1,0 +1,27 @@
+{
+ "ticker": "BCO",
+ "name": "Brinks Company (The) Common Stock",
+ "sector": "Industrials",
+ "industry": "Integrated Freight & Logistics",
+ "country": "United States",
+ "mcap": 4819669467.0,
+ "price": "$116.98",
+ "cik": 78890,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BCO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, The Brink's Company (BCO) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bco",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:21+00:00"
+}

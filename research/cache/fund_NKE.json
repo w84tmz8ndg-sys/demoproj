@@ -1,0 +1,70 @@
+{
+ "ticker": "NKE",
+ "src_stats": "https://stockanalysis.com/stocks/nke/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/nke/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/nke/financials/ratios/",
+ "Market Cap": "56.83B",
+ "Enterprise Value": "59.58B",
+ "PE Ratio": "18.33",
+ "Forward PE": "29.98",
+ "PS Ratio": "1.24",
+ "EV / EBITDA": "12.18",
+ "Gross Margin": "43.41%",
+ "Operating Margin": "9.03%",
+ "Profit Margin": "6.74%",
+ "FCF Margin": "4.59%",
+ "Debt / Equity": "0.73",
+ "Debt / EBITDA": "1.84",
+ "Net Cash": "-2.76B",
+ "Total Debt": "11.13B",
+ "Cash & Cash Equivalents": "8.37B",
+ "Return on Invested Capital (ROIC)": "18.86%",
+ "Return on Equity (ROE)": "21.56%",
+ "Revenue": "45.89B",
+ "Net Income": "3.09B",
+ "Free Cash Flow": "2.11B",
+ "Dividend Yield": "4.29%",
+ "Beta (5Y)": "1.03",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "45,891",
+  "46,398",
+  "46,309",
+  "51,362",
+  "51,217",
+  "46,710"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "3,093",
+  "3,108",
+  "3,219",
+  "5,700",
+  "5,070",
+  "6,046"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "18.58",
+  "22.03",
+  "27.78",
+  "25.17",
+  "31.91",
+  "30.94"
+ ]
+}

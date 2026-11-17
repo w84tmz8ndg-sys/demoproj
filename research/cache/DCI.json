@@ -1,0 +1,27 @@
+{
+ "ticker": "DCI",
+ "name": "Donaldson Company Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Pollution Control Equipment",
+ "country": "United States",
+ "mcap": 9882497599.0,
+ "price": "$85.26",
+ "cik": 29644,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DCI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Donaldson Company, Inc. (DCI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dci",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:10+00:00"
+}

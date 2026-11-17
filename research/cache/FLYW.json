@@ -1,0 +1,27 @@
+{
+ "ticker": "FLYW",
+ "name": "Flywire Corporation Voting Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 2715548980.0,
+ "price": "$22.16",
+ "cik": 1580560,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FLYW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Flywire Corporation (FLYW) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/flyw",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:30+00:00"
+}

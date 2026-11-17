@@ -1,0 +1,27 @@
+{
+ "ticker": "IFS",
+ "name": "Intercorp Financial Services Inc. Common Shares",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "",
+ "mcap": 5528165078.0,
+ "price": "$50.075",
+ "cik": 1615903,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IFS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ifs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:27+00:00"
+}

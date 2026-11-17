@@ -1,0 +1,27 @@
+{
+ "ticker": "WMG",
+ "name": "Warner Music Group Corp. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 16974912004.0,
+ "price": "$32.45",
+ "cik": 1319161,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WMG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Warner Music Group Corp. (WMG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wmg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:00+00:00"
+}

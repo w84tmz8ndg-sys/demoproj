@@ -1,0 +1,70 @@
+{
+ "ticker": "ODFL",
+ "src_stats": "https://stockanalysis.com/stocks/odfl/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/odfl/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/odfl/financials/ratios/",
+ "Market Cap": "35.91B",
+ "Enterprise Value": "35.46B",
+ "PE Ratio": "31.31",
+ "Forward PE": "26.31",
+ "PS Ratio": "6.21",
+ "EV / EBITDA": "18.85",
+ "Gross Margin": "39.88%",
+ "Operating Margin": "26.17%",
+ "Profit Margin": "20.08%",
+ "FCF Margin": "20.28%",
+ "Debt / Equity": "0.00",
+ "Debt / EBITDA": "0.01",
+ "Net Cash": "446.23M",
+ "Total Debt": "20.00M",
+ "Cash & Cash Equivalents": "466.22M",
+ "Return on Invested Capital (ROIC)": "26.77%",
+ "Return on Equity (ROE)": "26.01%",
+ "Revenue": "5.79B",
+ "Net Income": "1.16B",
+ "Free Cash Flow": "1.17B",
+ "Dividend Yield": "0.67%",
+ "Beta (5Y)": "1.15",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,787",
+  "5,496",
+  "5,815",
+  "5,866",
+  "6,260",
+  "5,256"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,162",
+  "1,024",
+  "1,186",
+  "1,240",
+  "1,377",
+  "1,034"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "30.95",
+  "32.03",
+  "31.75",
+  "35.68",
+  "22.77",
+  "39.85"
+ ]
+}

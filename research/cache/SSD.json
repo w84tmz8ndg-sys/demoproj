@@ -1,0 +1,27 @@
+{
+ "ticker": "SSD",
+ "name": "Simpson Manufacturing Company Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 8051939569.0,
+ "price": "$198.61",
+ "cik": 920371,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SSD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Simpson Manufacturing Co., Inc. (SSD) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ssd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:17+00:00"
+}

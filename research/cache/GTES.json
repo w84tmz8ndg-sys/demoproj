@@ -1,0 +1,27 @@
+{
+ "ticker": "GTES",
+ "name": "Gates Industrial Corporation Ltd. Common Shares",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United Kingdom",
+ "mcap": 6294758680.0,
+ "price": "$25.065",
+ "cik": 1718512,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GTES/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Gates Industrial Corporation plc (GTES) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gtes",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:37+00:00"
+}

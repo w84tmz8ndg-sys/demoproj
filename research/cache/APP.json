@@ -1,0 +1,27 @@
+{
+ "ticker": "APP",
+ "name": "Applovin Corporation Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 137571549075.0,
+ "price": "$415.22",
+ "cik": 1751008,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/APP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, AppLovin Corporation (APP) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/app",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:06+00:00"
+}

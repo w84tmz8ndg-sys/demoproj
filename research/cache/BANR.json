@@ -1,0 +1,27 @@
+{
+ "ticker": "BANR",
+ "name": "Banner Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 2494823565.0,
+ "price": "$68.46",
+ "cik": 946673,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BANR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Banner Corporation (BANR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/banr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:09+00:00"
+}

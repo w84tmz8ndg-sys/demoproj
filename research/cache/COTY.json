@@ -1,0 +1,27 @@
+{
+ "ticker": "COTY",
+ "name": "Coty Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "United States",
+ "mcap": 3679607397.0,
+ "price": "$4.175",
+ "cik": 1024305,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COTY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Coty Inc. (COTY) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/coty",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:17+00:00"
+}

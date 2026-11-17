@@ -1,0 +1,27 @@
+{
+ "ticker": "SWKS",
+ "name": "Skyworks Solutions Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 20314924630.0,
+ "price": "$86.50",
+ "cik": 4127,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SWKS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Skyworks Solutions (SWKS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/swks",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:28+00:00"
+}

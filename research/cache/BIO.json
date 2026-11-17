@@ -1,0 +1,27 @@
+{
+ "ticker": "BIO",
+ "name": "Bio-Rad Laboratories Inc. Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Biotechnology: Laboratory Analytical Instruments",
+ "country": "United States",
+ "mcap": 9687107718.0,
+ "price": "$360.21",
+ "cik": 12208,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Bio-Rad Laboratories (BIO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bio",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:16+00:00"
+}

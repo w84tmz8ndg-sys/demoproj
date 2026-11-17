@@ -1,0 +1,27 @@
+{
+ "ticker": "EXR",
+ "name": "Extra Space Storage Inc Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 33039305648.0,
+ "price": "$158.295",
+ "cik": 1289490,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EXR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Extra Space Storage (EXR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/exr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:20+00:00"
+}

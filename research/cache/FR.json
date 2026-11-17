@@ -1,0 +1,27 @@
+{
+ "ticker": "FR",
+ "name": "First Industrial Realty Trust Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 7287799577.0,
+ "price": "$54.97",
+ "cik": 921825,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, First Industrial Realty Trust, Inc. (FR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:48+00:00"
+}

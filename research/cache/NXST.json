@@ -1,0 +1,27 @@
+{
+ "ticker": "NXST",
+ "name": "Nexstar Media Group Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Broadcasting",
+ "country": "United States",
+ "mcap": 6426492548.0,
+ "price": "$208.51",
+ "cik": 1142417,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NXST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Nexstar Media Group (NXST) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nxst",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:27+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MTZ",
+ "name": "MasTec Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Water Sewer Pipeline Comm & Power Line Construction",
+ "country": "United States",
+ "mcap": 14199194795.0,
+ "price": "$176.825",
+ "cik": 15615,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MTZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, MasTec, Inc. (MTZ) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mtz",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:38+00:00"
+}

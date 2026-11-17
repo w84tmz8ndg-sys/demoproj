@@ -1,0 +1,27 @@
+{
+ "ticker": "PAYP",
+ "name": "PayPay Corporation American Depository Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "Japan",
+ "mcap": 8694517853.0,
+ "price": "$12.84",
+ "cik": 2080845,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PAYP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/payp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:53+00:00"
+}

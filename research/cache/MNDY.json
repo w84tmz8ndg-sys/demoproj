@@ -1,0 +1,27 @@
+{
+ "ticker": "MNDY",
+ "name": "monday.com Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Israel",
+ "mcap": 3434700867.0,
+ "price": "$80.05",
+ "cik": 1845338,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MNDY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mndy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:49+00:00"
+}

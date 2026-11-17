@@ -1,0 +1,70 @@
+{
+ "ticker": "BURL",
+ "src_stats": "https://stockanalysis.com/stocks/burl/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/burl/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/burl/financials/ratios/",
+ "Market Cap": "14.77B",
+ "Enterprise Value": "19.97B",
+ "PE Ratio": "21.14",
+ "Forward PE": "19.52",
+ "PS Ratio": "1.21",
+ "EV / EBITDA": "14.68",
+ "Gross Margin": "44.08%",
+ "Operating Margin": "7.79%",
+ "Profit Margin": "5.85%",
+ "FCF Margin": "3.38%",
+ "Debt / Equity": "2.95",
+ "Debt / EBITDA": "2.51",
+ "Net Cash": "-5.20B",
+ "Total Debt": "5.91B",
+ "Cash & Cash Equivalents": "703.69M",
+ "Return on Invested Capital (ROIC)": "10.20%",
+ "Return on Equity (ROE)": "41.41%",
+ "Revenue": "12.21B",
+ "Net Income": "714.18M",
+ "Free Cash Flow": "412.54M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.51",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "12,208",
+  "11,559",
+  "10,626",
+  "9,718",
+  "8,693",
+  "9,313"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "714.18",
+  "610.15",
+  "503.64",
+  "339.65",
+  "230.12",
+  "408.84"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "21.35",
+  "30.51",
+  "35.79",
+  "37.37",
+  "64.13",
+  "37.61"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "BCE",
+ "name": "BCE Inc. Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "Canada",
+ "mcap": 20632133701.0,
+ "price": "$22.125",
+ "cik": 718940,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BCE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, BCE Inc. (BCE) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bce",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:28+00:00"
+}

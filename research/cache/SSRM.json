@@ -1,0 +1,27 @@
+{
+ "ticker": "SSRM",
+ "name": "SSR Mining Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 5222590691.0,
+ "price": "$26.17",
+ "cik": 921638,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SSRM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, SSR Mining Inc (SSRM) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ssrm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:56+00:00"
+}

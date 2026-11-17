@@ -1,0 +1,27 @@
+{
+ "ticker": "ICUI",
+ "name": "ICU Medical Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 4548586705.0,
+ "price": "$181.87",
+ "cik": 883984,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ICUI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, ICU Medical, Inc. (ICUI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/icui",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:49+00:00"
+}

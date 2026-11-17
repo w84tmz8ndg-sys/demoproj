@@ -1,0 +1,70 @@
+{
+ "ticker": "CSL",
+ "src_stats": "https://stockanalysis.com/stocks/csl/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/csl/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/csl/financials/ratios/",
+ "Market Cap": "15.02B",
+ "Enterprise Value": "17.37B",
+ "PE Ratio": "22.16",
+ "Forward PE": "16.43",
+ "PS Ratio": "2.88",
+ "EV / EBITDA": "14.29",
+ "Gross Margin": "34.66%",
+ "Operating Margin": "19.54%",
+ "Profit Margin": "13.78%",
+ "FCF Margin": "14.40%",
+ "Debt / Equity": "2.01",
+ "Debt / EBITDA": "2.27",
+ "Net Cash": "-2.35B",
+ "Total Debt": "2.89B",
+ "Cash & Cash Equivalents": "546.70M",
+ "Return on Invested Capital (ROIC)": "20.66%",
+ "Return on Equity (ROE)": "42.34%",
+ "Revenue": "5.21B",
+ "Net Income": "716.80M",
+ "Free Cash Flow": "750.50M",
+ "Dividend Yield": "1.28%",
+ "Beta (5Y)": "0.78",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,214",
+  "5,020",
+  "5,004",
+  "4,587",
+  "5,449",
+  "3,837"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "716.8",
+  "739.2",
+  "1,310",
+  "765.8",
+  "922.1",
+  "420.6"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "22.10",
+  "18.04",
+  "12.73",
+  "19.81",
+  "13.18",
+  "30.75"
+ ]
+}

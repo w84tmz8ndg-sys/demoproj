@@ -1,0 +1,27 @@
+{
+ "ticker": "NTB",
+ "name": "Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "Bermuda",
+ "mcap": 2246000000.0,
+ "price": "$56.15",
+ "cik": 1653242,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NTB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Bank of N T Butterfield & Son Ltd. (NTB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ntb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:50+00:00"
+}

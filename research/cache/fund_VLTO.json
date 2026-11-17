@@ -1,0 +1,70 @@
+{
+ "ticker": "VLTO",
+ "src_stats": "https://stockanalysis.com/stocks/vlto/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/vlto/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/vlto/financials/ratios/",
+ "Market Cap": "29.01B",
+ "Enterprise Value": "30.35B",
+ "PE Ratio": "29.46",
+ "Forward PE": "25.15",
+ "PS Ratio": "5.04",
+ "EV / EBITDA": "22.69",
+ "Gross Margin": "59.83%",
+ "Operating Margin": "21.50%",
+ "Profit Margin": "17.27%",
+ "FCF Margin": "18.84%",
+ "Debt / Equity": "0.97",
+ "Debt / EBITDA": "2.18",
+ "Net Cash": "-1.34B",
+ "Total Debt": "3.13B",
+ "Cash & Cash Equivalents": "1.79B",
+ "Return on Invested Capital (ROIC)": "23.24%",
+ "Return on Equity (ROE)": "32.96%",
+ "Revenue": "5.80B",
+ "Net Income": "1.00B",
+ "Free Cash Flow": "1.09B",
+ "Dividend Yield": "0.44%",
+ "Beta (5Y)": "0.67",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,801",
+  "5,503",
+  "5,193",
+  "5,021",
+  "4,870",
+  "4,700"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,002",
+  "940",
+  "833",
+  "839",
+  "845",
+  "861"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "29.39",
+  "26.36",
+  "30.24",
+  "24.15",
+  "-",
+  "-"
+ ]
+}

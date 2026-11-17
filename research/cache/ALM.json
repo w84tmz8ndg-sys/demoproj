@@ -1,0 +1,27 @@
+{
+ "ticker": "ALM",
+ "name": "Almonty Industries Inc. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Other Metals and Minerals",
+ "country": "Canada",
+ "mcap": 2328213092.0,
+ "price": "$8.15",
+ "cik": 1670061,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ALM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/alm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:35+00:00"
+}

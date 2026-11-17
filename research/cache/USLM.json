@@ -1,0 +1,27 @@
+{
+ "ticker": "USLM",
+ "name": "United States Lime & Minerals Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+ "country": "United States",
+ "mcap": 3078831254.0,
+ "price": "$107.32",
+ "cik": 82020,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/USLM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, United States Lime & Minerals (USLM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/uslm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:38+00:00"
+}

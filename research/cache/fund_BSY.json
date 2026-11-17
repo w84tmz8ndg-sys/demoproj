@@ -1,0 +1,70 @@
+{
+ "ticker": "BSY",
+ "src_stats": "https://stockanalysis.com/stocks/bsy/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/bsy/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/bsy/financials/ratios/",
+ "Market Cap": "13.85B",
+ "Enterprise Value": "14.90B",
+ "PE Ratio": "44.03",
+ "Forward PE": "30.15",
+ "PS Ratio": "8.40",
+ "EV / EBITDA": "29.96",
+ "Gross Margin": "82.37%",
+ "Operating Margin": "26.40%",
+ "Profit Margin": "19.57%",
+ "FCF Margin": "29.69%",
+ "Debt / Equity": "0.94",
+ "Debt / EBITDA": "2.33",
+ "Net Cash": "-1.06B",
+ "Total Debt": "1.21B",
+ "Cash & Cash Equivalents": "150.87M",
+ "Return on Invested Capital (ROIC)": "14.86%",
+ "Return on Equity (ROE)": "26.03%",
+ "Revenue": "1.65B",
+ "Net Income": "322.57M",
+ "Free Cash Flow": "489.26M",
+ "Dividend Yield": "0.63%",
+ "Beta (5Y)": "0.96",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,648",
+  "1,502",
+  "1,353",
+  "1,228",
+  "1,099",
+  "965.05"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "322.57",
+  "277.86",
+  "234.79",
+  "326.79",
+  "174.78",
+  "93.19"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "43.22",
+  "43.18",
+  "62.66",
+  "50.11",
+  "65.54",
+  "159.65"
+ ]
+}

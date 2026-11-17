@@ -1,0 +1,27 @@
+{
+ "ticker": "TRU",
+ "name": "TransUnion Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 15543957000.0,
+ "price": "$81.51",
+ "cik": 1552033,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, TransUnion (TRU) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tru",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:19+00:00"
+}

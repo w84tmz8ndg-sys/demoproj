@@ -1,0 +1,27 @@
+{
+ "ticker": "NHC",
+ "name": "National HealthCare Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Hospital/Nursing Management",
+ "country": "United States",
+ "mcap": 3253084333.0,
+ "price": "$207.675",
+ "cik": 1047335,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NHC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, National HealthCare Corporation (NHC) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nhc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:13+00:00"
+}

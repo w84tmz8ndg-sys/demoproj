@@ -1,0 +1,27 @@
+{
+ "ticker": "BKNG",
+ "name": "Booking Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Transportation Services",
+ "country": "United States",
+ "mcap": 117155259015.0,
+ "price": "$157.53",
+ "cik": 1075531,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BKNG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Booking Holdings (BKNG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bkng",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:17+00:00"
+}

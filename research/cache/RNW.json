@@ -1,0 +1,27 @@
+{
+ "ticker": "RNW",
+ "name": "ReNew Energy Global plc Class A Ordinary Shares",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United Kingdom",
+ "mcap": 2536242708.0,
+ "price": "$6.96",
+ "cik": 1848763,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RNW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rnw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:05+00:00"
+}

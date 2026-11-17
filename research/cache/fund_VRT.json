@@ -1,0 +1,70 @@
+{
+ "ticker": "VRT",
+ "src_stats": "https://stockanalysis.com/stocks/vrt/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/vrt/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/vrt/financials/ratios/",
+ "Market Cap": "72.65B",
+ "Enterprise Value": "72.29B",
+ "PE Ratio": "35.27",
+ "Forward PE": "20.30",
+ "PS Ratio": "5.54",
+ "EV / EBITDA": "22.68",
+ "Gross Margin": "38.12%",
+ "Operating Margin": "21.11%",
+ "Profit Margin": "15.99%",
+ "FCF Margin": "23.99%",
+ "Debt / Equity": "0.61",
+ "Debt / EBITDA": "1.01",
+ "Net Cash": "354.80M",
+ "Total Debt": "3.36B",
+ "Cash & Cash Equivalents": "3.71B",
+ "Return on Invested Capital (ROIC)": "43.82%",
+ "Return on Equity (ROE)": "46.57%",
+ "Revenue": "13.12B",
+ "Net Income": "2.10B",
+ "Free Cash Flow": "3.15B",
+ "Dividend Yield": "0.21%",
+ "Beta (5Y)": "2.11",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "13,117",
+  "10,230",
+  "8,012",
+  "6,863",
+  "5,692",
+  "4,998"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,098",
+  "1,333",
+  "495.8",
+  "460.2",
+  "76.6",
+  "119.6"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "34.67",
+  "46.48",
+  "86.01",
+  "39.81",
+  "67.28",
+  "78.43"
+ ]
+}

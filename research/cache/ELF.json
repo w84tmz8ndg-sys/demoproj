@@ -1,0 +1,27 @@
+{
+ "ticker": "ELF",
+ "name": "e.l.f. Beauty Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "United States",
+ "mcap": 6867040656.0,
+ "price": "$116.10",
+ "cik": 1600033,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ELF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, e.l.f. Beauty, Inc. (ELF) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/elf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:05+00:00"
+}

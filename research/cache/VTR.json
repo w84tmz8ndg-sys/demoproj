@@ -1,0 +1,27 @@
+{
+ "ticker": "VTR",
+ "name": "Ventas Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 47012098000.0,
+ "price": "$88.90",
+ "cik": 740260,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VTR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Ventas (VTR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vtr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:38+00:00"
+}

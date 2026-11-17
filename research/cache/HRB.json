@@ -1,0 +1,27 @@
+{
+ "ticker": "HRB",
+ "name": "H&R Block Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "United States",
+ "mcap": 6026602351.0,
+ "price": "$49.58",
+ "cik": 12659,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HRB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, H&R Block, Inc. (HRB) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hrb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:54+00:00"
+}

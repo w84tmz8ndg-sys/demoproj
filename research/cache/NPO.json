@@ -1,0 +1,27 @@
+{
+ "ticker": "NPO",
+ "name": "Enpro Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 5663891054.0,
+ "price": "$267.51",
+ "cik": 1164863,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NPO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, EnPro Industries, Inc. (NPO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/npo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:20+00:00"
+}

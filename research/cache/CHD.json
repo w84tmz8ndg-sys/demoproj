@@ -1,0 +1,27 @@
+{
+ "ticker": "CHD",
+ "name": "Church & Dwight Company Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "United States",
+ "mcap": 27087038288.0,
+ "price": "$114.76",
+ "cik": 313927,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CHD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Church & Dwight (CHD) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/chd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:50+00:00"
+}

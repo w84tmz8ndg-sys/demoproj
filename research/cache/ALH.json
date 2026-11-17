@@ -1,0 +1,27 @@
+{
+ "ticker": "ALH",
+ "name": "Alliance Laundry Holdings Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 4596931778.0,
+ "price": "$23.40",
+ "cik": 1317685,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ALH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Alliance Laundry Holdings Inc. (ALH) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/alh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:46+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "XPO",
+ "src_stats": "https://stockanalysis.com/stocks/xpo/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/xpo/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/xpo/financials/ratios/",
+ "Market Cap": "21.77B",
+ "Enterprise Value": "25.48B",
+ "PE Ratio": "44.02",
+ "Forward PE": "27.90",
+ "PS Ratio": "2.49",
+ "EV / EBITDA": "17.52",
+ "Gross Margin": "19.30%",
+ "Operating Margin": "10.63%",
+ "Profit Margin": "5.69%",
+ "FCF Margin": "7.44%",
+ "Debt / Equity": "2.01",
+ "Debt / EBITDA": "2.26",
+ "Net Cash": "-3.71B",
+ "Total Debt": "3.97B",
+ "Cash & Cash Equivalents": "260.00M",
+ "Return on Invested Capital (ROIC)": "12.32%",
+ "Return on Equity (ROE)": "26.54%",
+ "Revenue": "8.83B",
+ "Net Income": "503.00M",
+ "Free Cash Flow": "657.00M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.70",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "8,834",
+  "8,157",
+  "8,072",
+  "7,744",
+  "7,718",
+  "7,202"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "503",
+  "316",
+  "387",
+  "189",
+  "666",
+  "336"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "44.02",
+  "50.49",
+  "39.45",
+  "53.75",
+  "5.76",
+  "26.44"
+ ]
+}

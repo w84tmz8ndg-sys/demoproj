@@ -1,0 +1,27 @@
+{
+ "ticker": "UHAL.B",
+ "name": "U-Haul Holding Company Series N Non-Voting Common Stock ",
+ "sector": "Consumer Discretionary",
+ "industry": "Rental/Leasing Companies",
+ "country": "United States",
+ "mcap": 9397351717.0,
+ "price": "$48.44",
+ "cik": 4457,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/UHAL-B/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/uhal-b",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:30+00:00"
+}

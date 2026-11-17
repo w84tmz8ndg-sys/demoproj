@@ -1,0 +1,27 @@
+{
+ "ticker": "SNOW",
+ "name": "Snowflake Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 98981568000.0,
+ "price": "$280.56",
+ "cik": 1640147,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SNOW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Snowflake Inc. (SNOW) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/snow",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:30+00:00"
+}

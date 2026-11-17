@@ -1,0 +1,27 @@
+{
+ "ticker": "NXPI",
+ "name": "NXP Semiconductors N.V. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Netherlands",
+ "mcap": 64069349020.0,
+ "price": "$254.19",
+ "cik": 1413447,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NXPI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, NXP Semiconductors (NXPI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nxpi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:11+00:00"
+}

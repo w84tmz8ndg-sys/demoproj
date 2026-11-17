@@ -1,0 +1,27 @@
+{
+ "ticker": "AYA",
+ "name": "Aya Gold & Silver Inc. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 3067035137.0,
+ "price": "$21.27",
+ "cik": 1826836,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AYA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aya",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:39+00:00"
+}

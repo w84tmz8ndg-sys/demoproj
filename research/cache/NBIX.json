@@ -1,0 +1,27 @@
+{
+ "ticker": "NBIX",
+ "name": "Neurocrine Biosciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 16732453874.0,
+ "price": "$165.31",
+ "cik": 914475,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NBIX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Neurocrine Biosciences, Inc. (NBIX) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nbix",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:05+00:00"
+}

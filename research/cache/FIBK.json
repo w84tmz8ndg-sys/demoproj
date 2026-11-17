@@ -1,0 +1,27 @@
+{
+ "ticker": "FIBK",
+ "name": "First Interstate BancSystem Inc. Common Stock (DE)",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 3497711502.0,
+ "price": "$37.78",
+ "cik": 860413,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FIBK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, First Interstate BancSystem (FIBK) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fibk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:42+00:00"
+}

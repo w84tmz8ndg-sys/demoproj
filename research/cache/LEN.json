@@ -1,0 +1,27 @@
+{
+ "ticker": "LEN",
+ "name": "Lennar Corporation Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Homebuilding",
+ "country": "United States",
+ "mcap": 19936040028.0,
+ "price": "$83.80",
+ "cik": 920760,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LEN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Lennar (LEN) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/len",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:30+00:00"
+}

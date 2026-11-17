@@ -1,0 +1,27 @@
+{
+ "ticker": "VYLR",
+ "name": "Vylor Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "United States",
+ "mcap": 47989097402.0,
+ "price": "$71.915",
+ "cik": 2128626,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VYLR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vylr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:37+00:00"
+}

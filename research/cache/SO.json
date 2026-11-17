@@ -1,0 +1,27 @@
+{
+ "ticker": "SO",
+ "name": "Southern Company (The) Common Stock",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 110197306395.0,
+ "price": "$94.65",
+ "cik": 92122,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Southern Co (SO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/so",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:20+00:00"
+}

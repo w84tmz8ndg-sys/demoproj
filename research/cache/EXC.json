@@ -1,0 +1,27 @@
+{
+ "ticker": "EXC",
+ "name": "Exelon Corporation Common Stock",
+ "sector": "Utilities",
+ "industry": "Power Generation",
+ "country": "United States",
+ "mcap": 48081300032.0,
+ "price": "$46.46",
+ "cik": 1109357,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EXC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Exelon (EXC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/exc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:36+00:00"
+}

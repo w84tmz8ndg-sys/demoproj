@@ -1,0 +1,27 @@
+{
+ "ticker": "AMZN",
+ "name": "Amazon.com Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "United States",
+ "mcap": 2787086398372.0,
+ "price": "$257.75",
+ "cik": 1018724,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMZN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Amazon.com (AMZN) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/amzn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:23+00:00"
+}

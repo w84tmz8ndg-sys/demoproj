@@ -1,0 +1,27 @@
+{
+ "ticker": "KEN",
+ "name": "Kenon Holdings Ltd. Ordinary Shares",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "Singapore",
+ "mcap": 3087422522.0,
+ "price": "$59.25",
+ "cik": 1611005,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KEN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ken",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:37+00:00"
+}

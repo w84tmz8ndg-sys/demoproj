@@ -1,0 +1,27 @@
+{
+ "ticker": "CSQR",
+ "name": "Csquare Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "",
+ "mcap": 2764457795.0,
+ "price": "$16.59",
+ "cik": 2105398,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CSQR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/csqr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:23+00:00"
+}

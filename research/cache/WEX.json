@@ -1,0 +1,27 @@
+{
+ "ticker": "WEX",
+ "name": "WEX Inc. common stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 6075905194.0,
+ "price": "$184.88",
+ "cik": 1309108,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WEX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, WEX Inc. (WEX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wex",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:51+00:00"
+}

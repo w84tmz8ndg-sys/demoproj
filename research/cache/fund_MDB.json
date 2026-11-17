@@ -1,0 +1,63 @@
+{
+ "ticker": "MDB",
+ "src_stats": "https://stockanalysis.com/stocks/mdb/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/mdb/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/mdb/financials/ratios/",
+ "Market Cap": "23.56B",
+ "Enterprise Value": "21.21B",
+ "PE Ratio": "408.15",
+ "Forward PE": "42.05",
+ "PS Ratio": "8.67",
+ "EV / EBITDA": "1,571.07",
+ "Gross Margin": "72.69%",
+ "Operating Margin": "-0.47%",
+ "Profit Margin": "2.12%",
+ "FCF Margin": "23.68%",
+ "Debt / Equity": "0.02",
+ "Debt / EBITDA": "1.55",
+ "Net Cash": "2.36B",
+ "Total Debt": "55.01M",
+ "Cash & Cash Equivalents": "2.41B",
+ "Return on Invested Capital (ROIC)": "-1.71%",
+ "Return on Equity (ROE)": "1.99%",
+ "Revenue": "2.78B",
+ "Net Income": "58.90M",
+ "Free Cash Flow": "659.02M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.74",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "2,783",
+  "2,464",
+  "2,006",
+  "1,683",
+  "1,284",
+  "873.78"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "58.9",
+  "-71.15",
+  "-129.07",
+  "-176.6",
+  "-345.4",
+  "-306.87"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": null
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "FTV",
+ "src_stats": "https://stockanalysis.com/stocks/ftv/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ftv/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ftv/financials/ratios/",
+ "Market Cap": "20.10B",
+ "Enterprise Value": "23.32B",
+ "PE Ratio": "32.21",
+ "Forward PE": "20.57",
+ "PS Ratio": "4.57",
+ "EV / EBITDA": "17.75",
+ "Gross Margin": "63.47%",
+ "Operating Margin": "19.64%",
+ "Profit Margin": "14.83%",
+ "FCF Margin": "24.69%",
+ "Debt / Equity": "0.60",
+ "Debt / EBITDA": "2.67",
+ "Net Cash": "-3.22B",
+ "Total Debt": "3.60B",
+ "Cash & Cash Equivalents": "377.30M",
+ "Return on Invested Capital (ROIC)": "8.32%",
+ "Return on Equity (ROE)": "10.55%",
+ "Revenue": "4.40B",
+ "Net Income": "651.90M",
+ "Free Cash Flow": "1.09B",
+ "Dividend Yield": "0.41%",
+ "Beta (5Y)": "0.94",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,396",
+  "4,159",
+  "4,081",
+  "3,914",
+  "5,826",
+  "5,255"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "651.9",
+  "579.2",
+  "832.9",
+  "865.8",
+  "755.2",
+  "573.9"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "31.88",
+  "30.28",
+  "31.24",
+  "29.89",
+  "30.10",
+  "47.67"
+ ]
+}

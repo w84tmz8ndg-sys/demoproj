@@ -1,0 +1,27 @@
+{
+ "ticker": "TXNM",
+ "name": "TXNM Energy Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 6492464004.0,
+ "price": "$58.955",
+ "cik": 1108426,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TXNM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, TXNM Energy, Inc. (TXNM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/txnm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:25+00:00"
+}

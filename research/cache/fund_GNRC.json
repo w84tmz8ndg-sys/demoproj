@@ -1,0 +1,70 @@
+{
+ "ticker": "GNRC",
+ "src_stats": "https://stockanalysis.com/stocks/gnrc/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/gnrc/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/gnrc/financials/ratios/",
+ "Market Cap": "10.95B",
+ "Enterprise Value": "11.97B",
+ "PE Ratio": "36.57",
+ "Forward PE": "15.17",
+ "PS Ratio": "2.37",
+ "EV / EBITDA": "19.28",
+ "Gross Margin": "38.18%",
+ "Operating Margin": "8.62%",
+ "Profit Margin": "6.52%",
+ "FCF Margin": "8.97%",
+ "Debt / Equity": "0.47",
+ "Debt / EBITDA": "2.23",
+ "Net Cash": "-1.02B",
+ "Total Debt": "1.42B",
+ "Cash & Cash Equivalents": "396.66M",
+ "Return on Invested Capital (ROIC)": "7.41%",
+ "Return on Equity (ROE)": "10.64%",
+ "Revenue": "4.62B",
+ "Net Income": "301.26M",
+ "Free Cash Flow": "414.49M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.85",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,619",
+  "4,209",
+  "4,296",
+  "4,023",
+  "4,565",
+  "3,737"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "301.26",
+  "159.55",
+  "325.26",
+  "203.09",
+  "350.27",
+  "533.39"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "36.57",
+  "50.16",
+  "28.36",
+  "39.09",
+  "18.21",
+  "41.63"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "QNT",
+ "name": "Quantinuum Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 8439659810.0,
+ "price": "$31.75",
+ "cik": 2110105,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/qnt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:03+00:00"
+}

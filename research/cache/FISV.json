@@ -1,0 +1,27 @@
+{
+ "ticker": "FISV",
+ "name": "Fiserv Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 33689261630.0,
+ "price": "$63.32",
+ "cik": 798354,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FISV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fisv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:21+00:00"
+}

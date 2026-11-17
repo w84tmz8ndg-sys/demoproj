@@ -1,0 +1,27 @@
+{
+ "ticker": "AVAV",
+ "name": "AeroVironment Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "United States",
+ "mcap": 5564866869.0,
+ "price": "$109.50",
+ "cik": 1368622,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AVAV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, AeroVironment (AVAV) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/avav",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:23+00:00"
+}

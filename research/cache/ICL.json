@@ -1,0 +1,27 @@
+{
+ "ticker": "ICL",
+ "name": "ICL Group Ltd. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Agricultural Chemicals",
+ "country": "Israel",
+ "mcap": 5685413371.0,
+ "price": "$4.405",
+ "cik": 941221,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ICL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/icl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:19+00:00"
+}

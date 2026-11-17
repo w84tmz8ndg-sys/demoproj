@@ -1,0 +1,27 @@
+{
+ "ticker": "PLGO",
+ "name": "Pelagos Insurance Capital Limited Common Shares",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "Bermuda",
+ "mcap": 2489763375.0,
+ "price": "$28.79",
+ "cik": 1636639,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLGO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/plgo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:11+00:00"
+}

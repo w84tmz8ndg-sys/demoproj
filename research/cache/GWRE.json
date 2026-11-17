@@ -1,0 +1,27 @@
+{
+ "ticker": "GWRE",
+ "name": "Guidewire Software Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 12782219555.0,
+ "price": "$154.69",
+ "cik": 1528396,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GWRE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Guidewire Software, Inc. (GWRE) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gwre",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:03+00:00"
+}

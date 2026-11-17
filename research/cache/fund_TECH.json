@@ -1,0 +1,70 @@
+{
+ "ticker": "TECH",
+ "src_stats": "https://stockanalysis.com/stocks/tech/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/tech/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/tech/financials/ratios/",
+ "Market Cap": "11.43B",
+ "Enterprise Value": "11.37B",
+ "PE Ratio": "66.21",
+ "Forward PE": "34.90",
+ "PS Ratio": "9.31",
+ "EV / EBITDA": "34.94",
+ "Gross Margin": "66.17%",
+ "Operating Margin": "21.69%",
+ "Profit Margin": "14.00%",
+ "FCF Margin": "25.09%",
+ "Debt / Equity": "0.13",
+ "Debt / EBITDA": "0.82",
+ "Net Cash": "65.57M",
+ "Total Debt": "285.56M",
+ "Cash & Cash Equivalents": "351.13M",
+ "Return on Invested Capital (ROIC)": "9.52%",
+ "Return on Equity (ROE)": "8.32%",
+ "Revenue": "1.23B",
+ "Net Income": "171.95M",
+ "Free Cash Flow": "308.20M",
+ "Dividend Yield": "0.44%",
+ "Beta (5Y)": "1.28",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,228",
+  "1,215",
+  "1,220",
+  "1,159",
+  "1,137",
+  "1,106"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "171.95",
+  "181.84",
+  "73.36",
+  "168.07",
+  "285.19",
+  "271.93"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "66.21",
+  "60.54",
+  "109.94",
+  "67.18",
+  "45.06",
+  "50.01"
+ ]
+}

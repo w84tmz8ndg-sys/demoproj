@@ -1,0 +1,27 @@
+{
+ "ticker": "ALB",
+ "name": "Albemarle Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 10404928386.0,
+ "price": "$88.17",
+ "cik": 915913,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ALB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Albemarle (ALB) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/alb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:52+00:00"
+}

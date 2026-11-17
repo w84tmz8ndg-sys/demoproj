@@ -1,0 +1,27 @@
+{
+ "ticker": "SHOP",
+ "name": "Shopify Inc. Class A Subordinate Voting Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Canada",
+ "mcap": 190160818742.0,
+ "price": "$147.81",
+ "cik": 1594805,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SHOP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Shopify (SHOP) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/shop",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:38+00:00"
+}

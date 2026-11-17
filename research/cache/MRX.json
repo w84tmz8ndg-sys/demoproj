@@ -1,0 +1,27 @@
+{
+ "ticker": "MRX",
+ "name": "Marex Group Limited Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "United Kingdom",
+ "mcap": 5233778292.0,
+ "price": "$70.60",
+ "cik": 1997464,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mrx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:54+00:00"
+}

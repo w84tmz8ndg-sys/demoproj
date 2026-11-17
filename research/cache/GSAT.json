@@ -1,0 +1,27 @@
+{
+ "ticker": "GSAT",
+ "name": "Globalstar Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 11142080100.0,
+ "price": "$85.96",
+ "cik": 1366868,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GSAT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Globalstar (GSAT) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gsat",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:41+00:00"
+}

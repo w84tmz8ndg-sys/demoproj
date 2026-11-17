@@ -1,0 +1,27 @@
+{
+ "ticker": "AMRZ",
+ "name": "Amrize Ltd Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Building Materials",
+ "country": "Switzerland",
+ "mcap": 21588471108.0,
+ "price": "$40.55",
+ "cik": 2035989,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMRZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/amrz",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:21+00:00"
+}

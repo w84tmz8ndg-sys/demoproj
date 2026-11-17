@@ -1,0 +1,27 @@
+{
+ "ticker": "RUSHA",
+ "name": "Rush Enterprises Inc. Common Stock Cl A",
+ "sector": "Consumer Discretionary",
+ "industry": "Retail-Auto Dealers and Gas Stations",
+ "country": "United States",
+ "mcap": 5242096782.0,
+ "price": "$45.12",
+ "cik": 1012019,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RUSHA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Rush Enterprises (RUSHA) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rusha",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:52+00:00"
+}

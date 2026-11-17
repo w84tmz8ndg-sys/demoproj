@@ -1,0 +1,27 @@
+{
+ "ticker": "RS",
+ "name": "Reliance Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 21456223073.0,
+ "price": "$421.19",
+ "cik": 861884,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Reliance Steel & Aluminum Co. (RS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:21+00:00"
+}

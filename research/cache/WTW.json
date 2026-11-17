@@ -1,0 +1,27 @@
+{
+ "ticker": "WTW",
+ "name": "Willis Towers Watson Public Limited Company Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Specialty Insurers",
+ "country": "United Kingdom",
+ "mcap": 31181074526.0,
+ "price": "$338.13",
+ "cik": 1140536,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WTW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Willis Towers Watson (WTW) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wtw",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:29+00:00"
+}

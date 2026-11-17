@@ -1,0 +1,70 @@
+{
+ "ticker": "PSO",
+ "src_stats": "https://stockanalysis.com/stocks/pso/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/pso/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/pso/financials/ratios/",
+ "Market Cap": "10.48B",
+ "Enterprise Value": "12.37B",
+ "PE Ratio": "26.34",
+ "Forward PE": "17.53",
+ "PS Ratio": "2.17",
+ "EV / EBITDA": "15.44",
+ "Gross Margin": "52.04%",
+ "Operating Margin": "14.12%",
+ "Profit Margin": "8.78%",
+ "FCF Margin": "21.05%",
+ "Debt / Equity": "0.52",
+ "Debt / EBITDA": "2.76",
+ "Net Cash": "-1.89B",
+ "Total Debt": "2.34B",
+ "Cash & Cash Equivalents": "449.78M",
+ "Return on Invested Capital (ROIC)": "7.71%",
+ "Return on Equity (ROE)": "9.16%",
+ "Revenue": "4.82B",
+ "Net Income": "423.25M",
+ "Free Cash Flow": "1.01B",
+ "Dividend Yield": "1.99%",
+ "Beta (5Y)": "-0.05",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,634",
+  "3,577",
+  "3,552",
+  "3,674",
+  "3,841",
+  "3,428"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "319",
+  "335",
+  "434",
+  "378",
+  "242",
+  "177"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "25.90",
+  "19.93",
+  "19.60",
+  "17.77",
+  "27.72",
+  "26.10"
+ ]
+}

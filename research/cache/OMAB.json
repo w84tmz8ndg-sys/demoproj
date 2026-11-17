@@ -1,0 +1,27 @@
+{
+ "ticker": "OMAB",
+ "name": "Grupo Aeroportuario del Centro Norte S.A.B. de C.V. ADS",
+ "sector": "Consumer Discretionary",
+ "industry": "Aerospace",
+ "country": "Mexico",
+ "mcap": 5232595695.0,
+ "price": "$108.40",
+ "cik": 1378239,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OMAB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/omab",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:56+00:00"
+}

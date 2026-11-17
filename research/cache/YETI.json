@@ -1,0 +1,27 @@
+{
+ "ticker": "YETI",
+ "name": "YETI Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Recreational Games/Products/Toys",
+ "country": "United States",
+ "mcap": 2803428267.0,
+ "price": "$38.545",
+ "cik": 1670592,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YETI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, YETI Holdings, Inc. (YETI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/yeti",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:18+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PEB",
+ "name": "Pebblebrook Hotel Trust Common Shares of Beneficial Interest",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 2442749508.0,
+ "price": "$21.87",
+ "cik": 1474098,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PEB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Pebblebrook Hotel Trust (PEB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/peb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:18+00:00"
+}

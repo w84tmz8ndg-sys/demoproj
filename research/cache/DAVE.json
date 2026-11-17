@@ -1,0 +1,27 @@
+{
+ "ticker": "DAVE",
+ "name": "Dave Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 3493530463.0,
+ "price": "$273.08",
+ "cik": 1841408,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DAVE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Dave Inc. (DAVE) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dave",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:43+00:00"
+}

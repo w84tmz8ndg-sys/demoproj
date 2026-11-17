@@ -1,0 +1,27 @@
+{
+ "ticker": "FER",
+ "name": "Ferrovial N.V. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "Netherlands",
+ "mcap": 44433710764.0,
+ "price": "$61.76",
+ "cik": 1468522,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FER/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Ferrovial SE (FER) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fer",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:47+00:00"
+}

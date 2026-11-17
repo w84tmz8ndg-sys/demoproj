@@ -1,0 +1,27 @@
+{
+ "ticker": "WBI",
+ "name": "WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests",
+ "sector": "Energy",
+ "industry": "Oilfield Services/Equipment",
+ "country": "",
+ "mcap": 3191837682.0,
+ "price": "$25.81",
+ "cik": 2064947,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WBI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, WaterBridge Infrastructure LLC (WBI) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wbi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:21+00:00"
+}

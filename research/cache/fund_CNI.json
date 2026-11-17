@@ -1,0 +1,70 @@
+{
+ "ticker": "CNI",
+ "src_stats": "https://stockanalysis.com/stocks/cni/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/cni/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/cni/financials/ratios/",
+ "Market Cap": "76.60B",
+ "Enterprise Value": "92.75B",
+ "PE Ratio": "22.97",
+ "Forward PE": "20.83",
+ "PS Ratio": "5.92",
+ "EV / EBITDA": "14.02",
+ "Gross Margin": "55.44%",
+ "Operating Margin": "40.67%",
+ "Profit Margin": "26.42%",
+ "FCF Margin": "20.90%",
+ "Debt / Equity": "1.09",
+ "Debt / EBITDA": "2.47",
+ "Net Cash": "-16.28B",
+ "Total Debt": "16.82B",
+ "Cash & Cash Equivalents": "542.39M",
+ "Return on Invested Capital (ROIC)": "12.49%",
+ "Return on Equity (ROE)": "22.45%",
+ "Revenue": "12.94B",
+ "Net Income": "3.42B",
+ "Free Cash Flow": "2.68B",
+ "Dividend Yield": "2.07%",
+ "Beta (5Y)": "0.95",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "18,367",
+  "17,304",
+  "17,046",
+  "16,828",
+  "17,107",
+  "14,477"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "4,852",
+  "4,720",
+  "4,448",
+  "5,625",
+  "5,118",
+  "4,899"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "22.97",
+  "17.70",
+  "20.66",
+  "19.12",
+  "21.24",
+  "22.40"
+ ]
+}

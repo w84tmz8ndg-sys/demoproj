@@ -1,0 +1,27 @@
+{
+ "ticker": "RTO",
+ "name": "Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares)",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "United States",
+ "mcap": 12201436000.0,
+ "price": "$24.19",
+ "cik": 930157,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RTO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Rentokil Initial plc (RTO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rto",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:13+00:00"
+}

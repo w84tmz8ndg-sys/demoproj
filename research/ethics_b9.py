@@ -1,0 +1,8 @@
+from ethics_lib import *
+b = Batch(9)
+b.ex("DCI","a","Defense supply chain / Israeli military supplier","Dedicated defense filtration line for armoured/naval vehicles, aircraft and radar (M113, MRAP, Paladin, M88); supplied filtration for Israeli Defence Force armoured personnel carriers.", "https://www.donaldson.com/en-us/defense/","https://www.army-technology.com/contractors/vehicles/donaldson/pressreleases/pressdonaldson-filtration-products-to-protect-israeli-defence-force-armoured-per/")
+b.ex("TTEK","a","Military services to defense ministries","US DoD $300M security-cooperation assessment contract; $464M Army installation remediation and $249M USACE contracts.", "https://www.businesswire.com/news/home/20200420005119/en/Tetra-Tech-Awarded-%24300-Million-U.S.-Department-of-Defense-Contract","https://investor.tetratech.com/news/news-details/2025/Tetra-Tech-Awarded-249-Million-U-S--Army-Corps-of-Engineers-A-E-Services-Multiple-Award-Contract-83e149d8f/default.aspx")
+b.ex("SAIL","a","Military software to defense ministries","$25.6M Air Force ICAM software contract; Navy (NAVWAR) BPA to 2027; Army purchases via DoD ESI.", "https://orangeslices.ai/?p=83317","https://www.highergov.com/idv/N6600122A0082/","https://static.carahsoft.com/concrete/files/8917/7257/1188/Carahsoft_ESI_Reference_External_Guide_-_Sailpoint.pdf")
+b.ok("FLS", flags=[("Small DoD purchases","Small DoD equipment orders (<$1M, 2026) via aggregator data; no defense program found. Flagged.",["https://bidsfactory.com/en/companies/flowserve-corp"])])
+b.oks("ELS WTS IT RRC MLI ALGN PCOR LII GGG TECH HUBS DECK LULU FN ENSG GNRC PNR AIT PSO RGEN ALB KNX QGEN PODD TTC")
+b.save()

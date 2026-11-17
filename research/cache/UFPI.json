@@ -1,0 +1,27 @@
+{
+ "ticker": "UFPI",
+ "name": "UFP Industries Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Forest Products",
+ "country": "United States",
+ "mcap": 4322859100.0,
+ "price": "$79.18",
+ "cik": 912767,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UFPI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, UFP Industries (UFPI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ufpi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:09+00:00"
+}

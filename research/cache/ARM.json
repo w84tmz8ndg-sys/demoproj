@@ -1,0 +1,27 @@
+{
+ "ticker": "ARM",
+ "name": "Arm Holdings plc American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United Kingdom",
+ "mcap": 186262871863.0,
+ "price": "$175.05",
+ "cik": 1973239,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ARM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Arm Holdings (ARM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/arm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:39+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ADMA",
+ "name": "ADMA Biologics Inc Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 2988378620.0,
+ "price": "$13.47",
+ "cik": 1368514,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADMA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, ADMA Biologics, Inc. (ADMA) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/adma",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:54+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SPGI",
+ "name": "S&P Global Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 136709592500.0,
+ "price": "$471.575",
+ "cik": 64040,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SPGI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, S&P Global (SPGI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/spgi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:05+00:00"
+}

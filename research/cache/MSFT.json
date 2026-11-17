@@ -1,0 +1,27 @@
+{
+ "ticker": "MSFT",
+ "name": "Microsoft Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 3846694515990.0,
+ "price": "$517.99",
+ "cik": 789019,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MSFT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Microsoft (MSFT) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/msft",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:22+00:00"
+}

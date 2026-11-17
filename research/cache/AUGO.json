@@ -1,0 +1,27 @@
+{
+ "ticker": "AUGO",
+ "name": "Aura Minerals Inc. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "United States",
+ "mcap": 5808624975.0,
+ "price": "$69.27",
+ "cik": 1468642,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AUGO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Aura Minerals Inc. (AUGO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/augo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:12+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PLNT",
+ "name": "Planet Fitness Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Hotels/Resorts",
+ "country": "United States",
+ "mcap": 4574697898.0,
+ "price": "$61.39",
+ "cik": 1637207,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Planet Fitness, Inc. (PLNT) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/plnt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:44+00:00"
+}

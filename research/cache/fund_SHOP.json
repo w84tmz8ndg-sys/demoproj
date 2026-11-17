@@ -1,0 +1,70 @@
+{
+ "ticker": "SHOP",
+ "src_stats": "https://stockanalysis.com/stocks/shop/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/shop/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/shop/financials/ratios/",
+ "Market Cap": "190.16B",
+ "Enterprise Value": "185.10B",
+ "PE Ratio": "90.49",
+ "Forward PE": "66.51",
+ "PS Ratio": "13.42",
+ "EV / EBITDA": "71.52",
+ "Gross Margin": "47.49%",
+ "Operating Margin": "18.07%",
+ "Profit Margin": "15.01%",
+ "FCF Margin": "18.78%",
+ "Debt / Equity": "0.01",
+ "Debt / EBITDA": "0.07",
+ "Net Cash": "5.06B",
+ "Total Debt": "188.00M",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "26.66%",
+ "Return on Equity (ROE)": "16.83%",
+ "Revenue": "14.17B",
+ "Net Income": "2.13B",
+ "Free Cash Flow": "2.66B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "2.66",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "14,167",
+  "11,556",
+  "8,880",
+  "7,060",
+  "5,600",
+  "4,612"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,126",
+  "1,231",
+  "2,019",
+  "132",
+  "-3,460",
+  "2,915"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "86.47",
+  "170.23",
+  "68.05",
+  "758.99",
+  "-",
+  "59.36"
+ ]
+}

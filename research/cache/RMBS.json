@@ -1,0 +1,27 @@
+{
+ "ticker": "RMBS",
+ "name": "Rambus Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 8347061071.0,
+ "price": "$77.94",
+ "cik": 917273,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RMBS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Rambus Inc. (RMBS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rmbs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:07+00:00"
+}

@@ -1,0 +1,63 @@
+{
+ "ticker": "NTRA",
+ "src_stats": "https://stockanalysis.com/stocks/ntra/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ntra/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ntra/financials/ratios/",
+ "Market Cap": "40.61B",
+ "Enterprise Value": "39.75B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "14.38",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "65.14%",
+ "Operating Margin": "-8.54%",
+ "Profit Margin": "-5.66%",
+ "FCF Margin": "1.80%",
+ "Debt / Equity": "0.13",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "858.35M",
+ "Total Debt": "238.84M",
+ "Cash & Cash Equivalents": "1.10B",
+ "Return on Invested Capital (ROIC)": "-8.72%",
+ "Return on Equity (ROE)": "-10.55%",
+ "Revenue": "2.91B",
+ "Net Income": "-164.71M",
+ "Free Cash Flow": "52.47M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.52",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,909",
+  "2,306",
+  "1,697",
+  "1,083",
+  "820.22",
+  "625.49"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-164.71",
+  "-208.16",
+  "-190.43",
+  "-434.8",
+  "-547.8",
+  "-471.72"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

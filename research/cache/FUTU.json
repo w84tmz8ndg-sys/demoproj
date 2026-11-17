@@ -1,0 +1,27 @@
+{
+ "ticker": "FUTU",
+ "name": "Futu Holdings Limited American Depositary Shares",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "Hong Kong",
+ "mcap": 12839354633.0,
+ "price": "$91.60",
+ "cik": 1754581,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FUTU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Futu Holdings Limited (FUTU) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/futu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:03+00:00"
+}

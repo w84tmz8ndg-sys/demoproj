@@ -1,0 +1,70 @@
+{
+ "ticker": "ARM",
+ "src_stats": "https://stockanalysis.com/stocks/arm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/arm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/arm/financials/ratios/",
+ "Market Cap": "187.30B",
+ "Enterprise Value": "184.18B",
+ "PE Ratio": "199.27",
+ "Forward PE": "68.01",
+ "PS Ratio": "34.28",
+ "EV / EBITDA": "163.33",
+ "Gross Margin": "97.44%",
+ "Operating Margin": "17.02%",
+ "Profit Margin": "17.13%",
+ "FCF Margin": "22.18%",
+ "Debt / Equity": "0.06",
+ "Debt / EBITDA": "0.42",
+ "Net Cash": "3.12B",
+ "Total Debt": "500.00M",
+ "Cash & Cash Equivalents": "3.62B",
+ "Return on Invested Capital (ROIC)": "13.29%",
+ "Return on Equity (ROE)": "11.35%",
+ "Revenue": "5.46B",
+ "Net Income": "936.00M",
+ "Free Cash Flow": "1.21B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "3.94",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "5,464",
+  "4,920",
+  "4,007",
+  "3,233",
+  "2,679",
+  "2,703"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "936",
+  "904",
+  "792",
+  "306",
+  "524",
+  "549"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "199.27",
+  "177.72",
+  "142.12",
+  "419.93",
+  "-",
+  "-"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "AAMI",
+ "name": "Acadian Asset Management Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United Kingdom",
+ "mcap": 3165247255.0,
+ "price": "$89.66",
+ "cik": 1748824,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AAMI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Acadian Asset Management Inc. (AAMI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aami",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:24+00:00"
+}

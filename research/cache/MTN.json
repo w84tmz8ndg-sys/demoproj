@@ -1,0 +1,27 @@
+{
+ "ticker": "MTN",
+ "name": "Vail Resorts Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 5560686927.0,
+ "price": "$155.685",
+ "cik": 812011,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MTN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Vail Resorts, Inc. (MTN) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mtn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:22+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "RSG",
+ "name": "Republic Services Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Environmental Services",
+ "country": "United States",
+ "mcap": 77870464902.0,
+ "price": "$255.615",
+ "cik": 1060391,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RSG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Republic Services (RSG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rsg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:50+00:00"
+}

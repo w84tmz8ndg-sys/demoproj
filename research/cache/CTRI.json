@@ -1,0 +1,27 @@
+{
+ "ticker": "CTRI",
+ "name": "Centuri Holdings Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 2159696857.0,
+ "price": "$21.39",
+ "cik": 1981599,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CTRI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Centuri Holdings Inc. (CTRI) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ctri",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:00+00:00"
+}

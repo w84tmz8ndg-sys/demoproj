@@ -1,0 +1,70 @@
+{
+ "ticker": "JHX",
+ "src_stats": "https://stockanalysis.com/stocks/jhx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/jhx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/jhx/financials/ratios/",
+ "Market Cap": "15.62B",
+ "Enterprise Value": "19.43B",
+ "PE Ratio": "44.62",
+ "Forward PE": "20.80",
+ "PS Ratio": "2.78",
+ "EV / EBITDA": "12.40",
+ "Gross Margin": "37.60%",
+ "Operating Margin": "16.51%",
+ "Profit Margin": "6.22%",
+ "FCF Margin": "12.04%",
+ "Debt / Equity": "0.63",
+ "Debt / EBITDA": "2.62",
+ "Net Cash": "-3.92B",
+ "Total Debt": "4.25B",
+ "Cash & Cash Equivalents": "323.10M",
+ "Return on Invested Capital (ROIC)": "5.65%",
+ "Return on Equity (ROE)": "5.46%",
+ "Revenue": "5.66B",
+ "Net Income": "352.50M",
+ "Free Cash Flow": "681.90M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.12",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "5,664",
+  "4,836",
+  "3,878",
+  "3,936",
+  "3,777",
+  "3,615"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "352.5",
+  "104",
+  "424",
+  "510.2",
+  "512",
+  "459.1"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "44.97",
+  "99.93",
+  "24.33",
+  "34.16",
+  "18.43",
+  "29.55"
+ ]
+}

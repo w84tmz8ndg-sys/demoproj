@@ -1,0 +1,27 @@
+{
+ "ticker": "UI",
+ "name": "Ubiquiti Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Radio And Television Broadcasting And Communications Equipment",
+ "country": "United States",
+ "mcap": 40460775465.0,
+ "price": "$669.00",
+ "cik": 1511737,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Ubiquiti (UI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ui",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:57+00:00"
+}

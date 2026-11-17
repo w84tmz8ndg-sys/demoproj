@@ -1,0 +1,27 @@
+{
+ "ticker": "UNP",
+ "name": "Union Pacific Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Railroads",
+ "country": "United States",
+ "mcap": 180521391372.0,
+ "price": "$303.78",
+ "cik": 100885,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UNP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Union Pacific (UNP) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/unp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:40+00:00"
+}

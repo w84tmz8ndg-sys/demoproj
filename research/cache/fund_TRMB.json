@@ -1,0 +1,70 @@
+{
+ "ticker": "TRMB",
+ "src_stats": "https://stockanalysis.com/stocks/trmb/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/trmb/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/trmb/financials/ratios/",
+ "Market Cap": "12.36B",
+ "Enterprise Value": "13.68B",
+ "PE Ratio": "n/a",
+ "Forward PE": "13.39",
+ "PS Ratio": "3.26",
+ "EV / EBITDA": "15.69",
+ "Gross Margin": "71.58%",
+ "Operating Margin": "17.70%",
+ "Profit Margin": "-4.08%",
+ "FCF Margin": "20.74%",
+ "Debt / Equity": "0.31",
+ "Debt / EBITDA": "1.65",
+ "Net Cash": "-1.32B",
+ "Total Debt": "1.53B",
+ "Cash & Cash Equivalents": "214.50M",
+ "Return on Invested Capital (ROIC)": "10.77%",
+ "Return on Equity (ROE)": "-2.92%",
+ "Revenue": "3.85B",
+ "Net Income": "-157.10M",
+ "Free Cash Flow": "798.30M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.32",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,849",
+  "3,587",
+  "3,683",
+  "3,799",
+  "3,676",
+  "3,659"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-157.1",
+  "424",
+  "1,504",
+  "311.3",
+  "449.7",
+  "492.7"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "43.95",
+  "11.46",
+  "42.51",
+  "27.73",
+  "44.42"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "VAL",
+ "name": "Valaris Limited Common Shares",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 5529056278.0,
+ "price": "$79.62",
+ "cik": 314808,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VAL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Valaris Limited (VAL) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/val",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:25+00:00"
+}

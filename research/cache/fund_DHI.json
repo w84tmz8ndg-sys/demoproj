@@ -1,0 +1,70 @@
+{
+ "ticker": "DHI",
+ "src_stats": "https://stockanalysis.com/stocks/dhi/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/dhi/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/dhi/financials/ratios/",
+ "Market Cap": "39.03B",
+ "Enterprise Value": "43.03B",
+ "PE Ratio": "14.22",
+ "Forward PE": "16.25",
+ "PS Ratio": "1.19",
+ "EV / EBITDA": "11.36",
+ "Gross Margin": "20.58%",
+ "Operating Margin": "11.18%",
+ "Profit Margin": "8.74%",
+ "FCF Margin": "10.13%",
+ "Debt / Equity": "0.26",
+ "Debt / EBITDA": "1.59",
+ "Net Cash": "-3.99B",
+ "Total Debt": "6.05B",
+ "Cash & Cash Equivalents": "2.06B",
+ "Return on Invested Capital (ROIC)": "9.71%",
+ "Return on Equity (ROE)": "12.12%",
+ "Revenue": "33.04B",
+ "Net Income": "2.89B",
+ "Free Cash Flow": "3.35B",
+ "Dividend Yield": "1.39%",
+ "Beta (5Y)": "1.37",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "33,043",
+  "33,043",
+  "34,250",
+  "36,801",
+  "35,460",
+  "33,480"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,889",
+  "2,889",
+  "3,585",
+  "4,756",
+  "4,746",
+  "5,858"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "14.26",
+  "13.23",
+  "14.09",
+  "13.07",
+  "7.66",
+  "4.00"
+ ]
+}

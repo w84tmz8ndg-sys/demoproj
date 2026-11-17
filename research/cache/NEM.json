@@ -1,0 +1,27 @@
+{
+ "ticker": "NEM",
+ "name": "Newmont Corporation",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "United States",
+ "mcap": 114664576033.0,
+ "price": "$110.34",
+ "cik": 1164727,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NEM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Newmont (NEM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nem",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:17+00:00"
+}

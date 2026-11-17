@@ -1,0 +1,27 @@
+{
+ "ticker": "ACCV",
+ "name": "Accelevation Holdings Corp. Class A Ordinary Shares",
+ "sector": "Energy",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 2531250000.0,
+ "price": "$11.25",
+ "cik": 2141406,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACCV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/accv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:06+00:00"
+}

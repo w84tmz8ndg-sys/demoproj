@@ -1,0 +1,27 @@
+{
+ "ticker": "AAON",
+ "name": "AAON Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 6448570237.0,
+ "price": "$78.20",
+ "cik": 824142,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AAON/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, AAON, Inc. (AAON) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aaon",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:27+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MUFG",
+ "name": "Mitsubishi UFJ Financial Group Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "Japan",
+ "mcap": 238997486083.0,
+ "price": "$21.19",
+ "cik": 67088,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MUFG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Mitsubishi UFJ Financial Group (MUFG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mufg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:35+00:00"
+}

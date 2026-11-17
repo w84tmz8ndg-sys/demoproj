@@ -1,0 +1,27 @@
+{
+ "ticker": "TGS",
+ "name": "Transportadora de Gas del Sur SA TGS Common Stock",
+ "sector": "Utilities",
+ "industry": "Natural Gas Distribution",
+ "country": "Argentina",
+ "mcap": 3037390877.0,
+ "price": "$20.175",
+ "cik": 931427,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TGS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Transportadora de Gas del Sur S.A. (TGS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tgs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:46+00:00"
+}

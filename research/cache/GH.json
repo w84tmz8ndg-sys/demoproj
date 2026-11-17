@@ -1,0 +1,27 @@
+{
+ "ticker": "GH",
+ "name": "Guardant Health Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 19485238979.0,
+ "price": "$144.03",
+ "cik": 1576280,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Guardant Health (GH) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:34+00:00"
+}

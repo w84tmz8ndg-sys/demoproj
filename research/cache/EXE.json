@@ -1,0 +1,27 @@
+{
+ "ticker": "EXE",
+ "name": "Expand Energy Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 19940857426.0,
+ "price": "$86.34",
+ "cik": 895126,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EXE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Expand Energy Corporation (EXE) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/exe",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:32+00:00"
+}

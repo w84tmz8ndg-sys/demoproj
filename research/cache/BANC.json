@@ -1,0 +1,27 @@
+{
+ "ticker": "BANC",
+ "name": "Banc of California Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 2790675081.0,
+ "price": "$17.665",
+ "cik": 1169770,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BANC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Banc of California (BANC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/banc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:21+00:00"
+}

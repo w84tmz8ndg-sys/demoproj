@@ -1,0 +1,70 @@
+{
+ "ticker": "FAST",
+ "src_stats": "https://stockanalysis.com/stocks/fast/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/fast/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/fast/financials/ratios/",
+ "Market Cap": "62.50B",
+ "Enterprise Value": "62.74B",
+ "PE Ratio": "44.29",
+ "Forward PE": "39.30",
+ "PS Ratio": "6.96",
+ "EV / EBITDA": "31.05",
+ "Gross Margin": "44.61%",
+ "Operating Margin": "20.54%",
+ "Profit Margin": "15.62%",
+ "FCF Margin": "12.96%",
+ "Debt / Equity": "0.11",
+ "Debt / EBITDA": "0.20",
+ "Net Cash": "-239.80M",
+ "Total Debt": "451.70M",
+ "Cash & Cash Equivalents": "211.90M",
+ "Return on Invested Capital (ROIC)": "32.59%",
+ "Return on Equity (ROE)": "35.26%",
+ "Revenue": "9.08B",
+ "Net Income": "1.42B",
+ "Free Cash Flow": "1.18B",
+ "Dividend Yield": "1.91%",
+ "Beta (5Y)": "0.66",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "9,079",
+  "8,201",
+  "7,546",
+  "7,347",
+  "6,981",
+  "6,011"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,418",
+  "1,258",
+  "1,151",
+  "1,155",
+  "1,087",
+  "925"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "44.80",
+  "36.61",
+  "35.80",
+  "32.05",
+  "24.94",
+  "39.83"
+ ]
+}

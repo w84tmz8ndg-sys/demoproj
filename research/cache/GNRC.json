@@ -1,0 +1,27 @@
+{
+ "ticker": "GNRC",
+ "name": "Generac Holdlings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 10952484288.0,
+ "price": "$185.67",
+ "cik": 1474735,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GNRC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Generac (GNRC) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gnrc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:42+00:00"
+}

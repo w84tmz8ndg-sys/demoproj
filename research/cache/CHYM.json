@@ -1,0 +1,27 @@
+{
+ "ticker": "CHYM",
+ "name": "Chime Financial Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 13159876585.0,
+ "price": "$34.29",
+ "cik": 1795586,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CHYM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Chime Financial, Inc. \u2013 Class A Common Stock (CHYM) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/chym",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:00+00:00"
+}

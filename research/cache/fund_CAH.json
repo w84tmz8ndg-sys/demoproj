@@ -1,0 +1,70 @@
+{
+ "ticker": "CAH",
+ "src_stats": "https://stockanalysis.com/stocks/cah/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/cah/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/cah/financials/ratios/",
+ "Market Cap": "65.52B",
+ "Enterprise Value": "69.07B",
+ "PE Ratio": "36.70",
+ "Forward PE": "21.47",
+ "PS Ratio": "0.25",
+ "EV / EBITDA": "15.76",
+ "Gross Margin": "3.90%",
+ "Operating Margin": "1.33%",
+ "Profit Margin": "0.71%",
+ "FCF Margin": "1.90%",
+ "Debt / Equity": "n/a",
+ "Debt / EBITDA": "1.88",
+ "Net Cash": "-3.55B",
+ "Total Debt": "8.82B",
+ "Cash & Cash Equivalents": "5.26B",
+ "Return on Invested Capital (ROIC)": "20.50%",
+ "Return on Equity (ROE)": "n/a",
+ "Revenue": "257.75B",
+ "Net Income": "1.82B",
+ "Free Cash Flow": "4.90B",
+ "Dividend Yield": "0.73%",
+ "Beta (5Y)": "0.52",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "257,752",
+  "254,248",
+  "222,578",
+  "226,827",
+  "204,979",
+  "181,326"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,818",
+  "1,714",
+  "1,561",
+  "852",
+  "330",
+  "-938"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "36.62",
+  "32.46",
+  "25.69",
+  "28.11",
+  "72.96",
+  "-"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MET",
+ "name": "MetLife Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Life Insurance",
+ "country": "United States",
+ "mcap": 63758597618.0,
+ "price": "$101.455",
+ "cik": 1099219,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Metlife (MET) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/met",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:10+00:00"
+}

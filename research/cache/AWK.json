@@ -1,0 +1,27 @@
+{
+ "ticker": "AWK",
+ "name": "American Water Works Company Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Water Supply",
+ "country": "United States",
+ "mcap": 30122544163.0,
+ "price": "$151.29",
+ "cik": 1410636,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AWK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, American Water Works (AWK) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/awk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:35+00:00"
+}

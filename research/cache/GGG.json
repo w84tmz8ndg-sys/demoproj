@@ -1,0 +1,27 @@
+{
+ "ticker": "GGG",
+ "name": "Graco Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Fluid Controls",
+ "country": "United States",
+ "mcap": 11465218187.0,
+ "price": "$71.49",
+ "cik": 42888,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GGG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Graco Inc. (GGG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ggg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:36+00:00"
+}

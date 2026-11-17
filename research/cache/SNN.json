@@ -1,0 +1,27 @@
+{
+ "ticker": "SNN",
+ "name": "Smith & Nephew SNATS Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "United Kingdom",
+ "mcap": 12967404227.0,
+ "price": "$30.97",
+ "cik": 845982,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SNN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Smith & Nephew plc (SNN) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/snn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:03+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "LLYVK",
+ "name": "Liberty Live Holdings Inc. Series C Liberty Live Group Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 9767302818.0,
+ "price": "$106.16",
+ "cik": 2078416,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LLYVK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Liberty Media Corp. - Ordinary Shares (New Liberty Live) Series C (LLYVK) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/llyvk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:15+00:00"
+}

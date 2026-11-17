@@ -1,0 +1,27 @@
+{
+ "ticker": "FFIN",
+ "name": "First Financial Bankshares Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 4320595630.0,
+ "price": "$30.18",
+ "cik": 36029,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FFIN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, First Financial Bankshares, Inc. (FFIN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ffin",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:12+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ZIM",
+ "name": "ZIM Integrated Shipping Services Ltd. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "",
+ "mcap": 3507967241.0,
+ "price": "$29.12",
+ "cik": 1654126,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZIM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zim",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:39+00:00"
+}

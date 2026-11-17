@@ -1,0 +1,27 @@
+{
+ "ticker": "OGC",
+ "name": "OceanaGold Corporation Common Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "",
+ "mcap": 5742068823.0,
+ "price": "$26.045",
+ "cik": 1487326,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OGC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ogc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:14+00:00"
+}

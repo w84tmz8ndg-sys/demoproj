@@ -1,0 +1,27 @@
+{
+ "ticker": "EXTR",
+ "name": "Extreme Networks Inc. Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Computer Communications Equipment",
+ "country": "United States",
+ "mcap": 3425394295.0,
+ "price": "$26.11",
+ "cik": 1078271,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EXTR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Extreme Networks (EXTR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/extr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:54+00:00"
+}

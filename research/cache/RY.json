@@ -1,0 +1,27 @@
+{
+ "ticker": "RY",
+ "name": "Royal Bank Of Canada Common Stock",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "Canada",
+ "mcap": 276415253668.0,
+ "price": "$199.66",
+ "cik": 1000275,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Royal Bank of Canada (RY) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ry",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:33+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CHEF",
+ "name": "The Chefs' Warehouse Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Food Distributors",
+ "country": "United States",
+ "mcap": 4524052741.0,
+ "price": "$104.09",
+ "cik": 1517175,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CHEF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, The Chefs' Warehouse, Inc. (CHEF) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/chef",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:54+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ATO",
+ "name": "Atmos Energy Corporation Common Stock",
+ "sector": "Utilities",
+ "industry": "Oil/Gas Transmission",
+ "country": "United States",
+ "mcap": 29972398817.0,
+ "price": "$176.09",
+ "cik": 731802,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ATO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Atmos Energy (ATO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ato",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:38+00:00"
+}

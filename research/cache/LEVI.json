@@ -1,0 +1,27 @@
+{
+ "ticker": "LEVI",
+ "name": "Levi Strauss & Co Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Apparel",
+ "country": "United States",
+ "mcap": 9348992237.0,
+ "price": "$24.38",
+ "cik": 94845,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LEVI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Levi Strauss & Co. (LEVI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/levi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:29+00:00"
+}

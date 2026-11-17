@@ -1,0 +1,27 @@
+{
+ "ticker": "AMGN",
+ "name": "Amgen Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 250074200057.0,
+ "price": "$462.32",
+ "cik": 318154,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMGN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Amgen (AMGN) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/amgn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:34+00:00"
+}

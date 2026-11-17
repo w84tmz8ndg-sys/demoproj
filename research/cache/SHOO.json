@@ -1,0 +1,27 @@
+{
+ "ticker": "SHOO",
+ "name": "Steven Madden Ltd. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Shoe Manufacturing",
+ "country": "United States",
+ "mcap": 3000217146.0,
+ "price": "$40.98",
+ "cik": 913241,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SHOO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Steven Madden, Ltd. (SHOO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/shoo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:52+00:00"
+}

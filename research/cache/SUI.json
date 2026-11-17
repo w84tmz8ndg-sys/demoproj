@@ -1,0 +1,27 @@
+{
+ "ticker": "SUI",
+ "name": "Sun Communities Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 14217658532.0,
+ "price": "$119.11",
+ "cik": 912593,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SUI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Sun Communities, Inc. (SUI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sui",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:38+00:00"
+}

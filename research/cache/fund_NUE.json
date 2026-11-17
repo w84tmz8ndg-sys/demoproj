@@ -1,0 +1,70 @@
+{
+ "ticker": "NUE",
+ "src_stats": "https://stockanalysis.com/stocks/nue/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/nue/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/nue/financials/ratios/",
+ "Market Cap": "58.11B",
+ "Enterprise Value": "61.56B",
+ "PE Ratio": "16.47",
+ "Forward PE": "9.55",
+ "PS Ratio": "1.46",
+ "EV / EBITDA": "9.00",
+ "Gross Margin": "17.39%",
+ "Operating Margin": "13.29%",
+ "Profit Margin": "9.26%",
+ "FCF Margin": "6.85%",
+ "Debt / Equity": "0.29",
+ "Debt / EBITDA": "1.05",
+ "Net Cash": "-3.45B",
+ "Total Debt": "7.09B",
+ "Cash & Cash Equivalents": "3.64B",
+ "Return on Invested Capital (ROIC)": "14.87%",
+ "Return on Equity (ROE)": "17.58%",
+ "Revenue": "38.83B",
+ "Net Income": "3.58B",
+ "Free Cash Flow": "2.66B",
+ "Dividend Yield": "0.86%",
+ "Beta (5Y)": "1.82",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "38,829",
+  "32,494",
+  "30,734",
+  "34,714",
+  "41,512",
+  "36,484"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "3,583",
+  "1,737",
+  "2,018",
+  "4,508",
+  "7,576",
+  "6,795"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "16.22",
+  "21.49",
+  "13.58",
+  "9.49",
+  "4.46",
+  "4.57"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "ZBRA",
+ "src_stats": "https://stockanalysis.com/stocks/zbra/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/zbra/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/zbra/financials/ratios/",
+ "Market Cap": "15.07B",
+ "Enterprise Value": "17.67B",
+ "PE Ratio": "26.05",
+ "Forward PE": "14.73",
+ "PS Ratio": "2.45",
+ "EV / EBITDA": "14.20",
+ "Gross Margin": "48.90%",
+ "Operating Margin": "16.53%",
+ "Profit Margin": "9.80%",
+ "FCF Margin": "16.09%",
+ "Debt / Equity": "0.78",
+ "Debt / EBITDA": "2.13",
+ "Net Cash": "-2.59B",
+ "Total Debt": "2.78B",
+ "Cash & Cash Equivalents": "182.00M",
+ "Return on Invested Capital (ROIC)": "13.17%",
+ "Return on Equity (ROE)": "16.46%",
+ "Revenue": "6.14B",
+ "Net Income": "602.00M",
+ "Free Cash Flow": "988.00M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.63",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,141",
+  "5,396",
+  "4,981",
+  "4,584",
+  "5,781",
+  "5,627"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "602",
+  "419",
+  "528",
+  "296",
+  "463",
+  "837"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "25.69",
+  "29.36",
+  "37.73",
+  "47.43",
+  "28.59",
+  "38.00"
+ ]
+}

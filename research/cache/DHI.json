@@ -1,0 +1,27 @@
+{
+ "ticker": "DHI",
+ "name": "D.R. Horton Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Homebuilding",
+ "country": "United States",
+ "mcap": 40497946449.0,
+ "price": "$144.79",
+ "cik": 882184,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DHI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, DR Horton (DHI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dhi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:55+00:00"
+}

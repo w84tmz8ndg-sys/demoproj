@@ -1,0 +1,27 @@
+{
+ "ticker": "BTSG",
+ "name": "BrightSpring Health Services Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Nursing Services",
+ "country": "United States",
+ "mcap": 14201531758.0,
+ "price": "$71.37",
+ "cik": 1865782,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BTSG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, BrightSpring Health Services Inc (BTSG) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/btsg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:40+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "RKLB",
+ "name": "Rocket Lab Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 36259039894.0,
+ "price": "$57.37",
+ "cik": 1819994,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RKLB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Rocket Lab USA (RKLB) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rklb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:12+00:00"
+}

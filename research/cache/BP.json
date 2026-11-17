@@ -1,0 +1,27 @@
+{
+ "ticker": "BP",
+ "name": "BP p.l.c. Common Stock",
+ "sector": "Energy",
+ "industry": "Integrated oil Companies",
+ "country": "United Kingdom",
+ "mcap": 117610523265.0,
+ "price": "$44.925",
+ "cik": 313807,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, BP p.l.c. (BP) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:17+00:00"
+}

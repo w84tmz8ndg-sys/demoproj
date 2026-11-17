@@ -1,0 +1,27 @@
+{
+ "ticker": "TOP",
+ "name": "TOP Financial Group Limited Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "Hong Kong",
+ "mcap": 2049816804.0,
+ "price": "$16.57",
+ "cik": 1848275,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TOP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/top",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:22+00:00"
+}

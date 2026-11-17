@@ -1,0 +1,27 @@
+{
+ "ticker": "ARW",
+ "name": "Arrow Electronics Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Electronic Components",
+ "country": "United States",
+ "mcap": 9447681894.0,
+ "price": "$186.87",
+ "cik": 7536,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ARW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Arrow Electronics, Inc. (ARW) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/arw",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:28+00:00"
+}

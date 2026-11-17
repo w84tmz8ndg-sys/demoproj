@@ -1,0 +1,27 @@
+{
+ "ticker": "BCC",
+ "name": "Boise Cascade L.L.C. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "RETAIL: Building Materials",
+ "country": "United States",
+ "mcap": 2310034589.0,
+ "price": "$66.375",
+ "cik": 1328581,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BCC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Boise Cascade Company (BCC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bcc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:37+00:00"
+}

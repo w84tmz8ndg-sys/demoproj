@@ -1,0 +1,27 @@
+{
+ "ticker": "TAP",
+ "name": "Molson Coors Beverage Company Class B Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "Canada",
+ "mcap": 7642128928.0,
+ "price": "$41.23",
+ "cik": 24545,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TAP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Molson Coors Beverage Company (TAP) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tap",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:34+00:00"
+}

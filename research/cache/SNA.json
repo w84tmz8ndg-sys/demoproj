@@ -1,0 +1,27 @@
+{
+ "ticker": "SNA",
+ "name": "Snap-On Incorporated Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 18829213294.0,
+ "price": "$365.04",
+ "cik": 91440,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SNA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Snap-on (SNA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sna",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:38+00:00"
+}

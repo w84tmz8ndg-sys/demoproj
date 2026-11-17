@@ -1,0 +1,27 @@
+{
+ "ticker": "PENN",
+ "name": "PENN Entertainment Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Hotels/Resorts",
+ "country": "United States",
+ "mcap": 2387032457.0,
+ "price": "$17.78",
+ "cik": 921738,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PENN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, PENN Entertainment (PENN) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/penn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:26+00:00"
+}

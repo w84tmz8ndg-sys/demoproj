@@ -1,0 +1,27 @@
+{
+ "ticker": "AYI",
+ "name": "Acuity Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Building Products",
+ "country": "United States",
+ "mcap": 9814072735.0,
+ "price": "$330.49",
+ "cik": 1144215,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AYI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Acuity Brands, Inc. (AYI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ayi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:13+00:00"
+}

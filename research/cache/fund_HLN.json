@@ -1,0 +1,70 @@
+{
+ "ticker": "HLN",
+ "src_stats": "https://stockanalysis.com/stocks/hln/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/hln/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/hln/financials/ratios/",
+ "Market Cap": "39.83B",
+ "Enterprise Value": "49.70B",
+ "PE Ratio": "19.07",
+ "Forward PE": "16.47",
+ "PS Ratio": "2.72",
+ "EV / EBITDA": "13.25",
+ "Gross Margin": "65.57%",
+ "Operating Margin": "23.48%",
+ "Profit Margin": "14.55%",
+ "FCF Margin": "20.76%",
+ "Debt / Equity": "0.50",
+ "Debt / EBITDA": "2.84",
+ "Net Cash": "-9.85B",
+ "Total Debt": "10.95B",
+ "Cash & Cash Equivalents": "1.10B",
+ "Return on Invested Capital (ROIC)": "8.42%",
+ "Return on Equity (ROE)": "10.09%",
+ "Revenue": "14.80B",
+ "Net Income": "2.15B",
+ "Free Cash Flow": "3.05B",
+ "Dividend Yield": "2.17%",
+ "Beta (5Y)": "0.29",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "11,152",
+  "11,030",
+  "11,233",
+  "11,302",
+  "10,858",
+  "9,545"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,623",
+  "1,667",
+  "1,442",
+  "1,049",
+  "1,060",
+  "1,390"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "19.26",
+  "20.02",
+  "23.69",
+  "28.32",
+  "28.52",
+  "-"
+ ]
+}

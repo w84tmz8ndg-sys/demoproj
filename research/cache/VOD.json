@@ -1,0 +1,27 @@
+{
+ "ticker": "VOD",
+ "name": "Vodafone Group Plc American Depositary Shares",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "United Kingdom",
+ "mcap": 35431873521.0,
+ "price": "$15.31",
+ "cik": 839923,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VOD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Vodafone Group Public Limited Company (VOD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vod",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:16+00:00"
+}

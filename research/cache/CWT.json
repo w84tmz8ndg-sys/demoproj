@@ -1,0 +1,27 @@
+{
+ "ticker": "CWT",
+ "name": "California Water Service Group Common Stock",
+ "sector": "Utilities",
+ "industry": "Water Supply",
+ "country": "United States",
+ "mcap": 3106435962.0,
+ "price": "$49.405",
+ "cik": 1035201,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CWT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, California Water Service Group (CWT) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cwt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:33+00:00"
+}

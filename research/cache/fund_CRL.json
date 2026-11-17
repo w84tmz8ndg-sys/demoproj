@@ -1,0 +1,70 @@
+{
+ "ticker": "CRL",
+ "src_stats": "https://stockanalysis.com/stocks/crl/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/crl/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/crl/financials/ratios/",
+ "Market Cap": "16.08B",
+ "Enterprise Value": "18.73B",
+ "PE Ratio": "404.90",
+ "Forward PE": "26.30",
+ "PS Ratio": "4.04",
+ "EV / EBITDA": "20.60",
+ "Gross Margin": "35.10%",
+ "Operating Margin": "14.27%",
+ "Profit Margin": "1.01%",
+ "FCF Margin": "10.05%",
+ "Debt / Equity": "0.87",
+ "Debt / EBITDA": "2.78",
+ "Net Cash": "-2.65B",
+ "Total Debt": "2.85B",
+ "Cash & Cash Equivalents": "200.38M",
+ "Return on Invested Capital (ROIC)": "9.74%",
+ "Return on Equity (ROE)": "1.27%",
+ "Revenue": "3.98B",
+ "Net Income": "40.19M",
+ "Free Cash Flow": "399.63M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.34",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,977",
+  "4,015",
+  "4,050",
+  "4,129",
+  "3,976",
+  "3,540"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "40.19",
+  "-144.34",
+  "10.3",
+  "474.62",
+  "486.23",
+  "390.98"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "404.20",
+  "-",
+  "924.49",
+  "25.55",
+  "22.80",
+  "47.65"
+ ]
+}

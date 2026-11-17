@@ -1,0 +1,27 @@
+{
+ "ticker": "HCM",
+ "name": "HUTCHMED (China) Limited American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Hong Kong",
+ "mcap": 2569877169.0,
+ "price": "$14.73",
+ "cik": 1648257,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HCM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hcm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:57+00:00"
+}

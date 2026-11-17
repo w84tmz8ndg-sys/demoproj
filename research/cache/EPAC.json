@@ -1,0 +1,27 @@
+{
+ "ticker": "EPAC",
+ "name": "Enerpac Tool Group Corp. Common Stock",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 2018878705.0,
+ "price": "$39.35",
+ "cik": 6955,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EPAC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Enerpac Tool Group Corp. (EPAC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/epac",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:29+00:00"
+}

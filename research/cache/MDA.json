@@ -1,0 +1,27 @@
+{
+ "ticker": "MDA",
+ "name": "MDA Space Ltd. Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Electronic Components",
+ "country": "",
+ "mcap": 4539271169.0,
+ "price": "$27.99",
+ "cik": 1857047,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MDA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mda",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:47+00:00"
+}

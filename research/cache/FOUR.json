@@ -1,0 +1,27 @@
+{
+ "ticker": "FOUR",
+ "name": "Shift4 Payments Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 3185117620.0,
+ "price": "$42.50",
+ "cik": 1794669,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FOUR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Shift4 Payments (FOUR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/four",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:22+00:00"
+}

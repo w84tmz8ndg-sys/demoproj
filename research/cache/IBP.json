@@ -1,0 +1,27 @@
+{
+ "ticker": "IBP",
+ "name": "Installed Building Products Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Homebuilding",
+ "country": "United States",
+ "mcap": 6501726306.0,
+ "price": "$232.08",
+ "cik": 1580905,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IBP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Installed Building Products (IBP) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ibp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:21+00:00"
+}

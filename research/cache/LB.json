@@ -1,0 +1,27 @@
+{
+ "ticker": "LB",
+ "name": "LandBridge Corporation Class A Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "",
+ "mcap": 5588034909.0,
+ "price": "$72.56",
+ "cik": 1995807,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, LandBridge (LB) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:21+00:00"
+}

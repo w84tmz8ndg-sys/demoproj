@@ -1,0 +1,27 @@
+{
+ "ticker": "JD",
+ "name": "JD.com Inc. American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "China",
+ "mcap": 37013760000.0,
+ "price": "$27.54",
+ "cik": 1549802,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, JD.com (JD) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:09+00:00"
+}

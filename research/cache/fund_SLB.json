@@ -1,0 +1,70 @@
+{
+ "ticker": "SLB",
+ "src_stats": "https://stockanalysis.com/stocks/slb/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/slb/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/slb/financials/ratios/",
+ "Market Cap": "72.74B",
+ "Enterprise Value": "81.95B",
+ "PE Ratio": "23.90",
+ "Forward PE": "16.92",
+ "PS Ratio": "2.00",
+ "EV / EBITDA": "11.25",
+ "Gross Margin": "16.59%",
+ "Operating Margin": "13.81%",
+ "Profit Margin": "8.40%",
+ "FCF Margin": "11.12%",
+ "Debt / Equity": "0.47",
+ "Debt / EBITDA": "1.44",
+ "Net Cash": "-9.21B",
+ "Total Debt": "12.81B",
+ "Cash & Cash Equivalents": "3.60B",
+ "Return on Invested Capital (ROIC)": "11.29%",
+ "Return on Equity (ROE)": "11.66%",
+ "Revenue": "36.89B",
+ "Net Income": "3.10B",
+ "Free Cash Flow": "4.10B",
+ "Dividend Yield": "2.41%",
+ "Beta (5Y)": "0.79",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "36,887",
+  "35,708",
+  "36,289",
+  "33,135",
+  "28,091",
+  "22,929"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "3,097",
+  "3,374",
+  "4,461",
+  "4,203",
+  "3,441",
+  "1,881"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "24.36",
+  "16.99",
+  "12.14",
+  "17.68",
+  "22.03",
+  "22.33"
+ ]
+}

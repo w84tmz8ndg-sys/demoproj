@@ -1,0 +1,27 @@
+{
+ "ticker": "VMI",
+ "name": "Valmont Industries Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 7831864274.0,
+ "price": "$409.19",
+ "cik": 102729,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VMI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Valmont Industries (VMI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vmi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:27+00:00"
+}

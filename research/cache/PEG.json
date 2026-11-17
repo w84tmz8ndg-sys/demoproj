@@ -1,0 +1,27 @@
+{
+ "ticker": "PEG",
+ "name": "Public Service Enterprise Group Incorporated Common Stock",
+ "sector": "Utilities",
+ "industry": "Power Generation",
+ "country": "United States",
+ "mcap": 37912097463.0,
+ "price": "$76.05",
+ "cik": 788784,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PEG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Public Service Enterprise Group Inc. (PEG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/peg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:07+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ATI",
+ "name": "ATI Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Steel/Iron Ore",
+ "country": "United States",
+ "mcap": 23524626943.0,
+ "price": "$173.201",
+ "cik": 1018963,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ATI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, ATI Inc. (ATI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ati",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:07+00:00"
+}

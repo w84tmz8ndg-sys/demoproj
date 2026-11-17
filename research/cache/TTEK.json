@@ -1,0 +1,27 @@
+{
+ "ticker": "TTEK",
+ "name": "Tetra Tech Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 10003655802.0,
+ "price": "$39.07",
+ "cik": 831641,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TTEK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Tetra Tech, Inc. (TTEK) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ttek",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:08+00:00"
+}

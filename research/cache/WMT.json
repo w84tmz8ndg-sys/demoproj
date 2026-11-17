@@ -1,0 +1,27 @@
+{
+ "ticker": "WMT",
+ "name": "Walmart Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Department/Specialty Retail Stores",
+ "country": "United States",
+ "mcap": 1018772354807.0,
+ "price": "$128.41",
+ "cik": 104169,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WMT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Walmart (WMT) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wmt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:24+00:00"
+}

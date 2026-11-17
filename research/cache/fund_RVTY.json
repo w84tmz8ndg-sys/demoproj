@@ -1,0 +1,70 @@
+{
+ "ticker": "RVTY",
+ "src_stats": "https://stockanalysis.com/stocks/rvty/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/rvty/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/rvty/financials/ratios/",
+ "Market Cap": "16.62B",
+ "Enterprise Value": "18.79B",
+ "PE Ratio": "65.86",
+ "Forward PE": "25.60",
+ "PS Ratio": "5.65",
+ "EV / EBITDA": "20.80",
+ "Gross Margin": "55.91%",
+ "Operating Margin": "16.66%",
+ "Profit Margin": "8.61%",
+ "FCF Margin": "20.07%",
+ "Debt / Equity": "0.38",
+ "Debt / EBITDA": "2.89",
+ "Net Cash": "-2.17B",
+ "Total Debt": "2.77B",
+ "Cash & Cash Equivalents": "592.80M",
+ "Return on Invested Capital (ROIC)": "4.62%",
+ "Return on Equity (ROE)": "3.45%",
+ "Revenue": "2.94B",
+ "Net Income": "253.20M",
+ "Free Cash Flow": "590.47M",
+ "Dividend Yield": "0.19%",
+ "Beta (5Y)": "1.09",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,942",
+  "2,856",
+  "2,755",
+  "2,751",
+  "3,312",
+  "3,828"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "253.2",
+  "241.2",
+  "270.39",
+  "693.09",
+  "569.18",
+  "943.16"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "65.93",
+  "45.48",
+  "50.41",
+  "19.46",
+  "31.12",
+  "26.90"
+ ]
+}

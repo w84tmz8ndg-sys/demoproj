@@ -1,0 +1,27 @@
+{
+ "ticker": "SBSW",
+ "name": "D/B/A Sibanye-Stillwater Limited ADS",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "South Africa",
+ "mcap": 5993726182.0,
+ "price": "$8.47",
+ "cik": 1786909,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SBSW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sbsw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:00+00:00"
+}

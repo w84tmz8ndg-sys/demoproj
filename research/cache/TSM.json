@@ -1,0 +1,27 @@
+{
+ "ticker": "TSM",
+ "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Taiwan",
+ "mcap": 1936926188923.0,
+ "price": "$373.455",
+ "cik": 1046179,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TSM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Taiwan Semiconductor (TSM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tsm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:23+00:00"
+}

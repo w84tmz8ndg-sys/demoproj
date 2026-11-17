@@ -1,0 +1,27 @@
+{
+ "ticker": "DRS",
+ "name": "Leonardo DRS Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "Israel",
+ "mcap": 8979798143.0,
+ "price": "$33.68",
+ "cik": 1833756,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DRS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Leonardo DRS (DRS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/drs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:45+00:00"
+}

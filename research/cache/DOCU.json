@@ -1,0 +1,27 @@
+{
+ "ticker": "DOCU",
+ "name": "DocuSign Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 14918553719.0,
+ "price": "$79.82",
+ "cik": 1261333,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DOCU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, DocuSign, Inc. (DOCU) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/docu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:30+00:00"
+}

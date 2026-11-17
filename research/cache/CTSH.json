@@ -1,0 +1,27 @@
+{
+ "ticker": "CTSH",
+ "name": "Cognizant Technology Solutions Corporation Class A Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 27845525173.0,
+ "price": "$62.29",
+ "cik": 1058290,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CTSH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Cognizant (CTSH) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ctsh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:47+00:00"
+}

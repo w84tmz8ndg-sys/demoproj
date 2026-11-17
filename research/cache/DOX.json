@@ -1,0 +1,27 @@
+{
+ "ticker": "DOX",
+ "name": "Amdocs Limited Ordinary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Guernsey",
+ "mcap": 4710917882.0,
+ "price": "$43.64",
+ "cik": 1062579,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DOX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Amdocs Limited (DOX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dox",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:35+00:00"
+}

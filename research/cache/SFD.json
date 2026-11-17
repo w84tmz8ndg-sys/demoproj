@@ -1,0 +1,27 @@
+{
+ "ticker": "SFD",
+ "name": "Smithfield Foods Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Meat/Poultry/Fish",
+ "country": "United States",
+ "mcap": 7584603909.0,
+ "price": "$19.26",
+ "cik": 91388,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SFD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Smithfield Foods, Inc. (SFD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sfd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:35+00:00"
+}

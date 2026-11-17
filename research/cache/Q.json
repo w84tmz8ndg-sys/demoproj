@@ -1,0 +1,27 @@
+{
+ "ticker": "Q",
+ "name": "Qnity Electronics Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 24029533657.0,
+ "price": "$114.95",
+ "cik": 2058873,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/Q/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Qnity Electronics Inc. (Q) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/q",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:04+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "DDOG",
+ "name": "Datadog Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 62409814329.0,
+ "price": "$172.86",
+ "cik": 1561550,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DDOG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Datadog, Inc. (DDOG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ddog",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:11+00:00"
+}

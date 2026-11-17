@@ -1,0 +1,70 @@
+{
+ "ticker": "ALB",
+ "src_stats": "https://stockanalysis.com/stocks/alb/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/alb/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/alb/financials/ratios/",
+ "Market Cap": "10.51B",
+ "Enterprise Value": "10.66B",
+ "PE Ratio": "20.39",
+ "Forward PE": "11.10",
+ "PS Ratio": "1.71",
+ "EV / EBITDA": "6.30",
+ "Gross Margin": "26.17%",
+ "Operating Margin": "17.07%",
+ "Profit Margin": "11.08%",
+ "FCF Margin": "23.47%",
+ "Debt / Equity": "0.18",
+ "Debt / EBITDA": "1.11",
+ "Net Cash": "-152.17M",
+ "Total Debt": "2.00B",
+ "Cash & Cash Equivalents": "1.85B",
+ "Return on Invested Capital (ROIC)": "6.88%",
+ "Return on Equity (ROE)": "7.05%",
+ "Revenue": "6.15B",
+ "Net Income": "514.88M",
+ "Free Cash Flow": "1.44B",
+ "Dividend Yield": "1.84%",
+ "Beta (5Y)": "1.36",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,153",
+  "5,143",
+  "5,378",
+  "9,617",
+  "7,320",
+  "3,328"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "514.88",
+  "-677.38",
+  "-1,316",
+  "1,573",
+  "2,690",
+  "123.67"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "20.18",
+  "-",
+  "-",
+  "10.78",
+  "9.45",
+  "221.11"
+ ]
+}

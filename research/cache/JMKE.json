@@ -1,0 +1,27 @@
+{
+ "ticker": "JMKE",
+ "name": "Jersey Mike's Subs Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "",
+ "mcap": 6105019658.0,
+ "price": "$19.22",
+ "cik": 2127043,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JMKE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jmke",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:49+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GVA",
+ "name": "Granite Construction Incorporated Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 5395810925.0,
+ "price": "$122.27",
+ "cik": 861459,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GVA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Granite Construction Incorporated (GVA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gva",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:40+00:00"
+}

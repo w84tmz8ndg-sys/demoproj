@@ -1,0 +1,27 @@
+{
+ "ticker": "BIRK",
+ "name": "Birkenstock Holding plc Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Shoe Manufacturing",
+ "country": "",
+ "mcap": 5880144124.0,
+ "price": "$35.61",
+ "cik": 1977102,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BIRK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/birk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:06+00:00"
+}

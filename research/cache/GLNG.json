@@ -1,0 +1,27 @@
+{
+ "ticker": "GLNG",
+ "name": "Golar Lng Ltd",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Bermuda",
+ "mcap": 4204779803.0,
+ "price": "$41.39",
+ "cik": 1207179,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GLNG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/glng",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:24+00:00"
+}

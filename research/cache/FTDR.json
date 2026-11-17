@@ -1,0 +1,27 @@
+{
+ "ticker": "FTDR",
+ "name": "Frontdoor Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "United States",
+ "mcap": 6431720613.0,
+ "price": "$95.16",
+ "cik": 1727263,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FTDR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Frontdoor, Inc. (FTDR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ftdr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:29+00:00"
+}

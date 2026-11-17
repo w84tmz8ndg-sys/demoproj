@@ -1,0 +1,70 @@
+{
+ "ticker": "NVO",
+ "src_stats": "https://stockanalysis.com/stocks/nvo/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/nvo/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/nvo/financials/ratios/",
+ "Market Cap": "185.23B",
+ "Enterprise Value": "198.21B",
+ "PE Ratio": "11.00",
+ "Forward PE": "12.59",
+ "PS Ratio": "3.65",
+ "EV / EBITDA": "7.18",
+ "Gross Margin": "83.33%",
+ "Operating Margin": "50.78%",
+ "Profit Margin": "33.92%",
+ "FCF Margin": "21.48%",
+ "Debt / Equity": "0.62",
+ "Debt / EBITDA": "0.73",
+ "Net Cash": "-13.39B",
+ "Total Debt": "20.43B",
+ "Cash & Cash Equivalents": "7.04B",
+ "Return on Invested Capital (ROIC)": "42.60%",
+ "Return on Equity (ROE)": "58.38%",
+ "Revenue": "50.70B",
+ "Net Income": "17.20B",
+ "Free Cash Flow": "10.55B",
+ "Dividend Yield": "3.08%",
+ "Beta (5Y)": "0.37",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "333,650",
+  "309,064",
+  "290,403",
+  "232,261",
+  "176,954",
+  "140,800"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "113,177",
+  "102,434",
+  "100,988",
+  "83,683",
+  "55,525",
+  "47,757"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "10.69",
+  "14.11",
+  "27.45",
+  "37.19",
+  "38.16",
+  "35.07"
+ ]
+}

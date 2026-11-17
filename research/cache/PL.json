@@ -1,0 +1,27 @@
+{
+ "ticker": "PL",
+ "name": "Planet Labs PBC Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Radio And Television Broadcasting And Communications Equipment",
+ "country": "United States",
+ "mcap": 4629965660.0,
+ "price": "$12.725",
+ "cik": 1836833,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Planet Labs PBC - Ordinary Shares - Class A (PL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:39+00:00"
+}

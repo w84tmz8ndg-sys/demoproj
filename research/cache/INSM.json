@@ -1,0 +1,27 @@
+{
+ "ticker": "INSM",
+ "name": "Insmed Incorporated Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 26957452370.0,
+ "price": "$122.88",
+ "cik": 1104506,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INSM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Insmed Incorporated (INSM) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/insm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:51+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GHC",
+ "name": "Graham Holdings Company Common Stock",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "United States",
+ "mcap": 5372814773.0,
+ "price": "$1288.82",
+ "cik": 104889,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GHC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Graham Holdings Company (GHC) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ghc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:39+00:00"
+}

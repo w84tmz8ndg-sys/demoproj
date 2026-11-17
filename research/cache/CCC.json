@@ -1,0 +1,27 @@
+{
+ "ticker": "CCC",
+ "name": "CCC Intelligent Solutions Holdings Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 4539196201.0,
+ "price": "$7.68",
+ "cik": 1818201,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CCC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, CCC Intelligent Solutions Holdings Inc. (CCC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ccc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:50+00:00"
+}

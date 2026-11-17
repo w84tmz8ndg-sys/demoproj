@@ -1,0 +1,27 @@
+{
+ "ticker": "KFY",
+ "name": "Korn Ferry Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "United States",
+ "mcap": 4161203566.0,
+ "price": "$76.27",
+ "cik": 56679,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KFY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Korn Ferry (KFY) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/kfy",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:30+00:00"
+}

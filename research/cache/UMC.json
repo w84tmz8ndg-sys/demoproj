@@ -1,0 +1,27 @@
+{
+ "ticker": "UMC",
+ "name": "United Microelectronics Corporation (NEW) Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Taiwan",
+ "mcap": 36090244241.0,
+ "price": "$14.335",
+ "cik": 1033767,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UMC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, United Microelectronics Corporation (UMC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/umc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:13+00:00"
+}

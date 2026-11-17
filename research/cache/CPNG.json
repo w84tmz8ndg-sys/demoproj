@@ -1,0 +1,27 @@
+{
+ "ticker": "CPNG",
+ "name": "Coupang Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "United States",
+ "mcap": 25773240034.0,
+ "price": "$14.38",
+ "cik": 1834584,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CPNG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Coupang (CPNG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cpng",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:57+00:00"
+}

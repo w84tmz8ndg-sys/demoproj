@@ -1,0 +1,27 @@
+{
+ "ticker": "RYAAY",
+ "name": "Ryanair Holdings plc American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Air Freight/Delivery Services",
+ "country": "Ireland",
+ "mcap": 30316328584.0,
+ "price": "$57.61",
+ "cik": 1038683,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RYAAY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Ryanair Holdings plc (RYAAY) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ryaay",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:36+00:00"
+}

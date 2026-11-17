@@ -1,0 +1,27 @@
+{
+ "ticker": "RGTI",
+ "name": "Rigetti Computing Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 3105614143.0,
+ "price": "$9.06",
+ "cik": 1838359,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RGTI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Rigetti Computing (RGTI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rgti",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:34+00:00"
+}

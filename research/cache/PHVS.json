@@ -1,0 +1,27 @@
+{
+ "ticker": "PHVS",
+ "name": "Pharvaris N.V. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Netherlands",
+ "mcap": 2259979735.0,
+ "price": "$32.44",
+ "cik": 1830487,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PHVS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/phvs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:50+00:00"
+}

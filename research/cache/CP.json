@@ -1,0 +1,27 @@
+{
+ "ticker": "CP",
+ "name": "Canadian Pacific Kansas City Limited Common Shares",
+ "sector": "Industrials",
+ "industry": "Railroads",
+ "country": "Canada",
+ "mcap": 82294660594.0,
+ "price": "$94.64",
+ "cik": 16875,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Canadian Pacific Railway (CP) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:48+00:00"
+}

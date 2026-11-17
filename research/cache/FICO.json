@@ -1,0 +1,27 @@
+{
+ "ticker": "FICO",
+ "name": "Fair Isaac Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 15345734171.0,
+ "price": "$717.73",
+ "cik": 814547,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FICO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Fair Isaac (FICO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fico",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:20+00:00"
+}

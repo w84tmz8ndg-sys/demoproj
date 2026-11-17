@@ -1,0 +1,27 @@
+{
+ "ticker": "VVVV",
+ "name": "vVARDIS Holding AG Class A Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "",
+ "mcap": 2900228898.0,
+ "price": "$16.015",
+ "cik": 1907709,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/VVVV/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vvvv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:06+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ZG",
+ "name": "Zillow Group Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 6776895653.0,
+ "price": "$30.05",
+ "cik": 1617640,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Zillow Group Class A (ZG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/zg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:09+00:00"
+}

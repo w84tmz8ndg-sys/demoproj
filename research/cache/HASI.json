@@ -1,0 +1,27 @@
+{
+ "ticker": "HASI",
+ "name": "HA Sustainable Infrastructure Capital Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance/Investors Services",
+ "country": "United States",
+ "mcap": 4913916933.0,
+ "price": "$38.245",
+ "cik": 1561894,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HASI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Hannon Armstrong Sustainable Infrastructure Capital, Inc. (HASI) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hasi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:15+00:00"
+}

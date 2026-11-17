@@ -1,0 +1,27 @@
+{
+ "ticker": "AEO",
+ "name": "American Eagle Outfitters Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Clothing/Shoe/Accessory Stores",
+ "country": "United States",
+ "mcap": 3563446926.0,
+ "price": "$21.265",
+ "cik": 919012,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AEO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, American Eagle Outfitters, Inc. (AEO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aeo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:32+00:00"
+}

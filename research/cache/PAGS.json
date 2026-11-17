@@ -1,0 +1,27 @@
+{
+ "ticker": "PAGS",
+ "name": "PagSeguro Digital Ltd. Class A Common Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Cayman Islands",
+ "mcap": 2328328449.0,
+ "price": "$8.01",
+ "cik": 1712807,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PAGS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pags",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:36+00:00"
+}

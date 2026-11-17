@@ -1,0 +1,70 @@
+{
+ "ticker": "KNX",
+ "src_stats": "https://stockanalysis.com/stocks/knx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/knx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/knx/financials/ratios/",
+ "Market Cap": "9.51B",
+ "Enterprise Value": "11.86B",
+ "PE Ratio": "62.06",
+ "Forward PE": "16.99",
+ "PS Ratio": "1.30",
+ "EV / EBITDA": "11.32",
+ "Gross Margin": "24.50%",
+ "Operating Margin": "4.20%",
+ "Profit Margin": "1.92%",
+ "FCF Margin": "9.40%",
+ "Debt / Equity": "0.37",
+ "Debt / EBITDA": "2.01",
+ "Net Cash": "-2.35B",
+ "Total Debt": "2.61B",
+ "Cash & Cash Equivalents": "254.16M",
+ "Return on Invested Capital (ROIC)": "2.50%",
+ "Return on Equity (ROE)": "2.15%",
+ "Revenue": "8.00B",
+ "Net Income": "153.34M",
+ "Free Cash Flow": "752.32M",
+ "Dividend Yield": "1.25%",
+ "Beta (5Y)": "1.21",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "8,003",
+  "7,470",
+  "7,410",
+  "7,142",
+  "7,429",
+  "5,998"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "153.34",
+  "65.95",
+  "117.63",
+  "217.15",
+  "771.33",
+  "743.39"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "67.81",
+  "128.70",
+  "73.00",
+  "42.84",
+  "10.92",
+  "13.61"
+ ]
+}

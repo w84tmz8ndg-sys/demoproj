@@ -1,0 +1,27 @@
+{
+ "ticker": "EROK",
+ "name": "EagleRock Land LLC Class A shares representing limited liability company interests",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "",
+ "mcap": 2705357555.0,
+ "price": "$20.57",
+ "cik": 2104882,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EROK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/erok",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:33+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "HTHT",
+ "name": "H World Group Limited American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Hotels/Resorts",
+ "country": "China",
+ "mcap": 16876907187.0,
+ "price": "$54.88",
+ "cik": 1483994,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HTHT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, H World Group Limited (HTHT) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/htht",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:03+00:00"
+}

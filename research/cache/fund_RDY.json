@@ -1,0 +1,70 @@
+{
+ "ticker": "RDY",
+ "src_stats": "https://stockanalysis.com/stocks/rdy/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/rdy/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/rdy/financials/ratios/",
+ "Market Cap": "12.47B",
+ "Enterprise Value": "12.47B",
+ "PE Ratio": "41.48",
+ "Forward PE": "26.65",
+ "PS Ratio": "3.58",
+ "EV / EBITDA": "23.68",
+ "Gross Margin": "49.49%",
+ "Operating Margin": "9.11%",
+ "Profit Margin": "8.48%",
+ "FCF Margin": "4.20%",
+ "Debt / Equity": "0.19",
+ "Debt / EBITDA": "1.40",
+ "Net Cash": "41.25M",
+ "Total Debt": "753.91M",
+ "Cash & Cash Equivalents": "795.16M",
+ "Return on Invested Capital (ROIC)": "6.17%",
+ "Return on Equity (ROE)": "7.34%",
+ "Revenue": "3.44B",
+ "Net Income": "291.88M",
+ "Free Cash Flow": "148.06M",
+ "Dividend Yield": "0.43%",
+ "Beta (5Y)": "0.20",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "329,843",
+  "335,933",
+  "325,535",
+  "279,164",
+  "245,879",
+  "214,391"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "27,986",
+  "42,850",
+  "56,544",
+  "55,684",
+  "45,067",
+  "23,568"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "40.96",
+  "24.38",
+  "16.86",
+  "18.41",
+  "17.03",
+  "30.32"
+ ]
+}

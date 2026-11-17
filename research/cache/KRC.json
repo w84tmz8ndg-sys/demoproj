@@ -1,0 +1,27 @@
+{
+ "ticker": "KRC",
+ "name": "Kilroy Realty Corporation Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 4212711545.0,
+ "price": "$36.22",
+ "cik": 1025996,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KRC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Kilroy Realty Corporation (KRC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/krc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:21+00:00"
+}

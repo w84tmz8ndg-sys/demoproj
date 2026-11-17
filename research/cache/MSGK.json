@@ -1,0 +1,27 @@
+{
+ "ticker": "MSGK",
+ "name": "MSG Knickerbockers Corp. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 7577713075.0,
+ "price": "$314.18",
+ "cik": 1636519,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MSGK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/msgk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:35+00:00"
+}

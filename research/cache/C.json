@@ -1,0 +1,27 @@
+{
+ "ticker": "C",
+ "name": "Citigroup Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 200825416000.0,
+ "price": "$121.33",
+ "cik": 831001,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/C/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Citigroup (C) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/c",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:37+00:00"
+}

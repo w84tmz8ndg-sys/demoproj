@@ -1,0 +1,27 @@
+{
+ "ticker": "RIO",
+ "name": "Rio Tinto Plc Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Australia",
+ "mcap": 100558449035.0,
+ "price": "$80.06",
+ "cik": 863064,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Rio Tinto Group (RIO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rio",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:28+00:00"
+}

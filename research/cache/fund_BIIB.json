@@ -1,0 +1,70 @@
+{
+ "ticker": "BIIB",
+ "src_stats": "https://stockanalysis.com/stocks/biib/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/biib/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/biib/financials/ratios/",
+ "Market Cap": "37.01B",
+ "Enterprise Value": "43.51B",
+ "PE Ratio": "107.17",
+ "Forward PE": "16.99",
+ "PS Ratio": "3.61",
+ "EV / EBITDA": "13.23",
+ "Gross Margin": "75.77%",
+ "Operating Margin": "23.50%",
+ "Profit Margin": "3.37%",
+ "FCF Margin": "20.11%",
+ "Debt / Equity": "0.41",
+ "Debt / EBITDA": "2.28",
+ "Net Cash": "-6.50B",
+ "Total Debt": "7.80B",
+ "Cash & Cash Equivalents": "1.30B",
+ "Return on Invested Capital (ROIC)": "7.36%",
+ "Return on Equity (ROE)": "1.87%",
+ "Revenue": "10.30B",
+ "Net Income": "347.50M",
+ "Free Cash Flow": "2.07B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.09",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "10,297",
+  "9,891",
+  "9,676",
+  "9,836",
+  "10,173",
+  "10,982"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "347.5",
+  "1,293",
+  "1,632",
+  "1,161",
+  "3,047",
+  "1,556"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "107.44",
+  "19.97",
+  "13.65",
+  "32.29",
+  "13.09",
+  "22.65"
+ ]
+}

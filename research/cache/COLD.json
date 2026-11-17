@@ -1,0 +1,27 @@
+{
+ "ticker": "COLD",
+ "name": "Americold Realty Trust Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 4754108583.0,
+ "price": "$16.65",
+ "cik": 1455863,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COLD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Americold Realty Trust, Inc. (COLD) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cold",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:29+00:00"
+}

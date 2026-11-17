@@ -1,0 +1,27 @@
+{
+ "ticker": "FIZZ",
+ "name": "National Beverage Corp. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "United States",
+ "mcap": 3507765366.0,
+ "price": "$37.47",
+ "cik": 69891,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FIZZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, National Beverage Corp. (FIZZ) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fizz",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:37+00:00"
+}

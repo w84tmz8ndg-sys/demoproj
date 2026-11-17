@@ -1,0 +1,27 @@
+{
+ "ticker": "FELE",
+ "name": "Franklin Electric Co. Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 4277024867.0,
+ "price": "$96.83",
+ "cik": 38725,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FELE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Franklin Electric Co., Inc. (FELE) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fele",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:15+00:00"
+}

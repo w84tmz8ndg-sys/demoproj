@@ -1,0 +1,27 @@
+{
+ "ticker": "EPD",
+ "name": "Enterprise Products Partners L.P. Common Stock",
+ "sector": "Utilities",
+ "industry": "Natural Gas Distribution",
+ "country": "United States",
+ "mcap": 80764851932.0,
+ "price": "$37.45",
+ "cik": 1061219,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EPD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Enterprise Products Partners L.P. (EPD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/epd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:48+00:00"
+}

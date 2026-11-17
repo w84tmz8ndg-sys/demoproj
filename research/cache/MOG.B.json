@@ -1,0 +1,27 @@
+{
+ "ticker": "MOG.B",
+ "name": "Moog Inc. Class B Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 10421081448.0,
+ "price": "$329.04",
+ "cik": 67887,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/MOG-B/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mog-b",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:54+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "OSCR",
+ "name": "Oscar Health Inc. Class A Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 9733792380.0,
+ "price": "$31.33",
+ "cik": 1568651,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OSCR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Oscar Health, Inc. (OSCR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/oscr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:17+00:00"
+}

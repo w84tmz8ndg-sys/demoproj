@@ -1,0 +1,27 @@
+{
+ "ticker": "CDNS",
+ "name": "Cadence Design Systems Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 84901093970.0,
+ "price": "$309.43",
+ "cik": 813672,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CDNS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Cadence Design Systems (CDNS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cdns",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:44+00:00"
+}

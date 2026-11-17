@@ -1,0 +1,70 @@
+{
+ "ticker": "CCJ",
+ "src_stats": "https://stockanalysis.com/stocks/ccj/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ccj/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ccj/financials/ratios/",
+ "Market Cap": "28.73B",
+ "Enterprise Value": "28.84B",
+ "PE Ratio": "103.75",
+ "Forward PE": "50.87",
+ "PS Ratio": "11.72",
+ "EV / EBITDA": "52.60",
+ "Gross Margin": "33.83%",
+ "Operating Margin": "12.89%",
+ "Profit Margin": "11.43%",
+ "FCF Margin": "10.31%",
+ "Debt / Equity": "0.14",
+ "Debt / EBITDA": "1.29",
+ "Net Cash": "-105.11M",
+ "Total Debt": "710.77M",
+ "Cash & Cash Equivalents": "605.66M",
+ "Return on Invested Capital (ROIC)": "4.86%",
+ "Return on Equity (ROE)": "5.68%",
+ "Revenue": "2.45B",
+ "Net Income": "280.18M",
+ "Free Cash Flow": "250.74M",
+ "Dividend Yield": "0.26%",
+ "Beta (5Y)": "1.13",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,479",
+  "3,482",
+  "3,136",
+  "2,588",
+  "1,868",
+  "1,475"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "397.75",
+  "589.58",
+  "171.85",
+  "360.85",
+  "89.38",
+  "-102.58"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "103.75",
+  "92.82",
+  "187.17",
+  "68.69",
+  "148.50",
+  "-"
+ ]
+}

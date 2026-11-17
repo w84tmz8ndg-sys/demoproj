@@ -1,0 +1,70 @@
+{
+ "ticker": "RBA",
+ "src_stats": "https://stockanalysis.com/stocks/rba/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/rba/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/rba/financials/ratios/",
+ "Market Cap": "17.28B",
+ "Enterprise Value": "21.70B",
+ "PE Ratio": "36.82",
+ "Forward PE": "19.94",
+ "PS Ratio": "3.44",
+ "EV / EBITDA": "15.65",
+ "Gross Margin": "45.39%",
+ "Operating Margin": "17.28%",
+ "Profit Margin": "10.51%",
+ "FCF Margin": "12.31%",
+ "Debt / Equity": "0.85",
+ "Debt / EBITDA": "2.97",
+ "Net Cash": "-4.42B",
+ "Total Debt": "4.93B",
+ "Cash & Cash Equivalents": "512.40M",
+ "Return on Invested Capital (ROIC)": "6.61%",
+ "Return on Equity (ROE)": "8.99%",
+ "Revenue": "5.03B",
+ "Net Income": "484.40M",
+ "Free Cash Flow": "619.00M",
+ "Dividend Yield": "1.39%",
+ "Beta (5Y)": "0.47",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,030",
+  "4,591",
+  "4,284",
+  "3,680",
+  "1,734",
+  "1,417"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "484.4",
+  "382.2",
+  "372.7",
+  "174.9",
+  "319.7",
+  "151.9"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "36.54",
+  "49.98",
+  "44.64",
+  "69.73",
+  "20.06",
+  "44.57"
+ ]
+}

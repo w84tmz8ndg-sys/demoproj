@@ -1,0 +1,27 @@
+{
+ "ticker": "PBA",
+ "name": "Pembina Pipeline Corp. Ordinary Shares (Canada)",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Canada",
+ "mcap": 28916605080.0,
+ "price": "$49.72",
+ "cik": 1546066,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PBA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Pembina Pipeline Corporation (PBA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pba",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:44+00:00"
+}

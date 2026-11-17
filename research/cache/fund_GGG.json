@@ -1,0 +1,70 @@
+{
+ "ticker": "GGG",
+ "src_stats": "https://stockanalysis.com/stocks/ggg/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ggg/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ggg/financials/ratios/",
+ "Market Cap": "11.44B",
+ "Enterprise Value": "11.47B",
+ "PE Ratio": "23.02",
+ "Forward PE": "20.81",
+ "PS Ratio": "4.92",
+ "EV / EBITDA": "15.53",
+ "Gross Margin": "51.96%",
+ "Operating Margin": "27.03%",
+ "Profit Margin": "22.40%",
+ "FCF Margin": "25.98%",
+ "Debt / Equity": "0.07",
+ "Debt / EBITDA": "0.22",
+ "Net Cash": "-24.86M",
+ "Total Debt": "164.67M",
+ "Cash & Cash Equivalents": "139.82M",
+ "Return on Invested Capital (ROIC)": "22.24%",
+ "Return on Equity (ROE)": "20.38%",
+ "Revenue": "2.31B",
+ "Net Income": "517.48M",
+ "Free Cash Flow": "600.10M",
+ "Dividend Yield": "1.66%",
+ "Beta (5Y)": "0.89",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,310",
+  "2,237",
+  "2,113",
+  "2,196",
+  "2,144",
+  "1,988"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "517.48",
+  "521.84",
+  "486.08",
+  "506.51",
+  "460.65",
+  "439.87"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "23.02",
+  "26.50",
+  "29.23",
+  "28.91",
+  "24.61",
+  "31.15"
+ ]
+}

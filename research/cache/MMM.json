@@ -1,0 +1,27 @@
+{
+ "ticker": "MMM",
+ "name": "3M Company Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 93910432779.0,
+ "price": "$181.74",
+ "cik": 66740,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MMM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, 3M Co (MMM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mmm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:34+00:00"
+}

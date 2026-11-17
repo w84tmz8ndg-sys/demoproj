@@ -1,0 +1,27 @@
+{
+ "ticker": "SHC",
+ "name": "Sotera Health Company Common Stock",
+ "sector": "Health Care",
+ "industry": "Misc Health and Biotechnology Services",
+ "country": "United States",
+ "mcap": 4641501248.0,
+ "price": "$16.25",
+ "cik": 1822479,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SHC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Sotera Health Company (SHC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/shc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:41+00:00"
+}

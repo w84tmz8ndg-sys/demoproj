@@ -1,0 +1,27 @@
+{
+ "ticker": "STN",
+ "name": "Stantec Inc Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Military/Government/Technical",
+ "country": "Canada",
+ "mcap": 9308444846.0,
+ "price": "$84.105",
+ "cik": 1131383,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/STN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Stantec Inc. (STN) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/stn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:34+00:00"
+}

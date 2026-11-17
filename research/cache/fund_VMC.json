@@ -1,0 +1,70 @@
+{
+ "ticker": "VMC",
+ "src_stats": "https://stockanalysis.com/stocks/vmc/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/vmc/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/vmc/financials/ratios/",
+ "Market Cap": "35.94B",
+ "Enterprise Value": "41.16B",
+ "PE Ratio": "33.19",
+ "Forward PE": "29.34",
+ "PS Ratio": "4.44",
+ "EV / EBITDA": "17.72",
+ "Gross Margin": "27.48%",
+ "Operating Margin": "19.83%",
+ "Profit Margin": "13.77%",
+ "FCF Margin": "9.75%",
+ "Debt / Equity": "0.63",
+ "Debt / EBITDA": "2.18",
+ "Net Cash": "-5.22B",
+ "Total Debt": "5.32B",
+ "Cash & Cash Equivalents": "106.60M",
+ "Return on Invested Capital (ROIC)": "9.27%",
+ "Return on Equity (ROE)": "12.88%",
+ "Revenue": "8.01B",
+ "Net Income": "1.10B",
+ "Free Cash Flow": "781.20M",
+ "Dividend Yield": "0.74%",
+ "Beta (5Y)": "1.00",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "8,009",
+  "7,941",
+  "7,418",
+  "7,782",
+  "7,315",
+  "5,552"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,103",
+  "1,077",
+  "911.9",
+  "933.2",
+  "575.6",
+  "670.8"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "33.09",
+  "35.00",
+  "37.25",
+  "32.32",
+  "40.43",
+  "41.07"
+ ]
+}

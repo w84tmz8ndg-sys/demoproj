@@ -1,0 +1,70 @@
+{
+ "ticker": "SPGI",
+ "src_stats": "https://stockanalysis.com/stocks/spgi/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/spgi/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/spgi/financials/ratios/",
+ "Market Cap": "136.71B",
+ "Enterprise Value": "147.86B",
+ "PE Ratio": "28.05",
+ "Forward PE": "24.29",
+ "PS Ratio": "8.39",
+ "EV / EBITDA": "17.60",
+ "Gross Margin": "70.99%",
+ "Operating Margin": "44.09%",
+ "Profit Margin": "30.60%",
+ "FCF Margin": "34.83%",
+ "Debt / Equity": "0.54",
+ "Debt / EBITDA": "1.60",
+ "Net Cash": "-11.14B",
+ "Total Debt": "13.58B",
+ "Cash & Cash Equivalents": "2.44B",
+ "Return on Invested Capital (ROIC)": "13.03%",
+ "Return on Equity (ROE)": "17.88%",
+ "Revenue": "16.29B",
+ "Net Income": "4.99B",
+ "Free Cash Flow": "5.68B",
+ "Dividend Yield": "0.82%",
+ "Beta (5Y)": "1.03",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "16,293",
+  "15,336",
+  "14,208",
+  "12,497",
+  "11,181",
+  "8,297"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "4,986",
+  "4,471",
+  "3,852",
+  "2,626",
+  "3,248",
+  "3,024"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "28.05",
+  "35.39",
+  "40.08",
+  "53.14",
+  "33.60",
+  "37.59"
+ ]
+}

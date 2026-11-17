@@ -1,0 +1,27 @@
+{
+ "ticker": "TRI",
+ "name": "Thomson Reuters Corporation Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Publishing",
+ "country": "United States",
+ "mcap": 46939260491.0,
+ "price": "$108.29",
+ "cik": 1075124,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Thomson Reuters (TRI) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tri",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:41+00:00"
+}

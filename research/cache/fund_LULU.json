@@ -1,0 +1,70 @@
+{
+ "ticker": "LULU",
+ "src_stats": "https://stockanalysis.com/stocks/lulu/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/lulu/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/lulu/financials/ratios/",
+ "Market Cap": "11.68B",
+ "Enterprise Value": "12.43B",
+ "PE Ratio": "8.63",
+ "Forward PE": "12.55",
+ "PS Ratio": "1.05",
+ "EV / EBITDA": "5.21",
+ "Gross Margin": "54.89%",
+ "Operating Margin": "16.62%",
+ "Profit Margin": "12.78%",
+ "FCF Margin": "12.21%",
+ "Debt / Equity": "0.45",
+ "Debt / EBITDA": "0.71",
+ "Net Cash": "-751.39M",
+ "Total Debt": "2.14B",
+ "Cash & Cash Equivalents": "1.39B",
+ "Return on Invested Capital (ROIC)": "23.70%",
+ "Return on Equity (ROE)": "30.90%",
+ "Revenue": "11.09B",
+ "Net Income": "1.42B",
+ "Free Cash Flow": "1.35B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.84",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "11,094",
+  "11,103",
+  "10,588",
+  "9,619",
+  "8,111",
+  "6,257"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,418",
+  "1,579",
+  "1,815",
+  "1,550",
+  "854.8",
+  "975.32"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "8.63",
+  "12.96",
+  "27.71",
+  "38.91",
+  "46.37",
+  "41.88"
+ ]
+}

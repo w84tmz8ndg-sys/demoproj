@@ -1,0 +1,27 @@
+{
+ "ticker": "CENTA",
+ "name": "Central Garden & Pet Company Class A Common Stock Nonvoting",
+ "sector": "Consumer Discretionary",
+ "industry": "Consumer Specialties",
+ "country": "United States",
+ "mcap": 2514970588.0,
+ "price": "$40.18",
+ "cik": 887733,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CENTA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Central Garden & Pet Company (CENTA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/centa",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:08+00:00"
+}

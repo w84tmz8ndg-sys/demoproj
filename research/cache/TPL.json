@@ -1,0 +1,27 @@
+{
+ "ticker": "TPL",
+ "name": "Texas Pacific Land Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 20155092119.0,
+ "price": "$292.21",
+ "cik": 1811074,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TPL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Texas Pacific Land Corporation (TPL) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tpl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:30+00:00"
+}

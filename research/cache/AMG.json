@@ -1,0 +1,27 @@
+{
+ "ticker": "AMG",
+ "name": "Affiliated Managers Group Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 9575581720.0,
+ "price": "$387.85",
+ "cik": 1004434,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Affiliated Managers Group (AMG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/amg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:23+00:00"
+}

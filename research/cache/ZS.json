@@ -1,0 +1,27 @@
+{
+ "ticker": "ZS",
+ "name": "Zscaler Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 31117358566.0,
+ "price": "$190.84",
+ "cik": 1713683,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Zscaler (ZS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/zs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:31+00:00"
+}

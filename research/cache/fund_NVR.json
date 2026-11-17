@@ -1,0 +1,70 @@
+{
+ "ticker": "NVR",
+ "src_stats": "https://stockanalysis.com/stocks/nvr/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/nvr/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/nvr/financials/ratios/",
+ "Market Cap": "15.33B",
+ "Enterprise Value": "15.34B",
+ "PE Ratio": "15.92",
+ "Forward PE": "17.22",
+ "PS Ratio": "1.63",
+ "EV / EBITDA": "10.75",
+ "Gross Margin": "21.10%",
+ "Operating Margin": "14.88%",
+ "Profit Margin": "11.12%",
+ "FCF Margin": "8.69%",
+ "Debt / Equity": "0.32",
+ "Debt / EBITDA": "0.73",
+ "Net Cash": "-13.82M",
+ "Total Debt": "1.11B",
+ "Cash & Cash Equivalents": "1.09B",
+ "Return on Invested Capital (ROIC)": "31.24%",
+ "Return on Equity (ROE)": "28.30%",
+ "Revenue": "9.41B",
+ "Net Income": "1.05B",
+ "Free Cash Flow": "818.25M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.94",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "9,414",
+  "10,438",
+  "10,687",
+  "9,683",
+  "10,575",
+  "8,966"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,047",
+  "1,340",
+  "1,682",
+  "1,592",
+  "1,726",
+  "1,237"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "15.75",
+  "15.46",
+  "14.78",
+  "14.01",
+  "8.54",
+  "16.62"
+ ]
+}

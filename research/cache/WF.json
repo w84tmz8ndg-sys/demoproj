@@ -1,0 +1,27 @@
+{
+ "ticker": "WF",
+ "name": "Woori Financial Group Inc. American Depositary Shares (each representing three (3) shares of Common Stock)",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "South Korea",
+ "mcap": 17725856584.0,
+ "price": "$72.175",
+ "cik": 1264136,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Woori Financial Group (WF) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:50+00:00"
+}

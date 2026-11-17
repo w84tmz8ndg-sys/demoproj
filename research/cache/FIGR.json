@@ -1,0 +1,27 @@
+{
+ "ticker": "FIGR",
+ "name": "Figure Technology Solutions Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "U.S. Virgin Islands",
+ "mcap": 5690222834.0,
+ "price": "$25.36",
+ "cik": 2064124,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FIGR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Figure Technology Solutions Inc Cl A (FIGR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/figr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:19+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "STLD",
+ "src_stats": "https://stockanalysis.com/stocks/stld/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/stld/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/stld/financials/ratios/",
+ "Market Cap": "32.09B",
+ "Enterprise Value": "35.58B",
+ "PE Ratio": "16.69",
+ "Forward PE": "9.67",
+ "PS Ratio": "1.44",
+ "EV / EBITDA": "11.08",
+ "Gross Margin": "15.90%",
+ "Operating Margin": "11.50%",
+ "Profit Margin": "8.82%",
+ "FCF Margin": "4.93%",
+ "Debt / Equity": "0.45",
+ "Debt / EBITDA": "1.37",
+ "Net Cash": "-3.48B",
+ "Total Debt": "4.41B",
+ "Cash & Cash Equivalents": "928.56M",
+ "Return on Invested Capital (ROIC)": "15.16%",
+ "Return on Equity (ROE)": "20.81%",
+ "Revenue": "22.22B",
+ "Net Income": "1.96B",
+ "Free Cash Flow": "1.09B",
+ "Dividend Yield": "0.94%",
+ "Beta (5Y)": "1.44",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "22,220",
+  "18,177",
+  "17,540",
+  "18,795",
+  "22,261",
+  "18,409"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,960",
+  "1,186",
+  "1,537",
+  "2,451",
+  "3,863",
+  "3,214"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "16.72",
+  "20.87",
+  "11.30",
+  "7.80",
+  "4.44",
+  "3.83"
+ ]
+}

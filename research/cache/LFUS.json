@@ -1,0 +1,27 @@
+{
+ "ticker": "LFUS",
+ "name": "Littelfuse Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Electrical Products",
+ "country": "United States",
+ "mcap": 9565197552.0,
+ "price": "$376.53",
+ "cik": 889331,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LFUS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Littelfuse, Inc. (LFUS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lfus",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:24+00:00"
+}

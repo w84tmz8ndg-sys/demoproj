@@ -1,0 +1,27 @@
+{
+ "ticker": "VFC",
+ "name": "V.F. Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Garments and Clothing",
+ "country": "United States",
+ "mcap": 7933795295.0,
+ "price": "$20.155",
+ "cik": 103379,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VFC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, V.F. Corporation (VFC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vfc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:20+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "DASH",
+ "name": "DoorDash Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 74020061477.0,
+ "price": "$169.78",
+ "cik": 1792789,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DASH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, DoorDash, Inc. (DASH) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dash",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:56+00:00"
+}

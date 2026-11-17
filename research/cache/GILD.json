@@ -1,0 +1,27 @@
+{
+ "ticker": "GILD",
+ "name": "Gilead Sciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 207855944934.0,
+ "price": "$167.58",
+ "cik": 882095,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GILD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Gilead Sciences (GILD) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gild",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:36+00:00"
+}

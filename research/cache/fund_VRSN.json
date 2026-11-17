@@ -1,0 +1,70 @@
+{
+ "ticker": "VRSN",
+ "src_stats": "https://stockanalysis.com/stocks/vrsn/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/vrsn/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/vrsn/financials/ratios/",
+ "Market Cap": "27.14B",
+ "Enterprise Value": "28.46B",
+ "PE Ratio": "32.58",
+ "Forward PE": "28.66",
+ "PS Ratio": "15.72",
+ "EV / EBITDA": "23.68",
+ "Gross Margin": "88.57%",
+ "Operating Margin": "68.06%",
+ "Profit Margin": "49.07%",
+ "FCF Margin": "59.12%",
+ "Debt / Equity": "n/a",
+ "Debt / EBITDA": "1.49",
+ "Net Cash": "-1.32B",
+ "Total Debt": "1.79B",
+ "Cash & Cash Equivalents": "476.10M",
+ "Return on Invested Capital (ROIC)": "n/a",
+ "Return on Equity (ROE)": "n/a",
+ "Revenue": "1.73B",
+ "Net Income": "849.80M",
+ "Free Cash Flow": "1.02B",
+ "Dividend Yield": "1.07%",
+ "Beta (5Y)": "0.67",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,732",
+  "1,657",
+  "1,557",
+  "1,493",
+  "1,425",
+  "1,328"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "849.8",
+  "825.7",
+  "785.7",
+  "817.6",
+  "673.8",
+  "784.8"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "32.61",
+  "27.28",
+  "25.31",
+  "25.72",
+  "32.32",
+  "35.92"
+ ]
+}

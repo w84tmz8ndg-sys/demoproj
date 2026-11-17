@@ -1,0 +1,27 @@
+{
+ "ticker": "CF",
+ "name": "CF Industries Holdings Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Agricultural Chemicals",
+ "country": "United States",
+ "mcap": 17527858036.0,
+ "price": "$119.82",
+ "cik": 1324404,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, CF Industries (CF) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:55+00:00"
+}

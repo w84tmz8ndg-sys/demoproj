@@ -1,0 +1,27 @@
+{
+ "ticker": "LNG",
+ "name": "Cheniere Energy Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Oil/Gas Transmission",
+ "country": "United States",
+ "mcap": 62359791257.0,
+ "price": "$305.38",
+ "cik": 3570,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LNG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Cheniere Energy, Inc. (LNG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lng",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:13+00:00"
+}

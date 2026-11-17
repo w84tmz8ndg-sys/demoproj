@@ -1,0 +1,27 @@
+{
+ "ticker": "ABVX",
+ "name": "Abivax SA American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "France",
+ "mcap": 7295289967.0,
+ "price": "$83.61",
+ "cik": 1956827,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ABVX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/abvx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:47+00:00"
+}

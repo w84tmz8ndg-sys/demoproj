@@ -1,0 +1,27 @@
+{
+ "ticker": "KSS",
+ "name": "Kohl's Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Department/Specialty Retail Stores",
+ "country": "United States",
+ "mcap": 2650741284.0,
+ "price": "$23.38",
+ "cik": 885639,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KSS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Kohl's Corporation (KSS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/kss",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:39+00:00"
+}

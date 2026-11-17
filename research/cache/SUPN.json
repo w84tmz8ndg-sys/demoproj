@@ -1,0 +1,27 @@
+{
+ "ticker": "SUPN",
+ "name": "Supernus Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United Kingdom",
+ "mcap": 5988685745.0,
+ "price": "$28.83",
+ "cik": 1625297,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SUPN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/supn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:58+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PCOR",
+ "name": "Procore Technologies Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 11602880911.0,
+ "price": "$77.56",
+ "cik": 1611052,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PCOR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Procore Technologies (PCOR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pcor",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:29+00:00"
+}

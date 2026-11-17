@@ -1,0 +1,27 @@
+{
+ "ticker": "SPHR",
+ "name": "Sphere Entertainment Co. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 4551765577.0,
+ "price": "$125.45",
+ "cik": 1795250,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SPHR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Sphere Entertainment Co. (SPHR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sphr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:46+00:00"
+}

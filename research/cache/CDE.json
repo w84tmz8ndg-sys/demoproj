@@ -1,0 +1,27 @@
+{
+ "ticker": "CDE",
+ "name": "Coeur Mining Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "United States",
+ "mcap": 13427811662.0,
+ "price": "$13.14",
+ "cik": 215466,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CDE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Coeur Mining (CDE) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cde",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:53+00:00"
+}

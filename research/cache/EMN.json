@@ -1,0 +1,27 @@
+{
+ "ticker": "EMN",
+ "name": "Eastman Chemical Company Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 7260871347.0,
+ "price": "$63.48",
+ "cik": 915389,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EMN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Eastman Chemical Company (EMN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/emn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:48+00:00"
+}

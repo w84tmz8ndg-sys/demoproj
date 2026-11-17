@@ -1,0 +1,27 @@
+{
+ "ticker": "KEYS",
+ "name": "Keysight Technologies Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 48620196725.0,
+ "price": "$285.59",
+ "cik": 1601046,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KEYS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Keysight Technologies (KEYS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/keys",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:36+00:00"
+}

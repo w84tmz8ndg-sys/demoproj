@@ -1,0 +1,27 @@
+{
+ "ticker": "CXT",
+ "name": "Crane NXT Co. Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 3213437499.0,
+ "price": "$55.82",
+ "cik": 25445,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CXT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Crane NXT, Co. (CXT) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cxt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:18+00:00"
+}

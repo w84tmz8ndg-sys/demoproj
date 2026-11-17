@@ -1,0 +1,27 @@
+{
+ "ticker": "WWW",
+ "name": "Wolverine World Wide Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Shoe Manufacturing",
+ "country": "United States",
+ "mcap": 2079259429.0,
+ "price": "$25.33",
+ "cik": 110471,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WWW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Wolverine World Wide (WWW) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/www",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:13+00:00"
+}

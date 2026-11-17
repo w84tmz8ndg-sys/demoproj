@@ -1,0 +1,27 @@
+{
+ "ticker": "MDLN",
+ "name": "Medline Inc. Class A Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 51521140570.0,
+ "price": "$39.17",
+ "cik": 2046386,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MDLN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Medline Inc. (MDLN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mdln",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:26+00:00"
+}

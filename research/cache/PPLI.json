@@ -1,0 +1,27 @@
+{
+ "ticker": "PPLI",
+ "name": "People Incorporated Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 3246410578.0,
+ "price": "$43.26",
+ "cik": 1800227,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PPLI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ppli",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:15+00:00"
+}

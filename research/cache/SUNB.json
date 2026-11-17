@@ -1,0 +1,27 @@
+{
+ "ticker": "SUNB",
+ "name": "Sunbelt Rentals Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "United States",
+ "mcap": 33088515433.0,
+ "price": "$80.75",
+ "cik": 2083785,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SUNB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sunb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:23+00:00"
+}

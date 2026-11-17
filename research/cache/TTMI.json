@@ -1,0 +1,27 @@
+{
+ "ticker": "TTMI",
+ "name": "TTM Technologies Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Electrical Products",
+ "country": "United States",
+ "mcap": 7191879240.0,
+ "price": "$68.25",
+ "cik": 1116942,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TTMI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, TTM Technologies (TTMI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ttmi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:51+00:00"
+}

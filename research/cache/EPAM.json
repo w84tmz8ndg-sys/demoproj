@@ -1,0 +1,27 @@
+{
+ "ticker": "EPAM",
+ "name": "EPAM Systems Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 8258126770.0,
+ "price": "$161.85",
+ "cik": 1352010,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EPAM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, EPAM Systems (EPAM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/epam",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:10+00:00"
+}

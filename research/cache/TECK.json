@@ -1,0 +1,27 @@
+{
+ "ticker": "TECK",
+ "name": "Teck Resources Ltd Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+ "country": "Canada",
+ "mcap": 28070470000.0,
+ "price": "$57.17",
+ "cik": 886986,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TECK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Teck Resources Limited (TECK) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/teck",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:46+00:00"
+}

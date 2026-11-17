@@ -1,0 +1,27 @@
+{
+ "ticker": "NESR",
+ "name": "National Energy Services Reunited Corp Ordinary Shares",
+ "sector": "Energy",
+ "industry": "Oilfield Services/Equipment",
+ "country": "United States",
+ "mcap": 2065951830.0,
+ "price": "$20.23",
+ "cik": 1698514,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NESR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, National Energy Services Reunited Corp (NESR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nesr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:15+00:00"
+}

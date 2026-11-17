@@ -1,0 +1,27 @@
+{
+ "ticker": "OCTV",
+ "name": "Octave Intelligence plc Class B Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 5717724884.0,
+ "price": "$21.30",
+ "cik": 2083632,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OCTV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/octv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:17+00:00"
+}

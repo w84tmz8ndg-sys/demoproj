@@ -1,0 +1,27 @@
+{
+ "ticker": "PG",
+ "name": "Procter & Gamble Company (The) Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "United States",
+ "mcap": 401300973379.0,
+ "price": "$173.14",
+ "cik": 80424,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Procter & Gamble Co (PG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:27+00:00"
+}

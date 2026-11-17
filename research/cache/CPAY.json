@@ -1,0 +1,27 @@
+{
+ "ticker": "CPAY",
+ "name": "Corpay Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 29549866328.0,
+ "price": "$461.92",
+ "cik": 1175454,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CPAY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Corpay (CPAY) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cpay",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:39+00:00"
+}

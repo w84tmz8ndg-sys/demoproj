@@ -1,0 +1,27 @@
+{
+ "ticker": "ELS",
+ "name": "Equity Lifestyle Properties Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 12145857086.0,
+ "price": "$62.355",
+ "cik": 895417,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ELS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Equity LifeStyle Properties, Inc. (ELS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/els",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:14+00:00"
+}

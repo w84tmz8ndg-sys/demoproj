@@ -1,0 +1,27 @@
+{
+ "ticker": "BTI",
+ "name": "British American Tobacco  Industries p.l.c. Common Stock ADR",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "United Kingdom",
+ "mcap": 134167515433.0,
+ "price": "$62.105",
+ "cik": 1303523,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BTI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, British American Tobacco p.l.c. (BTI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bti",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:07+00:00"
+}

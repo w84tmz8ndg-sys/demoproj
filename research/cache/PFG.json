@@ -1,0 +1,27 @@
+{
+ "ticker": "PFG",
+ "name": "Principal Financial Group Inc Common Stock",
+ "sector": "Finance",
+ "industry": "Accident &Health Insurance",
+ "country": "United States",
+ "mcap": 23843505950.0,
+ "price": "$112.27",
+ "cik": 1126328,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PFG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Principal Financial Group (PFG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pfg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:05+00:00"
+}

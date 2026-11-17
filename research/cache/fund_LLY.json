@@ -1,0 +1,70 @@
+{
+ "ticker": "LLY",
+ "src_stats": "https://stockanalysis.com/stocks/lly/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/lly/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/lly/financials/ratios/",
+ "Market Cap": "1.28T",
+ "Enterprise Value": "1.32T",
+ "PE Ratio": "46.47",
+ "Forward PE": "30.51",
+ "PS Ratio": "14.75",
+ "EV / EBITDA": "28.37",
+ "Gross Margin": "83.63%",
+ "Operating Margin": "51.25%",
+ "Profit Margin": "31.90%",
+ "FCF Margin": "22.74%",
+ "Debt / Equity": "1.23",
+ "Debt / EBITDA": "1.06",
+ "Net Cash": "-43.86B",
+ "Total Debt": "49.50B",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "42.68%",
+ "Return on Equity (ROE)": "86.02%",
+ "Revenue": "86.46B",
+ "Net Income": "27.58B",
+ "Free Cash Flow": "19.66B",
+ "Dividend Yield": "0.48%",
+ "Beta (5Y)": "0.39",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "86,462",
+  "65,179",
+  "45,043",
+  "34,124",
+  "28,541",
+  "28,318"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "27,580",
+  "20,640",
+  "10,590",
+  "5,240",
+  "6,245",
+  "5,582"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "46.35",
+  "46.62",
+  "65.64",
+  "100.04",
+  "55.66",
+  "44.86"
+ ]
+}

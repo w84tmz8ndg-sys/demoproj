@@ -1,0 +1,27 @@
+{
+ "ticker": "VERX",
+ "name": "Vertex Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 2985727097.0,
+ "price": "$18.40",
+ "cik": 1806837,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VERX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Vertex (VERX) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/verx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:54+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GCMG",
+ "name": "GCM Grosvenor Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 2680572817.0,
+ "price": "$13.21",
+ "cik": 1819796,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GCMG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, GCM Grosvenor Inc - Ordinary Shares - Class A (GCMG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gcmg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:34+00:00"
+}

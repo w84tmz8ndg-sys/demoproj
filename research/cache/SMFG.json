@@ -1,0 +1,27 @@
+{
+ "ticker": "SMFG",
+ "name": "Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan)",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "Japan",
+ "mcap": 154442120892.0,
+ "price": "$24.20",
+ "cik": 1022837,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SMFG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Sumitomo Mitsui Financial Group (SMFG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/smfg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:43+00:00"
+}

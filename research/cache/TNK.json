@@ -1,0 +1,27 @@
+{
+ "ticker": "TNK",
+ "name": "Teekay Tankers Ltd.",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Bermuda",
+ "mcap": 3034663385.0,
+ "price": "$87.596",
+ "cik": 1419945,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TNK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tnk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:47+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "JXN",
+ "name": "Jackson Financial Inc. Class A Common Stock ",
+ "sector": "Finance",
+ "industry": "Life Insurance",
+ "country": "United States",
+ "mcap": 9091724118.0,
+ "price": "$137.63",
+ "cik": 1822993,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JXN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Jackson Financial Inc. (JXN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jxn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:36+00:00"
+}

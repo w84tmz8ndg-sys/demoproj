@@ -1,0 +1,70 @@
+{
+ "ticker": "CPRT",
+ "src_stats": "https://stockanalysis.com/stocks/cprt/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/cprt/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/cprt/financials/ratios/",
+ "Market Cap": "29.46B",
+ "Enterprise Value": "25.06B",
+ "PE Ratio": "20.52",
+ "Forward PE": "19.64",
+ "PS Ratio": "6.37",
+ "EV / EBITDA": "13.57",
+ "Gross Margin": "45.29%",
+ "Operating Margin": "35.42%",
+ "Profit Margin": "31.81%",
+ "FCF Margin": "27.16%",
+ "Debt / Equity": "0.01",
+ "Debt / EBITDA": "0.05",
+ "Net Cash": "4.40B",
+ "Total Debt": "88.37M",
+ "Cash & Cash Equivalents": "4.49B",
+ "Return on Invested Capital (ROIC)": "28.38%",
+ "Return on Equity (ROE)": "16.16%",
+ "Revenue": "4.67B",
+ "Net Income": "1.48B",
+ "Free Cash Flow": "1.27B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.00",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "4,666",
+  "4,666",
+  "4,647",
+  "4,237",
+  "3,870",
+  "3,501"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,484",
+  "1,484",
+  "1,552",
+  "1,363",
+  "1,238",
+  "1,090"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "20.70",
+  "18.16",
+  "28.23",
+  "36.95",
+  "34.10",
+  "27.93"
+ ]
+}

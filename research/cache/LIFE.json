@@ -1,0 +1,27 @@
+{
+ "ticker": "LIFE",
+ "name": "Ethos Technologies Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Specialty Insurers",
+ "country": "United States",
+ "mcap": 2209866614.0,
+ "price": "$33.99",
+ "cik": 1788451,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LIFE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Ethos Technologies Inc. (LIFE) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/life",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:53+00:00"
+}

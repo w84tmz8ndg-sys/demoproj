@@ -1,0 +1,27 @@
+{
+ "ticker": "OLLI",
+ "name": "Ollie's Bargain Outlet Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Department/Specialty Retail Stores",
+ "country": "United States",
+ "mcap": 5781041860.0,
+ "price": "$97.32",
+ "cik": 1639300,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OLLI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Ollie's Bargain Outlet Holdings (OLLI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/olli",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:11+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "KTB",
+ "name": "Kontoor Brands Inc. Common Stock ",
+ "sector": "Industrials",
+ "industry": "Garments and Clothing",
+ "country": "United States",
+ "mcap": 4393534596.0,
+ "price": "$80.45",
+ "cik": 1760965,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KTB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Kontoor Brands, Inc. (KTB) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ktb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:02+00:00"
+}

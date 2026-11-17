@@ -1,0 +1,27 @@
+{
+ "ticker": "HL",
+ "name": "Hecla Mining Company Common Stock",
+ "sector": "Industrials",
+ "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+ "country": "United States",
+ "mcap": 8212477810.0,
+ "price": "$12.225",
+ "cik": 719413,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Hecla Mining Company (HL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:10+00:00"
+}

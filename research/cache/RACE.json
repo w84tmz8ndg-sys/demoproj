@@ -1,0 +1,27 @@
+{
+ "ticker": "RACE",
+ "name": "Ferrari N.V. Common Shares",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "Italy",
+ "mcap": 94703086809.0,
+ "price": "$404.81",
+ "cik": 1648416,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RACE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Ferrari N.V. (RACE) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/race",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:32+00:00"
+}

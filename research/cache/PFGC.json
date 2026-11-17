@@ -1,0 +1,27 @@
+{
+ "ticker": "PFGC",
+ "name": "Performance Food Group Company Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Food Distributors",
+ "country": "United States",
+ "mcap": 17673445429.0,
+ "price": "$112.01",
+ "cik": 1618673,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PFGC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Performance Food Group Company (PFGC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pfgc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:53+00:00"
+}

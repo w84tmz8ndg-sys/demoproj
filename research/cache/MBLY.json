@@ -1,0 +1,27 @@
+{
+ "ticker": "MBLY",
+ "name": "Mobileye Global Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Israel",
+ "mcap": 4471903978.0,
+ "price": "$5.26",
+ "cik": 1910139,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MBLY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mbly",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:56+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "JOBY",
+ "name": "Joby Aviation Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "United States",
+ "mcap": 4788385040.0,
+ "price": "$4.71",
+ "cik": 1819848,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JOBY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Joby Aviation (JOBY) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/joby",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:23+00:00"
+}

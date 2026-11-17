@@ -1,0 +1,27 @@
+{
+ "ticker": "ZLAB",
+ "name": "Zai Lab Limited American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "China",
+ "mcap": 2639080277.0,
+ "price": "$23.47",
+ "cik": 1704292,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZLAB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zlab",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:47+00:00"
+}

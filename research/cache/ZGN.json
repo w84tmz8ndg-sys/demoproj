@@ -1,0 +1,27 @@
+{
+ "ticker": "ZGN",
+ "name": "Ermenegildo Zegna N.V. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Apparel",
+ "country": "",
+ "mcap": 3784541465.0,
+ "price": "$14.105",
+ "cik": 1877787,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZGN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zgn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:08+00:00"
+}

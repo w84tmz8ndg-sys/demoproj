@@ -1,0 +1,27 @@
+{
+ "ticker": "HD",
+ "name": "Home Depot Inc. (The) Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "RETAIL: Building Materials",
+ "country": "United States",
+ "mcap": 346926613649.0,
+ "price": "$347.73",
+ "cik": 354950,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Home Depot (HD) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:29+00:00"
+}

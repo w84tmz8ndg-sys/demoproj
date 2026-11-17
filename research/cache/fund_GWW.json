@@ -1,0 +1,70 @@
+{
+ "ticker": "GWW",
+ "src_stats": "https://stockanalysis.com/stocks/gww/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/gww/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/gww/financials/ratios/",
+ "Market Cap": "70.02B",
+ "Enterprise Value": "72.32B",
+ "PE Ratio": "32.88",
+ "Forward PE": "29.30",
+ "PS Ratio": "3.62",
+ "EV / EBITDA": "21.61",
+ "Gross Margin": "39.43%",
+ "Operating Margin": "15.94%",
+ "Profit Margin": "11.17%",
+ "FCF Margin": "8.86%",
+ "Debt / Equity": "0.65",
+ "Debt / EBITDA": "0.89",
+ "Net Cash": "-2.30B",
+ "Total Debt": "3.07B",
+ "Cash & Cash Equivalents": "768.00M",
+ "Return on Invested Capital (ROIC)": "33.98%",
+ "Return on Equity (ROE)": "52.33%",
+ "Revenue": "19.37B",
+ "Net Income": "2.16B",
+ "Free Cash Flow": "1.72B",
+ "Dividend Yield": "0.67%",
+ "Beta (5Y)": "0.96",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "19,369",
+  "17,942",
+  "17,168",
+  "16,478",
+  "15,228",
+  "13,022"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,163",
+  "1,706",
+  "1,909",
+  "1,829",
+  "1,547",
+  "1,043"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "32.28",
+  "28.12",
+  "26.89",
+  "22.49",
+  "18.17",
+  "25.60"
+ ]
+}

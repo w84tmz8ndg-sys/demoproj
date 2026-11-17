@@ -1,0 +1,27 @@
+{
+ "ticker": "NATL",
+ "name": "NCR Atleos Corporation Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Office Equipment/Supplies/Services",
+ "country": "United States",
+ "mcap": 3564641759.0,
+ "price": "$48.21",
+ "cik": 1974138,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NATL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, NCR Atleos Corporation (NATL) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/natl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:30+00:00"
+}

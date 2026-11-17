@@ -1,0 +1,27 @@
+{
+ "ticker": "TLX",
+ "name": "Telix Pharmaceuticals Limited American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Australia",
+ "mcap": 3021891277.0,
+ "price": "$8.92",
+ "cik": 2007191,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/TLX/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tlx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:50+00:00"
+}

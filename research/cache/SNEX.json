@@ -1,0 +1,27 @@
+{
+ "ticker": "SNEX",
+ "name": "StoneX Group Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "United States",
+ "mcap": 6848618213.0,
+ "price": "$56.78",
+ "cik": 913760,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SNEX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, StoneX Group (SNEX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/snex",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:06+00:00"
+}

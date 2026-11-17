@@ -1,0 +1,27 @@
+{
+ "ticker": "CET",
+ "name": "Central Securities Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Finance/Investors Services",
+ "country": "United States",
+ "mcap": 12722054638.0,
+ "price": "$52.565",
+ "cik": 18748,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cet",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:07+00:00"
+}

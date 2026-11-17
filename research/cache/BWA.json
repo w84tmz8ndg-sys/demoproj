@@ -1,0 +1,27 @@
+{
+ "ticker": "BWA",
+ "name": "BorgWarner Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "United States",
+ "mcap": 9799726128.0,
+ "price": "$48.80",
+ "cik": 908255,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BWA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, BorgWarner (BWA) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bwa",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:15+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "APA",
+ "name": "APA Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 15881259037.0,
+ "price": "$47.30",
+ "cik": 1841666,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/APA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, APA (APA) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/apa",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:12+00:00"
+}

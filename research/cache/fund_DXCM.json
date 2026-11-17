@@ -1,0 +1,70 @@
+{
+ "ticker": "DXCM",
+ "src_stats": "https://stockanalysis.com/stocks/dxcm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/dxcm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/dxcm/financials/ratios/",
+ "Market Cap": "31.23B",
+ "Enterprise Value": "30.80B",
+ "PE Ratio": "32.83",
+ "Forward PE": "28.22",
+ "PS Ratio": "5.96",
+ "EV / EBITDA": "20.02",
+ "Gross Margin": "63.42%",
+ "Operating Margin": "23.98%",
+ "Profit Margin": "19.41%",
+ "FCF Margin": "21.52%",
+ "Debt / Equity": "0.55",
+ "Debt / EBITDA": "0.91",
+ "Net Cash": "425.00M",
+ "Total Debt": "1.39B",
+ "Cash & Cash Equivalents": "1.82B",
+ "Return on Invested Capital (ROIC)": "45.93%",
+ "Return on Equity (ROE)": "37.67%",
+ "Revenue": "5.10B",
+ "Net Income": "991.00M",
+ "Free Cash Flow": "1.10B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.44",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,104",
+  "4,662",
+  "4,033",
+  "3,622",
+  "2,910",
+  "2,449"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "991",
+  "836.3",
+  "576.2",
+  "541.5",
+  "341.2",
+  "216.9"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "32.14",
+  "30.95",
+  "52.72",
+  "88.54",
+  "128.19",
+  "239.94"
+ ]
+}

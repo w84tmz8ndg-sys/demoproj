@@ -1,0 +1,70 @@
+{
+ "ticker": "TJX",
+ "src_stats": "https://stockanalysis.com/stocks/tjx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/tjx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/tjx/financials/ratios/",
+ "Market Cap": "144.20B",
+ "Enterprise Value": "152.51B",
+ "PE Ratio": "24.26",
+ "Forward PE": "24.24",
+ "PS Ratio": "2.31",
+ "EV / EBITDA": "17.13",
+ "Gross Margin": "31.47%",
+ "Operating Margin": "12.16%",
+ "Profit Margin": "9.73%",
+ "FCF Margin": "9.42%",
+ "Debt / Equity": "1.34",
+ "Debt / EBITDA": "1.12",
+ "Net Cash": "-8.31B",
+ "Total Debt": "14.32B",
+ "Cash & Cash Equivalents": "6.00B",
+ "Return on Invested Capital (ROIC)": "30.13%",
+ "Return on Equity (ROE)": "62.17%",
+ "Revenue": "62.36B",
+ "Net Income": "6.07B",
+ "Free Cash Flow": "5.88B",
+ "Dividend Yield": "1.47%",
+ "Beta (5Y)": "0.59",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "62,363",
+  "60,372",
+  "56,360",
+  "54,217",
+  "49,936",
+  "48,550"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "6,067",
+  "5,494",
+  "4,864",
+  "4,474",
+  "3,498",
+  "3,283"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "24.26",
+  "30.28",
+  "28.84",
+  "24.84",
+  "27.05",
+  "25.94"
+ ]
+}

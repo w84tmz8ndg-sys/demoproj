@@ -1,0 +1,27 @@
+{
+ "ticker": "XOM",
+ "name": "ExxonMobil Holdings Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Integrated oil Companies",
+ "country": "United States",
+ "mcap": 681148563699.0,
+ "price": "$166.98",
+ "cik": 2115436,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XOM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Exxon Mobil (XOM) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/xom",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:25+00:00"
+}

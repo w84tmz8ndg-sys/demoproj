@@ -1,0 +1,27 @@
+{
+ "ticker": "CIGI",
+ "name": "Colliers International Group Inc. Subordinate Voting Shares",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "Canada",
+ "mcap": 4747544971.0,
+ "price": "$92.90",
+ "cik": 913353,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CIGI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Colliers International Group (CIGI) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cigi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:31+00:00"
+}

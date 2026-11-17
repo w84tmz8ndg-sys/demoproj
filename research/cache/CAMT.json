@@ -1,0 +1,27 @@
+{
+ "ticker": "CAMT",
+ "name": "Camtek Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Electronic Components",
+ "country": "Israel",
+ "mcap": 4340657603.0,
+ "price": "$93.25",
+ "cik": 1109138,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CAMT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/camt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:06+00:00"
+}

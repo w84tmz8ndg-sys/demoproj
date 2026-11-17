@@ -1,0 +1,27 @@
+{
+ "ticker": "SU",
+ "name": "Suncor Energy  Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Integrated oil Companies",
+ "country": "Canada",
+ "mcap": 79558206208.0,
+ "price": "$68.02",
+ "cik": 311337,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Suncor Energy Inc. (SU) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/su",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:49+00:00"
+}

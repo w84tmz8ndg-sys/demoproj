@@ -1,0 +1,27 @@
+{
+ "ticker": "CBOE",
+ "name": "Cboe Global Markets Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "",
+ "mcap": 42181387063.0,
+ "price": "$377.23",
+ "cik": 1374310,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CBOE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Cboe Global Markets (CBOE) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cboe",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:51+00:00"
+}

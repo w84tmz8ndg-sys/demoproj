@@ -1,0 +1,27 @@
+{
+ "ticker": "BBDO",
+ "name": "Banco Bradesco Sa American Depositary Shares (each representing one Common Share)",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "Brazil",
+ "mcap": 25304914405.0,
+ "price": "$2.26",
+ "cik": 1160330,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BBDO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Banco Bradesco S.A. (BBDO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bbdo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:00+00:00"
+}

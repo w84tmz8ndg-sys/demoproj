@@ -1,0 +1,27 @@
+{
+ "ticker": "NG",
+ "name": "Novagold Resources Inc.",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 2442011007.0,
+ "price": "$5.565",
+ "cik": 1173420,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ng",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:18+00:00"
+}

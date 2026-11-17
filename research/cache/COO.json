@@ -1,0 +1,27 @@
+{
+ "ticker": "COO",
+ "name": "The Cooper Companies Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Ophthalmic Goods",
+ "country": "United States",
+ "mcap": 11766809593.0,
+ "price": "$61.88",
+ "cik": 711404,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Cooper (COO) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/coo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:26+00:00"
+}

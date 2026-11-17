@@ -1,0 +1,27 @@
+{
+ "ticker": "CRL",
+ "name": "Charles River Laboratories International Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+ "country": "United States",
+ "mcap": 16074393480.0,
+ "price": "$335.46",
+ "cik": 1100682,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Charles River Laboratories International Inc. (CRL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/crl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:09+00:00"
+}

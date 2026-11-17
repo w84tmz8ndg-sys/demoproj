@@ -1,0 +1,70 @@
+{
+ "ticker": "ADBE",
+ "src_stats": "https://stockanalysis.com/stocks/adbe/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/adbe/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/adbe/financials/ratios/",
+ "Market Cap": "95.74B",
+ "Enterprise Value": "96.89B",
+ "PE Ratio": "13.73",
+ "Forward PE": "9.17",
+ "PS Ratio": "3.69",
+ "EV / EBITDA": "9.77",
+ "Gross Margin": "89.25%",
+ "Operating Margin": "36.32%",
+ "Profit Margin": "28.05%",
+ "FCF Margin": "40.79%",
+ "Debt / Equity": "0.58",
+ "Debt / EBITDA": "0.68",
+ "Net Cash": "-1.15B",
+ "Total Debt": "6.79B",
+ "Cash & Cash Equivalents": "5.64B",
+ "Return on Invested Capital (ROIC)": "57.22%",
+ "Return on Equity (ROE)": "61.90%",
+ "Revenue": "25.97B",
+ "Net Income": "7.28B",
+ "Free Cash Flow": "10.59B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.38",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "25,970",
+  "23,769",
+  "21,505",
+  "19,409",
+  "17,606",
+  "15,785"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "7,284",
+  "7,130",
+  "5,560",
+  "5,428",
+  "4,756",
+  "4,822"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "13.09",
+  "18.80",
+  "40.85",
+  "51.37",
+  "33.39",
+  "60.84"
+ ]
+}

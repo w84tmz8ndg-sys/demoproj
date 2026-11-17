@@ -1,0 +1,70 @@
+{
+ "ticker": "BSX",
+ "src_stats": "https://stockanalysis.com/stocks/bsx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/bsx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/bsx/financials/ratios/",
+ "Market Cap": "63.33B",
+ "Enterprise Value": "74.67B",
+ "PE Ratio": "18.45",
+ "Forward PE": "14.18",
+ "PS Ratio": "3.01",
+ "EV / EBITDA": "13.41",
+ "Gross Margin": "67.98%",
+ "Operating Margin": "19.64%",
+ "Profit Margin": "16.62%",
+ "FCF Margin": "15.81%",
+ "Debt / Equity": "0.46",
+ "Debt / EBITDA": "2.15",
+ "Net Cash": "-11.34B",
+ "Total Debt": "11.95B",
+ "Cash & Cash Equivalents": "609.00M",
+ "Return on Invested Capital (ROIC)": "10.62%",
+ "Return on Equity (ROE)": "14.12%",
+ "Revenue": "21.07B",
+ "Net Income": "3.50B",
+ "Free Cash Flow": "3.33B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.59",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "21,070",
+  "20,074",
+  "16,747",
+  "14,240",
+  "12,682",
+  "11,888"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "3,502",
+  "2,898",
+  "1,853",
+  "1,570",
+  "642",
+  "985"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "18.42",
+  "48.78",
+  "71.04",
+  "53.94",
+  "103.23",
+  "61.46"
+ ]
+}

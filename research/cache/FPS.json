@@ -1,0 +1,27 @@
+{
+ "ticker": "FPS",
+ "name": "Forgent Power Solutions Inc. Class A Common Stock",
+ "sector": "Energy",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 6260580102.0,
+ "price": "$20.565",
+ "cik": 2080126,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FPS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fps",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:39+00:00"
+}

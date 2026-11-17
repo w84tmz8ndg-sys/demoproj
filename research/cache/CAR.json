@@ -1,0 +1,27 @@
+{
+ "ticker": "CAR",
+ "name": "Avis Budget Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Rental/Leasing Companies",
+ "country": "United States",
+ "mcap": 4341604934.0,
+ "price": "$122.86",
+ "cik": 723612,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CAR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Avis Budget Group, Inc. (CAR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/car",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:05+00:00"
+}

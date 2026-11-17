@@ -1,0 +1,27 @@
+{
+ "ticker": "SNDK",
+ "name": "Sandisk Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "Electronic Components",
+ "country": "United States",
+ "mcap": 115127748115.0,
+ "price": "$809.11",
+ "cik": 2023554,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SNDK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sndk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:17+00:00"
+}

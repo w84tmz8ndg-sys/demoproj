@@ -1,0 +1,27 @@
+{
+ "ticker": "LGN",
+ "name": "Legence Corp. Class A Common stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Engineering & Construction",
+ "country": "United States",
+ "mcap": 3709470531.0,
+ "price": "$34.18",
+ "cik": 2052568,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LGN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Legence Corp. (LGN) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lgn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:13+00:00"
+}

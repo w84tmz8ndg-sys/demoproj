@@ -1,0 +1,27 @@
+{
+ "ticker": "SYM",
+ "name": "Symbotic Inc. Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 20732602550.0,
+ "price": "$34.28",
+ "cik": 1837240,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SYM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Symbotic Inc - Ordinary Shares - Class A (SYM) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sym",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:25+00:00"
+}

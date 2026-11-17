@@ -1,0 +1,27 @@
+{
+ "ticker": "SBS",
+ "name": "Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares)",
+ "sector": "Utilities",
+ "industry": "Water Supply",
+ "country": "Brazil",
+ "mcap": 16512441907.0,
+ "price": "$4.685",
+ "cik": 1170858,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SBS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Sabesp (SBS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sbs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:07+00:00"
+}

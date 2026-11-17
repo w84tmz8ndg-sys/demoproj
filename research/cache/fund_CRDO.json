@@ -1,0 +1,70 @@
+{
+ "ticker": "CRDO",
+ "src_stats": "https://stockanalysis.com/stocks/crdo/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/crdo/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/crdo/financials/ratios/",
+ "Market Cap": "23.19B",
+ "Enterprise Value": "22.46B",
+ "PE Ratio": "43.58",
+ "Forward PE": "16.97",
+ "PS Ratio": "14.26",
+ "EV / EBITDA": "40.40",
+ "Gross Margin": "67.07%",
+ "Operating Margin": "31.74%",
+ "Profit Margin": "33.83%",
+ "FCF Margin": "27.57%",
+ "Debt / Equity": "0.01",
+ "Debt / EBITDA": "0.05",
+ "Net Cash": "738.05M",
+ "Total Debt": "26.21M",
+ "Cash & Cash Equivalents": "764.26M",
+ "Return on Invested Capital (ROIC)": "38.22%",
+ "Return on Equity (ROE)": "30.67%",
+ "Revenue": "1.59B",
+ "Net Income": "538.31M",
+ "Free Cash Flow": "438.60M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "3.29",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,591",
+  "1,335",
+  "436.78",
+  "192.97",
+  "184.19",
+  "106.48"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "538.31",
+  "472.28",
+  "52.18",
+  "-28.37",
+  "-16.55",
+  "-22.18"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "42.63",
+  "72.01",
+  "157.04",
+  "-",
+  "-",
+  "-"
+ ]
+}

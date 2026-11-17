@@ -1,0 +1,70 @@
+{
+ "ticker": "AHR",
+ "src_stats": "https://stockanalysis.com/stocks/ahr/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ahr/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ahr/financials/ratios/",
+ "Market Cap": "13.59B",
+ "Enterprise Value": "14.88B",
+ "PE Ratio": "116.79",
+ "Forward PE": "71.68",
+ "PS Ratio": "5.08",
+ "EV / EBITDA": "29.97",
+ "Gross Margin": "20.25%",
+ "Operating Margin": "6.75%",
+ "Profit Margin": "3.60%",
+ "FCF Margin": "8.31%",
+ "Debt / Equity": "0.27",
+ "Debt / EBITDA": "2.87",
+ "Net Cash": "-1.30B",
+ "Total Debt": "1.52B",
+ "Cash & Cash Equivalents": "223.62M",
+ "Return on Invested Capital (ROIC)": "2.89%",
+ "Return on Equity (ROE)": "2.33%",
+ "Revenue": "2.67B",
+ "Net Income": "96.31M",
+ "Free Cash Flow": "222.24M",
+ "Dividend Yield": "1.72%",
+ "Beta (5Y)": "0.79",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,674",
+  "2,258",
+  "2,064",
+  "1,865",
+  "1,619",
+  "1,264"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "96.31",
+  "69.81",
+  "-37.81",
+  "-71.47",
+  "-81.3",
+  "-47.79"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "115.79",
+  "120.11",
+  "-",
+  "-",
+  "-",
+  "-"
+ ]
+}

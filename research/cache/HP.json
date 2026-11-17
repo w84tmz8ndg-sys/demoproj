@@ -1,0 +1,27 @@
+{
+ "ticker": "HP",
+ "name": "Helmerich & Payne Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 3660763555.0,
+ "price": "$36.63",
+ "cik": 46765,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Helmerich & Payne (HP) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:20+00:00"
+}

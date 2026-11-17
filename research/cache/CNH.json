@@ -1,0 +1,27 @@
+{
+ "ticker": "CNH",
+ "name": "CNH Industrial N.V. Common Shares",
+ "sector": "Industrials",
+ "industry": "Construction/Ag Equipment/Trucks",
+ "country": "United Kingdom",
+ "mcap": 14164017864.0,
+ "price": "$11.465",
+ "cik": 1567094,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, CNH Industrial NV (CNH) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cnh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:40+00:00"
+}

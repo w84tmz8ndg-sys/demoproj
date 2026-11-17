@@ -1,0 +1,70 @@
+{
+ "ticker": "STE",
+ "src_stats": "https://stockanalysis.com/stocks/ste/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ste/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ste/financials/ratios/",
+ "Market Cap": "25.43B",
+ "Enterprise Value": "26.95B",
+ "PE Ratio": "31.10",
+ "Forward PE": "22.16",
+ "PS Ratio": "4.12",
+ "EV / EBITDA": "16.06",
+ "Gross Margin": "44.30%",
+ "Operating Margin": "19.18%",
+ "Profit Margin": "13.41%",
+ "FCF Margin": "15.20%",
+ "Debt / Equity": "0.28",
+ "Debt / EBITDA": "1.16",
+ "Net Cash": "-1.52B",
+ "Total Debt": "2.05B",
+ "Cash & Cash Equivalents": "531.10M",
+ "Return on Invested Capital (ROIC)": "9.94%",
+ "Return on Equity (ROE)": "11.61%",
+ "Revenue": "6.17B",
+ "Net Income": "826.90M",
+ "Free Cash Flow": "937.20M",
+ "Dividend Yield": "1.05%",
+ "Beta (5Y)": "0.86",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "6,166",
+  "5,936",
+  "5,460",
+  "5,139",
+  "4,536",
+  "4,223"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "826.9",
+  "782.3",
+  "614.6",
+  "378.2",
+  "107.03",
+  "243.89"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "31.00",
+  "27.72",
+  "36.23",
+  "58.74",
+  "177.44",
+  "99.26"
+ ]
+}

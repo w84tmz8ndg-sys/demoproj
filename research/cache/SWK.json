@@ -1,0 +1,27 @@
+{
+ "ticker": "SWK",
+ "name": "Stanley Black & Decker Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 16789290878.0,
+ "price": "$112.91",
+ "cik": 93556,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SWK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Stanley Black & Decker (SWK) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/swk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:02+00:00"
+}

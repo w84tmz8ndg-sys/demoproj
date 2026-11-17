@@ -1,0 +1,70 @@
+{
+ "ticker": "JBHT",
+ "src_stats": "https://stockanalysis.com/stocks/jbht/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/jbht/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/jbht/financials/ratios/",
+ "Market Cap": "20.91B",
+ "Enterprise Value": "22.35B",
+ "PE Ratio": "31.58",
+ "Forward PE": "25.19",
+ "PS Ratio": "1.62",
+ "EV / EBITDA": "13.72",
+ "Gross Margin": "17.88%",
+ "Operating Margin": "7.20%",
+ "Profit Margin": "5.07%",
+ "FCF Margin": "7.25%",
+ "Debt / Equity": "0.40",
+ "Debt / EBITDA": "0.53",
+ "Net Cash": "-1.44B",
+ "Total Debt": "1.45B",
+ "Cash & Cash Equivalents": "3.75M",
+ "Return on Invested Capital (ROIC)": "14.29%",
+ "Return on Equity (ROE)": "18.77%",
+ "Revenue": "13.33B",
+ "Net Income": "676.07M",
+ "Free Cash Flow": "966.50M",
+ "Dividend Yield": "0.80%",
+ "Beta (5Y)": "1.26",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "13,325",
+  "11,999",
+  "12,087",
+  "12,830",
+  "14,814",
+  "12,168"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "676.07",
+  "598.28",
+  "570.89",
+  "728.29",
+  "969.35",
+  "760.81"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "31.69",
+  "30.93",
+  "30.14",
+  "28.29",
+  "18.62",
+  "28.21"
+ ]
+}

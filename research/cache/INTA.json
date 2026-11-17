@@ -1,0 +1,27 @@
+{
+ "ticker": "INTA",
+ "name": "Intapp Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 3524430314.0,
+ "price": "$45.98",
+ "cik": 1565687,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INTA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Intapp (INTA) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/inta",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:36+00:00"
+}

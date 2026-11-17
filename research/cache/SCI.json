@@ -1,0 +1,27 @@
+{
+ "ticker": "SCI",
+ "name": "Service Corporation International Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "United States",
+ "mcap": 10305853820.0,
+ "price": "$75.83",
+ "cik": 89089,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SCI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Service Corporation International (SCI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sci",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:00+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CNP",
+ "name": "CenterPoint Energy Inc (Holding Co) Common Stock",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 26959313576.0,
+ "price": "$40.67",
+ "cik": 1130310,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, CenterPoint Energy (CNP) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cnp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:52+00:00"
+}

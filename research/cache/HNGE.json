@@ -1,0 +1,27 @@
+{
+ "ticker": "HNGE",
+ "name": "Hinge Health Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 9857396220.0,
+ "price": "$121.29",
+ "cik": 1673743,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HNGE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Hinge Health Inc. (HNGE) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hnge",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:13+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CMCSA",
+ "name": "Comcast Corporation Class A Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Cable & Other Pay Television Services",
+ "country": "United States",
+ "mcap": 90905762176.0,
+ "price": "$25.60",
+ "cik": 1166691,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CMCSA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Comcast (CMCSA) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cmcsa",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:35+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "COR",
+ "name": "Cencora Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Other Pharmaceuticals",
+ "country": "United States",
+ "mcap": 68140564078.0,
+ "price": "$357.08",
+ "cik": 1140859,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Cencora (COR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cor",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:05+00:00"
+}

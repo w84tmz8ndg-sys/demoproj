@@ -1,0 +1,27 @@
+{
+ "ticker": "GJS",
+ "name": "Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 7267389079.0,
+ "price": "$23.29",
+ "cik": 1356284,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/GJS/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gjs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:49+00:00"
+}

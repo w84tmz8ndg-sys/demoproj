@@ -1,0 +1,27 @@
+{
+ "ticker": "APLD",
+ "name": "Applied Digital Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 4408804501.0,
+ "price": "$14.58",
+ "cik": 1144879,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/APLD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Applied Digital (APLD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/apld",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:00+00:00"
+}

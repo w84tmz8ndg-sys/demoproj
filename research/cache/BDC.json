@@ -1,0 +1,27 @@
+{
+ "ticker": "BDC",
+ "name": "Belden Inc Common Stock",
+ "sector": "Industrials",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 3876767280.0,
+ "price": "$99.15",
+ "cik": 913142,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BDC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Belden Inc. (BDC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bdc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:58+00:00"
+}

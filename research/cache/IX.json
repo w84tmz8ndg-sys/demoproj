@@ -1,0 +1,27 @@
+{
+ "ticker": "IX",
+ "name": "ORIX Corporation American Depositary Shares",
+ "sector": "Finance",
+ "industry": "Diversified Financial Services",
+ "country": "Japan",
+ "mcap": 36621482249.0,
+ "price": "$33.61",
+ "cik": 1070304,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, ORIX Corporation (IX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ix",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:11+00:00"
+}

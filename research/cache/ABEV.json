@@ -1,0 +1,27 @@
+{
+ "ticker": "ABEV",
+ "name": "Ambev S.A. American Depositary Shares (Each representing 1 Common Share)",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "Brazil",
+ "mcap": 42792849223.0,
+ "price": "$2.715",
+ "cik": 1565025,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ABEV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Ambev S.A. (ABEV) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/abev",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:51+00:00"
+}

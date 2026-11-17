@@ -1,0 +1,27 @@
+{
+ "ticker": "ECPG",
+ "name": "Encore Capital Group Inc Common Stock",
+ "sector": "Finance",
+ "industry": "Finance Companies",
+ "country": "United States",
+ "mcap": 2216840280.0,
+ "price": "$106.24",
+ "cik": 1084961,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ECPG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Encore Capital Group (ECPG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ecpg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:52+00:00"
+}

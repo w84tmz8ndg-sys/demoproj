@@ -1,0 +1,27 @@
+{
+ "ticker": "ONB",
+ "name": "Old National Bancorp Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 9377015820.0,
+ "price": "$24.79",
+ "cik": 707179,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ONB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Old National Bancorp (ONB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/onb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:29+00:00"
+}

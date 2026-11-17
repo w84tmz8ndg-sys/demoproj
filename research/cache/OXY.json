@@ -1,0 +1,27 @@
+{
+ "ticker": "OXY",
+ "name": "Occidental Petroleum Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 57353962573.0,
+ "price": "$57.36",
+ "cik": 797468,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OXY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Occidental Petroleum (OXY) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/oxy",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:19+00:00"
+}

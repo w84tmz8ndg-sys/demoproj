@@ -1,0 +1,27 @@
+{
+ "ticker": "FIX",
+ "name": "Comfort Systems USA Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Engineering & Construction",
+ "country": "United States",
+ "mcap": 36977651515.0,
+ "price": "$1056.93",
+ "cik": 1035983,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FIX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Comfort Systems USA, Inc. (FIX) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fix",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:07+00:00"
+}

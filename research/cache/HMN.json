@@ -1,0 +1,27 @@
+{
+ "ticker": "HMN",
+ "name": "Horace Mann Educators Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "United States",
+ "mcap": 2174640883.0,
+ "price": "$53.67",
+ "cik": 850141,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HMN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Horace Mann Educators Corporation (HMN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hmn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:58+00:00"
+}

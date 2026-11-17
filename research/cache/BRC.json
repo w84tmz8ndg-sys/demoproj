@@ -1,0 +1,27 @@
+{
+ "ticker": "BRC",
+ "name": "Brady Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Miscellaneous manufacturing industries",
+ "country": "United States",
+ "mcap": 3740446813.0,
+ "price": "$79.755",
+ "cik": 746598,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BRC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Brady Corporation (BRC) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/brc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:11+00:00"
+}

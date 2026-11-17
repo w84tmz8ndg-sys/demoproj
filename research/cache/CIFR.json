@@ -1,0 +1,27 @@
+{
+ "ticker": "CIFR",
+ "name": "Cipher Digital Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 2984627839.0,
+ "price": "$6.54",
+ "cik": 1819989,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CIFR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Cipher Mining (CIFR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cifr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:56+00:00"
+}

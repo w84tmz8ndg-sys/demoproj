@@ -1,0 +1,27 @@
+{
+ "ticker": "HWM",
+ "name": "Howmet Aerospace Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 84713614185.0,
+ "price": "$213.03",
+ "cik": 4281,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HWM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Howmet Aerospace (HWM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hwm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:45+00:00"
+}

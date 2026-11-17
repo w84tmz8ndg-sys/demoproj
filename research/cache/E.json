@@ -1,0 +1,27 @@
+{
+ "ticker": "E",
+ "name": "ENI S.p.A. Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Italy",
+ "mcap": 89006251249.0,
+ "price": "$56.57",
+ "cik": 1002242,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/E/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Eni S.p.A. (E) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/e",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:39+00:00"
+}

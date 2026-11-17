@@ -1,0 +1,27 @@
+{
+ "ticker": "YUMC",
+ "name": "Yum China Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "United States",
+ "mcap": 17331456312.0,
+ "price": "$51.45",
+ "cik": 1673358,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YUMC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Yum China Holdings (YUMC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/yumc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:56+00:00"
+}

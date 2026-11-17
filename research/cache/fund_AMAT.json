@@ -1,0 +1,70 @@
+{
+ "ticker": "AMAT",
+ "src_stats": "https://stockanalysis.com/stocks/amat/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/amat/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/amat/financials/ratios/",
+ "Market Cap": "275.46B",
+ "Enterprise Value": "272.65B",
+ "PE Ratio": "27.50",
+ "Forward PE": "17.97",
+ "PS Ratio": "8.07",
+ "EV / EBITDA": "23.09",
+ "Gross Margin": "49.99%",
+ "Operating Margin": "32.94%",
+ "Profit Margin": "29.29%",
+ "FCF Margin": "17.99%",
+ "Debt / Equity": "0.25",
+ "Debt / EBITDA": "0.55",
+ "Net Cash": "2.81B",
+ "Total Debt": "6.53B",
+ "Cash & Cash Equivalents": "9.34B",
+ "Return on Invested Capital (ROIC)": "42.19%",
+ "Return on Equity (ROE)": "43.37%",
+ "Revenue": "34.45B",
+ "Net Income": "10.09B",
+ "Free Cash Flow": "6.20B",
+ "Dividend Yield": "0.61%",
+ "Beta (5Y)": "1.67",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "34,446",
+  "34,446",
+  "28,368",
+  "27,176",
+  "26,517",
+  "25,785"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "10,088",
+  "10,088",
+  "6,998",
+  "7,177",
+  "6,856",
+  "6,525"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "27.06",
+  "29.68",
+  "26.04",
+  "21.43",
+  "16.02",
+  "11.83"
+ ]
+}

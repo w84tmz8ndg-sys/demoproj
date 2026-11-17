@@ -1,0 +1,27 @@
+{
+ "ticker": "VCTR",
+ "name": "Victory Capital Holdings Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 7415853441.0,
+ "price": "$119.99",
+ "cik": 1570827,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VCTR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Victory Capital Holdings (VCTR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vctr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:37+00:00"
+}

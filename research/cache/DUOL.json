@@ -1,0 +1,27 @@
+{
+ "ticker": "DUOL",
+ "name": "Duolingo Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 7961331375.0,
+ "price": "$168.75",
+ "cik": 1562088,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DUOL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Duolingo, Inc. (DUOL) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/duol",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:16+00:00"
+}

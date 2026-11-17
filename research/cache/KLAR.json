@@ -1,0 +1,27 @@
+{
+ "ticker": "KLAR",
+ "name": "Klarna Group plc Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "",
+ "mcap": 9624990966.0,
+ "price": "$13.64",
+ "cik": 2003292,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KLAR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/klar",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:21+00:00"
+}

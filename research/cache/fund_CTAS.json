@@ -1,0 +1,70 @@
+{
+ "ticker": "CTAS",
+ "src_stats": "https://stockanalysis.com/stocks/ctas/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ctas/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ctas/financials/ratios/",
+ "Market Cap": "89.21B",
+ "Enterprise Value": "91.56B",
+ "PE Ratio": "44.31",
+ "Forward PE": "39.32",
+ "PS Ratio": "7.70",
+ "EV / EBITDA": "29.42",
+ "Gross Margin": "50.99%",
+ "Operating Margin": "23.62%",
+ "Profit Margin": "17.82%",
+ "FCF Margin": "17.59%",
+ "Debt / Equity": "0.52",
+ "Debt / EBITDA": "0.84",
+ "Net Cash": "-2.35B",
+ "Total Debt": "2.71B",
+ "Cash & Cash Equivalents": "364.58M",
+ "Return on Invested Capital (ROIC)": "28.65%",
+ "Return on Equity (ROE)": "41.38%",
+ "Revenue": "11.56B",
+ "Net Income": "2.05B",
+ "Free Cash Flow": "2.03B",
+ "Dividend Yield": "0.93%",
+ "Beta (5Y)": "0.86",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "11,561",
+  "11,265",
+  "10,340",
+  "9,597",
+  "8,816",
+  "7,854"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,054",
+  "1,994",
+  "1,806",
+  "1,566",
+  "1,343",
+  "1,230"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "44.21",
+  "34.37",
+  "50.64",
+  "43.94",
+  "35.77",
+  "33.15"
+ ]
+}

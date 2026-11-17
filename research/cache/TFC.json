@@ -1,0 +1,27 @@
+{
+ "ticker": "TFC",
+ "name": "Truist Financial Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 59433040351.0,
+ "price": "$49.59",
+ "cik": 92230,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TFC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Truist Financial (TFC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tfc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:18+00:00"
+}

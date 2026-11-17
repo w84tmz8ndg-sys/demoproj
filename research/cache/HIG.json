@@ -1,0 +1,27 @@
+{
+ "ticker": "HIG",
+ "name": "The Hartford Insurance Group Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "United States",
+ "mcap": 36857588509.0,
+ "price": "$137.83",
+ "cik": 874766,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HIG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Hartford Financial (HIG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hig",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:10+00:00"
+}

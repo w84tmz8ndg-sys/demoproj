@@ -1,0 +1,70 @@
+{
+ "ticker": "APG",
+ "src_stats": "https://stockanalysis.com/stocks/apg/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/apg/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/apg/financials/ratios/",
+ "Market Cap": "17.89B",
+ "Enterprise Value": "21.41B",
+ "PE Ratio": "n/a",
+ "Forward PE": "21.41",
+ "PS Ratio": "2.04",
+ "EV / EBITDA": "18.82",
+ "Gross Margin": "31.11%",
+ "Operating Margin": "8.88%",
+ "Profit Margin": "4.12%",
+ "FCF Margin": "7.56%",
+ "Debt / Equity": "1.12",
+ "Debt / EBITDA": "2.81",
+ "Net Cash": "-3.52B",
+ "Total Debt": "3.89B",
+ "Cash & Cash Equivalents": "373.00M",
+ "Return on Invested Capital (ROIC)": "8.71%",
+ "Return on Equity (ROE)": "10.85%",
+ "Revenue": "8.91B",
+ "Net Income": "-230.00M",
+ "Free Cash Flow": "673.00M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.58",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "8,907",
+  "7,911",
+  "7,018",
+  "6,928",
+  "6,558",
+  "3,940"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-230",
+  "-288",
+  "-224",
+  "-161",
+  "23",
+  "-137"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "-",
+  "-",
+  "-",
+  "191.30",
+  "-"
+ ]
+}

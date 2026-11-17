@@ -1,0 +1,27 @@
+{
+ "ticker": "BSP",
+ "name": "Bending Spoons S.p.A. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "Italy",
+ "mcap": 28459761714.0,
+ "price": "$40.98",
+ "cik": 2004711,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BSP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bsp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:46+00:00"
+}

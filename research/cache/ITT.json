@@ -1,0 +1,27 @@
+{
+ "ticker": "ITT",
+ "name": "ITT Inc. Common Stock ",
+ "sector": "Industrials",
+ "industry": "Fluid Controls",
+ "country": "United States",
+ "mcap": 18510338000.0,
+ "price": "$207.515",
+ "cik": 216228,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ITT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, ITT Inc. (ITT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/itt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:43+00:00"
+}

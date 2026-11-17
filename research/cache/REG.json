@@ -1,0 +1,27 @@
+{
+ "ticker": "REG",
+ "name": "Regency Centers Corporation Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 14023718473.0,
+ "price": "$76.58",
+ "cik": 910606,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/REG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Regency Centers (REG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/reg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:44+00:00"
+}

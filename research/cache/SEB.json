@@ -1,0 +1,27 @@
+{
+ "ticker": "SEB",
+ "name": "Seaboard Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Farming/Seeds/Milling",
+ "country": "United States",
+ "mcap": 3551231970.0,
+ "price": "$3707.72",
+ "cik": 88121,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SEB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Seaboard Corporation (SEB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/seb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:34+00:00"
+}

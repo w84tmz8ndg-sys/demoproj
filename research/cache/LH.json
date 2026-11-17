@@ -1,0 +1,27 @@
+{
+ "ticker": "LH",
+ "name": "Labcorp Holdings Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 30246188000.0,
+ "price": "$372.49",
+ "cik": 920148,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, LabCorp (LH) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:35+00:00"
+}

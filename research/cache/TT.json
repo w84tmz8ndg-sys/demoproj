@@ -1,0 +1,27 @@
+{
+ "ticker": "TT",
+ "name": "Trane Technologies plc",
+ "sector": "Industrials",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "Ireland",
+ "mcap": 89355265517.0,
+ "price": "$408.21",
+ "cik": 1466258,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Trane Technologies (TT) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:36+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "WH",
+ "name": "Wyndham Hotels & Resorts Inc. Common Stock ",
+ "sector": "Consumer Discretionary",
+ "industry": "Hotels/Resorts",
+ "country": "United States",
+ "mcap": 5859037457.0,
+ "price": "$80.37",
+ "cik": 1722684,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Wyndham Hotels & Resorts (WH) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:07+00:00"
+}

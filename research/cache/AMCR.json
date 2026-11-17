@@ -1,0 +1,27 @@
+{
+ "ticker": "AMCR",
+ "name": "Amcor plc Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Miscellaneous manufacturing industries",
+ "country": "United Kingdom",
+ "mcap": 20255364679.0,
+ "price": "$43.81",
+ "cik": 1748790,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMCR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Amcor (AMCR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/amcr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:30+00:00"
+}

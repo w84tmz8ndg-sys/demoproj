@@ -1,0 +1,27 @@
+{
+ "ticker": "FITB",
+ "name": "Fifth Third Bancorp Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 48480595292.0,
+ "price": "$53.65",
+ "cik": 35527,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FITB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Fifth Third Bancorp (FITB) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fitb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:34+00:00"
+}

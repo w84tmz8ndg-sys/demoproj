@@ -1,0 +1,70 @@
+{
+ "ticker": "ILMN",
+ "src_stats": "https://stockanalysis.com/stocks/ilmn/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ilmn/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ilmn/financials/ratios/",
+ "Market Cap": "29.94B",
+ "Enterprise Value": "30.91B",
+ "PE Ratio": "33.98",
+ "Forward PE": "33.20",
+ "PS Ratio": "6.60",
+ "EV / EBITDA": "27.07",
+ "Gross Margin": "67.68%",
+ "Operating Margin": "19.06%",
+ "Profit Margin": "19.72%",
+ "FCF Margin": "23.29%",
+ "Debt / Equity": "0.74",
+ "Debt / EBITDA": "1.90",
+ "Net Cash": "-976.00M",
+ "Total Debt": "2.31B",
+ "Cash & Cash Equivalents": "1.34B",
+ "Return on Invested Capital (ROIC)": "17.59%",
+ "Return on Equity (ROE)": "32.39%",
+ "Revenue": "4.54B",
+ "Net Income": "895.00M",
+ "Free Cash Flow": "1.06B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.45",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,539",
+  "4,343",
+  "4,372",
+  "4,504",
+  "4,584",
+  "4,526"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "895",
+  "850",
+  "-1,223",
+  "-1,161",
+  "-4,404",
+  "762"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "34.47",
+  "24.26",
+  "-",
+  "-",
+  "-",
+  "78.04"
+ ]
+}

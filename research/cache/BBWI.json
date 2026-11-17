@@ -1,0 +1,27 @@
+{
+ "ticker": "BBWI",
+ "name": "Bath & Body Works Inc.",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "United States",
+ "mcap": 3883688728.0,
+ "price": "$19.26",
+ "cik": 701985,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BBWI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Bath & Body Works, Inc. (BBWI) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bbwi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:56+00:00"
+}

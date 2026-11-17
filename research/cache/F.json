@@ -1,0 +1,27 @@
+{
+ "ticker": "F",
+ "name": "Ford Motor Company Common Stock",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "United States",
+ "mcap": 46229079282.0,
+ "price": "$11.5769",
+ "cik": 37996,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/F/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Ford Motor Co (F) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/f",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:44+00:00"
+}

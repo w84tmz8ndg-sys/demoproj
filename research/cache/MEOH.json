@@ -1,0 +1,27 @@
+{
+ "ticker": "MEOH",
+ "name": "Methanex Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "Canada",
+ "mcap": 5174895552.0,
+ "price": "$66.89",
+ "cik": 886977,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MEOH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/meoh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:55+00:00"
+}

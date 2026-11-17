@@ -1,0 +1,27 @@
+{
+ "ticker": "DG",
+ "name": "Dollar General Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Department/Specialty Retail Stores",
+ "country": "United States",
+ "mcap": 30039182126.0,
+ "price": "$136.16",
+ "cik": 29534,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Dollar General (DG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:36+00:00"
+}

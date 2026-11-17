@@ -1,0 +1,27 @@
+{
+ "ticker": "FSV",
+ "name": "FirstService Corporation Common Shares",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "Canada",
+ "mcap": 6532640604.0,
+ "price": "$155.87",
+ "cik": 1637810,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FSV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, FirstService Corporation (FSV) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fsv",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:24+00:00"
+}

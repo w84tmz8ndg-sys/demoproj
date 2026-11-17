@@ -1,0 +1,27 @@
+{
+ "ticker": "APH",
+ "name": "Amphenol Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "Electrical Products",
+ "country": "United States",
+ "mcap": 186330449246.0,
+ "price": "$75.46",
+ "cik": 820313,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/APH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Amphenol (APH) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aph",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:39+00:00"
+}

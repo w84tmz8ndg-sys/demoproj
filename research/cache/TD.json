@@ -1,0 +1,27 @@
+{
+ "ticker": "TD",
+ "name": "Toronto Dominion Bank (The) Common Stock",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "Canada",
+ "mcap": 198866328505.0,
+ "price": "$121.77",
+ "cik": 947263,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, The Toronto-Dominion Bank (TD) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/td",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:38+00:00"
+}

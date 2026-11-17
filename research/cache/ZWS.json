@@ -1,0 +1,27 @@
+{
+ "ticker": "ZWS",
+ "name": "Zurn Elkay Water Solutions Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 7480362833.0,
+ "price": "$45.31",
+ "cik": 1439288,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZWS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Zurn Elkay Water Solutions Corporation (ZWS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/zws",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:37+00:00"
+}

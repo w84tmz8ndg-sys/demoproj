@@ -1,0 +1,27 @@
+{
+ "ticker": "VGNT",
+ "name": "Versigent PLC Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "United Kingdom",
+ "mcap": 2915257677.0,
+ "price": "$41.15",
+ "cik": 2078008,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VGNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vgnt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:05+00:00"
+}

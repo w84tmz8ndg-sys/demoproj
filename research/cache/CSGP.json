@@ -1,0 +1,27 @@
+{
+ "ticker": "CSGP",
+ "name": "CoStar Group Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 12569018127.0,
+ "price": "$31.24",
+ "cik": 1057352,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CSGP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, CoStar Group (CSGP) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/csgp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:10+00:00"
+}

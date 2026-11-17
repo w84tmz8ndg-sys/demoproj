@@ -1,0 +1,27 @@
+{
+ "ticker": "WTTR",
+ "name": "Select Water Solutions Inc. Class A common stock",
+ "sector": "Energy",
+ "industry": "Oilfield Services/Equipment",
+ "country": "United States",
+ "mcap": 2328189864.0,
+ "price": "$16.22",
+ "cik": 1693256,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WTTR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Select Energy Services (WTTR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wttr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:34+00:00"
+}

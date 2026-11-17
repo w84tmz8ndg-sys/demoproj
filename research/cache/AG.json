@@ -1,0 +1,27 @@
+{
+ "ticker": "AG",
+ "name": "First Majestic Silver Corp. Ordinary Shares (Canada)",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 6246968992.0,
+ "price": "$12.67",
+ "cik": 1308648,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ag",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:42+00:00"
+}

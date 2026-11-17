@@ -1,0 +1,27 @@
+{
+ "ticker": "CLOV",
+ "name": "Clover Health Investments Corp. Class A Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 2650332752.0,
+ "price": "$4.95",
+ "cik": 1801170,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLOV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Clover Health Investments, (CLOV) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/clov",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:39+00:00"
+}

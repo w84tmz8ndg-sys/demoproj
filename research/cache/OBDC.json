@@ -1,0 +1,27 @@
+{
+ "ticker": "OBDC",
+ "name": "Blue Owl Capital Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Diversified Financial Services",
+ "country": "United States",
+ "mcap": 5307021023.0,
+ "price": "$10.83",
+ "cik": 1655888,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OBDC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Blue Owl Capital Corporation (OBDC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/obdc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:45+00:00"
+}

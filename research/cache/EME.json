@@ -1,0 +1,27 @@
+{
+ "ticker": "EME",
+ "name": "EMCOR Group Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Engineering & Construction",
+ "country": "United States",
+ "mcap": 27960063394.0,
+ "price": "$638.62",
+ "cik": 105634,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EME/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, EMCOR Group, Inc. (EME) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/eme",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:46+00:00"
+}

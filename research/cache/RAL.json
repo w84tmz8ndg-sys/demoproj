@@ -1,0 +1,27 @@
+{
+ "ticker": "RAL",
+ "name": "Ralliant Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 7502713605.0,
+ "price": "$67.665",
+ "cik": 2041385,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RAL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Ralliant Corporation (RAL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ral",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:37+00:00"
+}

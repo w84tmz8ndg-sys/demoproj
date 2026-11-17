@@ -1,0 +1,27 @@
+{
+ "ticker": "PLMR",
+ "name": "Palomar Holdings Inc. Common stock",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "United States",
+ "mcap": 4239008728.0,
+ "price": "$161.21",
+ "cik": 1761312,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLMR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Palomar Holdings (PLMR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/plmr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:20+00:00"
+}

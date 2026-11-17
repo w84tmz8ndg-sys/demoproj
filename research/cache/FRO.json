@@ -1,0 +1,27 @@
+{
+ "ticker": "FRO",
+ "name": "Frontline Plc Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Bermuda",
+ "mcap": 10112644733.0,
+ "price": "$45.425",
+ "cik": 913290,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FRO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Frontline Ltd. (FRO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fro",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:05+00:00"
+}

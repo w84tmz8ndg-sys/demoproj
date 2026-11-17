@@ -1,0 +1,27 @@
+{
+ "ticker": "HLNE",
+ "name": "Hamilton Lane Incorporated Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 5045856641.0,
+ "price": "$90.50",
+ "cik": 1433642,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HLNE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Hamilton Lane Incorporated (HLNE) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hlne",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:07+00:00"
+}

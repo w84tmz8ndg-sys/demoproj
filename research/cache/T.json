@@ -1,0 +1,27 @@
+{
+ "ticker": "T",
+ "name": "AT&T Inc.",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 150694910696.0,
+ "price": "$22.37",
+ "cik": 732717,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/T/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, AT&T (T) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/t",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:01+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "HZN",
+ "name": "Bright Horizon Energy Corporation Common Stock",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 11703643222.0,
+ "price": "$85.60",
+ "cik": 1130464,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/HZN/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hzn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:29+00:00"
+}

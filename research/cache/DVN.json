@@ -1,0 +1,27 @@
+{
+ "ticker": "DVN",
+ "name": "Devon Energy Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 50466549647.0,
+ "price": "$44.28",
+ "cik": 1090012,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DVN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Devon Energy (DVN) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dvn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:30+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PSMT",
+ "name": "PriceSmart Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Department/Specialty Retail Stores",
+ "country": "United States",
+ "mcap": 5085528366.0,
+ "price": "$164.43",
+ "cik": 1041803,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PSMT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, PriceSmart (PSMT) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/psmt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:03+00:00"
+}

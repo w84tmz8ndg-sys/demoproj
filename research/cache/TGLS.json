@@ -1,0 +1,27 @@
+{
+ "ticker": "TGLS",
+ "name": "Tecnoglass Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Electronic Components",
+ "country": "Colombia",
+ "mcap": 2054520736.0,
+ "price": "$46.31",
+ "cik": 1534675,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TGLS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tgls",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:19+00:00"
+}

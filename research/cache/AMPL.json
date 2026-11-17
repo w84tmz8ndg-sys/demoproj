@@ -1,0 +1,27 @@
+{
+ "ticker": "AMPL",
+ "name": "Amplitude Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 2265638678.0,
+ "price": "$17.77",
+ "cik": 1866692,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMPL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Amplitude Inc - Ordinary Shares - Class A (AMPL) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ampl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:48+00:00"
+}

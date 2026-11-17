@@ -1,0 +1,27 @@
+{
+ "ticker": "LBTYB",
+ "name": "Liberty Global Ltd. Class B Common Shares",
+ "sector": "Telecommunications",
+ "industry": "Cable & Other Pay Television Services",
+ "country": "United Kingdom",
+ "mcap": 3988700364.0,
+ "price": "$12.00",
+ "cik": 1570585,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LBTYB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Liberty Global plc (LBTYB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lbtyb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:49+00:00"
+}

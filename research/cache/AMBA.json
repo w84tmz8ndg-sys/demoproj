@@ -1,0 +1,27 @@
+{
+ "ticker": "AMBA",
+ "name": "Ambarella Inc. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 2429077634.0,
+ "price": "$55.03",
+ "cik": 1280263,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMBA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Ambarella (AMBA) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/amba",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:20+00:00"
+}

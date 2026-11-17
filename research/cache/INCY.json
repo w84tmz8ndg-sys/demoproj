@@ -1,0 +1,27 @@
+{
+ "ticker": "INCY",
+ "name": "Incyte Corp. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+ "country": "United States",
+ "mcap": 24514933813.0,
+ "price": "$120.27",
+ "cik": 879169,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INCY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Incyte (INCY) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/incy",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:02+00:00"
+}

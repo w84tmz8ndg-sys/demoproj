@@ -1,0 +1,27 @@
+{
+ "ticker": "RELX",
+ "name": "RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share)",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United Kingdom",
+ "mcap": 70671345083.0,
+ "price": "$40.44",
+ "cik": 929869,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RELX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, RELX PLC (RELX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/relx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:02+00:00"
+}

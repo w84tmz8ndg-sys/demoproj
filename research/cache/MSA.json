@@ -1,0 +1,27 @@
+{
+ "ticker": "MSA",
+ "name": "MSA Safety Incorporated Common Stock",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 6573706603.0,
+ "price": "$170.65",
+ "cik": 66570,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MSA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, MSA Safety (MSA) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/msa",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:21+00:00"
+}

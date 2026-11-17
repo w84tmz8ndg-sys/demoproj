@@ -1,0 +1,27 @@
+{
+ "ticker": "BR",
+ "name": "Broadridge Financial Solutions Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 22081730454.0,
+ "price": "$195.23",
+ "cik": 1383312,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Broadridge Financial (BR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/br",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:16+00:00"
+}

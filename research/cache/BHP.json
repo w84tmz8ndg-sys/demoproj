@@ -1,0 +1,27 @@
+{
+ "ticker": "BHP",
+ "name": "BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares)",
+ "sector": "Energy",
+ "industry": "Coal Mining",
+ "country": "Australia",
+ "mcap": 191978727802.0,
+ "price": "$75.52",
+ "cik": 811809,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BHP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, BHP Group (BHP) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bhp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:38+00:00"
+}

@@ -1,0 +1,886 @@
+{
+ "HNGE": {
+  "hits": [],
+  "sources": []
+ },
+ "MDGL": {
+  "hits": [],
+  "sources": []
+ },
+ "SMTC": {
+  "hits": [],
+  "sources": []
+ },
+ "AYI": {
+  "hits": [],
+  "sources": []
+ },
+ "LFUS": {
+  "hits": [],
+  "sources": []
+ },
+ "TGTX": {
+  "hits": [],
+  "sources": []
+ },
+ "LEVI": {
+  "hits": [],
+  "sources": []
+ },
+ "GMED": {
+  "hits": [],
+  "sources": []
+ },
+ "STN": {
+  "hits": [
+   "(a?) defense-related industry classification 'Military/Government/Technical' \u2014 verify"
+  ],
+  "sources": []
+ },
+ "DOCN": {
+  "hits": [],
+  "sources": []
+ },
+ "BRKR": {
+  "hits": [],
+  "sources": []
+ },
+ "ZETA": {
+  "hits": [],
+  "sources": []
+ },
+ "ESTC": {
+  "hits": [],
+  "sources": []
+ },
+ "ATR": {
+  "hits": [],
+  "sources": []
+ },
+ "SAIA": {
+  "hits": [],
+  "sources": []
+ },
+ "WMS": {
+  "hits": [],
+  "sources": []
+ },
+ "NTSK": {
+  "hits": [],
+  "sources": []
+ },
+ "AOS": {
+  "hits": [],
+  "sources": []
+ },
+ "MHK": {
+  "hits": [],
+  "sources": []
+ },
+ "AEIS": {
+  "hits": [],
+  "sources": []
+ },
+ "ALV": {
+  "hits": [],
+  "sources": []
+ },
+ "AMKR": {
+  "hits": [],
+  "sources": []
+ },
+ "STRL": {
+  "hits": [
+   "(a?) defense-related industry classification 'Military/Government/Technical' \u2014 verify"
+  ],
+  "sources": []
+ },
+ "RMBS": {
+  "hits": [],
+  "sources": []
+ },
+ "EPAM": {
+  "hits": [],
+  "sources": []
+ },
+ "DSGX": {
+  "hits": [],
+  "sources": []
+ },
+ "CGNX": {
+  "hits": [],
+  "sources": []
+ },
+ "SSD": {
+  "hits": [],
+  "sources": []
+ },
+ "TTAN": {
+  "hits": [],
+  "sources": []
+ },
+ "APPF": {
+  "hits": [],
+  "sources": []
+ },
+ "GTLB": {
+  "hits": [],
+  "sources": []
+ },
+ "VMI": {
+  "hits": [],
+  "sources": []
+ },
+ "ALKS": {
+  "hits": [],
+  "sources": []
+ },
+ "CHRD": {
+  "hits": [],
+  "sources": []
+ },
+ "S": {
+  "hits": [],
+  "sources": []
+ },
+ "POOL": {
+  "hits": [],
+  "sources": []
+ },
+ "CORT": {
+  "hits": [],
+  "sources": []
+ },
+ "RAL": {
+  "hits": [],
+  "sources": []
+ },
+ "ZWS": {
+  "hits": [],
+  "sources": []
+ },
+ "KNSA": {
+  "hits": [],
+  "sources": []
+ },
+ "SLAB": {
+  "hits": [],
+  "sources": []
+ },
+ "YOU": {
+  "hits": [],
+  "sources": []
+ },
+ "TRNO": {
+  "hits": [],
+  "sources": []
+ },
+ "SPXC": {
+  "hits": [],
+  "sources": []
+ },
+ "AWI": {
+  "hits": [],
+  "sources": []
+ },
+ "TXG": {
+  "hits": [],
+  "sources": []
+ },
+ "AXSM": {
+  "hits": [],
+  "sources": []
+ },
+ "URBN": {
+  "hits": [],
+  "sources": []
+ },
+ "CHE": {
+  "hits": [],
+  "sources": []
+ },
+ "IDCC": {
+  "hits": [],
+  "sources": []
+ },
+ "VIAV": {
+  "hits": [],
+  "sources": []
+ },
+ "FSS": {
+  "hits": [],
+  "sources": []
+ },
+ "XMTR": {
+  "hits": [],
+  "sources": []
+ },
+ "TTD": {
+  "hits": [],
+  "sources": []
+ },
+ "MOD": {
+  "hits": [],
+  "sources": []
+ },
+ "ELF": {
+  "hits": [],
+  "sources": []
+ },
+ "PATH": {
+  "hits": [],
+  "sources": []
+ },
+ "NAVN": {
+  "hits": [],
+  "sources": []
+ },
+ "VICR": {
+  "hits": [],
+  "sources": []
+ },
+ "IESC": {
+  "hits": [],
+  "sources": []
+ },
+ "LNTH": {
+  "hits": [],
+  "sources": []
+ },
+ "KEX": {
+  "hits": [],
+  "sources": []
+ },
+ "MSM": {
+  "hits": [],
+  "sources": []
+ },
+ "MSA": {
+  "hits": [],
+  "sources": []
+ },
+ "CWST": {
+  "hits": [],
+  "sources": []
+ },
+ "IBP": {
+  "hits": [],
+  "sources": []
+ },
+ "AAON": {
+  "hits": [],
+  "sources": []
+ },
+ "KVYO": {
+  "hits": [],
+  "sources": []
+ },
+ "FTDR": {
+  "hits": [],
+  "sources": []
+ },
+ "NEU": {
+  "hits": [],
+  "sources": []
+ },
+ "RIOT": {
+  "hits": [],
+  "sources": []
+ },
+ "QLYS": {
+  "hits": [],
+  "sources": []
+ },
+ "FORM": {
+  "hits": [],
+  "sources": []
+ },
+ "BROS": {
+  "hits": [],
+  "sources": []
+ },
+ "MATX": {
+  "hits": [],
+  "sources": []
+ },
+ "WFRD": {
+  "hits": [],
+  "sources": []
+ },
+ "CVLT": {
+  "hits": [],
+  "sources": []
+ },
+ "CTVA": {
+  "hits": [],
+  "sources": []
+ },
+ "CAI": {
+  "hits": [],
+  "sources": []
+ },
+ "BOX": {
+  "hits": [],
+  "sources": []
+ },
+ "MIRM": {
+  "hits": [],
+  "sources": []
+ },
+ "MIDD": {
+  "hits": [],
+  "sources": []
+ },
+ "CRUS": {
+  "hits": [],
+  "sources": []
+ },
+ "OLLI": {
+  "hits": [],
+  "sources": []
+ },
+ "NPO": {
+  "hits": [],
+  "sources": []
+ },
+ "VAL": {
+  "hits": [],
+  "sources": []
+ },
+ "POWL": {
+  "hits": [],
+  "sources": []
+ },
+ "LFST": {
+  "hits": [],
+  "sources": []
+ },
+ "BCPC": {
+  "hits": [],
+  "sources": []
+ },
+ "BRZE": {
+  "hits": [],
+  "sources": []
+ },
+ "PEGA": {
+  "hits": [],
+  "sources": []
+ },
+ "LPX": {
+  "hits": [],
+  "sources": []
+ },
+ "ALGM": {
+  "hits": [],
+  "sources": []
+ },
+ "INSW": {
+  "hits": [],
+  "sources": []
+ },
+ "WFG": {
+  "hits": [],
+  "sources": []
+ },
+ "MMSI": {
+  "hits": [],
+  "sources": []
+ },
+ "BB": {
+  "hits": [],
+  "sources": []
+ },
+ "TREX": {
+  "hits": [],
+  "sources": []
+ },
+ "SNDR": {
+  "hits": [],
+  "sources": []
+ },
+ "LSTR": {
+  "hits": [],
+  "sources": []
+ },
+ "LQDA": {
+  "hits": [],
+  "sources": []
+ },
+ "PI": {
+  "hits": [],
+  "sources": []
+ },
+ "SKY": {
+  "hits": [],
+  "sources": []
+ },
+ "ENS": {
+  "hits": [],
+  "sources": []
+ },
+ "SXT": {
+  "hits": [],
+  "sources": []
+ },
+ "CVCO": {
+  "hits": [],
+  "sources": []
+ },
+ "WHD": {
+  "hits": [],
+  "sources": []
+ },
+ "SITE": {
+  "hits": [],
+  "sources": []
+ },
+ "TVTX": {
+  "hits": [],
+  "sources": []
+ },
+ "MXL": {
+  "hits": [],
+  "sources": []
+ },
+ "GOLF": {
+  "hits": [],
+  "sources": []
+ },
+ "DOX": {
+  "hits": [],
+  "sources": []
+ },
+ "RELY": {
+  "hits": [],
+  "sources": []
+ },
+ "LAUR": {
+  "hits": [],
+  "sources": []
+ },
+ "RXO": {
+  "hits": [],
+  "sources": []
+ },
+ "SYNA": {
+  "hits": [],
+  "sources": []
+ },
+ "BLLN": {
+  "hits": [],
+  "sources": []
+ },
+ "BMI": {
+  "hits": [],
+  "sources": []
+ },
+ "ADPT": {
+  "hits": [],
+  "sources": []
+ },
+ "CSW": {
+  "hits": [],
+  "sources": []
+ },
+ "CRVL": {
+  "hits": [],
+  "sources": []
+ },
+ "HIMS": {
+  "hits": [],
+  "sources": []
+ },
+ "RHI": {
+  "hits": [],
+  "sources": []
+ },
+ "NOVT": {
+  "hits": [],
+  "sources": []
+ },
+ "UFPI": {
+  "hits": [],
+  "sources": []
+ },
+ "PAY": {
+  "hits": [],
+  "sources": []
+ },
+ "IPAR": {
+  "hits": [],
+  "sources": []
+ },
+ "TENB": {
+  "hits": [],
+  "sources": []
+ },
+ "FELE": {
+  "hits": [],
+  "sources": []
+ },
+ "STVN": {
+  "hits": [],
+  "sources": []
+ },
+ "ECG": {
+  "hits": [],
+  "sources": []
+ },
+ "HCC": {
+  "hits": [],
+  "sources": []
+ },
+ "EXPO": {
+  "hits": [],
+  "sources": []
+ },
+ "MYRG": {
+  "hits": [],
+  "sources": []
+ },
+ "MGNI": {
+  "hits": [],
+  "sources": []
+ },
+ "MTRN": {
+  "hits": [],
+  "sources": []
+ },
+ "HTFL": {
+  "hits": [],
+  "sources": []
+ },
+ "UNF": {
+  "hits": [],
+  "sources": []
+ },
+ "AAOI": {
+  "hits": [],
+  "sources": []
+ },
+ "CNR": {
+  "hits": [],
+  "sources": []
+ },
+ "BOOT": {
+  "hits": [],
+  "sources": []
+ },
+ "THO": {
+  "hits": [],
+  "sources": []
+ },
+ "CVSA": {
+  "hits": [],
+  "sources": []
+ },
+ "GNTX": {
+  "hits": [],
+  "sources": []
+ },
+ "AZZ": {
+  "hits": [],
+  "sources": []
+ },
+ "DORM": {
+  "hits": [],
+  "sources": []
+ },
+ "TARS": {
+  "hits": [],
+  "sources": []
+ },
+ "CDNA": {
+  "hits": [],
+  "sources": []
+ },
+ "COLM": {
+  "hits": [],
+  "sources": []
+ },
+ "DIOD": {
+  "hits": [],
+  "sources": []
+ },
+ "MWA": {
+  "hits": [],
+  "sources": []
+ },
+ "BRC": {
+  "hits": [],
+  "sources": []
+ },
+ "TDW": {
+  "hits": [],
+  "sources": []
+ },
+ "WK": {
+  "hits": [],
+  "sources": []
+ },
+ "LGN": {
+  "hits": [],
+  "sources": []
+ },
+ "COCO": {
+  "hits": [],
+  "sources": []
+ },
+ "VIA": {
+  "hits": [],
+  "sources": []
+ },
+ "FIGS": {
+  "hits": [],
+  "sources": []
+ },
+ "INTA": {
+  "hits": [],
+  "sources": []
+ },
+ "FIZZ": {
+  "hits": [],
+  "sources": []
+ },
+ "IOVA": {
+  "hits": [],
+  "sources": []
+ },
+ "FRSH": {
+  "hits": [],
+  "sources": []
+ },
+ "DHT": {
+  "hits": [],
+  "sources": []
+ },
+ "ARQT": {
+  "hits": [],
+  "sources": []
+ },
+ "EXTR": {
+  "hits": [],
+  "sources": []
+ },
+ "KAI": {
+  "hits": [],
+  "sources": []
+ },
+ "CENX": {
+  "hits": [],
+  "sources": []
+ },
+ "AXGN": {
+  "hits": [],
+  "sources": []
+ },
+ "ENPH": {
+  "hits": [],
+  "sources": []
+ },
+ "WRBY": {
+  "hits": [],
+  "sources": []
+ },
+ "NHC": {
+  "hits": [],
+  "sources": []
+ },
+ "ALRM": {
+  "hits": [],
+  "sources": []
+ },
+ "ACAD": {
+  "hits": [],
+  "sources": []
+ },
+ "LRN": {
+  "hits": [],
+  "sources": []
+ },
+ "FRPT": {
+  "hits": [],
+  "sources": []
+ },
+ "TDC": {
+  "hits": [],
+  "sources": []
+ },
+ "MHO": {
+  "hits": [],
+  "sources": []
+ },
+ "CARG": {
+  "hits": [],
+  "sources": []
+ },
+ "BLSH": {
+  "hits": [],
+  "sources": []
+ },
+ "GRDN": {
+  "hits": [],
+  "sources": []
+ },
+ "LEGN": {
+  "hits": [],
+  "sources": []
+ },
+ "CALM": {
+  "hits": [],
+  "sources": []
+ },
+ "MGRC": {
+  "hits": [],
+  "sources": []
+ },
+ "HWKN": {
+  "hits": [],
+  "sources": []
+ },
+ "USLM": {
+  "hits": [],
+  "sources": []
+ },
+ "ACLS": {
+  "hits": [],
+  "sources": []
+ },
+ "IRTC": {
+  "hits": [],
+  "sources": []
+ },
+ "MZTI": {
+  "hits": [],
+  "sources": []
+ },
+ "LOPE": {
+  "hits": [],
+  "sources": []
+ },
+ "WDFC": {
+  "hits": [],
+  "sources": []
+ },
+ "BELFB": {
+  "hits": [],
+  "sources": []
+ },
+ "SHOO": {
+  "hits": [],
+  "sources": []
+ },
+ "ARCB": {
+  "hits": [],
+  "sources": []
+ },
+ "ADMA": {
+  "hits": [],
+  "sources": []
+ },
+ "VERX": {
+  "hits": [],
+  "sources": []
+ },
+ "VCEL": {
+  "hits": [],
+  "sources": []
+ },
+ "SPSC": {
+  "hits": [],
+  "sources": []
+ },
+ "WOR": {
+  "hits": [],
+  "sources": []
+ },
+ "BTE": {
+  "hits": [],
+  "sources": []
+ },
+ "SXI": {
+  "hits": [],
+  "sources": []
+ },
+ "ATRC": {
+  "hits": [],
+  "sources": []
+ },
+ "TR": {
+  "hits": [],
+  "sources": []
+ },
+ "YETI": {
+  "hits": [],
+  "sources": []
+ },
+ "KN": {
+  "hits": [],
+  "sources": []
+ },
+ "PGNY": {
+  "hits": [],
+  "sources": []
+ },
+ "FLYW": {
+  "hits": [],
+  "sources": []
+ },
+ "IPGP": {
+  "hits": [],
+  "sources": []
+ },
+ "FSLY": {
+  "hits": [],
+  "sources": []
+ },
+ "GRBK": {
+  "hits": [],
+  "sources": []
+ },
+ "PLUS": {
+  "hits": [],
+  "sources": []
+ },
+ "AMBA": {
+  "hits": [],
+  "sources": []
+ },
+ "DNOW": {
+  "hits": [],
+  "sources": []
+ },
+ "POWI": {
+  "hits": [],
+  "sources": []
+ },
+ "BELFA": {
+  "hits": [],
+  "sources": []
+ },
+ "WTTR": {
+  "hits": [],
+  "sources": []
+ },
+ "ADUS": {
+  "hits": [],
+  "sources": []
+ },
+ "UFPT": {
+  "hits": [],
+  "sources": []
+ },
+ "BCC": {
+  "hits": [],
+  "sources": []
+ },
+ "VECO": {
+  "hits": [],
+  "sources": []
+ },
+ "ASAN": {
+  "hits": [],
+  "sources": []
+ }
+}

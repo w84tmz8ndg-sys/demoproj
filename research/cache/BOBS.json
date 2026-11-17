@@ -1,0 +1,27 @@
+{
+ "ticker": "BOBS",
+ "name": "Bob's Discount Furniture Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "United States",
+ "mcap": 2701758301.0,
+ "price": "$20.66",
+ "cik": 2085187,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BOBS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Bob's Discount Furniture, Inc. (BOBS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bobs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:31+00:00"
+}

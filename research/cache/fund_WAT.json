@@ -1,0 +1,70 @@
+{
+ "ticker": "WAT",
+ "src_stats": "https://stockanalysis.com/stocks/wat/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/wat/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/wat/financials/ratios/",
+ "Market Cap": "44.56B",
+ "Enterprise Value": "49.49B",
+ "PE Ratio": "405.62",
+ "Forward PE": "28.39",
+ "PS Ratio": "7.94",
+ "EV / EBITDA": "28.15",
+ "Gross Margin": "55.44%",
+ "Operating Margin": "15.99%",
+ "Profit Margin": "1.76%",
+ "FCF Margin": "5.18%",
+ "Debt / Equity": "0.36",
+ "Debt / EBITDA": "3.06",
+ "Net Cash": "-4.92B",
+ "Total Debt": "5.52B",
+ "Cash & Cash Equivalents": "593.00M",
+ "Return on Invested Capital (ROIC)": "3.99%",
+ "Return on Equity (ROE)": "1.12%",
+ "Revenue": "5.61B",
+ "Net Income": "98.63M",
+ "Free Cash Flow": "290.81M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.15",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,610",
+  "3,165",
+  "2,958",
+  "2,956",
+  "2,972",
+  "2,786"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "98.63",
+  "642.63",
+  "637.83",
+  "642.23",
+  "707.76",
+  "692.84"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "402.51",
+  "35.19",
+  "34.53",
+  "30.31",
+  "28.76",
+  "32.82"
+ ]
+}

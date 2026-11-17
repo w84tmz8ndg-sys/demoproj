@@ -1,0 +1,27 @@
+{
+ "ticker": "GPI",
+ "name": "Group 1 Automotive Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Retail-Auto Dealers and Gas Stations",
+ "country": "United States",
+ "mcap": 3111556896.0,
+ "price": "$260.44",
+ "cik": 1031203,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GPI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Group 1 Automotive, Inc. (GPI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gpi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:31+00:00"
+}

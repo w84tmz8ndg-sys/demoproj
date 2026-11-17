@@ -1,0 +1,70 @@
+{
+ "ticker": "JNJ",
+ "src_stats": "https://stockanalysis.com/stocks/jnj/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/jnj/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/jnj/financials/ratios/",
+ "Market Cap": "680.19B",
+ "Enterprise Value": "707.61B",
+ "PE Ratio": "42.91",
+ "Forward PE": "25.36",
+ "PS Ratio": "6.85",
+ "EV / EBITDA": "20.51",
+ "Gross Margin": "67.77%",
+ "Operating Margin": "26.59%",
+ "Profit Margin": "16.20%",
+ "FCF Margin": "20.73%",
+ "Debt / Equity": "0.55",
+ "Debt / EBITDA": "1.29",
+ "Net Cash": "-27.42B",
+ "Total Debt": "44.65B",
+ "Cash & Cash Equivalents": "17.23B",
+ "Return on Invested Capital (ROIC)": "21.57%",
+ "Return on Equity (ROE)": "20.02%",
+ "Revenue": "99.34B",
+ "Net Income": "16.10B",
+ "Free Cash Flow": "20.59B",
+ "Dividend Yield": "1.90%",
+ "Beta (5Y)": "0.20",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "99,335",
+  "94,193",
+  "88,821",
+  "85,159",
+  "79,990",
+  "78,740"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "16,095",
+  "26,804",
+  "14,066",
+  "35,153",
+  "17,941",
+  "20,878"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "42.51",
+  "18.66",
+  "24.83",
+  "10.73",
+  "25.74",
+  "21.57"
+ ]
+}

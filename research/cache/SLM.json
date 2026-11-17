@@ -1,0 +1,27 @@
+{
+ "ticker": "SLM",
+ "name": "SLM Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 2981813332.0,
+ "price": "$16.31",
+ "cik": 1032033,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, SLM Corporation (SLM) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/slm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:56+00:00"
+}

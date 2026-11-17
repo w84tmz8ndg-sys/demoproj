@@ -1,0 +1,70 @@
+{
+ "ticker": "ADSK",
+ "src_stats": "https://stockanalysis.com/stocks/adsk/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/adsk/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/adsk/financials/ratios/",
+ "Market Cap": "55.50B",
+ "Enterprise Value": "54.85B",
+ "PE Ratio": "34.41",
+ "Forward PE": "20.43",
+ "PS Ratio": "7.12",
+ "EV / EBITDA": "23.99",
+ "Gross Margin": "92.50%",
+ "Operating Margin": "28.09%",
+ "Profit Margin": "21.08%",
+ "FCF Margin": "36.44%",
+ "Debt / Equity": "1.10",
+ "Debt / EBITDA": "1.58",
+ "Net Cash": "652.00M",
+ "Total Debt": "3.71B",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "57.64%",
+ "Return on Equity (ROE)": "53.85%",
+ "Revenue": "7.79B",
+ "Net Income": "1.64B",
+ "Free Cash Flow": "2.84B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.25",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "7,790",
+  "7,206",
+  "6,131",
+  "5,497",
+  "5,005",
+  "4,386"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,642",
+  "1,124",
+  "1,112",
+  "906",
+  "823",
+  "497"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "34.41",
+  "47.60",
+  "60.15",
+  "59.93",
+  "56.41",
+  "110.56"
+ ]
+}

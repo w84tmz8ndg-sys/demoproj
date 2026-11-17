@@ -1,0 +1,27 @@
+{
+ "ticker": "WDC",
+ "name": "Western Digital Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "Electronic Components",
+ "country": "United States",
+ "mcap": 105158635960.0,
+ "price": "$280.93",
+ "cik": 106040,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WDC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Western Digital (WDC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wdc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:23+00:00"
+}

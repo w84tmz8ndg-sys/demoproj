@@ -1,0 +1,70 @@
+{
+ "ticker": "HUBB",
+ "src_stats": "https://stockanalysis.com/stocks/hubb/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/hubb/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/hubb/financials/ratios/",
+ "Market Cap": "22.68B",
+ "Enterprise Value": "27.63B",
+ "PE Ratio": "25.17",
+ "Forward PE": "19.02",
+ "PS Ratio": "3.40",
+ "EV / EBITDA": "17.08",
+ "Gross Margin": "35.02%",
+ "Operating Margin": "20.10%",
+ "Profit Margin": "13.78%",
+ "FCF Margin": "14.07%",
+ "Debt / Equity": "1.29",
+ "Debt / EBITDA": "3.21",
+ "Net Cash": "-4.95B",
+ "Total Debt": "5.31B",
+ "Cash & Cash Equivalents": "355.00M",
+ "Return on Invested Capital (ROIC)": "11.45%",
+ "Return on Equity (ROE)": "23.43%",
+ "Revenue": "6.59B",
+ "Net Income": "907.60M",
+ "Free Cash Flow": "928.00M",
+ "Dividend Yield": "1.42%",
+ "Beta (5Y)": "0.84",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,594",
+  "5,845",
+  "5,629",
+  "5,373",
+  "4,948",
+  "4,194"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "907.6",
+  "885.6",
+  "777.5",
+  "749.6",
+  "544.5",
+  "398.3"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "24.76",
+  "26.65",
+  "28.92",
+  "23.53",
+  "23.15",
+  "28.45"
+ ]
+}

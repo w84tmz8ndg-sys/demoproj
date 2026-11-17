@@ -1,0 +1,27 @@
+{
+ "ticker": "SLDE",
+ "name": "Slide Insurance Holdings Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "United States",
+ "mcap": 3053154898.0,
+ "price": "$26.04",
+ "cik": 1886428,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLDE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Slide Insurance Holdings, Inc. (SLDE) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/slde",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:41+00:00"
+}

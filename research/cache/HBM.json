@@ -1,0 +1,27 @@
+{
+ "ticker": "HBM",
+ "name": "Hudbay Minerals Inc. Ordinary Shares (Canada)",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Canada",
+ "mcap": 8687590078.0,
+ "price": "$19.56",
+ "cik": 1322422,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HBM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hbm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:54+00:00"
+}

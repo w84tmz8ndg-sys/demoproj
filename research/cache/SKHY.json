@@ -1,0 +1,27 @@
+{
+ "ticker": "SKHY",
+ "name": "SK hynix Inc. American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "South Korea",
+ "mcap": 890527867900.0,
+ "price": "$122.18",
+ "cik": 2120882,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SKHY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/skhy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:24+00:00"
+}

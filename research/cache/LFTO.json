@@ -1,0 +1,27 @@
+{
+ "ticker": "LFTO",
+ "name": "Liftoff Mobile Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 4144606722.0,
+ "price": "$24.46",
+ "cik": 1850351,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/LFTO/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lfto",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:31+00:00"
+}

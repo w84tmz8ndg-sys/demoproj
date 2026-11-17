@@ -1,0 +1,27 @@
+{
+ "ticker": "ENO",
+ "name": "Entergy New Orleans LLC First Mortgage Bonds 5.50% Series due April 1 2066",
+ "sector": "Utilities",
+ "industry": "Power Generation",
+ "country": "United States",
+ "mcap": 4101275626.0,
+ "price": "$19.18",
+ "cik": 71508,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/ENO/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eno",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:40+00:00"
+}

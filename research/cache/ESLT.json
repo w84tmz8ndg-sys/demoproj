@@ -1,0 +1,27 @@
+{
+ "ticker": "ESLT",
+ "name": "Elbit Systems Ltd. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "Israel",
+ "mcap": 31660491050.0,
+ "price": "$680.74",
+ "cik": 1027664,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ESLT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eslt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:27+00:00"
+}

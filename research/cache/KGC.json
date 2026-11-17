@@ -1,0 +1,27 @@
+{
+ "ticker": "KGC",
+ "name": "Kinross Gold Corporation Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 23505182500.0,
+ "price": "$19.945",
+ "cik": 701818,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KGC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Kinross Gold Corporation (KGC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/kgc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:08+00:00"
+}

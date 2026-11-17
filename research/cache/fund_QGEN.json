@@ -1,0 +1,70 @@
+{
+ "ticker": "QGEN",
+ "src_stats": "https://stockanalysis.com/stocks/qgen/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/qgen/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/qgen/financials/ratios/",
+ "Market Cap": "10.29B",
+ "Enterprise Value": "11.10B",
+ "PE Ratio": "26.99",
+ "Forward PE": "19.62",
+ "PS Ratio": "4.86",
+ "EV / EBITDA": "14.78",
+ "Gross Margin": "66.95%",
+ "Operating Margin": "26.71%",
+ "Profit Margin": "18.19%",
+ "FCF Margin": "20.60%",
+ "Debt / Equity": "0.47",
+ "Debt / EBITDA": "2.11",
+ "Net Cash": "-815.48M",
+ "Total Debt": "1.65B",
+ "Cash & Cash Equivalents": "832.86M",
+ "Return on Invested Capital (ROIC)": "11.13%",
+ "Return on Equity (ROE)": "10.81%",
+ "Revenue": "2.12B",
+ "Net Income": "384.93M",
+ "Free Cash Flow": "435.77M",
+ "Dividend Yield": "5.54%",
+ "Beta (5Y)": "0.56",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,116",
+  "2,090",
+  "1,978",
+  "1,965",
+  "2,142",
+  "2,252"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "384.93",
+  "424.88",
+  "83.59",
+  "341.3",
+  "423.21",
+  "512.6"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "26.98",
+  "22.95",
+  "118.40",
+  "29.04",
+  "26.83",
+  "24.62"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "PEN",
+ "src_stats": "https://stockanalysis.com/stocks/pen/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/pen/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/pen/financials/ratios/",
+ "Market Cap": "12.60B",
+ "Enterprise Value": "12.14B",
+ "PE Ratio": "80.55",
+ "Forward PE": "54.29",
+ "PS Ratio": "8.10",
+ "EV / EBITDA": "58.20",
+ "Gross Margin": "67.98%",
+ "Operating Margin": "12.13%",
+ "Profit Margin": "10.06%",
+ "FCF Margin": "12.84%",
+ "Debt / Equity": "0.13",
+ "Debt / EBITDA": "0.85",
+ "Net Cash": "464.22M",
+ "Total Debt": "209.39M",
+ "Cash & Cash Equivalents": "673.61M",
+ "Return on Invested Capital (ROIC)": "12.98%",
+ "Return on Equity (ROE)": "10.67%",
+ "Revenue": "1.56B",
+ "Net Income": "157.02M",
+ "Free Cash Flow": "200.29M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.69",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,560",
+  "1,404",
+  "1,195",
+  "1,059",
+  "847.13",
+  "747.59"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "157.02",
+  "177.69",
+  "14.01",
+  "90.95",
+  "-2",
+  "5.28"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "80.57",
+  "68.52",
+  "650.46",
+  "106.74",
+  "-",
+  "2031.40"
+ ]
+}

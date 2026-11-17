@@ -1,0 +1,27 @@
+{
+ "ticker": "PAY",
+ "name": "Paymentus Holdings Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 4318045708.0,
+ "price": "$34.24",
+ "cik": 1841156,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PAY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Paymentus Holdings (PAY) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pay",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:11+00:00"
+}

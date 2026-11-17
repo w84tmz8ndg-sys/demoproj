@@ -1,0 +1,27 @@
+{
+ "ticker": "CTVA",
+ "name": "Corteva Inc. Common Stock ",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "United States",
+ "mcap": 6032599920.0,
+ "price": "$9.04",
+ "cik": 1755672,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CTVA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Corteva (CTVA) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ctva",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:55+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ORCL",
+ "name": "Oracle Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 359975770800.0,
+ "price": "$119.05",
+ "cik": 1341439,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ORCL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Oracle (ORCL) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/orcl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:28+00:00"
+}

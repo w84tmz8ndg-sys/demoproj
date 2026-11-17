@@ -1,0 +1,70 @@
+{
+ "ticker": "LECO",
+ "src_stats": "https://stockanalysis.com/stocks/leco/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/leco/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/leco/financials/ratios/",
+ "Market Cap": "15.08B",
+ "Enterprise Value": "16.01B",
+ "PE Ratio": "26.70",
+ "Forward PE": "22.25",
+ "PS Ratio": "3.22",
+ "EV / EBITDA": "17.16",
+ "Gross Margin": "35.54%",
+ "Operating Margin": "17.70%",
+ "Profit Margin": "12.40%",
+ "FCF Margin": "11.03%",
+ "Debt / Equity": "0.78",
+ "Debt / EBITDA": "1.27",
+ "Net Cash": "-924.71M",
+ "Total Debt": "1.21B",
+ "Cash & Cash Equivalents": "283.24M",
+ "Return on Invested Capital (ROIC)": "25.11%",
+ "Return on Equity (ROE)": "38.75%",
+ "Revenue": "4.64B",
+ "Net Income": "575.27M",
+ "Free Cash Flow": "511.89M",
+ "Dividend Yield": "1.25%",
+ "Beta (5Y)": "1.19",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,641",
+  "4,233",
+  "4,009",
+  "4,192",
+  "3,761",
+  "3,234"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "575.27",
+  "520.53",
+  "466.11",
+  "545.25",
+  "472.22",
+  "276.58"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "26.62",
+  "25.33",
+  "22.70",
+  "22.81",
+  "17.67",
+  "29.78"
+ ]
+}

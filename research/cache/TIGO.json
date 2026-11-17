@@ -1,0 +1,27 @@
+{
+ "ticker": "TIGO",
+ "name": "Millicom International Cellular S.A. Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "Luxembourg",
+ "mcap": 13872380641.0,
+ "price": "$82.80",
+ "cik": 912958,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TIGO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Millicom International Cellular S.A. (TIGO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tigo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:46+00:00"
+}

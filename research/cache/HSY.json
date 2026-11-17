@@ -1,0 +1,27 @@
+{
+ "ticker": "HSY",
+ "name": "The Hershey Company Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Specialty Foods",
+ "country": "United States",
+ "mcap": 35145440624.0,
+ "price": "$174.87",
+ "cik": 47111,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HSY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Hershey Co (HSY) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hsy",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:15+00:00"
+}

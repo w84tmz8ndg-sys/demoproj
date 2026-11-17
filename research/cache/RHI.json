@@ -1,0 +1,27 @@
+{
+ "ticker": "RHI",
+ "name": "Robert Half Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "United States",
+ "mcap": 4339691940.0,
+ "price": "$42.40",
+ "cik": 315213,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RHI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Robert Half International (RHI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rhi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:08+00:00"
+}

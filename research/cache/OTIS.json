@@ -1,0 +1,27 @@
+{
+ "ticker": "OTIS",
+ "name": "Otis Worldwide Corporation Common Stock ",
+ "sector": "Technology",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "United States",
+ "mcap": 29596435281.0,
+ "price": "$77.74",
+ "cik": 1781335,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OTIS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Otis Worldwide (OTIS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/otis",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:41+00:00"
+}

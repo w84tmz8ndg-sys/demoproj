@@ -1,0 +1,27 @@
+{
+ "ticker": "HXL",
+ "name": "Hexcel Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 5811636245.0,
+ "price": "$76.77",
+ "cik": 717605,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HXL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Hexcel (HXL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hxl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:11+00:00"
+}

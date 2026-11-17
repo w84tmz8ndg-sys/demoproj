@@ -1,0 +1,27 @@
+{
+ "ticker": "BBD",
+ "name": "Banco Bradesco Sa American Depositary Shares",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "Brazil",
+ "mcap": 27320350066.0,
+ "price": "$2.44",
+ "cik": 1160330,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/BBD/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Banco Bradesco S.A. (BBD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bbd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:52+00:00"
+}

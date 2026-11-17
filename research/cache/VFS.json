@@ -1,0 +1,27 @@
+{
+ "ticker": "VFS",
+ "name": "VinFast Auto Ltd. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "Singapore",
+ "mcap": 6995212670.0,
+ "price": "$2.99",
+ "cik": 1913510,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VFS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vfs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:03+00:00"
+}

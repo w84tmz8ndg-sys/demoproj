@@ -1,0 +1,27 @@
+{
+ "ticker": "TAC",
+ "name": "TransAlta Corporation Ordinary Shares",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "Canada",
+ "mcap": 4113481500.0,
+ "price": "$13.005",
+ "cik": 1144800,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TAC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tac",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:38+00:00"
+}

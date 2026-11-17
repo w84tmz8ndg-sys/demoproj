@@ -1,0 +1,27 @@
+{
+ "ticker": "FANG",
+ "name": "Diamondback Energy Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 49527166672.0,
+ "price": "$177.41",
+ "cik": 1539838,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FANG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Diamondback Energy (FANG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fang",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:33+00:00"
+}

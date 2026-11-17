@@ -1,0 +1,27 @@
+{
+ "ticker": "DHT",
+ "name": "DHT Holdings Inc.",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Jersey",
+ "mcap": 3461589987.0,
+ "price": "$21.495",
+ "cik": 1331284,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DHT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, DHT Holdings Inc (DHT) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dht",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:46+00:00"
+}

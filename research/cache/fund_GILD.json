@@ -1,0 +1,70 @@
+{
+ "ticker": "GILD",
+ "src_stats": "https://stockanalysis.com/stocks/gild/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/gild/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/gild/financials/ratios/",
+ "Market Cap": "210.55B",
+ "Enterprise Value": "228.83B",
+ "PE Ratio": "n/a",
+ "Forward PE": "20.35",
+ "PS Ratio": "6.71",
+ "EV / EBITDA": "15.43",
+ "Gross Margin": "79.95%",
+ "Operating Margin": "38.23%",
+ "Profit Margin": "-12.46%",
+ "FCF Margin": "44.47%",
+ "Debt / Equity": "2.02",
+ "Debt / EBITDA": "1.77",
+ "Net Cash": "-18.28B",
+ "Total Debt": "26.23B",
+ "Cash & Cash Equivalents": "7.95B",
+ "Return on Invested Capital (ROIC)": "36.82%",
+ "Return on Equity (ROE)": "-22.45%",
+ "Revenue": "30.99B",
+ "Net Income": "-3.86B",
+ "Free Cash Flow": "13.78B",
+ "Dividend Yield": "1.93%",
+ "Beta (5Y)": "0.37",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "30,988",
+  "29,443",
+  "28,754",
+  "27,116",
+  "27,281",
+  "27,305"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-3,862",
+  "8,510",
+  "480",
+  "5,665",
+  "4,592",
+  "6,225"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "17.89",
+  "239.83",
+  "17.82",
+  "23.45",
+  "14.63"
+ ]
+}

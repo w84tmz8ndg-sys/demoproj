@@ -1,0 +1,27 @@
+{
+ "ticker": "CEG",
+ "name": "Constellation Energy Corporation Common Stock ",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 97683874581.0,
+ "price": "$277.82",
+ "cik": 1868275,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CEG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Constellation Energy (CEG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ceg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:31+00:00"
+}

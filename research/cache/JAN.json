@@ -1,0 +1,27 @@
+{
+ "ticker": "JAN",
+ "name": "Janus Living Inc. Class A-1 Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 10927650268.0,
+ "price": "$32.095",
+ "cik": 2100805,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JAN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, JanOne Inc (JAN) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jan",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:44+00:00"
+}

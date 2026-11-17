@@ -1,0 +1,27 @@
+{
+ "ticker": "MAAS",
+ "name": "Maase Inc. Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "China",
+ "mcap": 4368694711.0,
+ "price": "$9.88",
+ "cik": 1750264,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MAAS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/maas",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:03+00:00"
+}

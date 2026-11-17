@@ -1,0 +1,27 @@
+{
+ "ticker": "AQN",
+ "name": "Algonquin Power & Utilities Corp. Common Shares",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 4384953807.0,
+ "price": "$5.695",
+ "cik": 1174169,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AQN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aqn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:03+00:00"
+}

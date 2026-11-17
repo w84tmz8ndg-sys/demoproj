@@ -1,0 +1,27 @@
+{
+ "ticker": "BNTX",
+ "name": "BioNTech SE American Depositary Share",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Germany",
+ "mcap": 21417684245.0,
+ "price": "$85.26",
+ "cik": 1776985,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BNTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, BioNTech SE (BNTX) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bntx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:23+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "BGR",
+ "name": "BlackRock Energy and Resources Trust",
+ "sector": "Finance",
+ "industry": "Trusts Except Educational Religious and Charitable",
+ "country": "United States",
+ "mcap": 2300897712.0,
+ "price": "$16.97",
+ "cik": 1306550,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BGR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bgr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:41+00:00"
+}

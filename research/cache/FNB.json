@@ -1,0 +1,27 @@
+{
+ "ticker": "FNB",
+ "name": "F.N.B. Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 6330926585.0,
+ "price": "$18.045",
+ "cik": 37808,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FNB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, F.N.B. (FNB) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fnb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:35+00:00"
+}

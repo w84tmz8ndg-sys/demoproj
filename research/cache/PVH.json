@@ -1,0 +1,27 @@
+{
+ "ticker": "PVH",
+ "name": "PVH Corp. Common Stock",
+ "sector": "Industrials",
+ "industry": "Garments and Clothing",
+ "country": "United States",
+ "mcap": 4303044995.0,
+ "price": "$93.265",
+ "cik": 78239,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PVH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, PVH Corp. (PVH) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pvh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:10+00:00"
+}

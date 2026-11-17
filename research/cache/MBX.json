@@ -1,0 +1,27 @@
+{
+ "ticker": "MBX",
+ "name": "MBX Biosciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 2637740797.0,
+ "price": "$53.12",
+ "cik": 1776111,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MBX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, MBX Biosciences, Inc. (MBX) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mbx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:48+00:00"
+}

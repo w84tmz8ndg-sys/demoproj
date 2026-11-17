@@ -1,0 +1,27 @@
+{
+ "ticker": "BABA",
+ "name": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "China",
+ "mcap": 219549907811.0,
+ "price": "$90.63",
+ "cik": 1577552,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BABA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Alibaba Group (BABA) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/baba",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:36+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "EEFT",
+ "name": "Euronet Worldwide Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "United States",
+ "mcap": 2556212436.0,
+ "price": "$69.58",
+ "cik": 1029199,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EEFT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Euronet Worldwide, Inc. (EEFT) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/eeft",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:00+00:00"
+}

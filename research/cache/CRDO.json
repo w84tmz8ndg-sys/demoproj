@@ -1,0 +1,27 @@
+{
+ "ticker": "CRDO",
+ "name": "Credo Technology Group Holding Ltd Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 22687676022.0,
+ "price": "$120.71",
+ "cik": 1807794,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRDO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Credo Technology Group Holding Ltd (CRDO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/crdo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:11+00:00"
+}

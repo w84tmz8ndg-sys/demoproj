@@ -1,0 +1,27 @@
+{
+ "ticker": "SIGI",
+ "name": "Selective Insurance Group Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "United States",
+ "mcap": 6122628646.0,
+ "price": "$103.78",
+ "cik": 230557,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SIGI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Selective Insurance Group (SIGI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sigi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:48+00:00"
+}

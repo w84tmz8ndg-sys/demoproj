@@ -1,0 +1,27 @@
+{
+ "ticker": "FND",
+ "name": "Floor & Decor Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "RETAIL: Building Materials",
+ "country": "United States",
+ "mcap": 4982916457.0,
+ "price": "$47.805",
+ "cik": 1507079,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Floor & Decor Holdings, Inc. (FND) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fnd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:08+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CRGY",
+ "name": "Crescent Energy Company Class A Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 4881487261.0,
+ "price": "$11.555",
+ "cik": 1866175,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRGY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Crescent Energy Company (CRGY) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/crgy",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:15+00:00"
+}

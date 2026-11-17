@@ -1,0 +1,27 @@
+{
+ "ticker": "BBY",
+ "name": "Best Buy Co. Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Consumer Electronics/Video Chains",
+ "country": "United States",
+ "mcap": 21672211673.0,
+ "price": "$103.335",
+ "cik": 764478,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BBY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Best Buy (BBY) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bby",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:27+00:00"
+}

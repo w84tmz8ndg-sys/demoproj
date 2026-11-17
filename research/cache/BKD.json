@@ -1,0 +1,27 @@
+{
+ "ticker": "BKD",
+ "name": "Brookdale Senior Living Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Hospital/Nursing Management",
+ "country": "United States",
+ "mcap": 2144271844.0,
+ "price": "$8.96",
+ "cik": 1332349,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BKD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Brookdale Senior Living Inc. (BKD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bkd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:03+00:00"
+}

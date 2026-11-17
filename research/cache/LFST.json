@@ -1,0 +1,27 @@
+{
+ "ticker": "LFST",
+ "name": "LifeStance Health Group Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Nursing Services",
+ "country": "United States",
+ "mcap": 5505161684.0,
+ "price": "$14.48",
+ "cik": 1845257,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LFST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, LifeStance Health Group Inc (LFST) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lfst",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:30+00:00"
+}

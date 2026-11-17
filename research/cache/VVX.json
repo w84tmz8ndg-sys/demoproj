@@ -1,0 +1,27 @@
+{
+ "ticker": "VVX",
+ "name": "V2X Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "United States",
+ "mcap": 2477250467.0,
+ "price": "$79.015",
+ "cik": 1601548,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VVX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, V2X (VVX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vvx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:12+00:00"
+}

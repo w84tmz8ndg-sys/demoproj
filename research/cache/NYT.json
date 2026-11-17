@@ -1,0 +1,27 @@
+{
+ "ticker": "NYT",
+ "name": "New York Times Company (The) Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Newspapers/Magazines",
+ "country": "United States",
+ "mcap": 11753042931.0,
+ "price": "$73.50",
+ "cik": 71691,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NYT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, The New York Times Company (NYT) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nyt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:28+00:00"
+}

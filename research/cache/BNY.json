@@ -1,0 +1,27 @@
+{
+ "ticker": "BNY",
+ "name": "The Bank of New York Mellon Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 102098887888.0,
+ "price": "$151.73",
+ "cik": 1390777,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BNY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bny",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:25+00:00"
+}

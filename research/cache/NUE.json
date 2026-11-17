@@ -1,0 +1,27 @@
+{
+ "ticker": "NUE",
+ "name": "Nucor Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Steel/Iron Ore",
+ "country": "United States",
+ "mcap": 56846767691.0,
+ "price": "$252.715",
+ "cik": 73309,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NUE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Nucor (NUE) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nue",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:21+00:00"
+}

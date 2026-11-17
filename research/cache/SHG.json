@@ -1,0 +1,27 @@
+{
+ "ticker": "SHG",
+ "name": "Shinhan Financial Group Co Ltd American Depositary Shares",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "South Korea",
+ "mcap": 31077605822.0,
+ "price": "$66.20",
+ "cik": 1263043,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SHG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Shinhan Financial Group Co. (SHG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/shg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:32+00:00"
+}

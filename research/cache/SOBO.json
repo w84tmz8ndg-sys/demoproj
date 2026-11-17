@@ -1,0 +1,27 @@
+{
+ "ticker": "SOBO",
+ "name": "South Bow Corporation Common Shares",
+ "sector": "Energy",
+ "industry": "Natural Gas Distribution",
+ "country": "Canada",
+ "mcap": 6883792535.0,
+ "price": "$32.99",
+ "cik": 2019061,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SOBO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sobo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:06+00:00"
+}

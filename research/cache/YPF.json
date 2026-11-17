@@ -1,0 +1,27 @@
+{
+ "ticker": "YPF",
+ "name": "YPF Sociedad Anonima American Depositary Shares",
+ "sector": "Energy",
+ "industry": "Integrated oil Companies",
+ "country": "Argentina",
+ "mcap": 14019634506.0,
+ "price": "$35.645",
+ "cik": 904851,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YPF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, YPF Sociedad An\u00f3nima (YPF) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ypf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:44+00:00"
+}

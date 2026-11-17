@@ -1,0 +1,27 @@
+{
+ "ticker": "NTR",
+ "name": "Nutrien Ltd. Common Shares",
+ "sector": "Industrials",
+ "industry": "Agricultural Chemicals",
+ "country": "Canada",
+ "mcap": 32691311351.0,
+ "price": "$68.95",
+ "cik": 1725964,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NTR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Nutrien Ltd. (NTR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ntr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:24+00:00"
+}

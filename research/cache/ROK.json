@@ -1,0 +1,27 @@
+{
+ "ticker": "ROK",
+ "name": "Rockwell Automation Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 42247759618.0,
+ "price": "$384.915",
+ "cik": 1024478,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ROK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Rockwell Automation (ROK) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rok",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:50+00:00"
+}

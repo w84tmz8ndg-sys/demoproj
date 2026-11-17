@@ -1,0 +1,27 @@
+{
+ "ticker": "ALKS",
+ "name": "Alkermes plc Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Ireland",
+ "mcap": 7819065916.0,
+ "price": "$46.53",
+ "cik": 1520262,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ALKS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Alkermes plc (ALKS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/alks",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:26+00:00"
+}

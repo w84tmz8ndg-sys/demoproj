@@ -1,0 +1,27 @@
+{
+ "ticker": "ENJ",
+ "name": "Entergy New Orleans LLC First Mortgage Bonds 5.0% Series due December 1 2052",
+ "sector": "Utilities",
+ "industry": "Power Generation",
+ "country": "United States",
+ "mcap": 8600888178.0,
+ "price": "$18.00",
+ "cik": 71508,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/ENJ/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/enj",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:59+00:00"
+}

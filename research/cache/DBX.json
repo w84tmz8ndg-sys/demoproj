@@ -1,0 +1,27 @@
+{
+ "ticker": "DBX",
+ "name": "Dropbox Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 7663533377.0,
+ "price": "$34.28",
+ "cik": 1467623,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DBX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Dropbox (DBX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dbx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:31+00:00"
+}

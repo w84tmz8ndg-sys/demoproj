@@ -1,0 +1,27 @@
+{
+ "ticker": "SONO",
+ "name": "Sonos Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "United States",
+ "mcap": 2060681114.0,
+ "price": "$17.42",
+ "cik": 1314727,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SONO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Sonos, Inc. (SONO) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sono",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:16+00:00"
+}

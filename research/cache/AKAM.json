@@ -1,0 +1,27 @@
+{
+ "ticker": "AKAM",
+ "name": "Akamai Technologies Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 12136885076.0,
+ "price": "$84.15",
+ "cik": 1086222,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AKAM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Akamai Technologies (AKAM) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/akam",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:17+00:00"
+}

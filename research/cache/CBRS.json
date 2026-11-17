@@ -1,0 +1,27 @@
+{
+ "ticker": "CBRS",
+ "name": "Cerebras Systems Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 24540909730.0,
+ "price": "$100.99",
+ "cik": 2021728,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CBRS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Cerebras Systems (CBRS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cbrs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:04+00:00"
+}

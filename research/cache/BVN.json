@@ -1,0 +1,27 @@
+{
+ "ticker": "BVN",
+ "name": "Buenaventura Mining Company Inc.",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Peru",
+ "mcap": 6035997894.0,
+ "price": "$23.765",
+ "cik": 1013131,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BVN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bvn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:56+00:00"
+}

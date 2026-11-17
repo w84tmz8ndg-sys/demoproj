@@ -1,0 +1,27 @@
+{
+ "ticker": "FOXA",
+ "name": "Fox Corporation Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Broadcasting",
+ "country": "United States",
+ "mcap": 38480181081.0,
+ "price": "$67.95",
+ "cik": 1754301,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FOXA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, FOXA is rated questionable under AAOIFI standards. Zoya cannot yet confirm that Fox (Class A) is Shariah-compliant, for example because it does not disclose enough data or because scholars disagree about part of its business. The Zoya app shows the reason.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/foxa",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:05+00:00"
+}

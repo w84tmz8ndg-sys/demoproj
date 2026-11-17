@@ -1,0 +1,27 @@
+{
+ "ticker": "CCL",
+ "name": "Carnival Corporation Ltd. Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "United States",
+ "mcap": 39040755096.0,
+ "price": "$29.035",
+ "cik": 815097,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CCL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Carnival (CCL) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ccl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:01+00:00"
+}

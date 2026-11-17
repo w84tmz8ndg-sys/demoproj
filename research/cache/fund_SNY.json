@@ -1,0 +1,70 @@
+{
+ "ticker": "SNY",
+ "src_stats": "https://stockanalysis.com/stocks/sny/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/sny/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/sny/financials/ratios/",
+ "Market Cap": "116.47B",
+ "Enterprise Value": "132.15B",
+ "PE Ratio": "25.44",
+ "Forward PE": "9.80",
+ "PS Ratio": "2.01",
+ "EV / EBITDA": "7.88",
+ "Gross Margin": "74.29%",
+ "Operating Margin": "22.28%",
+ "Profit Margin": "8.20%",
+ "FCF Margin": "19.56%",
+ "Debt / Equity": "0.27",
+ "Debt / EBITDA": "1.32",
+ "Net Cash": "-15.76B",
+ "Total Debt": "22.54B",
+ "Cash & Cash Equivalents": "6.77B",
+ "Return on Invested Capital (ROIC)": "9.27%",
+ "Return on Equity (ROE)": "5.71%",
+ "Revenue": "57.89B",
+ "Net Income": "4.74B",
+ "Free Cash Flow": "10.98B",
+ "Dividend Yield": "5.00%",
+ "Beta (5Y)": "0.26",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "50,982",
+  "46,716",
+  "44,286",
+  "41,109",
+  "40,304",
+  "39,175"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "4,178",
+  "7,813",
+  "5,560",
+  "5,400",
+  "8,371",
+  "6,223"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "25.46",
+  "12.88",
+  "21.04",
+  "20.84",
+  "13.46",
+  "17.87"
+ ]
+}

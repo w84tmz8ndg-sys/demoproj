@@ -1,0 +1,27 @@
+{
+ "ticker": "CASY",
+ "name": "Casey's General Stores Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Retail-Auto Dealers and Gas Stations",
+ "country": "United States",
+ "mcap": 26083529055.0,
+ "price": "$705.72",
+ "cik": 726958,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CASY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Casey's General Stores (CASY) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/casy",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:56+00:00"
+}

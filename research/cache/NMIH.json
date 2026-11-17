@@ -1,0 +1,27 @@
+{
+ "ticker": "NMIH",
+ "name": "NMI Holdings Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "United States",
+ "mcap": 2898083142.0,
+ "price": "$38.87",
+ "cik": 1547903,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NMIH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, NMI Holdings, Inc. (NMIH) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nmih",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:07+00:00"
+}

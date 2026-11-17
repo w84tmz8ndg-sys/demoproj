@@ -1,0 +1,70 @@
+{
+ "ticker": "GEV",
+ "src_stats": "https://stockanalysis.com/stocks/gev/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/gev/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/gev/financials/ratios/",
+ "Market Cap": "207.17B",
+ "Enterprise Value": "194.56B",
+ "PE Ratio": "20.57",
+ "Forward PE": "33.73",
+ "PS Ratio": "4.56",
+ "EV / EBITDA": "37.33",
+ "Gross Margin": "21.79%",
+ "Operating Margin": "8.22%",
+ "Profit Margin": "23.54%",
+ "FCF Margin": "38.86%",
+ "Debt / Equity": "0.30",
+ "Debt / EBITDA": "0.70",
+ "Net Cash": "12.62B",
+ "Total Debt": "3.75B",
+ "Cash & Cash Equivalents": "16.36B",
+ "Return on Invested Capital (ROIC)": "50.73%",
+ "Return on Equity (ROE)": "93.03%",
+ "Revenue": "44.04B",
+ "Net Income": "10.37B",
+ "Free Cash Flow": "17.12B",
+ "Dividend Yield": "0.26%",
+ "Beta (5Y)": "1.06",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "44,040",
+  "38,068",
+  "34,935",
+  "33,239",
+  "29,654",
+  "33,006"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "10,368",
+  "4,884",
+  "1,552",
+  "-438",
+  "-2,736",
+  "-633"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "19.96",
+  "36.31",
+  "58.38",
+  "-",
+  "-",
+  "-"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "NBIX",
+ "src_stats": "https://stockanalysis.com/stocks/nbix/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/nbix/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/nbix/financials/ratios/",
+ "Market Cap": "16.73B",
+ "Enterprise Value": "16.45B",
+ "PE Ratio": "24.55",
+ "Forward PE": "13.84",
+ "PS Ratio": "4.52",
+ "EV / EBITDA": "15.38",
+ "Gross Margin": "64.67%",
+ "Operating Margin": "26.62%",
+ "Profit Margin": "18.98%",
+ "FCF Margin": "28.09%",
+ "Debt / Equity": "0.12",
+ "Debt / EBITDA": "0.40",
+ "Net Cash": "286.10M",
+ "Total Debt": "451.80M",
+ "Cash & Cash Equivalents": "737.90M",
+ "Return on Invested Capital (ROIC)": "20.19%",
+ "Return on Equity (ROE)": "20.41%",
+ "Revenue": "3.70B",
+ "Net Income": "702.50M",
+ "Free Cash Flow": "1.04B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.33",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,702",
+  "2,861",
+  "2,355",
+  "1,887",
+  "1,489",
+  "1,134"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "702.5",
+  "478.6",
+  "341.3",
+  "249.7",
+  "154.5",
+  "89.6"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "24.47",
+  "29.55",
+  "40.49",
+  "51.85",
+  "74.32",
+  "90.18"
+ ]
+}

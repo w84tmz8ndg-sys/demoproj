@@ -1,0 +1,27 @@
+{
+ "ticker": "FRVO",
+ "name": "Fervo Energy Company Class A common stock",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 3239328944.0,
+ "price": "$10.98",
+ "cik": 1853868,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FRVO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/frvo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:13+00:00"
+}

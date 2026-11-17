@@ -1,0 +1,70 @@
+{
+ "ticker": "LIN",
+ "src_stats": "https://stockanalysis.com/stocks/lin/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/lin/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/lin/financials/ratios/",
+ "Market Cap": "240.31B",
+ "Enterprise Value": "263.07B",
+ "PE Ratio": "34.78",
+ "Forward PE": "27.40",
+ "PS Ratio": "6.63",
+ "EV / EBITDA": "19.04",
+ "Gross Margin": "47.86%",
+ "Operating Margin": "27.56%",
+ "Profit Margin": "19.34%",
+ "FCF Margin": "14.02%",
+ "Debt / Equity": "0.65",
+ "Debt / EBITDA": "1.89",
+ "Net Cash": "-22.76B",
+ "Total Debt": "26.70B",
+ "Cash & Cash Equivalents": "3.95B",
+ "Return on Invested Capital (ROIC)": "12.11%",
+ "Return on Equity (ROE)": "17.72%",
+ "Revenue": "36.24B",
+ "Net Income": "7.01B",
+ "Free Cash Flow": "5.08B",
+ "Dividend Yield": "1.22%",
+ "Beta (5Y)": "0.68",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "36,238",
+  "33,986",
+  "33,005",
+  "32,854",
+  "33,364",
+  "30,793"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "7,007",
+  "6,898",
+  "6,565",
+  "6,199",
+  "4,147",
+  "3,826"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "34.74",
+  "28.86",
+  "30.37",
+  "32.13",
+  "38.74",
+  "46.09"
+ ]
+}

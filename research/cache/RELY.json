@@ -1,0 +1,27 @@
+{
+ "ticker": "RELY",
+ "name": "Remitly Global Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 4693295660.0,
+ "price": "$21.93",
+ "cik": 1782170,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RELY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Remitly Global (RELY) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rely",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:36+00:00"
+}

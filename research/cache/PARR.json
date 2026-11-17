@@ -1,0 +1,27 @@
+{
+ "ticker": "PARR",
+ "name": "Par Pacific Holdings Inc.  Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 3610048191.0,
+ "price": "$72.09",
+ "cik": 821483,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PARR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Par Pacific Holdings (PARR) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/parr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:21+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "FMX",
+ "name": "Fomento Economico Mexicano S.A.B. de C.V. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "Mexico",
+ "mcap": 44745104007.0,
+ "price": "$131.34",
+ "cik": 1061736,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FMX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fmx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:45+00:00"
+}

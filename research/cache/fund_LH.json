@@ -1,0 +1,70 @@
+{
+ "ticker": "LH",
+ "src_stats": "https://stockanalysis.com/stocks/lh/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/lh/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/lh/financials/ratios/",
+ "Market Cap": "30.09B",
+ "Enterprise Value": "36.67B",
+ "PE Ratio": "30.42",
+ "Forward PE": "19.25",
+ "PS Ratio": "2.07",
+ "EV / EBITDA": "15.67",
+ "Gross Margin": "28.96%",
+ "Operating Margin": "11.18%",
+ "Profit Margin": "6.88%",
+ "FCF Margin": "8.82%",
+ "Debt / Equity": "0.77",
+ "Debt / EBITDA": "2.59",
+ "Net Cash": "-6.59B",
+ "Total Debt": "6.85B",
+ "Cash & Cash Equivalents": "261.80M",
+ "Return on Invested Capital (ROIC)": "8.71%",
+ "Return on Equity (ROE)": "11.44%",
+ "Revenue": "14.59B",
+ "Net Income": "1.00B",
+ "Free Cash Flow": "1.29B",
+ "Dividend Yield": "0.78%",
+ "Beta (5Y)": "0.83",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "14,595",
+  "13,952",
+  "13,009",
+  "12,162",
+  "11,864",
+  "13,136"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,004",
+  "876.5",
+  "746",
+  "418",
+  "1,279",
+  "2,377"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "30.40",
+  "23.73",
+  "25.71",
+  "46.17",
+  "16.31",
+  "12.65"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "IPGP",
+ "name": "IPG Photonics Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 2669936273.0,
+ "price": "$62.81",
+ "cik": 1111928,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IPGP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, IPG Photonics Corporation (IPGP) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ipgp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:37+00:00"
+}

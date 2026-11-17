@@ -1,0 +1,27 @@
+{
+ "ticker": "CNQ",
+ "name": "Canadian Natural Resources Limited Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Canada",
+ "mcap": 98573801560.0,
+ "price": "$48.19",
+ "cik": 1017413,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNQ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Canadian Natural Resources (CNQ) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cnq",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:28+00:00"
+}

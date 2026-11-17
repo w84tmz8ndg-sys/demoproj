@@ -1,0 +1,27 @@
+{
+ "ticker": "LAZ",
+ "name": "Lazard Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "Bermuda",
+ "mcap": 4729021104.0,
+ "price": "$39.595",
+ "cik": 1311370,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LAZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Lazard Ltd (LAZ) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/laz",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:33+00:00"
+}

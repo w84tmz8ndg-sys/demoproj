@@ -1,0 +1,27 @@
+{
+ "ticker": "SIM",
+ "name": "Grupo Simec S.A.B. de C.V. American Depositary Shares",
+ "sector": "Industrials",
+ "industry": "Steel/Iron Ore",
+ "country": "Mexico",
+ "mcap": 3815770633.0,
+ "price": "$23.00",
+ "cik": 887153,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SIM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sim",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:04+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CMBT",
+ "name": "CMB.TECH NV Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "",
+ "mcap": 4876302968.0,
+ "price": "$16.805",
+ "cik": 1604481,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CMBT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cmbt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:19+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MZTI",
+ "name": "The Marzetti Company Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 3048652220.0,
+ "price": "$111.91",
+ "cik": 57515,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MZTI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, The Marzetti Company (MZTI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mzti",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:44+00:00"
+}

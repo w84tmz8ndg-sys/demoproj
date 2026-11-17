@@ -1,0 +1,27 @@
+{
+ "ticker": "BETA",
+ "name": "Beta Technologies Inc. Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "United States",
+ "mcap": 5056405740.0,
+ "price": "$21.52",
+ "cik": 1784570,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BETA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, BETA Technologies, Inc. - Class A Common Stock (BETA) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/beta",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:06+00:00"
+}

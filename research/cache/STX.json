@@ -1,0 +1,27 @@
+{
+ "ticker": "STX",
+ "name": "Seagate Technology Holdings PLC Ordinary Shares (Ireland)",
+ "sector": "Technology",
+ "industry": "Electronic Components",
+ "country": "Ireland",
+ "mcap": 114550993391.0,
+ "price": "$499.00",
+ "cik": 1137789,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/STX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Seagate Technology (STX) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/stx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:18+00:00"
+}

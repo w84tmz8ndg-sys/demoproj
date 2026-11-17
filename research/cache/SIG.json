@@ -1,0 +1,27 @@
+{
+ "ticker": "SIG",
+ "name": "Signet Jewelers Limited Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Consumer Specialties",
+ "country": "Bermuda",
+ "mcap": 4180411211.0,
+ "price": "$109.10",
+ "cik": 832988,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SIG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Signet Jewelers Limited (SIG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sig",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:28+00:00"
+}

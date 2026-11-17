@@ -1,0 +1,27 @@
+{
+ "ticker": "NAMS",
+ "name": "NewAmsterdam Pharma Company N.V. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Netherlands",
+ "mcap": 2333837761.0,
+ "price": "$19.46",
+ "cik": 1936258,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NAMS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, NewAmsterdam Pharma Company NV (NAMS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nams",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:33+00:00"
+}

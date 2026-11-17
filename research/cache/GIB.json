@@ -1,0 +1,27 @@
+{
+ "ticker": "GIB",
+ "name": "CGI Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "Canada",
+ "mcap": 16843513605.0,
+ "price": "$81.34",
+ "cik": 1061574,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GIB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, CGI Inc. (GIB) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gib",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:03+00:00"
+}

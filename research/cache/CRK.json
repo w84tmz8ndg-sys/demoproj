@@ -1,0 +1,27 @@
+{
+ "ticker": "CRK",
+ "name": "Comstock Resources Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 4263270213.0,
+ "price": "$14.52",
+ "cik": 23194,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Comstock Resources (CRK) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/crk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:19+00:00"
+}

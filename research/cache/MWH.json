@@ -1,0 +1,27 @@
+{
+ "ticker": "MWH",
+ "name": "SOLV Energy Inc. Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 5694103394.0,
+ "price": "$28.09",
+ "cik": 2065636,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MWH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mwh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:20+00:00"
+}

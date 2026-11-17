@@ -1,0 +1,27 @@
+{
+ "ticker": "STRL",
+ "name": "Sterling Infrastructure Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 8392163005.0,
+ "price": "$275.13",
+ "cik": 874238,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/STRL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Sterling Infrastructure, Inc. (STRL) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/strl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:05+00:00"
+}

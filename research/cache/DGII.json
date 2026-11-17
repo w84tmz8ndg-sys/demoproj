@@ -1,0 +1,27 @@
+{
+ "ticker": "DGII",
+ "name": "Digi International Inc. Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Computer Communications Equipment",
+ "country": "United States",
+ "mcap": 2008973632.0,
+ "price": "$52.94",
+ "cik": 854775,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DGII/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Digi International (DGII) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dgii",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:31+00:00"
+}

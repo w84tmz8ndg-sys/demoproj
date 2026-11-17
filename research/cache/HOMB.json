@@ -1,0 +1,27 @@
+{
+ "ticker": "HOMB",
+ "name": "Home BancShares Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 5937168229.0,
+ "price": "$29.87",
+ "cik": 1331520,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HOMB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Home Bancshares, Inc. (Conway, AR) (HOMB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/homb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:04+00:00"
+}

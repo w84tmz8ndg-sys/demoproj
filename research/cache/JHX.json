@@ -1,0 +1,27 @@
+{
+ "ticker": "JHX",
+ "name": "James Hardie Industries plc. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Building Materials",
+ "country": "Ireland",
+ "mcap": 15838447923.0,
+ "price": "$27.23",
+ "cik": 1159152,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JHX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, James Hardie Industries plc (JHX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jhx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:12+00:00"
+}

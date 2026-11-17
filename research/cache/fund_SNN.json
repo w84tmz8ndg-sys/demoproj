@@ -1,0 +1,70 @@
+{
+ "ticker": "SNN",
+ "src_stats": "https://stockanalysis.com/stocks/snn/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/snn/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/snn/financials/ratios/",
+ "Market Cap": "12.98B",
+ "Enterprise Value": "16.01B",
+ "PE Ratio": "21.08",
+ "Forward PE": "14.22",
+ "PS Ratio": "2.06",
+ "EV / EBITDA": "11.58",
+ "Gross Margin": "68.44%",
+ "Operating Margin": "14.22%",
+ "Profit Margin": "10.08%",
+ "FCF Margin": "13.57%",
+ "Debt / Equity": "0.73",
+ "Debt / EBITDA": "2.65",
+ "Net Cash": "-3.03B",
+ "Total Debt": "3.79B",
+ "Cash & Cash Equivalents": "754.00M",
+ "Return on Invested Capital (ROIC)": "8.69%",
+ "Return on Equity (ROE)": "11.85%",
+ "Revenue": "6.30B",
+ "Net Income": "635.00M",
+ "Free Cash Flow": "855.00M",
+ "Dividend Yield": "2.47%",
+ "Beta (5Y)": "0.67",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,300",
+  "6,164",
+  "5,810",
+  "5,549",
+  "5,215",
+  "5,212"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "635",
+  "625",
+  "412",
+  "263",
+  "223",
+  "524"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "20.92",
+  "22.64",
+  "26.27",
+  "45.45",
+  "52.12",
+  "29.37"
+ ]
+}

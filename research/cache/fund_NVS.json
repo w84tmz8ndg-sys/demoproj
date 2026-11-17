@@ -1,0 +1,70 @@
+{
+ "ticker": "NVS",
+ "src_stats": "https://stockanalysis.com/stocks/nvs/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/nvs/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/nvs/financials/ratios/",
+ "Market Cap": "302.91B",
+ "Enterprise Value": "342.44B",
+ "PE Ratio": "30.57",
+ "Forward PE": "16.75",
+ "PS Ratio": "5.32",
+ "EV / EBITDA": "14.33",
+ "Gross Margin": "75.21%",
+ "Operating Margin": "33.98%",
+ "Profit Margin": "17.49%",
+ "FCF Margin": "27.29%",
+ "Debt / Equity": "1.29",
+ "Debt / EBITDA": "1.98",
+ "Net Cash": "-39.44B",
+ "Total Debt": "48.31B",
+ "Cash & Cash Equivalents": "8.87B",
+ "Return on Invested Capital (ROIC)": "19.26%",
+ "Return on Equity (ROE)": "24.33%",
+ "Revenue": "57.36B",
+ "Net Income": "10.03B",
+ "Free Cash Flow": "15.66B",
+ "Dividend Yield": "1.94%",
+ "Beta (5Y)": "0.45",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "57,364",
+  "56,674",
+  "51,722",
+  "46,660",
+  "43,461",
+  "43,974"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "10,031",
+  "13,984",
+  "11,941",
+  "14,850",
+  "6,955",
+  "24,021"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "30.77",
+  "18.97",
+  "16.39",
+  "13.95",
+  "27.96",
+  "8.20"
+ ]
+}

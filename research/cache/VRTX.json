@@ -1,0 +1,27 @@
+{
+ "ticker": "VRTX",
+ "name": "Vertex Pharmaceuticals Incorporated Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 136350025700.0,
+ "price": "$537.79",
+ "cik": 875320,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VRTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Vertex Pharmaceuticals (VRTX) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vrtx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:08+00:00"
+}

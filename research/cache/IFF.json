@@ -1,0 +1,27 @@
+{
+ "ticker": "IFF",
+ "name": "International Flavors & Fragrances Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 20030051484.0,
+ "price": "$79.995",
+ "cik": 51253,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IFF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, International Flavors & Fragrances (IFF) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/iff",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:30+00:00"
+}

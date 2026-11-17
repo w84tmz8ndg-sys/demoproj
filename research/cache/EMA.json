@@ -1,0 +1,27 @@
+{
+ "ticker": "EMA",
+ "name": "Emera Incorporated Common Shares",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "Canada",
+ "mcap": 15989979500.0,
+ "price": "$51.865",
+ "cik": 1127248,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EMA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ema",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:10+00:00"
+}

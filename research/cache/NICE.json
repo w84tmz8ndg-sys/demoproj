@@ -1,0 +1,27 @@
+{
+ "ticker": "NICE",
+ "name": "NICE Ltd American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Israel",
+ "mcap": 5545918229.0,
+ "price": "$93.36",
+ "cik": 1003935,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NICE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nice",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:24+00:00"
+}

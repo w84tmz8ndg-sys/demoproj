@@ -1,0 +1,27 @@
+{
+ "ticker": "PSX",
+ "name": "Phillips 66 Common Stock",
+ "sector": "Energy",
+ "industry": "Integrated oil Companies",
+ "country": "United States",
+ "mcap": 101672361155.0,
+ "price": "$260.65",
+ "cik": 1534701,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PSX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Phillips 66 (PSX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/psx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:27+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "ORLY",
+ "src_stats": "https://stockanalysis.com/stocks/orly/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/orly/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/orly/financials/ratios/",
+ "Market Cap": "74.65B",
+ "Enterprise Value": "84.68B",
+ "PE Ratio": "28.57",
+ "Forward PE": "26.11",
+ "PS Ratio": "3.92",
+ "EV / EBITDA": "19.79",
+ "Gross Margin": "51.58%",
+ "Operating Margin": "19.57%",
+ "Profit Margin": "14.27%",
+ "FCF Margin": "11.07%",
+ "Debt / Equity": "n/a",
+ "Debt / EBITDA": "2.10",
+ "Net Cash": "-10.03B",
+ "Total Debt": "10.30B",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "35.83%",
+ "Return on Equity (ROE)": "n/a",
+ "Revenue": "18.99B",
+ "Net Income": "2.71B",
+ "Free Cash Flow": "2.10B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.55",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "18,988",
+  "17,782",
+  "16,708",
+  "15,812",
+  "14,410",
+  "13,328"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,710",
+  "2,538",
+  "2,387",
+  "2,347",
+  "2,173",
+  "2,165"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "28.65",
+  "30.33",
+  "28.68",
+  "23.95",
+  "24.31",
+  "21.98"
+ ]
+}

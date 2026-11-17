@@ -1,0 +1,27 @@
+{
+ "ticker": "SII",
+ "name": "Sprott Inc. Common Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "",
+ "mcap": 2627568000.0,
+ "price": "$102.24",
+ "cik": 1512920,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SII/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sii",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:48+00:00"
+}

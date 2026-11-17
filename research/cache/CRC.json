@@ -1,0 +1,27 @@
+{
+ "ticker": "CRC",
+ "name": "California Resources Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 4156023769.0,
+ "price": "$47.08",
+ "cik": 1609253,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, California Resources Corporation (CRC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/crc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:29+00:00"
+}

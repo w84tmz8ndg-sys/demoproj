@@ -1,0 +1,27 @@
+{
+ "ticker": "FERG",
+ "name": "Ferguson Enterprises Inc. Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Miscellaneous",
+ "country": "United Kingdom",
+ "mcap": 49042476700.0,
+ "price": "$253.255",
+ "cik": 2011641,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FERG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ferg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:32+00:00"
+}

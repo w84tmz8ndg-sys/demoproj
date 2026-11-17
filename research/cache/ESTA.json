@@ -1,0 +1,27 @@
+{
+ "ticker": "ESTA",
+ "name": "Establishment Labs Holdings Inc. Common Shares",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "Costa Rica",
+ "mcap": 2082274675.0,
+ "price": "$69.82",
+ "cik": 1688757,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ESTA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/esta",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:10+00:00"
+}

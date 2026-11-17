@@ -1,0 +1,27 @@
+{
+ "ticker": "PAAS",
+ "name": "Pan American Silver Corp. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 14674539980.0,
+ "price": "$35.59",
+ "cik": 771992,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PAAS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/paas",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:31+00:00"
+}

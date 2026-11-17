@@ -1,0 +1,70 @@
+{
+ "ticker": "MANH",
+ "src_stats": "https://stockanalysis.com/stocks/manh/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/manh/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/manh/financials/ratios/",
+ "Market Cap": "14.98B",
+ "Enterprise Value": "14.83B",
+ "PE Ratio": "72.28",
+ "Forward PE": "42.89",
+ "PS Ratio": "12.95",
+ "EV / EBITDA": "50.41",
+ "Gross Margin": "55.93%",
+ "Operating Margin": "24.85%",
+ "Profit Margin": "18.41%",
+ "FCF Margin": "32.82%",
+ "Debt / Equity": "0.26",
+ "Debt / EBITDA": "0.17",
+ "Net Cash": "147.71M",
+ "Total Debt": "51.74M",
+ "Cash & Cash Equivalents": "199.45M",
+ "Return on Invested Capital (ROIC)": "543.08%",
+ "Return on Equity (ROE)": "83.51%",
+ "Revenue": "1.16B",
+ "Net Income": "212.94M",
+ "Free Cash Flow": "379.61M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.83",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,157",
+  "1,081",
+  "1,042",
+  "928.73",
+  "767.08",
+  "663.64"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "212.94",
+  "219.95",
+  "218.36",
+  "176.57",
+  "128.96",
+  "110.47"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "70.40",
+  "47.48",
+  "75.58",
+  "75.08",
+  "58.74",
+  "89.07"
+ ]
+}

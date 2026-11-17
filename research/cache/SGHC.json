@@ -1,0 +1,27 @@
+{
+ "ticker": "SGHC",
+ "name": "Super Group (SGHC) Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "",
+ "mcap": 5667596570.0,
+ "price": "$11.155",
+ "cik": 1878057,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SGHC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Super Group (SGHC) Limited (SGHC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sghc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:20+00:00"
+}

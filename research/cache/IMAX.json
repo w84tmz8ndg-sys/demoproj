@@ -1,0 +1,27 @@
+{
+ "ticker": "IMAX",
+ "name": "Imax Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Machinery/Components",
+ "country": "Canada",
+ "mcap": 2583495767.0,
+ "price": "$46.80",
+ "cik": 921582,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IMAX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/imax",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:51+00:00"
+}

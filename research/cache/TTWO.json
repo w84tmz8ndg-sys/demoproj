@@ -1,0 +1,27 @@
+{
+ "ticker": "TTWO",
+ "name": "Take-Two Interactive Software Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 39964463283.0,
+ "price": "$213.47",
+ "cik": 946581,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TTWO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Take-Two Interactive (TTWO) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ttwo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:58+00:00"
+}

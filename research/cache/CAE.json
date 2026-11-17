@@ -1,0 +1,27 @@
+{
+ "ticker": "CAE",
+ "name": "CAE Inc. Common Shares",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "Canada",
+ "mcap": 9023849940.0,
+ "price": "$28.22",
+ "cik": 1173382,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CAE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, CAE (CAE) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cae",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:44+00:00"
+}

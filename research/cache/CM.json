@@ -1,0 +1,27 @@
+{
+ "ticker": "CM",
+ "name": "Canadian Imperial Bank of Commerce Common Stock",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "Canada",
+ "mcap": 103343567627.0,
+ "price": "$113.82",
+ "cik": 1045520,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Canadian Imperial Bank of Commerce (CM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:25+00:00"
+}

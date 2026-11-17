@@ -1,0 +1,27 @@
+{
+ "ticker": "CBRE",
+ "name": "CBRE Group Inc Common Stock Class A",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 38381977108.0,
+ "price": "$133.18",
+ "cik": 1138118,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CBRE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, CBRE Group (CBRE) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cbre",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:04+00:00"
+}

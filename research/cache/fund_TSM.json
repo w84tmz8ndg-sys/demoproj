@@ -1,0 +1,70 @@
+{
+ "ticker": "TSM",
+ "src_stats": "https://stockanalysis.com/stocks/tsm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/tsm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/tsm/financials/ratios/",
+ "Market Cap": "1.71T",
+ "Enterprise Value": "1.62T",
+ "PE Ratio": "25.21",
+ "Forward PE": "17.87",
+ "PS Ratio": "11.00",
+ "EV / EBITDA": "14.33",
+ "Gross Margin": "65.85%",
+ "Operating Margin": "57.96%",
+ "Profit Margin": "51.12%",
+ "FCF Margin": "29.95%",
+ "Debt / Equity": "0.15",
+ "Debt / EBITDA": "0.30",
+ "Net Cash": "92.48B",
+ "Total Debt": "33.57B",
+ "Cash & Cash Equivalents": "126.04B",
+ "Return on Invested Capital (ROIC)": "60.30%",
+ "Return on Equity (ROE)": "41.86%",
+ "Revenue": "155.16B",
+ "Net Income": "79.31B",
+ "Free Cash Flow": "45.01B",
+ "Dividend Yield": "1.20%",
+ "Beta (5Y)": "1.23",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,944,817",
+  "3,809,054",
+  "2,894,308",
+  "2,161,736",
+  "2,263,891",
+  "1,587,415"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,527,571",
+  "1,697,604",
+  "1,158,380",
+  "851,740",
+  "992,923",
+  "592,359"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "24.86",
+  "23.68",
+  "24.07",
+  "18.05",
+  "11.71",
+  "26.92"
+ ]
+}

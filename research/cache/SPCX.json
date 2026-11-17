@@ -1,0 +1,27 @@
+{
+ "ticker": "SPCX",
+ "name": "Space Exploration Technologies Corp. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 1865494911068.0,
+ "price": "$137.36",
+ "cik": 1181412,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SPCX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, SpaceX (SPCX) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/spcx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:23+00:00"
+}

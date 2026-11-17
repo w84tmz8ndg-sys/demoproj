@@ -1,0 +1,27 @@
+{
+ "ticker": "ARGX",
+ "name": "argenx SE American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Netherlands",
+ "mcap": 59018703344.0,
+ "price": "$950.95",
+ "cik": 1697862,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ARGX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, argenx SE (ARGX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/argx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:17+00:00"
+}

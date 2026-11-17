@@ -1,0 +1,27 @@
+{
+ "ticker": "IAG",
+ "name": "Iamgold Corporation Ordinary Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 9597064500.0,
+ "price": "$16.935",
+ "cik": 1203464,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IAG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/iag",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:23+00:00"
+}

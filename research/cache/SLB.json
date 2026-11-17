@@ -1,0 +1,27 @@
+{
+ "ticker": "SLB",
+ "name": "SLB Limited Common Shares",
+ "sector": "Energy",
+ "industry": "Oilfield Services/Equipment",
+ "country": "France",
+ "mcap": 73956463759.0,
+ "price": "$50.105",
+ "cik": 87347,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Schlumberger NV (SLB) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/slb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:55+00:00"
+}

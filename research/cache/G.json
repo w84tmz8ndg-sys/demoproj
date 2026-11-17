@@ -1,0 +1,27 @@
+{
+ "ticker": "G",
+ "name": "Genpact Limited Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "Bermuda",
+ "mcap": 7405647518.0,
+ "price": "$44.285",
+ "cik": 1398659,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/G/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Genpact Limited (G) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/g",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:38+00:00"
+}

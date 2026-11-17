@@ -1,0 +1,70 @@
+{
+ "ticker": "NXT",
+ "src_stats": "https://stockanalysis.com/stocks/nxt/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/nxt/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/nxt/financials/ratios/",
+ "Market Cap": "12.80B",
+ "Enterprise Value": "11.81B",
+ "PE Ratio": "21.40",
+ "Forward PE": "17.30",
+ "PS Ratio": "3.55",
+ "EV / EBITDA": "16.71",
+ "Gross Margin": "21.84%",
+ "Operating Margin": "18.63%",
+ "Profit Margin": "15.98%",
+ "FCF Margin": "13.36%",
+ "Debt / Equity": "0.02",
+ "Debt / EBITDA": "0.06",
+ "Net Cash": "985.39M",
+ "Total Debt": "44.50M",
+ "Cash & Cash Equivalents": "1.03B",
+ "Return on Invested Capital (ROIC)": "38.16%",
+ "Return on Equity (ROE)": "26.46%",
+ "Revenue": "3.83B",
+ "Net Income": "612.65M",
+ "Free Cash Flow": "512.30M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.93",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "3,834",
+  "3,559",
+  "2,959",
+  "2,500",
+  "1,902",
+  "1,458"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "612.65",
+  "585.88",
+  "509.17",
+  "306.24",
+  "1.14",
+  "50.91"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "21.04",
+  "30.55",
+  "11.89",
+  "25.09",
+  "1455.13",
+  "-"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "KLAC",
+ "src_stats": "https://stockanalysis.com/stocks/klac/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/klac/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/klac/financials/ratios/",
+ "Market Cap": "188.50B",
+ "Enterprise Value": "189.75B",
+ "PE Ratio": "36.26",
+ "Forward PE": "23.26",
+ "PS Ratio": "12.93",
+ "EV / EBITDA": "28.70",
+ "Gross Margin": "61.47%",
+ "Operating Margin": "42.64%",
+ "Profit Margin": "36.25%",
+ "FCF Margin": "27.83%",
+ "Debt / Equity": "0.92",
+ "Debt / EBITDA": "0.90",
+ "Net Cash": "-1.25B",
+ "Total Debt": "5.99B",
+ "Cash & Cash Equivalents": "4.74B",
+ "Return on Invested Capital (ROIC)": "69.13%",
+ "Return on Equity (ROE)": "91.38%",
+ "Revenue": "14.51B",
+ "Net Income": "5.26B",
+ "Free Cash Flow": "4.04B",
+ "Dividend Yield": "0.64%",
+ "Beta (5Y)": "1.50",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "14,506",
+  "13,579",
+  "12,156",
+  "9,812",
+  "10,496",
+  "9,212"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "5,258",
+  "4,831",
+  "4,062",
+  "2,762",
+  "3,387",
+  "3,322"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "36.09",
+  "81.58",
+  "29.16",
+  "40.19",
+  "19.65",
+  "14.34"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "NWS",
+ "name": "News Corporation Class B Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Newspapers/Magazines",
+ "country": "United States",
+ "mcap": 15884268712.0,
+ "price": "$29.57",
+ "cik": 1564708,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NWS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, NWS is rated questionable under AAOIFI standards. Zoya cannot yet confirm that News Corp (Class B) is Shariah-compliant, for example because it does not disclose enough data or because scholars disagree about part of its business. The Zoya app shows the reason.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nws",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:11+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "DTM",
+ "name": "DT Midstream Inc. Common Stock ",
+ "sector": "Utilities",
+ "industry": "Natural Gas Distribution",
+ "country": "United States",
+ "mcap": 12027603398.0,
+ "price": "$117.90",
+ "cik": 1842022,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DTM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, DT Midstream, Inc. (DTM) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dtm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:21+00:00"
+}

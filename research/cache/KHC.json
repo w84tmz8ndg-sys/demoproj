@@ -1,0 +1,27 @@
+{
+ "ticker": "KHC",
+ "name": "The Kraft Heinz Company Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 29678591676.0,
+ "price": "$25.07",
+ "cik": 1637459,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KHC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Kraft Heinz Co (KHC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/khc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:38+00:00"
+}

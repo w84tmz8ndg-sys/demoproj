@@ -1,0 +1,27 @@
+{
+ "ticker": "SRAD",
+ "name": "Sportradar Group AG Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "Switzerland",
+ "mcap": 3762911383.0,
+ "price": "$12.07",
+ "cik": 1836470,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SRAD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Sportradar Group AG (SRAD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/srad",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:10+00:00"
+}

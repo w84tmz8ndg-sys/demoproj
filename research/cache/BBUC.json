@@ -1,0 +1,27 @@
+{
+ "ticker": "BBUC",
+ "name": "Brookfield Business Corporation Class A Subordinate Voting Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Engineering & Construction",
+ "country": "",
+ "mcap": 5844069000.0,
+ "price": "$28.11",
+ "cik": 1654795,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BBUC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Brookfield Business Corp - Ordinary Shares - Class A (Sub Voting) (BBUC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bbuc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:08+00:00"
+}

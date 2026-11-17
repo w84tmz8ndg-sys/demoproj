@@ -1,0 +1,27 @@
+{
+ "ticker": "AWR",
+ "name": "American States Water Company Common Stock",
+ "sector": "Utilities",
+ "industry": "Water Supply",
+ "country": "United States",
+ "mcap": 3501413655.0,
+ "price": "$88.33",
+ "cik": 1056903,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AWR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, American States Water Company (AWR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/awr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:42+00:00"
+}

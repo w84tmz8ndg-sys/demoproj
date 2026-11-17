@@ -1,0 +1,27 @@
+{
+ "ticker": "MO",
+ "name": "Altria Group Inc.",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "United States",
+ "mcap": 131245172594.0,
+ "price": "$78.90",
+ "cik": 764180,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Altria Group (MO) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:09+00:00"
+}

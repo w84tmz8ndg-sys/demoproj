@@ -1,0 +1,27 @@
+{
+ "ticker": "CX",
+ "name": "Cemex S.A.B. de C.V. Sponsored ADR",
+ "sector": "Industrials",
+ "industry": "Building Materials",
+ "country": "Mexico",
+ "mcap": 15697311371.0,
+ "price": "$10.355",
+ "cik": 1076378,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, CEMEX, S.A.B. de C.V. (CX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:14+00:00"
+}

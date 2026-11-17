@@ -1,0 +1,27 @@
+{
+ "ticker": "TWST",
+ "name": "Twist Bioscience Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 7161489808.0,
+ "price": "$105.04",
+ "cik": 1581280,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TWST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Twist Bioscience Corporation (TWST) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/twst",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:50+00:00"
+}

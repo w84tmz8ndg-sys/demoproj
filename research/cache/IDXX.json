@@ -1,0 +1,27 @@
+{
+ "ticker": "IDXX",
+ "name": "IDEXX Laboratories Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+ "country": "United States",
+ "mcap": 55201596572.0,
+ "price": "$700.65",
+ "cik": 874716,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IDXX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, IDEXX Laboratories (IDXX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/idxx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:22+00:00"
+}

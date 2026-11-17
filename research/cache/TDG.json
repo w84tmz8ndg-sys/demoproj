@@ -1,0 +1,27 @@
+{
+ "ticker": "TDG",
+ "name": "Transdigm Group Incorporated Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 65716882272.0,
+ "price": "$1203.83",
+ "cik": 1260221,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TDG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, TransDigm Group (TDG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tdg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:08+00:00"
+}

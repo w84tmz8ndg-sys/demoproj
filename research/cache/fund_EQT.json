@@ -1,0 +1,70 @@
+{
+ "ticker": "EQT",
+ "src_stats": "https://stockanalysis.com/stocks/eqt/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/eqt/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/eqt/financials/ratios/",
+ "Market Cap": "32.05B",
+ "Enterprise Value": "37.53B",
+ "PE Ratio": "12.16",
+ "Forward PE": "17.42",
+ "PS Ratio": "3.50",
+ "EV / EBITDA": "5.53",
+ "Gross Margin": "80.40%",
+ "Operating Margin": "45.15%",
+ "Profit Margin": "29.01%",
+ "FCF Margin": "41.56%",
+ "Debt / Equity": "0.19",
+ "Debt / EBITDA": "0.81",
+ "Net Cash": "-5.47B",
+ "Total Debt": "5.55B",
+ "Cash & Cash Equivalents": "78.72M",
+ "Return on Invested Capital (ROIC)": "9.39%",
+ "Return on Equity (ROE)": "10.49%",
+ "Revenue": "9.15B",
+ "Net Income": "2.65B",
+ "Free Cash Flow": "3.80B",
+ "Dividend Yield": "1.33%",
+ "Beta (5Y)": "0.67",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "9,150",
+  "8,181",
+  "5,042",
+  "5,070",
+  "12,141",
+  "6,840"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,654",
+  "2,039",
+  "230.58",
+  "1,735",
+  "1,771",
+  "-1,143"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "12.16",
+  "16.40",
+  "119.32",
+  "9.16",
+  "7.01",
+  "-"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GOOGL",
+ "name": "Alphabet Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 3488053680000.0,
+ "price": "$283.72",
+ "cik": 1652044,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GOOGL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Alphabet (GOOGL) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/googl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:22+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "AGI",
+ "name": "Alamos Gold Inc. Class A Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 11677857759.0,
+ "price": "$27.90",
+ "cik": 1178819,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AGI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/agi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:29+00:00"
+}

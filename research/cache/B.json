@@ -1,0 +1,27 @@
+{
+ "ticker": "B",
+ "name": "Barrick Mining Corporation Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 59428806858.0,
+ "price": "$36.49",
+ "cik": 756894,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/B/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Barnes Group (B) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/b",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:16+00:00"
+}

@@ -1,0 +1,63 @@
+{
+ "ticker": "BBIO",
+ "src_stats": "https://stockanalysis.com/stocks/bbio/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/bbio/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/bbio/financials/ratios/",
+ "Market Cap": "14.80B",
+ "Enterprise Value": "16.63B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "15.94",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "94.34%",
+ "Operating Margin": "-37.34%",
+ "Profit Margin": "-59.84%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "n/a",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "-1.84B",
+ "Total Debt": "3.38B",
+ "Cash & Cash Equivalents": "1.54B",
+ "Return on Invested Capital (ROIC)": "-17.67%",
+ "Return on Equity (ROE)": "n/a",
+ "Revenue": "945.54M",
+ "Net Income": "-592.13M",
+ "Free Cash Flow": "-369.81M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.94",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "945.54",
+  "502.08",
+  "221.9",
+  "9.3",
+  "77.65",
+  "69.72"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-592.13",
+  "-724.93",
+  "-535.76",
+  "-643.2",
+  "-481.18",
+  "-562.54"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "MRK",
+ "src_stats": "https://stockanalysis.com/stocks/mrk/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/mrk/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/mrk/financials/ratios/",
+ "Market Cap": "355.07B",
+ "Enterprise Value": "399.32B",
+ "PE Ratio": "145.67",
+ "Forward PE": "17.15",
+ "PS Ratio": "5.29",
+ "EV / EBITDA": "13.58",
+ "Gross Margin": "75.20%",
+ "Operating Margin": "35.16%",
+ "Profit Margin": "3.64%",
+ "FCF Margin": "21.89%",
+ "Debt / Equity": "1.20",
+ "Debt / EBITDA": "1.80",
+ "Net Cash": "-44.25B",
+ "Total Debt": "53.90B",
+ "Cash & Cash Equivalents": "9.65B",
+ "Return on Invested Capital (ROIC)": "13.69%",
+ "Return on Equity (ROE)": "5.06%",
+ "Revenue": "67.38B",
+ "Net Income": "2.45B",
+ "Free Cash Flow": "14.75B",
+ "Dividend Yield": "2.36%",
+ "Beta (5Y)": "0.12",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "67,378",
+  "65,011",
+  "64,168",
+  "60,115",
+  "59,283",
+  "48,704"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,453",
+  "18,254",
+  "17,117",
+  "365",
+  "14,519",
+  "13,049"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "145.00",
+  "14.31",
+  "14.70",
+  "756.88",
+  "19.38",
+  "14.84"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "BTE",
+ "name": "Baytex Energy Corp Common Shares",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Canada",
+ "mcap": 2838496000.0,
+ "price": "$4.145",
+ "cik": 1279495,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BTE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Baytex Energy Corp. (BTE) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bte",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:11+00:00"
+}

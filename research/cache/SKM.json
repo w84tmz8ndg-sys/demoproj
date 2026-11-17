@@ -1,0 +1,27 @@
+{
+ "ticker": "SKM",
+ "name": "SK Telecom Co. Ltd. Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "South Korea",
+ "mcap": 12780885600.0,
+ "price": "$33.32",
+ "cik": 1015650,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SKM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, SK Telecom Co. (SKM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/skm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:04+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "YMM",
+ "name": "Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares)",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 8891754900.0,
+ "price": "$8.57",
+ "cik": 1838413,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YMM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Full Truck Alliance Co. Ltd. (YMM) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ymm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:49+00:00"
+}

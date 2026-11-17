@@ -1,0 +1,27 @@
+{
+ "ticker": "INGR",
+ "name": "Ingredion Incorporated Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 5790872408.0,
+ "price": "$92.97",
+ "cik": 1046257,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INGR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Ingredion Incorporated (INGR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ingr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:09+00:00"
+}

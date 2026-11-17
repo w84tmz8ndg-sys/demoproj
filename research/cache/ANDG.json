@@ -1,0 +1,27 @@
+{
+ "ticker": "ANDG",
+ "name": "Andersen Group Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 7168517239.0,
+ "price": "$62.84",
+ "cik": 2065708,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ANDG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Andersen Group Inc. Class A Common Stock (ANDG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/andg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:53+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CDW",
+ "name": "CDW Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "United States",
+ "mcap": 20695881940.0,
+ "price": "$165.82",
+ "cik": 1402057,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CDW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, CDW (CDW) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cdw",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:28+00:00"
+}

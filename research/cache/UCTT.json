@@ -1,0 +1,27 @@
+{
+ "ticker": "UCTT",
+ "name": "Ultra Clean Holdings Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 2056052016.0,
+ "price": "$42.87",
+ "cik": 1275014,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UCTT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Ultra Clean Holdings, Inc. (UCTT) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/uctt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:19+00:00"
+}

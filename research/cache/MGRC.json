@@ -1,0 +1,27 @@
+{
+ "ticker": "MGRC",
+ "name": "McGrath RentCorp Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "United States",
+ "mcap": 3106941274.0,
+ "price": "$127.52",
+ "cik": 752714,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MGRC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, McGrath RentCorp (MGRC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mgrc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:34+00:00"
+}

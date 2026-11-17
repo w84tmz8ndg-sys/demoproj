@@ -1,0 +1,27 @@
+{
+ "ticker": "ELC",
+ "name": "Entergy Louisiana Inc. Collateral Trust Mortgage Bonds 4.875 % Series due September 1 2066",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 3853202565.0,
+ "price": "$18.07",
+ "cik": 1348952,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ELC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/elc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:02+00:00"
+}

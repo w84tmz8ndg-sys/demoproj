@@ -1,0 +1,27 @@
+{
+ "ticker": "FMS",
+ "name": "Fresenius Medical Care AG American Depositary Shares (Each representing 1/2 of an Ordinary Share)",
+ "sector": "Health Care",
+ "industry": "Misc Health and Biotechnology Services",
+ "country": "Germany",
+ "mcap": 12210510052.0,
+ "price": "$21.86",
+ "cik": 1333141,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FMS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fms",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:13+00:00"
+}

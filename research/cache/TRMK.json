@@ -1,0 +1,27 @@
+{
+ "ticker": "TRMK",
+ "name": "Trustmark Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 2749920050.0,
+ "price": "$47.63",
+ "cik": 36146,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRMK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Trustmark Corporation (TRMK) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/trmk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:25+00:00"
+}

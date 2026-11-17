@@ -1,0 +1,27 @@
+{
+ "ticker": "GCT",
+ "name": "GigaCloud Technology Inc Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "United States",
+ "mcap": 2285281140.0,
+ "price": "$64.15",
+ "cik": 1857816,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GCT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gct",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:43+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "BROS",
+ "name": "Dutch Bros Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "United States",
+ "mcap": 6229501101.0,
+ "price": "$35.66",
+ "cik": 1866581,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BROS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Dutch Bros (BROS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bros",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:41+00:00"
+}

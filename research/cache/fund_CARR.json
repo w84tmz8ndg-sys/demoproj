@@ -1,0 +1,70 @@
+{
+ "ticker": "CARR",
+ "src_stats": "https://stockanalysis.com/stocks/carr/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/carr/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/carr/financials/ratios/",
+ "Market Cap": "42.01B",
+ "Enterprise Value": "52.53B",
+ "PE Ratio": "n/a",
+ "Forward PE": "17.16",
+ "PS Ratio": "1.85",
+ "EV / EBITDA": "16.24",
+ "Gross Margin": "24.38%",
+ "Operating Margin": "8.64%",
+ "Profit Margin": "-7.90%",
+ "FCF Margin": "10.43%",
+ "Debt / Equity": "1.14",
+ "Debt / EBITDA": "3.45",
+ "Net Cash": "-10.52B",
+ "Total Debt": "11.88B",
+ "Cash & Cash Equivalents": "1.35B",
+ "Return on Invested Capital (ROIC)": "8.66%",
+ "Return on Equity (ROE)": "-13.44%",
+ "Revenue": "22.79B",
+ "Net Income": "-1.80B",
+ "Free Cash Flow": "2.38B",
+ "Dividend Yield": "1.85%",
+ "Beta (5Y)": "1.33",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "22,792",
+  "21,747",
+  "22,486",
+  "18,951",
+  "17,288",
+  "20,613"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-1,801",
+  "1,484",
+  "5,604",
+  "1,349",
+  "3,534",
+  "1,664"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "29.99",
+  "10.93",
+  "35.73",
+  "9.76",
+  "28.25"
+ ]
+}

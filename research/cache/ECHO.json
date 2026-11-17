@@ -1,0 +1,27 @@
+{
+ "ticker": "ECHO",
+ "name": "EchoStar  Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 28943597078.0,
+ "price": "$99.47",
+ "cik": 1415404,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ECHO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/echo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:43+00:00"
+}

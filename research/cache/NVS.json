@@ -1,0 +1,27 @@
+{
+ "ticker": "NVS",
+ "name": "Novartis AG Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Switzerland",
+ "mcap": 305704980493.0,
+ "price": "$160.21",
+ "cik": 1114448,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NVS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Novartis AG (NVS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nvs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:31+00:00"
+}

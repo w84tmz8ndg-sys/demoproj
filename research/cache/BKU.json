@@ -1,0 +1,27 @@
+{
+ "ticker": "BKU",
+ "name": "BankUnited Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Savings Institutions",
+ "country": "United States",
+ "mcap": 3022824101.0,
+ "price": "$43.60",
+ "cik": 1504008,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BKU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, BankUnited (BKU) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bku",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:48+00:00"
+}

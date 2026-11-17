@@ -1,0 +1,27 @@
+{
+ "ticker": "ONDS",
+ "name": "Ondas Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Radio And Television Broadcasting And Communications Equipment",
+ "country": "United States",
+ "mcap": 2779652988.0,
+ "price": "$4.71",
+ "cik": 1646188,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ONDS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Ondas Holdings (ONDS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/onds",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:22+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PHM",
+ "name": "PulteGroup Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Homebuilding",
+ "country": "United States",
+ "mcap": 23385460794.0,
+ "price": "$127.035",
+ "cik": 822416,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PHM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, PulteGroup (PHM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/phm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:08+00:00"
+}

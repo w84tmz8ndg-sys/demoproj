@@ -1,0 +1,70 @@
+{
+ "ticker": "FTI",
+ "src_stats": "https://stockanalysis.com/stocks/fti/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/fti/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/fti/financials/ratios/",
+ "Market Cap": "24.52B",
+ "Enterprise Value": "24.77B",
+ "PE Ratio": "19.86",
+ "Forward PE": "17.12",
+ "PS Ratio": "2.33",
+ "EV / EBITDA": "12.07",
+ "Gross Margin": "23.60%",
+ "Operating Margin": "15.64%",
+ "Profit Margin": "12.04%",
+ "FCF Margin": "14.94%",
+ "Debt / Equity": "0.39",
+ "Debt / EBITDA": "0.62",
+ "Net Cash": "-250.30M",
+ "Total Debt": "1.30B",
+ "Cash & Cash Equivalents": "1.05B",
+ "Return on Invested Capital (ROIC)": "36.90%",
+ "Return on Equity (ROE)": "38.30%",
+ "Revenue": "10.67B",
+ "Net Income": "1.28B",
+ "Free Cash Flow": "1.59B",
+ "Dividend Yield": "0.32%",
+ "Beta (5Y)": "0.85",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "10,669",
+  "9,933",
+  "9,083",
+  "7,824",
+  "6,700",
+  "6,404"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,284",
+  "963.9",
+  "842.9",
+  "56.2",
+  "-107.2",
+  "13.3"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "19.86",
+  "18.70",
+  "14.61",
+  "156.05",
+  "-",
+  "200.61"
+ ]
+}

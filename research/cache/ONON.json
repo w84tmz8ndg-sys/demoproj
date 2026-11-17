@@ -1,0 +1,27 @@
+{
+ "ticker": "ONON",
+ "name": "On Holding AG Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Shoe Manufacturing",
+ "country": "",
+ "mcap": 19783487630.0,
+ "price": "$32.785",
+ "cik": 1858985,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ONON/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, On Holding AG (ONON) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/onon",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:32+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GTX",
+ "name": "Garrett Motion Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "Switzerland",
+ "mcap": 3791800133.0,
+ "price": "$20.54",
+ "cik": 1735707,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gtx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:08+00:00"
+}

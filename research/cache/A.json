@@ -1,0 +1,27 @@
+{
+ "ticker": "A",
+ "name": "Agilent Technologies Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Biotechnology: Laboratory Analytical Instruments",
+ "country": "United States",
+ "mcap": 48765233876.0,
+ "price": "$172.97",
+ "cik": 1090872,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/A/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Agilent Technologies (A) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/a",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:32+00:00"
+}

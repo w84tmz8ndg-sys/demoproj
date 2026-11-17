@@ -1,0 +1,27 @@
+{
+ "ticker": "CNXN",
+ "name": "PC Connection Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "United States",
+ "mcap": 2061744331.0,
+ "price": "$81.66",
+ "cik": 1050377,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNXN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, PC Connection (CNXN) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cnxn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:17+00:00"
+}

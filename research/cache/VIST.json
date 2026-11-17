@@ -1,0 +1,27 @@
+{
+ "ticker": "VIST",
+ "name": "Vista Energy S.A.B. de C.V. American Depositary Shares each representing one series A share with no par value",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Mexico",
+ "mcap": 5956594181.0,
+ "price": "$53.51",
+ "cik": 1762506,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VIST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Vista Energy, S.A.B. de C.V. (VIST) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vist",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:03+00:00"
+}

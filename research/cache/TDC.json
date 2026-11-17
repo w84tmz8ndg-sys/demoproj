@@ -1,0 +1,27 @@
+{
+ "ticker": "TDC",
+ "name": "Teradata Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 3211796000.0,
+ "price": "$35.14",
+ "cik": 816761,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TDC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Teradata (TDC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tdc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:19+00:00"
+}

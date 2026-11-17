@@ -1,0 +1,27 @@
+{
+ "ticker": "CLBK",
+ "name": "Columbia Financial Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Savings Institutions",
+ "country": "United States",
+ "mcap": 2997373337.0,
+ "price": "$11.12",
+ "cik": 2115119,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLBK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Columbia Financial, Inc (CLBK) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/clbk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:51+00:00"
+}

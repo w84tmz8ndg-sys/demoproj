@@ -1,0 +1,27 @@
+{
+ "ticker": "HALO",
+ "name": "Halozyme Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 11001965000.0,
+ "price": "$96.50",
+ "cik": 1159036,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HALO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Halozyme Therapeutics, Inc. (HALO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/halo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:41+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "NOG",
+ "name": "Northern Oil and Gas Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 2562712482.0,
+ "price": "$24.20",
+ "cik": 1104485,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NOG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Northern Oil and Gas, Inc. (NOG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nog",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:56+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GNW",
+ "name": "Genworth Financial Inc Common Stock",
+ "sector": "Finance",
+ "industry": "Life Insurance",
+ "country": "United States",
+ "mcap": 3045035219.0,
+ "price": "$8.315",
+ "cik": 1276520,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GNW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Genworth Financial, Inc. (GNW) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gnw",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:44+00:00"
+}

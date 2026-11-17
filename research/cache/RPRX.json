@@ -1,0 +1,27 @@
+{
+ "ticker": "RPRX",
+ "name": "Royalty Pharma plc Class A Ordinary Shares ",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 39306303388.0,
+ "price": "$68.525",
+ "cik": 1802768,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RPRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Royalty Pharma plc (RPRX) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rprx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:02+00:00"
+}

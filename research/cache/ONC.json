@@ -1,0 +1,27 @@
+{
+ "ticker": "ONC",
+ "name": "BeOne Medicines Ltd. American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Cayman Islands",
+ "mcap": 46980044032.0,
+ "price": "$411.29",
+ "cik": 1651308,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ONC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, BeOne Medicines, Ltd. American Depositary Receipt (ONC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/onc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:40+00:00"
+}

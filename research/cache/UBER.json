@@ -1,0 +1,27 @@
+{
+ "ticker": "UBER",
+ "name": "Uber Technologies Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 142912445919.0,
+ "price": "$69.99",
+ "cik": 1543151,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UBER/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Uber Technologies (UBER) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/uber",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:03+00:00"
+}

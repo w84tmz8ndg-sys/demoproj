@@ -1,0 +1,27 @@
+{
+ "ticker": "THO",
+ "name": "Thor Industries Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Homebuilding",
+ "country": "United States",
+ "mcap": 4000901514.0,
+ "price": "$77.27",
+ "cik": 730263,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/THO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Thor Industries (THO) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tho",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:48+00:00"
+}

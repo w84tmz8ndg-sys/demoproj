@@ -1,0 +1,27 @@
+{
+ "ticker": "OMC",
+ "name": "Omnicom Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Advertising",
+ "country": "United States",
+ "mcap": 24007848709.0,
+ "price": "$87.99",
+ "cik": 29989,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OMC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Omnicom Group (OMC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/omc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:05+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "INIO",
+ "name": "INNIO N.V. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Metal Fabrications",
+ "country": "Germany",
+ "mcap": 10365000000.0,
+ "price": "$13.82",
+ "cik": 2109150,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/inio",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:57+00:00"
+}

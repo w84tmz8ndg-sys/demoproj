@@ -1,0 +1,27 @@
+{
+ "ticker": "EFSC",
+ "name": "Enterprise Financial Services Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 2203439761.0,
+ "price": "$61.75",
+ "cik": 1025835,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EFSC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Enterprise Financial Services Corp (EFSC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/efsc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:54+00:00"
+}

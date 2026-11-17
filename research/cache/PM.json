@@ -1,0 +1,27 @@
+{
+ "ticker": "PM",
+ "name": "Philip Morris International Inc Common Stock",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "United States",
+ "mcap": 305613402456.0,
+ "price": "$196.075",
+ "cik": 1413329,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Philip Morris International (PM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:31+00:00"
+}

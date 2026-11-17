@@ -1,0 +1,27 @@
+{
+ "ticker": "ENS",
+ "name": "EnerSys Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 4938370383.0,
+ "price": "$138.77",
+ "cik": 1289308,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, EnerSys (ENS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ens",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:11+00:00"
+}

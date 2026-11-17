@@ -1,0 +1,27 @@
+{
+ "ticker": "VNT",
+ "name": "Vontier Corporation Common Stock ",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 5781448000.0,
+ "price": "$43.535",
+ "cik": 1786842,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Vontier (VNT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vnt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:12+00:00"
+}

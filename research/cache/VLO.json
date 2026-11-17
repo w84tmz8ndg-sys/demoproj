@@ -1,0 +1,27 @@
+{
+ "ticker": "VLO",
+ "name": "Valero Energy Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Integrated oil Companies",
+ "country": "United States",
+ "mcap": 103138423230.0,
+ "price": "$369.825",
+ "cik": 1035002,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VLO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Valero Energy (VLO) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vlo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:25+00:00"
+}

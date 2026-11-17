@@ -1,0 +1,70 @@
+{
+ "ticker": "WELL",
+ "src_stats": "https://stockanalysis.com/stocks/well/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/well/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/well/financials/ratios/",
+ "Market Cap": "179.40B",
+ "Enterprise Value": "198.32B",
+ "PE Ratio": "105.36",
+ "Forward PE": "80.92",
+ "PS Ratio": "13.01",
+ "EV / EBITDA": "53.70",
+ "Gross Margin": "39.23%",
+ "Operating Margin": "7.18%",
+ "Profit Margin": "12.08%",
+ "FCF Margin": "11.44%",
+ "Debt / Equity": "0.42",
+ "Debt / EBITDA": "5.54",
+ "Net Cash": "-18.91B",
+ "Total Debt": "21.19B",
+ "Cash & Cash Equivalents": "2.27B",
+ "Return on Invested Capital (ROIC)": "1.43%",
+ "Return on Equity (ROE)": "3.92%",
+ "Revenue": "13.79B",
+ "Net Income": "1.67B",
+ "Free Cash Flow": "1.58B",
+ "Dividend Yield": "1.39%",
+ "Beta (5Y)": "0.79",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "13,793",
+  "10,838",
+  "7,991",
+  "6,573",
+  "5,861",
+  "4,737"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,667",
+  "936.85",
+  "951.68",
+  "340.09",
+  "141.21",
+  "336.14"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "104.73",
+  "135.98",
+  "82.46",
+  "146.74",
+  "219.34",
+  "111.07"
+ ]
+}

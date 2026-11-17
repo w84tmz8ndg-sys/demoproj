@@ -1,0 +1,27 @@
+{
+ "ticker": "KSPI",
+ "name": "Joint Stock Company Kaspi.kz American Depository Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "Kazakhstan",
+ "mcap": 17320225378.0,
+ "price": "$91.48",
+ "cik": 1985487,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KSPI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kspi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:55+00:00"
+}

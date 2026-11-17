@@ -1,0 +1,70 @@
+{
+ "ticker": "PKG",
+ "src_stats": "https://stockanalysis.com/stocks/pkg/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/pkg/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/pkg/financials/ratios/",
+ "Market Cap": "21.93B",
+ "Enterprise Value": "25.58B",
+ "PE Ratio": "30.56",
+ "Forward PE": "18.39",
+ "PS Ratio": "2.26",
+ "EV / EBITDA": "12.42",
+ "Gross Margin": "21.60%",
+ "Operating Margin": "14.05%",
+ "Profit Margin": "7.40%",
+ "FCF Margin": "6.99%",
+ "Debt / Equity": "0.92",
+ "Debt / EBITDA": "1.96",
+ "Net Cash": "-3.65B",
+ "Total Debt": "4.41B",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "12.21%",
+ "Return on Equity (ROE)": "15.21%",
+ "Revenue": "9.82B",
+ "Net Income": "722.70M",
+ "Free Cash Flow": "686.60M",
+ "Dividend Yield": "2.42%",
+ "Beta (5Y)": "0.77",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "9,823",
+  "8,989",
+  "8,383",
+  "7,802",
+  "8,478",
+  "7,730"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "722.7",
+  "768.9",
+  "799.5",
+  "759",
+  "1,022",
+  "834.7"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "30.69",
+  "23.97",
+  "25.11",
+  "19.09",
+  "11.50",
+  "15.39"
+ ]
+}

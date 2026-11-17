@@ -1,0 +1,27 @@
+{
+ "ticker": "VNOM",
+ "name": "Viper Energy Inc. Class A Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 14978798559.0,
+ "price": "$41.55",
+ "cik": 2074176,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VNOM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Viper Energy Partners LP (VNOM) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vnom",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:29+00:00"
+}

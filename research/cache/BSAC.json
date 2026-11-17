@@ -1,0 +1,27 @@
+{
+ "ticker": "BSAC",
+ "name": "Banco Santander - Chile ADS",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "Chile",
+ "mcap": 14920222089.0,
+ "price": "$31.67",
+ "cik": 1027552,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BSAC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Banco Santander-Chile (BSAC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bsac",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:31+00:00"
+}

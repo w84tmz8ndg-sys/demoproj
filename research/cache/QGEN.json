@@ -1,0 +1,27 @@
+{
+ "ticker": "QGEN",
+ "name": "Qiagen N.V. Common Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Netherlands",
+ "mcap": 10262522699.0,
+ "price": "$49.80",
+ "cik": 1015820,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QGEN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Qiagen N.V. (QGEN) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/qgen",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:58+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "CHRW",
+ "src_stats": "https://stockanalysis.com/stocks/chrw/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/chrw/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/chrw/financials/ratios/",
+ "Market Cap": "15.86B",
+ "Enterprise Value": "17.82B",
+ "PE Ratio": "24.58",
+ "Forward PE": "18.52",
+ "PS Ratio": "0.86",
+ "EV / EBITDA": "17.52",
+ "Gross Margin": "8.34%",
+ "Operating Margin": "5.27%",
+ "Profit Margin": "3.67%",
+ "FCF Margin": "2.85%",
+ "Debt / Equity": "1.36",
+ "Debt / EBITDA": "1.97",
+ "Net Cash": "-1.96B",
+ "Total Debt": "2.15B",
+ "Cash & Cash Equivalents": "193.13M",
+ "Return on Invested Capital (ROIC)": "22.40%",
+ "Return on Equity (ROE)": "38.92%",
+ "Revenue": "18.22B",
+ "Net Income": "668.81M",
+ "Free Cash Flow": "519.78M",
+ "Dividend Yield": "1.88%",
+ "Beta (5Y)": "0.95",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "18,218",
+  "16,233",
+  "17,725",
+  "17,596",
+  "24,697",
+  "23,102"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "668.81",
+  "587.08",
+  "465.69",
+  "325.13",
+  "940.52",
+  "844.25"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "24.59",
+  "32.35",
+  "26.23",
+  "31.00",
+  "11.46",
+  "16.51"
+ ]
+}

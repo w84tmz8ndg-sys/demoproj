@@ -1,0 +1,27 @@
+{
+ "ticker": "KYIV",
+ "name": "Kyivstar Group Ltd. Common Shares",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "United Arab Emirates",
+ "mcap": 2777726216.0,
+ "price": "$11.98",
+ "cik": 2062440,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KYIV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kyiv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:23+00:00"
+}

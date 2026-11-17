@@ -1,0 +1,27 @@
+{
+ "ticker": "SWX",
+ "name": "Southwest Gas Holdings Inc. Common Stock (DE)",
+ "sector": "Utilities",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 6666496914.0,
+ "price": "$91.98",
+ "cik": 1692115,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SWX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Southwest Gas Holdings, Inc. (SWX) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/swx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:15+00:00"
+}

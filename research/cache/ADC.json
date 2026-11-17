@@ -1,0 +1,27 @@
+{
+ "ticker": "ADC",
+ "name": "Agree Realty Corporation Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 9022506500.0,
+ "price": "$69.35",
+ "cik": 917251,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Agree Realty Corporation (ADC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/adc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:42+00:00"
+}

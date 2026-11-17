@@ -1,0 +1,27 @@
+{
+ "ticker": "JCI",
+ "name": "Johnson Controls International plc Ordinary Share",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "Switzerland",
+ "mcap": 82179347853.0,
+ "price": "$136.92",
+ "cik": 833444,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JCI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Johnson Controls International (JCI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jci",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:45+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SCHW",
+ "name": "Charles Schwab Corporation (The) Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "United States",
+ "mcap": 160466936334.0,
+ "price": "$92.97",
+ "cik": 316709,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SCHW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Charles Schwab (SCHW) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/schw",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:43+00:00"
+}

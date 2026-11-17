@@ -1,0 +1,27 @@
+{
+ "ticker": "FHN",
+ "name": "First Horizon Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 10989960859.0,
+ "price": "$23.34",
+ "cik": 36966,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FHN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, First Horizon Corporation (FHN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fhn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:44+00:00"
+}

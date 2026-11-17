@@ -1,0 +1,63 @@
+{
+ "ticker": "RBRK",
+ "src_stats": "https://stockanalysis.com/stocks/rbrk/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/rbrk/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/rbrk/financials/ratios/",
+ "Market Cap": "21.79B",
+ "Enterprise Value": "21.19B",
+ "PE Ratio": "n/a",
+ "Forward PE": "208.79",
+ "PS Ratio": "14.25",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "80.21%",
+ "Operating Margin": "-18.31%",
+ "Profit Margin": "-16.50%",
+ "FCF Margin": "19.71%",
+ "Debt / Equity": "n/a",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "598.06M",
+ "Total Debt": "1.15B",
+ "Cash & Cash Equivalents": "1.75B",
+ "Return on Invested Capital (ROIC)": "-28.16%",
+ "Return on Equity (ROE)": "n/a",
+ "Revenue": "1.54B",
+ "Net Income": "-254.43M",
+ "Free Cash Flow": "303.91M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.08",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,542",
+  "1,316",
+  "886.54",
+  "627.89",
+  "599.82",
+  "506.15"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-254.43",
+  "-348.83",
+  "-1,155",
+  "-354.16",
+  "-277.75",
+  "-254.4"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": null
+}

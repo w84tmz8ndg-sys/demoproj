@@ -1,0 +1,70 @@
+{
+ "ticker": "ICLR",
+ "src_stats": "https://stockanalysis.com/stocks/iclr/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/iclr/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/iclr/financials/ratios/",
+ "Market Cap": "14.34B",
+ "Enterprise Value": "17.04B",
+ "PE Ratio": "34.21",
+ "Forward PE": "16.96",
+ "PS Ratio": "1.74",
+ "EV / EBITDA": "35.55",
+ "Gross Margin": "23.44%",
+ "Operating Margin": "2.72%",
+ "Profit Margin": "5.26%",
+ "FCF Margin": "12.19%",
+ "Debt / Equity": "0.38",
+ "Debt / EBITDA": "6.67",
+ "Net Cash": "-2.70B",
+ "Total Debt": "3.51B",
+ "Cash & Cash Equivalents": "808.98M",
+ "Return on Invested Capital (ROIC)": "1.59%",
+ "Return on Equity (ROE)": "4.69%",
+ "Revenue": "8.23B",
+ "Net Income": "433.36M",
+ "Free Cash Flow": "1.00B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.18",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "8,235",
+  "8,251",
+  "8,189",
+  "8,055",
+  "7,741",
+  "5,481"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "433.36",
+  "214.04",
+  "727.08",
+  "554.21",
+  "505.3",
+  "153.19"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "34.77",
+  "65.01",
+  "23.81",
+  "42.05",
+  "31.39",
+  "164.57"
+ ]
+}

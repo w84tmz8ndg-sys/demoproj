@@ -1,0 +1,27 @@
+{
+ "ticker": "JAZZ",
+ "name": "Jazz Pharmaceuticals plc Common Stock (Ireland)",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Ireland",
+ "mcap": 15390608998.0,
+ "price": "$239.77",
+ "cik": 1232524,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JAZZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Jazz Pharmaceuticals (JAZZ) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jazz",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:20+00:00"
+}

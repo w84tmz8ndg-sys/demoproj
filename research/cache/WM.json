@@ -1,0 +1,27 @@
+{
+ "ticker": "WM",
+ "name": "Waste Management Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Environmental Services",
+ "country": "United States",
+ "mcap": 97177997121.0,
+ "price": "$244.39",
+ "cik": 823768,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Waste Management (WM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:30+00:00"
+}

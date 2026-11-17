@@ -1,0 +1,27 @@
+{
+ "ticker": "BB",
+ "name": "BlackBerry Limited Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Canada",
+ "mcap": 5154143410.0,
+ "price": "$8.78",
+ "cik": 1070235,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, BlackBerry Limited (BB) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:58+00:00"
+}

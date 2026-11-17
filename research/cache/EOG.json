@@ -1,0 +1,27 @@
+{
+ "ticker": "EOG",
+ "name": "EOG Resources Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 80639851359.0,
+ "price": "$155.53",
+ "cik": 821189,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EOG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, EOG Resources (EOG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/eog",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:48+00:00"
+}

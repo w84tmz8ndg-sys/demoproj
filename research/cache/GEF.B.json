@@ -1,0 +1,27 @@
+{
+ "ticker": "GEF.B",
+ "name": "Greif Inc. Corporation Class B Common Stock",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "United States",
+ "mcap": 4599057296.0,
+ "price": "$99.615",
+ "cik": 43920,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/GEF-B/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gef-b",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:09:43+00:00"
+}

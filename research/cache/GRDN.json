@@ -1,0 +1,27 @@
+{
+ "ticker": "GRDN",
+ "name": "Guardian Pharmacy Services Inc. Class A Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Retail-Drug Stores and Proprietary Stores",
+ "country": "United States",
+ "mcap": 3131267447.0,
+ "price": "$49.425",
+ "cik": 1802255,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GRDN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Guardian Pharmacy Services Inc. (GRDN) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/grdn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:28+00:00"
+}

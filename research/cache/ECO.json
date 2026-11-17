@@ -1,0 +1,27 @@
+{
+ "ticker": "ECO",
+ "name": "Okeanis Eco Tankers Corp. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "",
+ "mcap": 3313329423.0,
+ "price": "$84.86",
+ "cik": 1964954,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ECO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eco",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:12:09+00:00"
+}

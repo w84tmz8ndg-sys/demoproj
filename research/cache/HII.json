@@ -1,0 +1,27 @@
+{
+ "ticker": "HII",
+ "name": "Huntington Ingalls Industries Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Marine Transportation",
+ "country": "United States",
+ "mcap": 11913634120.0,
+ "price": "$302.33",
+ "cik": 1501585,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HII/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Huntington Ingalls Industries (HII) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hii",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:23+00:00"
+}

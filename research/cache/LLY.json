@@ -1,0 +1,27 @@
+{
+ "ticker": "LLY",
+ "name": "Eli Lilly and Company Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 1348605039190.0,
+ "price": "$1433.55",
+ "cik": 59478,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LLY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Eli Lilly (LLY) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lly",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:24+00:00"
+}

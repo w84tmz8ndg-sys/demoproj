@@ -1,0 +1,27 @@
+{
+ "ticker": "DXCM",
+ "name": "DexCom Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 30436524744.0,
+ "price": "$81.61",
+ "cik": 1093557,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DXCM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, DexCom (DXCM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dxcm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:34+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "HMY",
+ "name": "Harmony Gold Mining Company Limited",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "South Africa",
+ "mcap": 9322736862.0,
+ "price": "$14.64",
+ "cik": 1023514,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HMY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hmy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:31+00:00"
+}

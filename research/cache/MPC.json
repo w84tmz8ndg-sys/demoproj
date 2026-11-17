@@ -1,0 +1,27 @@
+{
+ "ticker": "MPC",
+ "name": "Marathon Petroleum Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Integrated oil Companies",
+ "country": "United States",
+ "mcap": 109544606890.0,
+ "price": "$402.32",
+ "cik": 1510295,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MPC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Marathon Petroleum (MPC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mpc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:22+00:00"
+}

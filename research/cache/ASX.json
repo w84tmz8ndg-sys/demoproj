@@ -1,0 +1,27 @@
+{
+ "ticker": "ASX",
+ "name": "ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares) ",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Taiwan",
+ "mcap": 73042280345.0,
+ "price": "$32.80",
+ "cik": 1122411,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ASX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, ASE Technology Holding Co. (ASX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/asx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:56+00:00"
+}

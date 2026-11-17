@@ -1,0 +1,27 @@
+{
+ "ticker": "MANU",
+ "name": "Manchester United Ltd. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United Kingdom",
+ "mcap": 3828446468.0,
+ "price": "$22.195",
+ "cik": 1549107,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MANU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/manu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:11:01+00:00"
+}

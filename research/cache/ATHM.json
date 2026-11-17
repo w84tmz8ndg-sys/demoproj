@@ -1,0 +1,27 @@
+{
+ "ticker": "ATHM",
+ "name": "Autohome Inc. American Depositary Shares each representing four class A ordinary shares.",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "China",
+ "mcap": 2466960914.0,
+ "price": "$21.42",
+ "cik": 1527636,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ATHM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/athm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:15+00:00"
+}

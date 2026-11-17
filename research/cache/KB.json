@@ -1,0 +1,27 @@
+{
+ "ticker": "KB",
+ "name": "KB Financial Group Inc",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "South Korea",
+ "mcap": 41807043207.0,
+ "price": "$117.87",
+ "cik": 1445930,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, KB Financial Group Inc. (KB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/kb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:55+00:00"
+}

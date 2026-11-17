@@ -1,0 +1,27 @@
+{
+ "ticker": "NSC",
+ "name": "Norfolk Southern Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Railroads",
+ "country": "United States",
+ "mcap": 73993228702.0,
+ "price": "$329.42",
+ "cik": 702165,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NSC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Norfolk Southern (NSC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nsc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:57+00:00"
+}

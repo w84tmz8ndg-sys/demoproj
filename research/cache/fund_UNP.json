@@ -1,0 +1,70 @@
+{
+ "ticker": "UNP",
+ "src_stats": "https://stockanalysis.com/stocks/unp/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/unp/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/unp/financials/ratios/",
+ "Market Cap": "176.91B",
+ "Enterprise Value": "204.93B",
+ "PE Ratio": "23.22",
+ "Forward PE": "21.20",
+ "PS Ratio": "6.85",
+ "EV / EBITDA": "15.70",
+ "Gross Margin": "55.77%",
+ "Operating Margin": "40.75%",
+ "Profit Margin": "28.90%",
+ "FCF Margin": "25.39%",
+ "Debt / Equity": "1.41",
+ "Debt / EBITDA": "2.29",
+ "Net Cash": "-28.03B",
+ "Total Debt": "31.11B",
+ "Cash & Cash Equivalents": "3.09B",
+ "Return on Invested Capital (ROIC)": "16.54%",
+ "Return on Equity (ROE)": "38.75%",
+ "Revenue": "26.36B",
+ "Net Income": "7.62B",
+ "Free Cash Flow": "6.69B",
+ "Dividend Yield": "1.91%",
+ "Beta (5Y)": "0.85",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "26,363",
+  "24,510",
+  "24,250",
+  "24,119",
+  "24,875",
+  "21,804"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "7,618",
+  "7,138",
+  "6,747",
+  "6,379",
+  "6,998",
+  "6,523"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "23.12",
+  "19.22",
+  "20.49",
+  "23.47",
+  "19.02",
+  "24.83"
+ ]
+}

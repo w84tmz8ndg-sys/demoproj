@@ -1,0 +1,27 @@
+{
+ "ticker": "MU",
+ "name": "Micron Technology Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 813515917892.0,
+ "price": "$719.02",
+ "cik": 723125,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Micron Technology (MU) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:25+00:00"
+}

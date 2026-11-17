@@ -1,0 +1,27 @@
+{
+ "ticker": "FDXF",
+ "name": "FedEx Freight Holding Company Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Air Freight/Delivery Services",
+ "country": "United States",
+ "mcap": 19869133432.0,
+ "price": "$132.885",
+ "cik": 2082247,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FDXF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fdxf",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:31+00:00"
+}

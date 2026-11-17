@@ -1,0 +1,27 @@
+{
+ "ticker": "MKSI",
+ "name": "MKS Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 13820272681.0,
+ "price": "$204.38",
+ "cik": 1049502,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MKSI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, MKS Instruments, Inc. (MKSI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mksi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:47+00:00"
+}

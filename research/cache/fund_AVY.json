@@ -1,0 +1,70 @@
+{
+ "ticker": "AVY",
+ "src_stats": "https://stockanalysis.com/stocks/avy/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/avy/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/avy/financials/ratios/",
+ "Market Cap": "14.15B",
+ "Enterprise Value": "17.45B",
+ "PE Ratio": "20.28",
+ "Forward PE": "17.43",
+ "PS Ratio": "1.51",
+ "EV / EBITDA": "11.64",
+ "Gross Margin": "28.83%",
+ "Operating Margin": "12.76%",
+ "Profit Margin": "7.56%",
+ "FCF Margin": "11.09%",
+ "Debt / Equity": "1.52",
+ "Debt / EBITDA": "2.30",
+ "Net Cash": "-3.30B",
+ "Total Debt": "3.62B",
+ "Cash & Cash Equivalents": "318.50M",
+ "Return on Invested Capital (ROIC)": "15.25%",
+ "Return on Equity (ROE)": "30.80%",
+ "Revenue": "9.36B",
+ "Net Income": "708.30M",
+ "Free Cash Flow": "1.04B",
+ "Dividend Yield": "2.14%",
+ "Beta (5Y)": "0.78",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "9,364",
+  "8,856",
+  "8,756",
+  "8,364",
+  "9,039",
+  "8,408"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "708.3",
+  "688",
+  "704.9",
+  "503",
+  "757.1",
+  "740.1"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "20.07",
+  "20.43",
+  "21.49",
+  "32.37",
+  "19.36",
+  "24.23"
+ ]
+}

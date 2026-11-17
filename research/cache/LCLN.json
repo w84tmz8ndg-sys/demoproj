@@ -1,0 +1,27 @@
+{
+ "ticker": "LCLN",
+ "name": "Lincoln International Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "",
+ "mcap": 2841981138.0,
+ "price": "$27.37",
+ "cik": 1925283,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LCLN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lcln",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:12+00:00"
+}

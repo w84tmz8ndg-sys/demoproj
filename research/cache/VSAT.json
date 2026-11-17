@@ -1,0 +1,27 @@
+{
+ "ticker": "VSAT",
+ "name": "ViaSat Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 8894214098.0,
+ "price": "$63.90",
+ "cik": 797721,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VSAT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Viasat, Inc. (VSAT) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vsat",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:48+00:00"
+}

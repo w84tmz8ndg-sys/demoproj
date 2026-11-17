@@ -1,0 +1,70 @@
+{
+ "ticker": "PHM",
+ "src_stats": "https://stockanalysis.com/stocks/phm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/phm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/phm/financials/ratios/",
+ "Market Cap": "23.38B",
+ "Enterprise Value": "24.42B",
+ "PE Ratio": "13.57",
+ "Forward PE": "13.71",
+ "PS Ratio": "1.46",
+ "EV / EBITDA": "9.36",
+ "Gross Margin": "25.32%",
+ "Operating Margin": "15.61%",
+ "Profit Margin": "11.24%",
+ "FCF Margin": "8.13%",
+ "Debt / Equity": "0.18",
+ "Debt / EBITDA": "0.91",
+ "Net Cash": "-1.04B",
+ "Total Debt": "2.41B",
+ "Cash & Cash Equivalents": "1.37B",
+ "Return on Invested Capital (ROIC)": "13.46%",
+ "Return on Equity (ROE)": "13.86%",
+ "Revenue": "15.98B",
+ "Net Income": "1.80B",
+ "Free Cash Flow": "1.30B",
+ "Dividend Yield": "0.82%",
+ "Beta (5Y)": "1.18",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "15,976",
+  "17,312",
+  "17,947",
+  "16,062",
+  "16,003",
+  "13,737"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,796",
+  "2,219",
+  "3,083",
+  "2,593",
+  "2,601",
+  "1,930"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "13.47",
+  "10.30",
+  "7.24",
+  "8.58",
+  "3.99",
+  "7.50"
+ ]
+}

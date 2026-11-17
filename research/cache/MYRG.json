@@ -1,0 +1,27 @@
+{
+ "ticker": "MYRG",
+ "name": "MYR Group Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Water Sewer Pipeline Comm & Power Line Construction",
+ "country": "United States",
+ "mcap": 4170426643.0,
+ "price": "$267.85",
+ "cik": 700923,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MYRG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, MYR Group Inc. (MYRG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/myrg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:10:29+00:00"
+}

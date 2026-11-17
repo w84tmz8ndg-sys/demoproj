@@ -1,0 +1,27 @@
+{
+ "ticker": "ODFL",
+ "name": "Old Dominion Freight Line Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Trucking Freight/Courier Services",
+ "country": "United States",
+ "mcap": 35910691731.0,
+ "price": "$174.29",
+ "cik": 878927,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ODFL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Old Dominion Freight Line (ODFL) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/odfl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:14+00:00"
+}

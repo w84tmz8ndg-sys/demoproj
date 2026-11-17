@@ -1,0 +1,27 @@
+{
+ "ticker": "TME",
+ "name": "Tencent Music Entertainment Group American Depositary Shares each representing two Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Broadcasting",
+ "country": "United States",
+ "mcap": 13960532915.0,
+ "price": "$8.87",
+ "cik": 1744676,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TME/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Tencent Music Entertainment Group (TME) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tme",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:42+00:00"
+}

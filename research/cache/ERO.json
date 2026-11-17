@@ -1,0 +1,27 @@
+{
+ "ticker": "ERO",
+ "name": "Ero Copper Corp. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Canada",
+ "mcap": 2896354116.0,
+ "price": "$27.33",
+ "cik": 1853860,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ERO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ero",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:08+00:00"
+}

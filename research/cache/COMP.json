@@ -1,0 +1,27 @@
+{
+ "ticker": "COMP",
+ "name": "Compass Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 7810721087.0,
+ "price": "$10.185",
+ "cik": 1563190,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COMP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/comp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:27+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "NVMI",
+ "name": "Nova Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Electronic Components",
+ "country": "Israel",
+ "mcap": 9740209599.0,
+ "price": "$306.46",
+ "cik": 1109345,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NVMI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nvmi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:17+00:00"
+}

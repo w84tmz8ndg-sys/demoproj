@@ -1,0 +1,27 @@
+{
+ "ticker": "CHRW",
+ "name": "C.H. Robinson Worldwide Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Integrated Freight & Logistics",
+ "country": "United States",
+ "mcap": 15613859177.0,
+ "price": "$134.67",
+ "cik": 1043277,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CHRW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, C.H. Robinson (CHRW) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/chrw",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:16+00:00"
+}

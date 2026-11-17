@@ -1,0 +1,70 @@
+{
+ "ticker": "ENSG",
+ "src_stats": "https://stockanalysis.com/stocks/ensg/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ensg/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ensg/financials/ratios/",
+ "Market Cap": "10.89B",
+ "Enterprise Value": "12.78B",
+ "PE Ratio": "28.01",
+ "Forward PE": "21.89",
+ "PS Ratio": "1.92",
+ "EV / EBITDA": "20.57",
+ "Gross Margin": "17.10%",
+ "Operating Margin": "8.85%",
+ "Profit Margin": "7.03%",
+ "FCF Margin": "8.99%",
+ "Debt / Equity": "0.89",
+ "Debt / EBITDA": "2.51",
+ "Net Cash": "-1.90B",
+ "Total Debt": "2.29B",
+ "Cash & Cash Equivalents": "391.69M",
+ "Return on Invested Capital (ROIC)": "8.53%",
+ "Return on Equity (ROE)": "17.05%",
+ "Revenue": "5.67B",
+ "Net Income": "399.12M",
+ "Free Cash Flow": "509.91M",
+ "Dividend Yield": "0.14%",
+ "Beta (5Y)": "0.65",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,674",
+  "5,058",
+  "4,260",
+  "3,729",
+  "3,025",
+  "2,627"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "399.12",
+  "343.97",
+  "297.97",
+  "209.4",
+  "224.68",
+  "194.65"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "27.83",
+  "29.13",
+  "25.37",
+  "30.01",
+  "23.16",
+  "23.60"
+ ]
+}

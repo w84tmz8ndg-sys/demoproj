@@ -1,0 +1,27 @@
+{
+ "ticker": "BLCO",
+ "name": "Bausch + Lomb Corporation Common Shares",
+ "sector": "Health Care",
+ "industry": "Ophthalmic Goods",
+ "country": "",
+ "mcap": 7468120143.0,
+ "price": "$20.89",
+ "cik": 1860742,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BLCO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Bausch + Lomb Corporation (BLCO) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/blco",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:36+00:00"
+}

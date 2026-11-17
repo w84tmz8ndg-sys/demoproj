@@ -1,0 +1,70 @@
+{
+ "ticker": "ULTA",
+ "src_stats": "https://stockanalysis.com/stocks/ulta/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ulta/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ulta/financials/ratios/",
+ "Market Cap": "27.67B",
+ "Enterprise Value": "29.98B",
+ "PE Ratio": "23.58",
+ "Forward PE": "21.15",
+ "PS Ratio": "2.14",
+ "EV / EBITDA": "15.51",
+ "Gross Margin": "43.10%",
+ "Operating Margin": "12.46%",
+ "Profit Margin": "9.34%",
+ "FCF Margin": "8.87%",
+ "Debt / Equity": "0.95",
+ "Debt / EBITDA": "1.03",
+ "Net Cash": "-2.31B",
+ "Total Debt": "2.52B",
+ "Cash & Cash Equivalents": "213.45M",
+ "Return on Invested Capital (ROIC)": "25.42%",
+ "Return on Equity (ROE)": "46.12%",
+ "Revenue": "12.96B",
+ "Net Income": "1.21B",
+ "Free Cash Flow": "1.15B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.84",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "12,956",
+  "12,393",
+  "11,296",
+  "11,207",
+  "10,209",
+  "8,631"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "1,210",
+  "1,153",
+  "1,201",
+  "1,291",
+  "1,242",
+  "985.84"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "23.42",
+  "24.90",
+  "15.91",
+  "19.01",
+  "20.71",
+  "19.70"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GEV",
+ "name": "GE Vernova Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "United States",
+ "mcap": 202035944790.0,
+ "price": "$763.33",
+ "cik": 1996810,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GEV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, GE Vernova (GEV) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gev",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:37+00:00"
+}

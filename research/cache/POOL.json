@@ -1,0 +1,27 @@
+{
+ "ticker": "POOL",
+ "name": "Pool Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 7586659598.0,
+ "price": "$212.38",
+ "cik": 945841,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/POOL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Pool (POOL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pool",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:34+00:00"
+}

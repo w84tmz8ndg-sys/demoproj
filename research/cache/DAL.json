@@ -1,0 +1,27 @@
+{
+ "ticker": "DAL",
+ "name": "Delta Air Lines Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Air Freight/Delivery Services",
+ "country": "United States",
+ "mcap": 56978501670.0,
+ "price": "$86.605",
+ "cik": 27904,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DAL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Delta Air Lines (DAL) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dal",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:19+00:00"
+}

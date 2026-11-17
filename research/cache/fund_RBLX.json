@@ -1,0 +1,63 @@
+{
+ "ticker": "RBLX",
+ "src_stats": "https://stockanalysis.com/stocks/rblx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/rblx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/rblx/financials/ratios/",
+ "Market Cap": "33.01B",
+ "Enterprise Value": "31.72B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "5.60",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "27.31%",
+ "Operating Margin": "-17.39%",
+ "Profit Margin": "-16.48%",
+ "FCF Margin": "26.59%",
+ "Debt / Equity": "n/a",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "1.29B",
+ "Total Debt": "1.91B",
+ "Cash & Cash Equivalents": "3.20B",
+ "Return on Invested Capital (ROIC)": "-31.74%",
+ "Return on Equity (ROE)": "-539.93%",
+ "Revenue": "5.90B",
+ "Net Income": "-972.06M",
+ "Free Cash Flow": "1.57B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.53",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,898",
+  "4,891",
+  "3,602",
+  "2,799",
+  "2,225",
+  "1,919"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-972.06",
+  "-1,065",
+  "-935.38",
+  "-1,152",
+  "-924.37",
+  "-491.65"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

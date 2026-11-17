@@ -1,0 +1,27 @@
+{
+ "ticker": "TPG",
+ "name": "TPG Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 18063276844.0,
+ "price": "$46.93",
+ "cik": 1880661,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TPG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, TPG Inc. (TPG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tpg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:47+00:00"
+}

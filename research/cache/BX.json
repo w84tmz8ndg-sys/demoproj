@@ -1,0 +1,27 @@
+{
+ "ticker": "BX",
+ "name": "Blackstone Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 87910536702.0,
+ "price": "$117.04",
+ "cik": 1393818,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Blackstone (BX) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:40+00:00"
+}

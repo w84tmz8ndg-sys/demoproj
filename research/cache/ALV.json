@@ -1,0 +1,27 @@
+{
+ "ticker": "ALV",
+ "name": "Autoliv Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "Sweden",
+ "mcap": 8452145859.0,
+ "price": "$117.38",
+ "cik": 1034670,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ALV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Autoliv (ALV) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/alv",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:01+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "XMTR",
+ "name": "Xometry Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 7039317948.0,
+ "price": "$122.13",
+ "cik": 1657573,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XMTR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Xometry (XMTR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/xmtr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:58+00:00"
+}

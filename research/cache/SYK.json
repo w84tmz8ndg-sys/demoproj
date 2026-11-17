@@ -1,0 +1,27 @@
+{
+ "ticker": "SYK",
+ "name": "Stryker Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 118269274213.0,
+ "price": "$310.67",
+ "cik": 310764,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SYK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Stryker (SYK) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/syk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:13+00:00"
+}

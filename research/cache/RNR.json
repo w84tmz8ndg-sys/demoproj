@@ -1,0 +1,27 @@
+{
+ "ticker": "RNR",
+ "name": "RenaissanceRe Holdings Ltd. Common Stock",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "Bermuda",
+ "mcap": 14409729015.0,
+ "price": "$356.595",
+ "cik": 913144,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RNR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, RenaissanceRe (RNR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rnr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:37+00:00"
+}

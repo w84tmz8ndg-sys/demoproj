@@ -1,0 +1,70 @@
+{
+ "ticker": "AAPL",
+ "src_stats": "https://stockanalysis.com/stocks/aapl/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/aapl/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/aapl/financials/ratios/",
+ "Market Cap": "5.13T",
+ "Enterprise Value": "5.08T",
+ "PE Ratio": "39.29",
+ "Forward PE": "37.45",
+ "PS Ratio": "10.71",
+ "EV / EBITDA": "29.65",
+ "Gross Margin": "48.79%",
+ "Operating Margin": "33.01%",
+ "Profit Margin": "27.60%",
+ "FCF Margin": "28.41%",
+ "Debt / Equity": "0.84",
+ "Debt / EBITDA": "0.49",
+ "Net Cash": "42.46B",
+ "Total Debt": "94.48B",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "93.94%",
+ "Return on Equity (ROE)": "142.26%",
+ "Revenue": "478.83B",
+ "Net Income": "132.18B",
+ "Free Cash Flow": "136.06B",
+ "Dividend Yield": "0.31%",
+ "Beta (5Y)": "1.09",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "478,834",
+  "478,834",
+  "416,161",
+  "391,035",
+  "383,285",
+  "394,328"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "132,175",
+  "132,175",
+  "112,010",
+  "93,736",
+  "96,995",
+  "99,803"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "39.29",
+  "37.66",
+  "33.85",
+  "36.95",
+  "27.60",
+  "24.22"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "AEP",
+ "name": "American Electric Power Company Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 70429035522.0,
+ "price": "$129.34",
+ "cik": 4904,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AEP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, American Electric Power (AEP) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aep",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:00:03+00:00"
+}

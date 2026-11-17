@@ -1,0 +1,27 @@
+{
+ "ticker": "LMT",
+ "name": "Lockheed Martin Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 135230116256.0,
+ "price": "$585.40",
+ "cik": 936468,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LMT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Lockheed Martin (LMT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lmt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:05+00:00"
+}

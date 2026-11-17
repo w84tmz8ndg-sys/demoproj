@@ -1,0 +1,27 @@
+{
+ "ticker": "PRGO",
+ "name": "Perrigo Company plc Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 2246508298.0,
+ "price": "$16.185",
+ "cik": 1585364,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PRGO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Perrigo Company plc (PRGO) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/prgo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:49+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "EMP",
+ "name": "Entergy Mississippi LLC First Mortgage Bonds 4.90% Series Due October 1 2066",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 8624779534.0,
+ "price": "$18.05",
+ "cik": 66901,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/EMP/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/emp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:05:56+00:00"
+}

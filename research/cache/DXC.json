@@ -1,0 +1,27 @@
+{
+ "ticker": "DXC",
+ "name": "DXC Technology Company Common Stock ",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 2276867962.0,
+ "price": "$14.645",
+ "cik": 1688568,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DXC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, DXC Technology Company (DXC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dxc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:14:44+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "RL",
+ "name": "Ralph Lauren Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Garments and Clothing",
+ "country": "United States",
+ "mcap": 23024843792.0,
+ "price": "$389.58",
+ "cik": 1037038,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Ralph Lauren (RL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:02:12+00:00"
+}

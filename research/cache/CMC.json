@@ -1,0 +1,27 @@
+{
+ "ticker": "CMC",
+ "name": "Commercial Metals Company Common Stock",
+ "sector": "Industrials",
+ "industry": "Steel/Iron Ore",
+ "country": "United States",
+ "mcap": 6539285518.0,
+ "price": "$59.46",
+ "cik": 22444,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CMC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Commercial Metals (CMC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cmc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:22+00:00"
+}

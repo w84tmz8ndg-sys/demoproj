@@ -1,0 +1,27 @@
+{
+ "ticker": "HRI",
+ "name": "Herc Holdings Inc. Common Stock ",
+ "sector": "Industrials",
+ "industry": "Misc Corporate Leasing Services",
+ "country": "United States",
+ "mcap": 5347116047.0,
+ "price": "$159.79",
+ "cik": 1364479,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HRI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Herc Holdings Inc. (HRI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hri",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:08:42+00:00"
+}

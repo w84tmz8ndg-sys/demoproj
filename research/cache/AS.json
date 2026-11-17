@@ -1,0 +1,27 @@
+{
+ "ticker": "AS",
+ "name": "Amer Sports Inc. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Apparel",
+ "country": "",
+ "mcap": 16247639320.0,
+ "price": "$29.135",
+ "cik": 1988894,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Amer Sports (AS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/as",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:03:07+00:00"
+}

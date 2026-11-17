@@ -1,0 +1,27 @@
+{
+ "ticker": "TXN",
+ "name": "Texas Instruments Incorporated Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 268840364670.0,
+ "price": "$294.21",
+ "cik": 97476,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TXN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Texas Instruments (TXN) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/txn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:33+00:00"
+}

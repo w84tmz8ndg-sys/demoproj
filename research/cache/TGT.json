@@ -1,0 +1,27 @@
+{
+ "ticker": "TGT",
+ "name": "Target Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Department/Specialty Retail Stores",
+ "country": "United States",
+ "mcap": 72841938650.0,
+ "price": "$160.34",
+ "cik": 27419,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TGT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Target (TGT) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tgt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:59:58+00:00"
+}

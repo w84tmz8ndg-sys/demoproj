@@ -1,0 +1,27 @@
+{
+ "ticker": "GAP",
+ "name": "Gap Inc. (The) Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Clothing/Shoe/Accessory Stores",
+ "country": "United States",
+ "mcap": 6948123310.0,
+ "price": "$19.78",
+ "cik": 39911,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GAP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, The Gap (GAP) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gap",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:07:02+00:00"
+}

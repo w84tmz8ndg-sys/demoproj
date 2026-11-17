@@ -1,0 +1,27 @@
+{
+ "ticker": "ERIE",
+ "name": "Erie Indemnity Company Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Specialty Insurers",
+ "country": "United States",
+ "mcap": 12744496157.0,
+ "price": "$275.905",
+ "cik": 922621,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ERIE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Erie Indemnity (ERIE) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/erie",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:04:04+00:00"
+}

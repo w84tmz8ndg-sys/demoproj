@@ -1,0 +1,27 @@
+{
+ "ticker": "DCO",
+ "name": "Ducommun Incorporated Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 2046440212.0,
+ "price": "$135.31",
+ "cik": 30305,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DCO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Ducommun Incorporated (DCO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dco",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:15:22+00:00"
+}

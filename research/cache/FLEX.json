@@ -1,0 +1,27 @@
+{
+ "ticker": "FLEX",
+ "name": "Flex Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Electrical Products",
+ "country": "Singapore",
+ "mcap": 27635668139.0,
+ "price": "$74.80",
+ "cik": 866374,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FLEX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Flex Ltd. (FLEX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/flex",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:47+00:00"
+}

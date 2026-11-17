@@ -1,0 +1,70 @@
+{
+ "ticker": "MDT",
+ "src_stats": "https://stockanalysis.com/stocks/mdt/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/mdt/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/mdt/financials/ratios/",
+ "Market Cap": "126.53B",
+ "Enterprise Value": "145.70B",
+ "PE Ratio": "25.46",
+ "Forward PE": "17.21",
+ "PS Ratio": "3.35",
+ "EV / EBITDA": "13.96",
+ "Gross Margin": "65.27%",
+ "Operating Margin": "20.05%",
+ "Profit Margin": "13.93%",
+ "FCF Margin": "16.33%",
+ "Debt / Equity": "0.55",
+ "Debt / EBITDA": "2.63",
+ "Net Cash": "-19.17B",
+ "Total Debt": "28.15B",
+ "Cash & Cash Equivalents": "8.82B",
+ "Return on Invested Capital (ROIC)": "8.57%",
+ "Return on Equity (ROE)": "10.65%",
+ "Revenue": "37.54B",
+ "Net Income": "5.23B",
+ "Free Cash Flow": "6.13B",
+ "Dividend Yield": "2.79%",
+ "Beta (5Y)": "0.57",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "37,542",
+  "36,364",
+  "33,537",
+  "32,364",
+  "31,227",
+  "31,686"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "5,231",
+  "4,801",
+  "4,662",
+  "3,676",
+  "3,758",
+  "5,039"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "25.40",
+  "22.28",
+  "23.15",
+  "28.80",
+  "32.20",
+  "27.78"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "HG",
+ "name": "Hamilton Insurance Group Ltd. Class B Common Shares",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "Bermuda",
+ "mcap": 2557458110.0,
+ "price": "$38.62",
+ "cik": 1593275,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Hamilton Insurance Group Ltd. - Ordinary Shares - Class B (HG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:13:59+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ANET",
+ "name": "Arista Networks Inc. Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Computer Communications Equipment",
+ "country": "United States",
+ "mcap": 236395210902.0,
+ "price": "$187.11",
+ "cik": 1596532,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ANET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Arista Networks (ANET) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/anet",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T16:57:35+00:00"
+}

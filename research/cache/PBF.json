@@ -1,0 +1,27 @@
+{
+ "ticker": "PBF",
+ "name": "PBF Energy Inc. Class A Common Stock",
+ "sector": "Energy",
+ "industry": "Integrated oil Companies",
+ "country": "United States",
+ "mcap": 8329577487.0,
+ "price": "$68.655",
+ "cik": 1534504,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PBF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, PBF Energy Inc. (PBF) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pbf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:10+00:00"
+}

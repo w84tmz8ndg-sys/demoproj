@@ -1,0 +1,70 @@
+{
+ "ticker": "ECL",
+ "src_stats": "https://stockanalysis.com/stocks/ecl/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ecl/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ecl/financials/ratios/",
+ "Market Cap": "86.79B",
+ "Enterprise Value": "100.00B",
+ "PE Ratio": "42.09",
+ "Forward PE": "34.64",
+ "PS Ratio": "4.98",
+ "EV / EBITDA": "23.28",
+ "Gross Margin": "44.04%",
+ "Operating Margin": "18.47%",
+ "Profit Margin": "11.99%",
+ "FCF Margin": "10.33%",
+ "Debt / Equity": "1.33",
+ "Debt / EBITDA": "3.08",
+ "Net Cash": "-13.22B",
+ "Total Debt": "13.94B",
+ "Cash & Cash Equivalents": "722.30M",
+ "Return on Invested Capital (ROIC)": "12.14%",
+ "Return on Equity (ROE)": "20.77%",
+ "Revenue": "17.37B",
+ "Net Income": "2.08B",
+ "Free Cash Flow": "1.80B",
+ "Dividend Yield": "0.94%",
+ "Beta (5Y)": "0.86",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "17,372",
+  "16,081",
+  "15,741",
+  "15,320",
+  "14,188",
+  "12,733"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "2,083",
+  "2,076",
+  "2,112",
+  "1,372",
+  "1,092",
+  "1,130"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "41.81",
+  "35.82",
+  "31.41",
+  "41.21",
+  "37.98",
+  "59.50"
+ ]
+}

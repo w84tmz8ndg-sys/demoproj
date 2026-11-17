@@ -1,0 +1,27 @@
+{
+ "ticker": "EGO",
+ "name": "Eldorado Gold Corporation Ordinary Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 7875479494.0,
+ "price": "$30.11",
+ "cik": 918608,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EGO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ego",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:23+00:00"
+}

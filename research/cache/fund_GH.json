@@ -1,0 +1,63 @@
+{
+ "ticker": "GH",
+ "src_stats": "https://stockanalysis.com/stocks/gh/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/gh/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/gh/financials/ratios/",
+ "Market Cap": "19.21B",
+ "Enterprise Value": "19.87B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "15.09",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "65.19%",
+ "Operating Margin": "-39.40%",
+ "Profit Margin": "-37.93%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "n/a",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "-664.59M",
+ "Total Debt": "1.69B",
+ "Cash & Cash Equivalents": "1.03B",
+ "Return on Invested Capital (ROIC)": "-26.38%",
+ "Return on Equity (ROE)": "n/a",
+ "Revenue": "1.28B",
+ "Net Income": "-485.07M",
+ "Free Cash Flow": "-232.15M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.66",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,279",
+  "982.02",
+  "739.02",
+  "563.95",
+  "449.54",
+  "373.65"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-485.07",
+  "-416.28",
+  "-436.37",
+  "-479.45",
+  "-654.59",
+  "-405.67"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "NVT",
+ "src_stats": "https://stockanalysis.com/stocks/nvt/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/nvt/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/nvt/financials/ratios/",
+ "Market Cap": "17.30B",
+ "Enterprise Value": "18.52B",
+ "PE Ratio": "25.85",
+ "Forward PE": "16.36",
+ "PS Ratio": "3.34",
+ "EV / EBITDA": "16.23",
+ "Gross Margin": "36.17%",
+ "Operating Margin": "17.71%",
+ "Profit Margin": "12.83%",
+ "FCF Margin": "12.14%",
+ "Debt / Equity": "0.57",
+ "Debt / EBITDA": "1.96",
+ "Net Cash": "-1.22B",
+ "Total Debt": "2.35B",
+ "Cash & Cash Equivalents": "1.12B",
+ "Return on Invested Capital (ROIC)": "13.50%",
+ "Return on Equity (ROE)": "17.42%",
+ "Revenue": "5.29B",
+ "Net Income": "679.50M",
+ "Free Cash Flow": "642.60M",
+ "Dividend Yield": "0.79%",
+ "Beta (5Y)": "1.38",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,295",
+  "3,893",
+  "3,006",
+  "2,669",
+  "2,295",
+  "2,462"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "679.5",
+  "710.2",
+  "331.8",
+  "567.1",
+  "399.8",
+  "272.9"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "26.11",
+  "23.17",
+  "33.86",
+  "17.29",
+  "16.03",
+  "23.42"
+ ]
+}

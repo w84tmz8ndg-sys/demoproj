@@ -1,0 +1,27 @@
+{
+ "ticker": "STLD",
+ "name": "Steel Dynamics Inc.",
+ "sector": "Industrials",
+ "industry": "Steel/Iron Ore",
+ "country": "United States",
+ "mcap": 32091375942.0,
+ "price": "$225.65",
+ "cik": 1022671,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/STLD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Steel Dynamics (STLD) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/stld",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:01:25+00:00"
+}

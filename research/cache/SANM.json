@@ -1,0 +1,27 @@
+{
+ "ticker": "SANM",
+ "name": "Sanmina Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "Electrical Products",
+ "country": "United States",
+ "mcap": 8244077313.0,
+ "price": "$153.815",
+ "cik": 897723,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SANM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Sanmina Corporation (SANM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sanm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T17:06:12+00:00"
+}
