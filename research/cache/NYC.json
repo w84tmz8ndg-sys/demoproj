@@ -1,0 +1,27 @@
+{
+ "ticker": "NYC",
+ "name": "American Strategic Investment Co. Class A Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "",
+ "mcap": 19663262.0,
+ "price": "$5.51",
+ "cik": 1595527,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NYC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, American Strategic Investment Co - Ordinary Shares - Class A (NYC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nyc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:09+00:00"
+}

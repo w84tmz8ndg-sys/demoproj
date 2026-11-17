@@ -1,0 +1,27 @@
+{
+ "ticker": "VIVK",
+ "name": "Vivakor Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Environmental Services",
+ "country": "United States",
+ "mcap": 2571309.0,
+ "price": "$0.3784",
+ "cik": 1450704,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VIVK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vivk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:18+00:00"
+}

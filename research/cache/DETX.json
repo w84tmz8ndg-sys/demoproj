@@ -1,0 +1,27 @@
+{
+ "ticker": "DETX",
+ "name": "Liberty Defense Holdings Ltd. Common Shares",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 5284812.0,
+ "price": "$0.9301",
+ "cik": 1919776,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DETX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/detx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:57+00:00"
+}

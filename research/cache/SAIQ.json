@@ -1,0 +1,27 @@
+{
+ "ticker": "SAIQ",
+ "name": "WISeSat.Space Holdings Corp. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Telecommunications Equipment",
+ "country": "British Virgin Islands",
+ "mcap": 105847411.0,
+ "price": "$3.55",
+ "cik": 2101411,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/SAIQ/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/saiq",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:34+00:00"
+}

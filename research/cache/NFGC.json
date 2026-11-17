@@ -1,0 +1,27 @@
+{
+ "ticker": "NFGC",
+ "name": "New Found Gold Corp Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "",
+ "mcap": 515217571.0,
+ "price": "$1.335",
+ "cik": 1840616,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NFGC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nfgc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:18+00:00"
+}

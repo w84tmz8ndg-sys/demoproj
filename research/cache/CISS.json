@@ -1,0 +1,27 @@
+{
+ "ticker": "CISS",
+ "name": "C3is Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 1444800.0,
+ "price": "$1.72",
+ "cik": 1951067,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CISS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ciss",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:24+00:00"
+}

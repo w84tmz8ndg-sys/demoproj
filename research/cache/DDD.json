@@ -1,0 +1,27 @@
+{
+ "ticker": "DDD",
+ "name": "3D Systems Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 254708040.0,
+ "price": "$1.405",
+ "cik": 910638,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DDD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, 3D Systems Corporation (DDD) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ddd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:32+00:00"
+}

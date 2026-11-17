@@ -1,0 +1,27 @@
+{
+ "ticker": "RDGT",
+ "name": "Ridgetech Inc. Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Retail-Drug Stores and Proprietary Stores",
+ "country": "China",
+ "mcap": 3665835.0,
+ "price": "$1.01",
+ "cik": 1856084,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RDGT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rdgt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:03+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "LEXX",
+ "name": "Lexaria Bioscience Corp. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Canada",
+ "mcap": 8657830.0,
+ "price": "$4.11",
+ "cik": 1348362,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LEXX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lexx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:20+00:00"
+}

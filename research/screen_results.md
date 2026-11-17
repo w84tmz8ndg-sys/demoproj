@@ -4011,7 +4011,7 @@ _Research for the user's own review — not financial advice._
 - **Valuation:** trailing P/E n/a, forward P/E 57.76; insufficient P/E history for comparison.
 - **Open flags (c) / risks:** No (c) flags found.
 
-## Shariah-only results for batches not yet ethics-reviewed (batches 14–26)
+## Shariah-only results for batches not yet ethics-reviewed (batches 14–53)
 
 _These were fetched automatically. Companies marked PENDING-ETHICS passed both Shariah screeners, but their ethics review is limited to the automated list checks. None of them is eligible for the portfolio._
 
@@ -5297,5 +5297,2700 @@ _These were fetched automatically. Companies marked PENDING-ETHICS passed both S
 | 26 | NX | Quanex Building Products Corporation Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
 | 26 | NEWP | New Pacific Metals Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
 | 26 | HSTM | HealthStream Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 26 | ABX | Abacus Global Management Inc. Class A Common  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 26 | TASK | TaskUs Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 26 | ASTE | Astec Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 26 | ASA | ASA  Gold and Precious Metals Limited | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 26 | EIG | Employers Holdings Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 26 | OSPN | OneSpan Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 26 | MTAL | Metals Acquisition Corp. II Class A Ordinary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 26 | LTGO | Latigo Biotherapeutics Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 26 | MCS | Marcus Corporation (The) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 26 | MFIC | MidCap Financial Investment Corporation Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 26 | NWPX | NWPX Infrastructure Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 26 | KBDC | Kayne Anderson BDC Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 26 | FET | Forum Energy Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 26 | CVLG | Covenant Logistics Group Inc. Class A Common  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 26 | RCBC | River City Bank Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 26 | YALA | Yalla Group Limited American Depositary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 26 | BBNX | Beta Bionics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 26 | SID | Companhia Siderurgica Nacional S.A. Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 26 | MTW | Manitowoc Company Inc. (The) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 26 | ONT | Onterris Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | RIGL | Rigel Pharmaceuticals Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 27 | KIDS | OrthoPediatrics Corp. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 27 | TRIP | TripAdvisor Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | VMET | Versamet Royalties Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | SNDX | Syndax Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | AZUL | Azul S.A. American Depositary Shares each rep | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | FWRG | First Watch Restaurant Group Inc. Common Stoc | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 27 | FMC | FMC Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | SMBK | SmartFinancial Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | CRML | Critical Metals Corp. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 27 | WEST | Westrock Coffee Company Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | NANO | Forge Nano Holdings Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 27 | RGR | Sturm Ruger & Company Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | INR | Infinity Natural Resources Inc. Class A Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | GRNT | Granite Ridge Resources Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | BUR | Burford Capital Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | FUBO | FuboTV Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | PGC | Peapack-Gladstone Financial Corporation Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | POET | POET Technologies Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | IBCP | Independent Bank Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | HTLD | Heartland Express Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 27 | SPFI | South Plains Financial Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | VISN | Vistance Networks Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 27 | IRWD | Ironwood Pharmaceuticals Inc. Class A Common  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | LZ | LegalZoom.com Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 27 | CYD | China Yuchai International Limited Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | KELYB | Kelly Services Inc. Class B Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | PHR | Phreesia Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya questionable |
+| 27 | GOOS | Canada Goose Holdings Inc. Subordinate Voting | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | IMC | IMC Rare Earths Ltd Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | FLNC | Fluence Energy Inc. Class A Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 27 | CLMB | Climb Global Solutions Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 27 | AEBI | Aebi Schmidt Holding AG Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | INN | Summit Hotel Properties Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | WOOF | Petco Health and Wellness Company Inc. Class  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | COLL | Collegium Pharmaceutical Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | NXDR | Nextdoor Holdings Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | PSIX | Power Solutions International Inc. Common Sto | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 27 | KODK | Eastman Kodak Company Common New | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | MITK | Mitek Systems Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 27 | WHK | WhiteHawk Minerals Corp Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | IVA | Inventiva S.A. American Depository Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | GLUE | Monte Rosa Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | ORIC | Oric Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 27 | GMRS | GMR Solutions Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | CTO | CTO Realty Growth Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | LXU | LSB Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | LXRX | Lexicon Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | FISI | Financial Institutions Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | DDI | DoubleDown Interactive Co. Ltd. American Depo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | AGCC | Agencia Comercial Spirits Ltd Class A Ordinar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | AOSL | Alpha and Omega Semiconductor Limited Common  | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 27 | USAS | Americas Gold and Silver Corporation Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | ARDX | Ardelyx Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 27 | ASC | Ardmore Shipping Corporation Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 27 | ULH | Universal Logistics Holdings Inc. Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | FDUS | Fidus Investment Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | SMBC | Southern Missouri Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | YEXT | Yext Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 27 | OBX | Obsidian Therapeutics Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 27 | VREX | Varex Imaging Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | CLDT | Chatham Lodging Trust (REIT) Common Shares of | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | CCSI | Consensus Cloud Solutions Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | PRME | Prime Medicine Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | KPLT | Katapult Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | VRTS | Virtus Investment Partners Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | INMD | InMode Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | SVC | Service Properties Trust Common Shares of Ben | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | MLAB | Mesa Laboratories Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 27 | PSEC | Prospect Capital Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | VNET | VNET Group Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | IBEX | IBEX Limited Common Shares | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 27 | AURA | Aura Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | SHBI | Shore Bancshares Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | BBSI | Barrett Business Services Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 27 | DCBO | Docebo Inc. Common Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 27 | PSTL | Postal Realty Trust Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | HTB | HomeTrust Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | CGBD | Carlyle Secured Lending Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | HSLV | Highlander Silver Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | APEI | American Public Education Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 27 | CTKB | Cytek Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | WASH | Washington Trust Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | OI | O-I Glass Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | FOXF | Fox Factory Holding Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | DSP | Viant Technology Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 27 | PFIS | Peoples Financial Services Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | SLDB | Solid Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | SGMT | Sagimet Biosciences Inc. Series A Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | PXED | Phoenix Education Partners Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 27 | HSHP | Himalaya Shipping Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | SHAZ | SharonAI Holdings Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | ARRY | Array Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | TIGR | UP Fintech Holding Ltd American Depositary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 27 | DGICA | Donegal Group Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | CASS | Cass Information Systems Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | APC | ARKO Petroleum Corp. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 27 | EVLV | Evolv Technologies Holdings Inc. Class A Comm | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 27 | OABI | OmniAb Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 27 | AIFU | AIFU Inc. Class A Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | LINC | Lincoln Educational Services Corporation Comm | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 28 | DQ | DAQO New Energy Corp. American Depositary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | CEVA | CEVA Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | JBSS | John B. Sanfilippo & Son Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 28 | NPKI | NPK International Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 28 | AROW | Arrow Financial Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | ADIG | ADI Global Distribution Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 28 | BCSF | Bain Capital Specialty Finance Inc. Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | KRNT | Kornit Digital Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | ITG | ITG Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | NVRI | Enviri Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | ADSE | ADS-TEC ENERGY PLC Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | SMWB | Similarweb Ltd. Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 28 | AEVA | Aeva Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | QDEL | QuidelOrtho Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | BFS | Saul Centers Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | FCEL | FuelCell Energy Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | MOV | Movado Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 28 | OGG | Osisko Gold Group Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | BCAL | California BanCorp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | SABR | Sabre Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | BHB | Bar Harbor Bankshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | PSQL | Pasqal Holding SA Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | DCTH | Delcath Systems Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 28 | RRBI | Red River Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | HDL | SUPER HI INTERNATIONAL HOLDING LTD. American  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | NRGV | Energy Vault Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 28 | ROOT | Root Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | SCHL | Scholastic Corporation Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 28 | CNNE | Cannae Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | ASM | Avino Silver & Gold Mines Ltd. Common Shares  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | CBNK | Capital Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | FEIM | Frequency Electronics Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 28 | MUX | McEwen Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | MTUS | Metallus Inc. Common Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 28 | ACNB | ACNB Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | CWBC | Community West Bancshares Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | ANNX | Annexon Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 28 | CARS | Cars.com Inc. Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | BWMX | Betterware de Mexico S.A.P.I. de C.V. Ordinar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | APMD | Apnimed Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 28 | SAFE | Safehold Inc. New Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | RSVR | Reservoir Media Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | SPT | Sprout Social Inc Class A Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 28 | ATTO | Attovia Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | FLGT | Fulgent Genetics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | GDOT | Green Dot Corporation Class A Common Stock $0 | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | VTEX | VTEX Class A Common Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 28 | JMIA | Jumia Technologies AG American Depositary Sha | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 28 | DC | Dakota Gold Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | JANX | Janux Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | LEGH | Legacy Housing Corporation Common Stock (TX) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 28 | ALMS | Alumis Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | QUIT | Achieve Life Sciences Inc. Common Shares | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 28 | YSS | York Space Systems Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 28 | WCCB | West Coast Community Bancorp Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 28 | RXT | Rackspace Technology Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | TRON | Tron Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya questionable |
+| 28 | DNUT | Krispy Kreme Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | NVCT | Nuvectis Pharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | CCB | Coastal Financial Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | IQ | iQIYI Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | PMT | PennyMac Mortgage Investment Trust Common Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | PZZA | Papa John's International Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | TCBX | Third Coast Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | NGVC | Natural Grocers by Vitamin Cottage Inc. Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | PRTH | Priority Technology Holdings Inc. Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | LMB | Limbach Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 28 | GROY | Gold Royalty Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | KURA | Kura Oncology Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | TBLD | Thornburg Income Builder Opportunities Trust  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | CRESY | Cresud S.A.C.I.F. y A. American Depositary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | FPH | Five Point Holdings LLC Class A Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | PKOH | Park-Ohio Holdings Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | KRT | Karat Packaging Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 28 | BCAX | Bicara Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | PFLT | PennantPark Floating Rate Capital Ltd. Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | ANL | Adlai Nortye Group Ltd. American Depositary S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | DBVT | DBV Technologies S.A. American Depositary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | BBTX | Bambusa Therapeutics Inc. Common stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 28 | AESI | Atlas Energy Solutions Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | OLMA | Olema Oncology Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | FBYD | Falcon's Beyond Global Inc. Class A Common St | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 28 | MG | Mistras Group Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | TIPT | Tiptree Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | MATV | Mativ Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | FINV | FinVolution Group American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | VPG | Vishay Precision Group Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 28 | CARE | Carter Bankshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | MTA | Metalla Royalty & Streaming Ltd. Common Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | FDMT | 4D Molecular Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | SBC | SBC Medical Group Holdings Incorporated Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | MSBI | Midland States Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | VTS | Vitesse Energy Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 28 | DSGN | Design Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | VLGEA | Village Super Market Inc. Class A Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 28 | SOPH | SOPHiA GENETICS SA Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | XNDU | Xanadu Quantum Technologies Limited Class B S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 28 | BW | Babcock & Wilcox Enterprises Inc. Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 28 | SWRD | Stewards Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | MOMO | Hello Group Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | BSVN | Bank7 Corp. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | VEL | Velocity Financial Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | NMFC | New Mountain Finance Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | HIFS | Hingham Institution for Savings Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | IMMX | Immix Biopharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | BME | Blackrock Health Sciences Trust | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | EOSE | Eos Energy Enterprises Inc. Class A Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | CSIQ | Canadian Solar Inc. Common Shares (ON) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | FBIZ | First Business Financial Services Inc. Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | ABUS | Arbutus Biopharma Corporation Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 29 | CGEM | Cullinan Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | SMC | Summit Midstream Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | SRZN | Surrozen Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | LU | Lufax Holding Ltd American Depositary Shares  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | NXP | Nuveen Select Tax Free Income Portfolio Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | SLRC | SLR Investment Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | OBE | Obsidian Energy Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | WRLD | World Acceptance Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | QFIN | Qfin Holdings Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | CDLR | Cadeler plc Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | PANL | Pangaea Logistics Solutions Ltd. Common Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | GERN | Geron Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | MAKO | Mako Mining Corp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | OIO | OIO Group Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 29 | GTN | Gray Media Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | GCBC | Greene Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | AVBP | ArriVent BioPharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | SENS | Senseonics Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | SCZM | Santacruz Silver Mining Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | FWRD | Forward Air Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | RMT | Royce Micro-Cap Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | CGNT | Cognyte Software Ltd. Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 29 | HQ | Horizon Quantum Holdings Ltd. Class A Ordinar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | CMCO | Columbus McKinnon Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | MTC | MMTec Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | BGIN | Bgin Blockchain Limited Class A Ordinary Shar | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 29 | CIVB | Civista Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | GPRK | Geopark Ltd Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | VMO | Invesco Municipal Opportunity Trust Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | TCMD | Tactile Systems Technology Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 29 | KRNY | Kearny Financial Corp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | EDN | Empresa Distribuidora Y Comercializadora Nort | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | SGHT | Sight Sciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 29 | UNTY | Unity Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | NAVI | Navient Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | MFA | MFA Financial Inc. | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | CLYM | Climb Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | ELMT | The Elmet Group Co. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 29 | NEXN | Nexxen International Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | GAIN | Gladstone Investment Corporation Business Dev | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | BWB | Bridgewater Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | GAU | Galiano Gold Inc. | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | NNE | Nano Nuclear Energy Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | WEYS | Weyco Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 29 | PACB | Pacific Biosciences of California Inc. Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | EVEX | Eve Holding Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | MATW | Matthews International Corporation Class A Co | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | KOPN | Kopin Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 29 | ZJYL | JIN MEDICAL INTERNATIONAL LTD. Class A Ordina | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 29 | GOTU | Gaotu Techedu Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | LYTS | LSI Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | SFST | Southern First Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | NCDL | Nuveen Churchill Direct Lending Corp. Common  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | ACRS | Aclaris Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | LAR | Lithium Argentina AG Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | KOP | Koppers Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | BWFG | Bankwell Financial Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | ASTL | Algoma Steel Group Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | WVE | Wave Life Sciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | MAMA | Mama's Creations Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 29 | SANA | Sana Biotechnology Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | EGY | VAALCO Energy Inc.  Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | IAM | Iambic Therapeutics Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 29 | HELP | Helus Pharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | OBIO | Orchestra BioMed Holdings Inc. Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | CIX | CompX International Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 29 | SHEN | Shenandoah Telecommunications Co Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | TBLA | Taboola.com Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya questionable |
+| 29 | XFLT | XAI Floating Rate & Alternative Income Trust  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | NRC | NRC Health Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 29 | QMCO | Quantum Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 29 | NNNN | Anbio Biotechnology Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 29 | VINP | Vinci Compass Investments Ltd. Class A Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | AVR | Anteris Technologies Global Corp. Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | EVO | Evotec SE American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 29 | AII | American Integrity Insurance Group Inc. Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | BALY | Bally's Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | DNA | Ginkgo Bioworks Holdings Inc. Class A Common  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | CBAN | Colony Bankcorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | ZVRA | Zevra Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 29 | ACDC | ProFrac Holding Corp. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | UMAC | Unusual Machines Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | HOV | Hovnanian Enterprises Inc. Class A Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | COFS | ChoiceOne Financial Services Inc. Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | GORO | Goldgroup Mining Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 29 | EVH | Evolent Health Inc Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | PAYS | Paysign Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | IVR | INVESCO MORTGAGE CAPITAL INC Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 29 | BSRR | Sierra Bancorp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | MLR | Miller Industries Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | YB | Yuanbao Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | UHT | Universal Health Realty Income Trust Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | RCAT | Red Cat Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | BSTZ | BlackRock Science and Technology Term Trust C | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | VALN | Valneva SE American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | LAC | Lithium Americas Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | OBT | Orange County Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | TLS | Telos Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | GLRE | Greenlight Capital Re Ltd. Class A Ordinary S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | MYGN | Myriad Genetics Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 30 | CIM | Chimera Investment Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | EBF | Ennis Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | HNST | The Honest Company Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | PDLB | Ponce Financial Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | INDP | Indaptus Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | GMEX | GMEX ROBOTICS CORPORATION Class A Ordinary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | MCFT | MasterCraft Boat Holdings Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | OPRT | Oportun Financial Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | IIIN | Insteel Industries Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | EVGO | EVgo Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 30 | ENTX | Entera Bio Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | CBIO | Crescent Biopharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | RMR | The RMR Group Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | NPB | Northpointe Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | NRIM | Northrim BanCorp Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | PKE | Park Aerospace Corp. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 30 | ETRA | Electra Therapeutics Inc. Common stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 30 | BRCB | Black Rock Coffee Bar Inc. Class A Common Sto | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 30 | HPP | Hudson Pacific Properties Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | BDN | Brandywine Realty Trust Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | TITN | Titan Machinery Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | NFGC | New Found Gold Corp Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | PTLO | Portillo's Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | WTBA | West Bancorporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | SSYS | Stratasys Ltd. Ordinary Shares (Israel) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 30 | HMH | HMH Holding Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 30 | YORW | York Water Company (The) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | GSM | Ferroglobe PLC Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 30 | RMNI | Rimini Street Inc. (DE) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 30 | PSNY | Polestar Automotive Holding UK PLC Class A AD | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | SGML | Sigma Lithium Corporation Common Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 30 | GYRE | Gyre Therapeutics Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | GRVY | GRAVITY Co. Ltd. American Depository Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | IIM | Invesco Value Municipal Income Trust Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | WTI | W&T Offshore Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | IIIV | i3 Verticals Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 30 | CZNC | Citizens & Northern Corp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | FMAO | Farmers & Merchants Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | SUPV | Grupo Supervielle S.A. American Depositary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | HTZ | Hertz Global Holdings Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | ZIP | ZipRecruiter Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | TRTX | TPG RE Finance Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | OOMA | Ooma Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | PSNYW | Polestar Automotive Holding UK PLC Class C-1  | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 30 | ANGO | AngioDynamics Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | OFRM | Once Upon a Farm PBC Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | JOUT | Johnson Outdoors Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | TREE | LendingTree Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | ACCO | Acco Brands Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | AAC | Ares Acquisition Corporation III Class A Ordi | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 30 | FRBA | First Bank Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | FVR | FrontView REIT Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | EPRX | Eupraxia Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | FOSL | Fossil Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | BBCP | Concrete Pumping Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | TKNO | Alpha Teknova Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | OPFI | OppFi Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | MNPR | Monopar Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | TATT | TAT Technologies Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 30 | NTGR | NETGEAR Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | VKQ | Invesco Municipal Trust Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | ITIC | Investors Title Company Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | VGM | Invesco Trust for Investment Grade Municipals | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | GNE | Genie Energy Ltd. Class B Common Stock Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | SRTA | Strata Critical Medical Inc. Class A Common S | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | RGNX | REGENXBIO Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 30 | OIS | Oil States International Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | CAPR | Capricor Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | NGNE | Neurogene Inc. Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | RCEL | Avita Medical Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | HBCP | Home Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | ACIC | American Coastal Insurance Corporation Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | HNRG | Hallador Energy Company Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | HY | Hyster-Yale Inc. Class A common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | PHAT | Phathom Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 30 | HUYA | HUYA Inc. American depositary shares each  re | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | VHI | Valhi Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | SD | SandRidge Energy Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 30 | CARL | Carlsmed Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 30 | ETO | Eaton Vance Tax-Advantage Global Dividend Opp | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | STTK | Shattuck Labs Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | PBAM | Private Bancorp of America Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | LWLG | Lightwave Logic Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | AQST | Aquestive Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 30 | GRPN | Groupon Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | GOOD | Gladstone Commercial Corporation Real Estate  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | OCS | Oculis Holding AG Ordinary shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 30 | INDI | indie Semiconductor Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 30 | LYEL | Lyell Immunopharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | KMDA | Kamada Ltd. Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 31 | BXC | Bluelinx Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | FBRT | Franklin BSP Realty Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | SATL | Satellogic Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | JKS | Jinko Holdings Limited American Depositary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | AHRT | AH Realty Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | AGNT | AGNT Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 31 | BTGO | BitGo Holdings Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | IQI | Invesco Quality Municipal Income Trust Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | LXFR | Luxfer Holdings PLC Ordinary Shares | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 31 | MDXG | MiMedx Group Inc Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 31 | NRDS | NerdWallet Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | RLGT | Radiant Logistics Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 31 | KELYA | Kelly Services Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | ESEA | Euroseas Ltd. Common Stock (Marshall Islands) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | OLP | One Liberty Properties Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | TRC | Tejon Ranch Co Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya questionable |
+| 31 | BMRC | Bank of Marin Bancorp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | ADAM | Adamas Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | CMDB | Costamare Bulkers Holdings Limited Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | WNC | Wabash National Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | HQL | abrdn Life Sciences Investors Shares of Benef | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | SDHC | Smith Douglas Homes Corp. Class A Common Stoc | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 31 | ELVR | Elevra Lithium Limited American Depository Sh | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 31 | DIN | Dine Brands Global Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | CADL | Candel Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | CAL | Caleres Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | OVID | Ovid Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 31 | CSV | Carriage Services Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | LUCK | Lucky Strike Entertainment Corporation Class  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | KE | Kimball Electronics Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 31 | ARKO | ARKO Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | FENC | Fennec Pharmaceuticals Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 31 | DMAC | DiaMedica Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | VCV | Invesco California Value Municipal Income Tru | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | BLZE | Backblaze Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | CBK | Commercial Bancgroup Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | LOCO | El Pollo Loco Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 31 | PBFS | Pioneer Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | MPLT | MapLight Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | MAGN | Magnera Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | TYG | Tortoise Energy Infrastructure Corporation Co | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | STRZ | Starz Entertainment Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | TE | T1 Energy Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 31 | FIP | FTAI Infrastructure Inc. Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | ISOU | IsoEnergy Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | ARVN | Arvinas Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | FSTR | L.B. Foster Company Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 31 | EMAT | Evolution Metals & Technologies Corp. Common  | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 31 | BLDP | Ballard Power Systems Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | EOLS | Evolus Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | CSHR | CoinShares PLC Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 31 | MOBI | Mobia Medical Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | ATNI | ATN International Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | NUAI | New Era Energy & Digital Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | PERI | Perion Network Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | GOGO | Gogo Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | IPX | IperionX Limited American Depositary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | ASMB | Assembly Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | AVBC | Avidia Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | LAW | CS Disco Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 31 | BLSM | BlossomHill Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | CTMX | CytomX Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | GLAD | Gladstone Capital Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | RZLV | Rezolve AI PLC Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 31 | BNED | Barnes & Noble Education Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | PLBC | Plumas Bancorp | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | LPTH | LightPath Technologies Inc. Class A Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 31 | RBB | RBB Bancorp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | PRAA | PRA Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | GEVO | Gevo Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | SI | Shoulder Innovations Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 31 | SGU | Star Group L.P. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | NOAH | Noah Holdings Limited American Depositary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | APXC | Apex Critical Metals Corp. American Depositar | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 31 | CTEV | Claritev Corporation Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | AVTX | Avalo Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | MFI | mF International Limited Class A Ordinary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | JBI | Janus International Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | CWH | Camping World Holdings Inc. Class A Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | ETD | Ethan Allen Interiors Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 31 | CHCT | Community Healthcare Trust Incorporated Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | IPI | Intrepid Potash Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | ASPN | Aspen Aerogels Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | TVGN | Tevogen Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | TCI | Transcontinental Realty Investors Inc. Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | TECX | Tectonic Therapeutic Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | QVCG | QVC Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | PCB | PCB Bancorp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | XTND | Xtend AI Robotics Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 31 | FNLC | First Bancorp Inc  (ME) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | FCBM | First Carolina Financial Services Inc. Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | BOC | Boston Omaha Corporation Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | ASIX | AdvanSix Inc. Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | DDL | Dingdong (Cayman) Limited American Depositary | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 31 | MEI | Methode Electronics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | CD | Chaince Digital Holdings Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | JAKK | JAKKS Pacific Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya questionable |
+| 31 | CHMG | Chemung Financial Corp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 31 | BRSP | BrightSpire Capital Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | PRTA | Prothena Corporation plc Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | BLW | Blackrock Limited Duration Income Trust | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | CZFS | Citizens Financial Services Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | OXM | Oxford Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 32 | IRLA | IRulya Therapeutics Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 32 | HIVE | HIVE Digital Technologies Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | ACTG | Acacia Research Corporation (Acacia Tech) Com | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | FAC | Factorial Energy Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | ILPT | Industrial Logistics Properties Trust Common  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | RMIX | Suncrete Inc. Class A Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 32 | NECB | NorthEast Community Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | HBB | Hamilton Beach Brands Holding Company Class A | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 32 | HCMA | HCM III Acquisition Corp. Class A Ordinary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | BRUN | Boost Run Inc. Class A Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 32 | SLBT | SL Science Holding Limited Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 32 | REAX | Real REMAX Group Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 32 | UAMY | United States Antimony Corporation Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 32 | CWCO | Consolidated Water Co. Ltd. Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 32 | GILT | Gilat Satellite Networks Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 32 | HYLN | Hyliion Holdings Corp. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | PEPG | PepGen Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | HVT | Haverty Furniture Companies Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 32 | XMAX | XMAX Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 32 | METC | Ramaco Resources Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | NWFL | Norwood Financial Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | IRD | Opus Genetics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | RCKY | Rocky Brands Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | CMCL | Caledonia Mining Corporation Plc Common Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | FDBC | Fidelity D & D Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | CLFD | Clearfield Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 32 | VITL | Vital Farms Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 32 | BAK | Braskem SA ADR | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | WYFI | WhiteFiber Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 32 | NXRT | NexPoint Residential Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | CLB | Core Laboratories Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 32 | TROX | Tronox Holdings plc Ordinary Shares (UK) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | QUAD | Quad Graphics Inc Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | FNKO | Funko Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | MBUU | Malibu Boats Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 32 | ROMA | Roma Green Finance Limited Class A Ordinary S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | CINT | CI&T Inc Class A Common Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 32 | RLMD | Relmada Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | CRMD | CorMedix Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | SOR | Source Capital Inc. Cmn Shs of BI | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | TACO | Berto Acquisition Corp. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | ISTR | Investar Holding Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | ALEC | Alector Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | ALLT | Allot Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | ADTN | ADTRAN Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | MASS | 908 Devices Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | PKBK | Parke Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | GUT | Gabelli Utility Trust (The) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | AVBH | Avidbank Holdings Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | LZM | Lifezone Metals Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | CTNM | Contineum Therapeutics Inc. Class A Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | PBYI | Puma Biotechnology Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 32 | CLNE | Clean Energy Fuels Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | VGZ | Vista Gold Corp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | AMCX | AMC Global Media Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | FPI | Farmland Partners Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | BWAY | BrainsWay Ltd. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | GCO | Genesco Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 32 | EVN | Eaton Vance Municipal Income Trust Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | CERS | Cerus Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 32 | NB | NioCorp Developments Ltd. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | NVEC | NVE Corporation Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 32 | SHOE | Shoe Station Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | CDRO | Codere Online Luxembourg S.A. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | CASK | Sempreon Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 32 | VKI | Invesco Advantage Municipal Income Trust II C | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | CCAP | Crescent Capital BDC Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | SLDP | Solid Power Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | MNTN | MNTN Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | TSBK | Timberland Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | ADV | Advantage Solutions Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | TBI | TrueBlue Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | MCI | Barings Corporate Investors Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | MTLS | Materialise NV American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | CVEO | Civeo Corporation (Canada) Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | AMSF | AMERISAFE Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | ERII | Energy Recovery Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 32 | NGS | Natural Gas Services Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | CTRN | Citi Trends Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 32 | USCB | USCB Financial Holdings Inc. Class A Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | RPAY | Repay Holdings Corporation Class A Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | VALU | Value Line Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 32 | BBW | Build-A-Bear Workshop Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya questionable |
+| 32 | BRBS | Blue Ridge Bankshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | BRBI | BRBI BR Partners S.A. ADSs | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | LEO | BNY Mellon Strategic Municipals Inc. Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 32 | STLN | Starling Oncology Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 32 | SPRY | ARS Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | RYAM | Rayonier Advanced Materials Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | IA | Innovative Solutions and Support Inc. Common  | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 32 | FRST | Primis Financial Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | GBC | Georgia Banking Company Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 32 | CTGO | Contango Silver & Gold Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | ASPE | Aspen Neuroscience Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 32 | EMBC | Embecta Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 32 | CFFI | C&F Financial Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | AFRI | Forafric Global PLC Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | SFIX | Stitch Fix Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | FRPH | FRP Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | ITRG | Integra Resources Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | XRN | Chiron Real Estate Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | SPIR | Spire Global Inc. Class A Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 33 | CUB | Lionheart Holdings Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | CCCC | C4 Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | NL | NLI Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | FWDI | Forward Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 33 | CBNA | Chain Bridge Bancorp Inc. Class A Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | CV | CapsoVision Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 33 | WSBF | Waterstone Financial Inc. Common Stock (MD) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | VMD | Viemed Healthcare Inc. Common Shares | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 33 | ARL | American Realty Investors Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | RZLT | Rezolute Inc. Common Stock (NV) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | BRAI | Braiin Limited Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | TLRY | Tilray Brands Inc. Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | PMO | Franklin Municipal Opportunities Trust Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | TCPC | BlackRock TCP Capital Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | ALOY | REalloys Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | ABTC | American Bitcoin Corp. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 33 | AUNA | Auna SA Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | YDES | YD Bio Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | ARTNA | Artesian Resources Corporation Class A Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | TWIN | Twin Disc Incorporated Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 33 | SHIP | Seanergy Maritime Holdings Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | ADUR | Aduro Clean Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | FSBW | FS Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | PCT | PureCycle Technologies Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | BCML | BayCom Corp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | PHOE | Phoenix Asia Holdings Limited Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 33 | EGHT | 8x8 Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | API | Agora Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | RWT | Redwood Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | HCKT | Hackett Group Inc (The). Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 33 | COSO | CoastalSouth Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | GFUZ | General Fusion Group Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | ALIT | Alight Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | TMS | Teamshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | AVIR | Atea Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | TMQ | Trilogy Metals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | MNRO | Monro Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | CRNC | Cerence Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | KINS | Kingstone Companies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | SNDL | SNDL Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | SLI | Standard Lithium Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | PPT | Franklin Premier Income Trust Shares of Benef | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | GTE | Gran Tierra Energy Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | MVBF | MVB Financial Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | JMSB | John Marshall Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | MKTW | MarketWise Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 33 | BMM | Blue Moon Metals Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | CPS | Cooper-Standard Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | AUXX | Gold X2 Mining Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | ASUR | Asure Software Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | OPI | Office Properties Income Trust Common shares  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | DBI | Designer Brands Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | JILL | J. Jill Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 33 | FTW | Presidio Production Company Class A Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | KREF | KKR Real Estate Finance Trust Inc. Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | THM | International Tower Hill Mines Ltd. Ordinary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | SSP | E.W. Scripps Company (The) Class A Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | RM | Regional Management Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | TWI | Titan International Inc. (DE) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | PROK | ProKidney Corp. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | LND | Brasilagro Brazilian Agric Real Estate Co Spo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | LRMR | Larimar Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | GBLI | Global Indemnity Group LLC Class A Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | FRAF | Franklin Financial Services Corporation Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | ENTA | Enanta Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | MEC | Mayville Engineering Company Inc. Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | TRXB | TRex Bio Inc. Common stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 33 | NAK | Northern Dynasty Minerals Ltd. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | BNTC | Benitec Biopharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | EFT | Eaton Vance Floating Rate Income Trust Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | MYFW | First Western Financial Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | HLLY | Holley Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | FCCO | First Community Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | GALT | Galectin Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | NODK | NI Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | FLXS | Flexsteel Industries Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 33 | AUTL | Autolus Therapeutics plc American Depositary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | ALT | Altimmune Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | PESI | Perma-Fix Environmental Services Inc. Common  | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 33 | LEGO | Legato Merger Corp. IV Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | VOXR | Vox Royalty Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | ACB | Aurora Cannabis Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | BPRN | Princeton Bancorp Inc. Common Stock (PA) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | NEWT | NewtekOne Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | ORN | Orion Group Holdings Inc. Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | WRN | Western Copper and Gold Corporation Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 33 | ENVX | Enovix Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | KRUS | Kura Sushi USA Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 33 | ATLO | Ames National Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | KYTX | Kyverna Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | SMTI | Sanara MedTech Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 33 | ISBA | Isabella Bank Corporation Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | AIOT | PowerFleet Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 33 | PMM | Franklin Managed Municipal Income Trust Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | CYH | Community Health Systems Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | EBS | Emergent BioSolutions Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | IPSC | Century Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | FUNC | First United Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | PNRG | PrimeEnergy Resources Corporation Common Stoc | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 34 | INFU | InfuSystems Holdings Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 34 | XYF | X Financial American Depositary Shares each r | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | PINE | Alpine Income Property Trust Inc. Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | CION | CION Investment Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | PMTS | CPI Card Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | BETR | Better Home & Finance Holding Company Class A | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | CMRC | Commerce.com Inc. Series 1 Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | ESCA | Escalade Incorporated Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 34 | ECX | ECARX Holdings Inc. Class A Ordinary shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | AGMB | AgomAb Therapeutics NV American Depositary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | EVMN | Evommune Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | FINS | Angel Oak Financial Strategies Income Term Tr | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | VABK | Virginia National Bankshares Corporation Comm | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | PPHC | Public Policy Holding Company Inc. Common Sto | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 34 | PAMT | PAMT CORP Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | BGS | B&G Foods Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | EIKN | Eikon Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | FVCB | FVCBankcorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | SOHU | Sohu.com Limited American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | GASS | StealthGas Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | SCTX | Scribe Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | MLP | Maui Land & Pineapple Company Inc. Common Sto | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 34 | III | Information Services Group Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 34 | DSX | Diana Shipping inc. common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | QNBC | QNB Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | XPER | Xperi Inc. Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 34 | CDNL | Cardinal Infrastructure Group Inc. Class A Co | **FAIL** | Ethics (auto list match: (a?) defense-related industry classification 'Military/Government/Technical' — verify) |
+| 34 | TMCI | Treace Medical Concepts Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 34 | FUND | Sprott Focus Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | XFOR | X4 Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | CDZI | CADIZ Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | RNGR | Ranger Energy Services Inc. Class A Common St | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 34 | EDIT | Editas Medicine Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | TRVG | trivago N.V. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | REI | Ring Energy Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | OPTU | Optimum Communications Inc. Class A common st | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | GEMI | Gemini Space Station Inc. Class A Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | CYPH | Cypherpunk Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | TBCH | Turtle Beach Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | ENRD | Einride AB American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | SMRT | SmartRent Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 34 | ALTO | Alto Ingredients Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | AGEN | Agenus Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 34 | OVLY | Oak Valley Bancorp (CA) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | FVRR | Fiverr International Ltd. Ordinary Shares no  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | HWBK | Hawthorn Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | FULC | Fulcrum Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | VFF | Village Farms International Inc. Common Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | FNRN | First Northern Community Bancorp Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | ALCO | Alico Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 34 | LAND | Gladstone Land Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | ALLO | Allogene Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | EVI | EVI Industries Inc.  Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 34 | RDIB | Reading International Inc Class B Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | LCNB | LCNB Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | BCBP | BCB Bancorp Inc. (NJ) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | CMTV | Community Bancorp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | GBAB | Guggenheim Taxable Municipal Bond & Investmen | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | DTIL | Precision BioSciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | MRAM | Everspin Technologies Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 34 | OFIX | Orthofix Medical Inc. Common Stock (DE) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | CHPT | ChargePoint Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | NPCE | Neuropace Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 34 | POWW | Outdoor Holding Company Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 34 | LSAK | Lesaka Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | RWAY | Runway Growth Finance Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | MPTI | M-tron Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 34 | LWAY | Lifeway Foods Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 34 | HLP | Hongli Group Inc. Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 34 | JACK | Jack In The Box Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | FXNC | First National Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | PRLD | Prelude Therapeutics Incorporated Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | SSII | SS Innovations International Inc. Common Stoc | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 34 | SABS | SAB Biotherapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | WNEB | Western New England Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | PROF | Profound Medical Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 34 | NAUT | Nautilus Biotechnology Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | AENT | Alliance Entertainment Holding Corporation Cl | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | IDR | Idaho Strategic Resources Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 34 | NNBR | NN Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | CLPT | ClearPoint Neuro Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 34 | ACU | Acme United Corporation. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 34 | PACK | Ranpak Holdings Corp Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | LXEO | Lexeo Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | RELL | Richardson Electronics Ltd. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 34 | VRRM | Verra Mobility Corporation Class A Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | FBLA | FB Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | SEG | Seaport Entertainment Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | RMBI | Richmond Mutual Bancorporation Inc. Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | CLW | Clearwater Paper Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | OVBC | Ohio Valley Banc Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | GLOO | Gloo Holdings Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 34 | OCGN | Ocugen Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | INO | Inovio Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 34 | PRE | Prenetics Global Limited Class A Ordinary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | PLAY | Dave & Buster's Entertainment Inc. Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | TRX | TRX Gold Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | RBBN | Ribbon Communications Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | TTRX | Turn Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | ULBI | Ultralife Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | OIA | Invesco Municipal Income Opportunities Trust  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | LE | Lands' End Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 35 | NC | NACCO Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | IMSR | Terrestrial Energy Inc. Common Stock   | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | EH | EHang Holdings Limited ADS | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | ANGI | Angi Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | VPV | Invesco Pennsylvania Value Municipal Income T | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | PCYO | Pure Cycle Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | FRD | Friedman Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | ELA | Envela Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | LAES | SEALSQ Corp Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | SUJA | Suja Life Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | KWY | Kingsway Corporation Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 35 | DDD | 3D Systems Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 35 | PLX | Protalix BioTherapeutics Inc. (DE) Common Sto | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 35 | RNTZ | Rantizo Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 35 | GENC | Gencor Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | PUSA | Powerus Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | CUVL | Clinuvel Pharmaceuticals Limited American Dep | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | STRT | STRATTEC SECURITY CORPORATION Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | ORBS | Eightco Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 35 | USNA | USANA Health Sciences Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 35 | EFSI | Eagle Financial Services Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | OSUR | OraSure Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | NMG | Nouveau Monde Graphite Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | NOA | North American Construction Group Ltd. Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | QTTB | Q32 Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | HTT | High Templar Tech Limited American depositary | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | NKSH | National Bankshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | ELLO | Ellomay Capital Ltd Ordinary Shares (Israel) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | SPOK | Spok Holdings Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 35 | MTRX | Matrix Service Company Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | LAB | Standard BioTools Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | SNFCA | Security National Financial Corporation Class | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | CPZ | Calamos Long/Short Equity & Dynamic Income Tr | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | LFCR | Lifecore Biomedical Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | BLND | Blend Labs Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | CAMP | CAMP4 Therapeutics Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | EOT | Eaton Vance Municipal Income Trust EATON VANC | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | RCKT | Rocket Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | OPTX | Syntec Optics Holdings Inc. Class A Common St | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 35 | EAF | GrafTech International Ltd. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | ALTI | AlTi Global Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | BIOA | BioAge Labs Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | FTH | Faeth Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | MBI | MBIA Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | ASLE | AerSale Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | ARCT | Arcturus Therapeutics Holdings Inc. Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | OSG | Octave Specialty Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | CABA | Cabaletta Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | SPCE | Virgin Galactic Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | SVCO | Silvaco Group Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 35 | BTBT | Bit Digital Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | AOUT | American Outdoor Brands Inc. Common Stock  | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 35 | CFBK | CF Bankshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | AZ | A2Z Cust2Mate Solutions Corp. Common Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 35 | ASPI | ASP Isotopes Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | NNDM | Nano Dimension Ltd. American Depositary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | BRT | BRT Apartments Corp. (MD) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | RGCO | RGC Resources Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | ARQQ | Arqit Quantum Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | ATER | Aterian Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 35 | ZKH | ZKH Group Limited American Depositary Shares  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | ENHA | Enhanced Group Inc. Class A Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 35 | AMRN | Amarin Corporation plc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | QSI | Quantum-Si Incorporated Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | OFLX | Omega Flex Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 35 | CGC | Canopy Growth Corporation Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | PEBK | Peoples Bancorp of North Carolina Inc. Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | IMMR | Immersion Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | VNDA | Vanda Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | XPOF | Xponential Fitness Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | ONIT | Onity Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | SGC | Superior Group of Companies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | IMRX | Immuneering Corporation Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | OTLY | Oatly Group AB American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | CZWI | Citizens Community Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | CURV | Torrid Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | METCB | Ramaco Resources Inc. Class B Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | NKLR | Terra Innovatum Global N.V. Ordinary shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | RCMT | RCM Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 35 | BMEZ | BlackRock Health Sciences Term Trust Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | BKTI | BK Technologies Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 35 | URG | Ur Energy Inc Common Shares (Canada) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | HRZN | Horizon Technology Finance Corporation Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | OPBK | OP Bancorp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | BCYC | Bicycle Therapeutics plc American Depositary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | RXST | RxSight Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | DRUG | Bright Minds Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | NARA | Narragansett Bancorp Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 35 | ZH | Zhihu Inc. American Depositary Shares each re | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | PPIH | Perma-Pipe International Holdings Inc. Common | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 35 | REFI | Chicago Atlantic Real Estate Finance Inc. Com | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 35 | KDK | Kodiak AI Inc. Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 35 | SERV | Serve Robotics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | GBFH | GBank Financial Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | CRNT | Ceragon Networks Ltd. Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 36 | DMRC | Digimarc Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 36 | CMTG | Claros Mortgage Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | FCAP | First Capital Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | OEC | Orion S.A. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | FTF | Franklin Limited Duration Income Trust Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | XNET | Xunlei Limited American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | AUDC | AudioCodes Ltd. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 36 | PMA | PMA Graphene Technology Group Inc. Class A Or | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 36 | LOVE | The Lovesac Company Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 36 | INBK | First Internet Bancorp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | AVNW | Aviat Networks Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | ABR | Arbor Realty Trust Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | VOGX | Vogenx Inc Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 36 | JXG | JX Luxventure Group Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 36 | NREF | NexPoint Real Estate Finance Inc. Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | TDUP | ThredUp Inc. Class A Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 36 | ACIU | AC Immune SA Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | VRA | Vera Bradley Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 36 | YARW | Yarrow Bioscience Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | OPAL | OPAL Fuels Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | HITI | High Tide Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | KLTR | Kaltura Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 36 | MFIN | Medallion Financial Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | RICK | RCI Hospitality Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | GIBO | GIBO Holdings Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | ZUMZ | Zumiez Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 36 | MSB | Mesabi Trust Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | SND | Smart Sand Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 36 | PDEX | Pro-Dex Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 36 | UTMD | Utah Medical Products Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | SMHI | SEACOR Marine Holdings Inc. Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | CBFV | CB Financial Services Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | SJT | San Juan Basin Royalty Trust Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | LIEN | Chicago Atlantic BDC Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | SIGA | SIGA Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | FGBI | First Guaranty Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | PHOS | First Phosphate Corp. American Depositary Sha | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 36 | RBKB | Rhinebeck Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | CURR | Currenc Group Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | ASYS | Amtech Systems Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 36 | SUPX | SuperX AI Technology Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | IKT | Inhibikase Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | KTWO | K2 Capital Acquisition Corporation Class A Or | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 36 | LCTX | Lineage Cell Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | PNNT | PennantPark Investment Corporation Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | MSC | Studio City International Holdings Limited Am | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | BZUN | Baozun Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | GLSI | Greenwich LifeSciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | DGXX | Digi Power X Inc. Subordinate Voting Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | BRCC | BRC Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 36 | FINW | FinWise Bancorp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | BAFN | BayFirst Financial Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | ELVA | Electrovaya Inc. Common Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 36 | RYDE | Ryde Group Ltd. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 36 | CPSS | Consumer Portfolio Services Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | LARK | Landmark Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | AIV | Apartment Investment and Management Company C | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | SY | So-Young International Inc. American Deposito | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | KROS | Keros Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | MRBK | Meridian Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | TG | Tredegar Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 36 | NGEN | NervGen Pharma Corp. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | ARTV | Artiva Biotherapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | TRDA | Entrada Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | AMWL | American Well Corporation Class A Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | ACRE | Ares Commercial Real Estate Corporation Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | DIBS | 1stdibs.com Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | CMT | Core Molding Technologies Inc Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 36 | VTN | Invesco Trust for Investment Grade New York M | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | MDWD | MediWound Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | GWRS | Global Water Resources Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | CGEN | Compugen Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | ETX | Eaton Vance Municipal Income 2028 Term Trust  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | BTQ | BTQ Technologies Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | CLAR | Clarus Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 36 | NUS | Nu Skin Enterprises Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | IMPP | Imperial Petroleum Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | CCOI | Cogent Communications Holdings Inc. | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | FCNCP | First Citizens BancShares Inc. Depositary Sha | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 36 | CURI | CuriosityStream Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya questionable |
+| 36 | LTRX | Lantronix Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 36 | UIS | Unisys Corporation New Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | ELMD | Electromed Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 36 | AUC | ATIF Holdings Limited Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 36 | HQI | HireQuest Inc. Common Stock (DE) | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 36 | FNWD | Finward Bancorp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | NPWR | NET Power Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | QNC | Quantum eMotion Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | SCM | Stellus Capital Investment Corporation Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | CNCK | Coincheck Group N.V. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | YSG | Yatsen Holding Limited American Depositary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | FT | Franklin Universal Trust Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | RNAC | Cartesian Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | CNDT | Conduent Incorporated Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | EGG | Enigmatig Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 36 | PALI | Palisade Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 36 | TTGT | TechTarget Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 36 | MOVE | Corvex Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | TAYD | Taylor Devices Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 37 | DH | Definitive Healthcare Corp. Class A Common St | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 37 | ECBK | ECB Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | RDCM | Radcom Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | NATR | Nature's Sunshine Products Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 37 | SBFG | SB Financial Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | BSET | Bassett Furniture Industries Incorporated Com | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | GRX | The Gabelli Healthcare & Wellness Trust Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | WHG | Westwood Holdings Group Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | EML | Eastern Company (The) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | NCMI | National CineMedia Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya questionable |
+| 37 | NEGG | Newegg Commerce Inc. Common Shares | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 37 | TOYO | TOYO Co. Ltd Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | DHX | DHI Group Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 37 | SLGL | Sol-Gel Technologies Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | LMNR | Limoneira Co Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | STRW | Strawberry Fields REIT Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | GRRR | Gorilla Technology Group Inc. Ordinary shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | HDSN | Hudson Technologies Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 37 | PAAC | Proem Acquisition Corp I Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | WHWK | Whitehawk Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | KGEI | Kolibri Global Energy Inc. Common stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 37 | ASBH | American Savings Bank N.A. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 37 | FOA | Finance of America Companies Inc. Class A Com | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | SBMT | Silver Bow Mining Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | BVFL | BV Financial Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | SVIA | Silvia Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 37 | MPV | Barings Participation Investors Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | KRRO | Korro Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | WHF | WhiteHorse Finance Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | UXIN | Uxin Limited ADS | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | IFRX | InflaRx N.V. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | VNCE | Vince Holding Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | LCUT | Lifetime Brands Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | XHG | XChange TEC.INC American Depositary Shares  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | CIA | Citizens Inc. Class A Common Stock ($1.00 Par | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | ANIK | Anika Therapeutics Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 37 | FIRY | Firy Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | ICG | Intchains Group Limited American Depositary S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | BNC | BNB Standard Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | ACOG | Alpha Cognition Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | MRT | Marti Technologies Inc. Class A Ordinary Shar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | KRMD | KORU Medical Systems Inc. Common Stock (DE) | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 37 | RDNW | RideNow Group Inc. Class B Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | MNSBP | MainStreet Bancshares Inc. Depositary Shares | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 37 | OMSE | OMS Energy Technologies Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | IMXI | International Money Express Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 37 | QUIK | QuickLogic Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 37 | ALTG | Alta Equipment Group Inc. Class A Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | SAR | Saratoga Investment Corp New | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | ANTX | AN2 Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | ORMP | Oramed Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | PYXS | Pyxis Oncology Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | MNTK | Montauk Renewables Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 37 | PRQR | ProQR Therapeutics N.V. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | RR | Richtech Robotics Inc. Class B Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | ELDN | Eledon Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 37 | HKD | AMTD Digital Inc. American Depositary Shares  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | IONR | ioneer Ltd American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | SES | SES AI Corporation Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | USAU | U.S. Gold Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | ESOA | Energy Services of America Corporation Common | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 37 | CHCI | Comstock Holding Companies Inc. Class A Commo | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 37 | AMRO | Amaero Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 37 | INTT | inTest Corporation Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 37 | ADCT | ADC Therapeutics SA Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | AMPY | Amplify Energy Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 37 | PSFE | Paysafe Limited Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | GMTL | Guardian Metal Resources PLC ADS | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | AEYE | AudioEye Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 37 | RRGB | Red Robin Gourmet Burgers Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | COOK | Traeger Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | PLBY | Playboy Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | TSSI | TSS Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 37 | EPSN | Epsilon Energy Ltd. Common Share | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 37 | LEE | Lee Enterprises Incorporated Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | FORR | Forrester Research Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | TROO | TROOPS Inc. Ordinary Shares  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | ECC | Eagle Point Credit Company Common Share of Be | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | NAGE | Niagen Bioscience Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 37 | EBMT | Eagle Bancorp Montana Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | BBOT | BridgeBio Oncology Therapeutics Inc. Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | CXDO | Crexendo Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 37 | IVVD | Invivyd Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | EXFY | Expensify Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | SANG | Sangoma Technologies Corporation Common Share | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 37 | ZNTL | Zentalis Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | SILC | Silicom Ltd Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | FC | Franklin Covey Company Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya questionable |
+| 37 | EGAN | eGain Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | GDEV | GDEV Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | PDYN | Palladyne AI Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | AMBR | Amber International Holding Limited American  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | IPHA | Innate Pharma S.A. ADS | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 37 | TPVG | TriplePoint Venture Growth BDC Corp. Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | STRO | Sutro Biopharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | HUCK | Huckleberry.ai Inc. Class B Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 37 | NEOV | NeoVolta Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 37 | AIRJ | AirJoule Technologies Corporation Class A Com | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 37 | HNVR | Hanover Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | HYNE | Hoyne Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | SWMR | Swarmer Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 38 | HOFT | Hooker Furnishings Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 38 | FXHO | UTime Limited Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 38 | VLN | Valens Semiconductor Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | TII | Titan Mining Corporation Common Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 38 | AIBZ | Bitzero Holdings Inc. Common Shares | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 38 | BOOM | DMC Global Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 38 | RAIL | FreightCar America Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | TONX | TON Strategy Company Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 38 | PIM | Franklin Master Intermediate Income Trust Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | ONEW | OneWater Marine Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | TTEC | TTEC Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | MNSB | MainStreet Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | GCL | GCL Global Holdings Ltd Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | SWVL | Swvl Holdings Corp Class A Common Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 38 | GLDG | GoldMining Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | TUSK | Mammoth Energy Services Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | SOC | Sable Offshore Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | DLTH | Duluth Holdings Inc. Class B Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | HUMA | Humacyte Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | DOUG | Douglas Elliman Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | FOCL | EDAP TMS S.A. American Depositary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 38 | MINE | Mayfair Gold Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | SHIM | Shimmick Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | ABEO | Abeona Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | NXDT | NexPoint Diversified Real Estate Trust Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | VRXA | Veraxa Biotech AG Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | GNT | GAMCO Natural Resources Gold & Income Trust | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | ABAT | American Battery Technology Company Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 38 | SUNS | Sunrise Realty Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | SEVN | Seven Hills Realty Trust Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | DUOT | Duos Technologies Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 38 | TARA | Protara Therapeutics Inc.  Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | SRBK | SR Bancorp Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | INGN | Inogen Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | LSBK | Lake Shore Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | ONL | Orion Properties Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | MGYR | Magyar Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | LDI | loanDepot Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | AIRO | AIRO Group Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | AEHL | Antelope Enterprise Holdings Limited Class A  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | LTBR | Lightbridge Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | ATGL | Alpha Technology Group Limited Class A Ordina | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | MPAA | Motorcar Parts  of America Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | NSLR | Neostellar Capital Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | SRI | Stoneridge Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | FUFU | BitFuFu Inc. Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 38 | SION | Sionna Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | PED | Pedevco Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | JRVR | James River Group Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | TLSI | TriSalus Life Sciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 38 | MED | MEDIFAST INC Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | RNA | Atrium Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | MGNX | MacroGenics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | FATE | Fate Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | FLWS | 1-800-FLOWERS.COM Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | BANX | ArrowMark Financial Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | BKKT | Bakkt Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 38 | MSLE | Satellos Bioscience Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | ARQ | Arq Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 38 | OPHC | OptimumBank Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | FF | FutureFuel Corp.  Common shares | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 38 | BMMX | Black Mammoth Metals Corporation Common Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | KLC | KinderCare Learning Companies Inc. Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | CVGI | Commercial Vehicle Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | QTRX | Quanterix Corporation Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 38 | MENS | Jyong Biotech Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | BNR | Burning Rock Biotech Limited American Deposit | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | FISN | Deep Fission Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | LOT | Lotus Technology Inc. American Depositary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | TRAK | ReposiTrak Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | USBC | USBC Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | GGZ | Gabelli Global Small and Mid Cap Value Trust  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | SAMG | Silvercrest Asset Management Group Inc. Class | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 38 | GPRO | GoPro Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | ONEN | ONE Nuclear Energy Inc. Common Stock   | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 38 | MF | MindForge Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 38 | NTHI | NeOnc Technologies Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 38 | AOMR | Angel Oak Mortgage REIT Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | CNTN | Canton Strategic Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | CAAS | China Automotive Systems Inc. Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | RVSB | Riverview Bancorp Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | BEBE | TGE Value Creative Solutions Corp Class A Ord | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 38 | KVHI | KVH Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | ALXO | ALX Oncology Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | EPM | Evolution Petroleum Corporation Inc. Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | SHMD | SCHMID Group N.V. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | KXIN | Kaixin Holdings Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 38 | AP | Ampco-Pittsburgh Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | TCX | Tucows Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | WSBK | Winchester Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | MITT | TPG Mortgage Investment Trust Inc. Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | NXH | Neighborhood Intelligence Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 38 | TORO | Toro Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | NIU | Niu Technologies American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | ENGN | enGene Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 38 | TLYS | Tilly's Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | XRX | Xerox Holdings Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 38 | XLAB | Exascale Labs Holdings Inc. Class A Common St | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 39 | ABLV | Able View Global Inc. Class B Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 39 | ANNA | AleAnna Inc. Class A Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 39 | OPRX | OptimizeRx Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 39 | HURC | Hurco Companies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | CRDL | Cardiol Therapeutics Inc. Class A Common Shar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | TMCR | The Metals Royalty Company Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | PYPD | PolyPid Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | AKBA | Akebia Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | RILY | BRC Group Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | PLG | Platinum Group Metals Ltd. Ordinary Shares (C | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | RC | Ready Capital Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | LUNG | Pulmonx Corporation Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 39 | MXCT | MaxCyte Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | KLXE | KLX Energy Services Holdings Inc. Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | EARN | Ellington Credit Company Common Shares of Ben | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | SPRB | Spruce Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | STIM | Neuronetics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | JHS | John Hancock Income Securities Trust Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | LENZ | LENZ Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | GLAS | Glass House Brands Inc. Subordinate Voting Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | ALMU | Aeluma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | ESP | Espey Mfg. & Electronics Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | EXOD | Exodus Movement Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | CMPX | Compass Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | DEFT | Defi Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | BRLT | Brilliant Earth Group Inc. Class A Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | BVC | BitVentures Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | SFBC | Sound Financial Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | UPB | Upstream Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | ZSQR | Z Squared Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | BSBK | Bogota Financial Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | ZENA | ZenaTech Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 39 | GOW | GOWell Energy Technology Ordinary shares | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 39 | ACR | ACRES Commercial Realty Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | CDXS | Codexis Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 39 | GMM | Global Mofy AI Limited Class A Ordinary Share | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 39 | GUNN | Gunnison Copper Corp. American Depositary Sha | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 39 | ACNT | Ascent Industries Co. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 39 | IMUX | Immunic Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | UFI | Unifi Inc. New Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | VELO | Velo3D Inc. Common stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 39 | NLOP | Net Lease Office Properties Common Shares of  | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 39 | DFDV | DeFi Development Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | NSTR | NorthStar Earth & Space Enterprises Inc. Comm | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 39 | PDSB | PDS Biotechnology Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | CATX | Perspective Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | PROV | Provident Financial Holdings Inc. Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | BOTJ | Bank of the James Financial Group Inc. Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | SLSN | Solesence Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 39 | GSIT | GSI Technology Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 39 | SLNH | Soluna Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | UNB | Union Bankshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | BHR | Braemar Hotels & Resorts Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | GSIW | Garden Stage Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | APYX | Apyx Medical Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | NVA | Nova Minerals Corp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | JLHL | Julong Holding Limited Class A Ordinary Share | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 39 | OKUR | OnKure Therapeutics Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | ARMP | Armata Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | AXR | AMREP Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | DOYU | DouYu International Holdings Limited ADS | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | WYHG | Wing Yip Food Holdings Group Limited American | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 39 | GLU | Gabelli Global Utility Common Shares of Benef | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | FLX | BingEx Limited American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | NERV | Minerva Neurosciences Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | USDE | StablecoinX Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | SSTI | SoundThinking Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 39 | PARK | Park Dental Partners Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | FLNT | Fluent Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya questionable |
+| 39 | GCTS | GCT Semiconductor Holding Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 39 | INSE | Inspired Entertainment Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | TP | Ticketplus Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 39 | SMID | Smith-Midland Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 39 | FHTX | Foghorn Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | SKYA | SkyAI Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | PNBK | Patriot National Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | EDRY | EuroDry Ltd. Common Shares  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | SAIQ | WISeSat.Space Holdings Corp. Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 39 | ADAG | Adagene Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | DSC | DSC Holdings Ltd. American Depositary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 39 | ZYN | PTL LTD Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 39 | OSS | One Stop Systems Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 39 | HCAT | Health Catalyst Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | DPRO | Draganfly Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | TISI | Team Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | JHI | John Hancock Investors Trust Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | CLLS | Cellectis S.A. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | DERM | Journey Medical Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 39 | ORGO | Organogenesis Holdings Inc. Class A Common St | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 39 | ZURA | Zura Bio Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | ICCC | ImmuCell Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 39 | BYFC | Broadway Financial Corporation Class A Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | GDHG | Golden Heaven Group Holdings Ltd. Class A Ord | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | WTF | Waton Financial Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 39 | HSDT | Solana Company Class A Common Stock (DE) | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya questionable |
+| 39 | UNCY | Unicycive Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | LGCY | Legacy Education Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 39 | LODE | Comstock Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 39 | ILLU | Illumination Acquisition Corp I Class A Ordin | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 39 | CUE | Cue Biopharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 40 | HTLM | HomesToLife Ltd Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 40 | VUZI | Vuzix Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | OGI | Organigram Global Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | GHG | GreenTree Hospitality Group Ltd. American dep | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | KEQU | Kewaunee Scientific Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | VYGR | Voyager Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | EU | enCore Energy Corp. Common Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 40 | MOLN | Molecular Partners AG American Depositary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | FLYX | flyExclusive Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | BDSX | Biodesix Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | BGM | BGM Group Ltd. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | NINE | Nine Energy Service Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | EP | Empire Petroleum Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 40 | RZAI | Roze AI Inc. Common Shares | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 40 | SKIN | SkinHealth Systems Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | VIRC | Virco Manufacturing Corporation Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 40 | BDL | Flanigan's Enterprises Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | SSTK | Shutterstock Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 40 | ATOM | Atomera Incorporated Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | CAN | Canaan Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 40 | OWLT | Owlet Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 40 | MRLN | Merlin Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | GGT | Gabelli Multi-Media Trust Inc. (The) Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | JRSH | Jerash Holdings (US) Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 40 | OTLK | Outlook Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | AREC | American Resources Corporation Class A Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | XGN | Exagen Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 40 | ETS | Elite Express Holding Inc. Class A Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | REA | Rare Earths Americas Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | GRO | Brazil Potash Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | NRXP | NRX Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 40 | CCLD | CareCloud Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | EQ | Equillium Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | WW | WW International Inc.  Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | SKYX | SKYX Platforms Corp. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 40 | CODA | Coda Octopus Group Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | STHO | Star Holdings Shares of Beneficial Interest | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | NUCL | Eagle Nuclear Energy Corp. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | RGP | Resources Connection Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 40 | CTW | CTW Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | BYND | Beyond Meat Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | FNWB | First Northwest Bancorp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | RGT | Royce Global Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 40 | SIF | SIFCO Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 40 | LX | LexinFintech Holdings Ltd. American Depositar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | VANI | Vivani Medical Inc. Common Stock (DE) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 40 | CBUS | Cibus Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | AUBN | Auburn National Bancorporation Inc. Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | SIDU | Sidus Space Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | NBP | NovaBridge Biosciences American Depositary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | AKA | a.k.a. Brands Holding Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | JYNT | The Joint Corp. Common Stock | **FAIL** | Ethics (auto list match: (b) BDS guide mentions 'joint') |
+| 40 | RTSN | Retension Pharmaceuticals Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 40 | RDZN | Roadzen Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | FDSB | Fifth District Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | BEEP | Mobile Infrastructure Corporation Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | PMVP | PMV Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | IHRT | iHeartMedia Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | CBAT | CBAK Energy Technology Limited Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | NYXH | Nyxoah SA Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | LFMD | LifeMD Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 40 | INTG | Intergroup Corporation (The) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | ANIX | Anixa Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | MX | Magnachip Semiconductor Corporation Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | FUSB | First US Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | BDTX | Black Diamond Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | ISPR | Ispire Technology Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | VIOT | Viomi Technology Co. Ltd American Depositary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | HURA | TuHURA Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | SRG | Seritage Growth Properties Class A Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | MVST | Microvast Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | LAKE | Lakeland Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 40 | KZIA | Kazia Therapeutics Limited American Depositar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | GLND | Greenland Energy Company Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | OCC | Optical Cable Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 40 | GNLX | Genelux Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | NKTX | Nkarta Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | OWLS | OBOOK Holdings Inc. Class A Common Shares | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 40 | TRBG | TurboGen Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | RLYB | Rallybio Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | AMTX | Aemetis Inc. (DE) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | EJH | E-Home Household Service Holdings Limited Ord | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | CPBI | Central Plains Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | CEPL | Capstone Energy Plus Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 40 | EVF | Eaton Vance Senior Income Trust Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | ANTA | Antalpha Platform Holding Company Class A Ord | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | AGPU | Axe Compute Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 40 | RPT | Rithm Property Trust Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | WRAP | Wrap Technologies Inc. Common Stock | **FAIL** | Ethics (auto list match: (a?) defense-related industry classification 'Ordnance And Accessories' — verify) |
+| 40 | PBHC | Pathfinder Bancorp Inc. Common Stock (MD) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | QMLS | QumulusAI Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 40 | LGL | LGL Group Inc. (The) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | MGLD | The Marygold Companies Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 40 | NAKA | Nakamoto Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | BARK | BARK Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 40 | PLYX | Polaryx Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 40 | UBCP | United Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | HFFG | HF Foods Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | ASRV | AmeriServ Financial Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 40 | BYRN | Byrna Technologies Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 41 | SEER | Seer Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | MMLP | Martin Midstream Partners L.P. Limited Partne | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | WSTN | Westin Acquisition Corp Class A Ordinary Shar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | RENT | Rent the Runway Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | MAYS | J. W. Mays Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 41 | LUCD | Lucid Diagnostics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | PZG | Paramount Gold Nevada Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | HERE | Here Group Limited American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | WFCF | Where Food Comes From Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 41 | NICM | Nicola Mining Inc. American Depositary Shares | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 41 | HOVR | New Horizon Aircraft Ltd. Class A Ordinary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | EIC | Eagle Point Income Company Common Shares of B | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | MDIA | Mediaco Holding Inc. Class A Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | ZKIN | ZK International Group Co. Ltd Ordinary Share | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 41 | CPHC | Canterbury Park Holding Corporation 'New' Com | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | UP | Wheels Up Experience Inc. Class A Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | FURY | Fury Gold Mines Limited Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | STXS | Stereotaxis Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 41 | MWC | Micware Co. Ltd. American Depositary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 41 | LUD | Luda Technology Group Limited Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 41 | HNNA | Hennessy Advisors Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | FEAM | 5E Advanced Materials Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | CHMI | Cherry Hill Mortgage Investment Corporation C | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | SSBI | Summit State Bank Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | CHRS | Coherus Oncology Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | CPIX | Cumberland Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 41 | UEIC | Universal Electronics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | PFX | PhenixFIN Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | CRT | Cross Timbers Royalty Trust Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 41 | BMHL | Bluemount Holdings Limited Class B Ordinary S | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 41 | ZVIA | Zevia PBC Class A Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 41 | SERA | Sera Prognostics Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | LSE | Leishen Energy Holding Co. Ltd. Class A Ordin | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | FSI | Flexible Solutions International Inc. Common  | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 41 | DAVA | Endava plc American Depositary Shares (each r | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | LANV | Lanvin Group Holdings Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | PSIG | PS International Group Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | BUDA | Buda Juice Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 41 | TNYA | Tenaya Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | AIRT | Air T Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | AVXL | Anavex Life Sciences Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | BLUW | Blue Water Acquisition Corp. III Class A Ordi | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | AMBO | Ambow Education Holding Ltd. American Deposit | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | RANI | Rani Therapeutics Holdings Inc. Class A Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | OXSQ | Oxford Square Capital Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | LPA | Logistic Properties of the Americas Ordinary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | MHH | Mastech Digital Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | STFS | Star Fashion Culture Holdings Limited Class A | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 41 | WQEY | WISeQey Corp Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 41 | KULR | KULR Technology Group Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 41 | CEV | Eaton Vance California Municipal Income Trust | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | RFIL | RF Industries Ltd. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 41 | SLNG | Stabilis Solutions Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 41 | TLSA | Tiziana Life Sciences Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | SEV | Aptera Motors Corp. Class B Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | PAL | Proficient Auto Logistics Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 41 | NTIC | Northern Technologies International Corporati | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 41 | HFBL | Home Federal Bancorp Inc. of Louisiana Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | GRWG | GrowGeneration Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | ZJK | ZJK Industrial Co. Ltd. Class A Ordinary Shar | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 41 | VTVT | vTv Therapeutics Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | CSPI | CSP Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | AIAI | AIAI Holdings Corporation Class A Common Stoc | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 41 | SOWG | Sow Good Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 41 | ROC | Rank One Computing Corporation Common stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 41 | JFIN | Jiayin Group Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | NTRB | Nutriband Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 41 | IOR | Income Opportunity Realty Investors Inc. Comm | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | COYA | Coya Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | CPSH | CPS Technologies Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 41 | LCU | Lion Copper Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | SIEB | Siebert Financial Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | ZYBT | Zhengye Biotechnology Holding Limited Class A | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 41 | CLST | Catalyst Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | CRBP | Corbus Pharmaceuticals Holdings Inc. Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | NMRA | Neumora Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | INSG | Inseego Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | AFCG | Advanced Flower Capital Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | MNOV | Medicinova Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | NRXS | Neuraxis Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 41 | SRFM | Surf Air Mobility Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | NRDY | Nerdy Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 41 | JELD | JELD-WEN Holding Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | TENX | Tenax Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | GECC | Great Elm Capital Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | GOSS | Gossamer Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | GMHS | Gamehaus Holdings Inc. Class A Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | CNXU | Conexeu Sciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | YIBO | Planet Image International Limited Class A Or | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | GEG | Great Elm Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | ASPS | Altisource Portfolio Solutions S.A. Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | USGO | U.S. GoldMining Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | COE | 51Talk Online Education Group American deposi | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 41 | CRDF | Cardiff Oncology Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | PRTS | CarParts.com Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | VENU | Venu Holding Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | APT | Alpha Pro Tech Ltd. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | ATRA | Atara Biotherapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 41 | SOTK | Sono-Tek Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 41 | LNSR | LENSAR Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 42 | HMR | Heidmar Maritime Holdings Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | FATN | FatPipe Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 42 | VIVO | VivoPower PLC Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | HYPR | Hyperfine Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | QXL | Quantum X Labs Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 42 | NRT | North European Oil Royality Trust Common Stoc | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 42 | BCIC | BCP Investment Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | RSSS | Research Solutions Inc Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 42 | QTEX | QTREX Quantum Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | FTLF | FitLife Brands Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 42 | RTB | RTB Digital Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 42 | OM | Outset Medical Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | MB | MasterBeef Group Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | CSBR | Champions Oncology Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 42 | AMPG | Amplitech Group Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 42 | CMCM | Cheetah Mobile Inc. American Depositary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | ACRV | Acrivon Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | AIOS | AIOS Tech Inc. Class A Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | GNSS | Genasys Inc. Common Stock | **FAIL** | Ethics (auto list match: (a) AFSC Investigate: Weapons and Military Equipment) |
+| 42 | MAIA | MAIA Biotechnology Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | OKYO | OKYO Pharma Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | INVE | INVE Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | USIO | Usio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 42 | ZSTK | ZeroStack Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | IMDX | Insight Molecular Diagnostics Inc. Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 42 | CHGG | Chegg Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 42 | VATE | INNOVATE Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | CGTX | Cognition Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | MRDN | Meridian Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | LFVN | Lifevantage Corporation Common Stock (Delawar | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 42 | SRL | Scully Royalty Ltd. | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | MCHX | Marchex Inc. Class B Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya questionable |
+| 42 | CANG | Cango Inc. Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 42 | LVWR | LiveWire Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | MYPS | PLAYSTUDIOS Inc.  Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | TGEN | Tecogen Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 42 | PODC | PodcastOne Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya questionable |
+| 42 | BSIN | Big Sky Industrial Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | GLBS | Globus Maritime Limited Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | PCLA | PicoCELA Inc. American Depositary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 42 | DIT | AMCON Distributing Company Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | SUIG | Sui Group Holdings Limited Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | POM | POMDOCTOR LIMITED Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | KBSX | FST Corp. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | TDTH | Trident Digital Tech Holdings Ltd Class B Ord | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | FBIO | Fortress Biotech Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | OFAL | OFA Group Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 42 | CNVS | Cineverse Corp. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | DGNX | Diginex Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | DTI | Drilling Tools International Corporation Comm | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | OPXS | Optex Systems Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 42 | NDLS | Noodles & Company Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | BOLD | Boundless Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | RGS | Regis Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | WSHP | WeShop Holdings Limited Class A Ordinary Shar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | BLNK | Blink Charging Co. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 42 | SORA | AsiaStrategy Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 42 | XBIT | XBiotech Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | WNW | Meiwu Technology Company Limited Ordinary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | MGN | Megan Holdings Limited Class A Ordinary Share | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 42 | TGE | The Generation Essentials Group Class A Ordin | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | PXS | Pyxis Tankers Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | CING | Cingulate Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | YDDL | One and One Green Technologies. Inc Class A O | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 42 | TNXP | Tonix Pharmaceuticals Holding Corp. Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | AISP | Airship AI Holdings Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 42 | ARBE | Arbe Robotics Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | CVU | CPI Aerostructures Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | SPRO | Spero Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | VRCA | Verrica Pharmaceuticals Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 42 | SELF | Global Self Storage Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 42 | EVTL | Vertical Aerospace Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | CITR | CitroTech Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 42 | POCI | Precision Optics Corporation Inc. Common stoc | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 42 | INCR | Intercure Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | HOST | Host Digital Inc. Class A Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 42 | AZR | Azora Therapeutics Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 42 | XLO | Xilio Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | YTRA | Yatra Online Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | CIGL | Concorde International Group Ltd Class A Ordi | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 42 | NCEW | New Century Logistics (BVI) Limited Ordinary  | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 42 | HRTX | Heron Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | UPXI | Upexi Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | AMOD | Alpha Modus Holdings Inc. Class A Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | LFS | LEIFRAS Co. Ltd. American Depositary Shares   | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 42 | WYY | WidePoint Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 42 | COCH | Envoy Medical Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | AIB | AIB Data Centers Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | DTCX | Datacentrex Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | AEC | Anfield Energy Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | LITB | LightInTheBox Holding Co. Ltd. American Depos | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 42 | CAST | FreeCast Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 42 | CLNN | Clene Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | BXBL | BOXABL Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | CLPR | Clipper Realty Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 42 | AIRG | Airgain Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 42 | GGR | Gogoro Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | SGLD | Scorpio Gold Corporation American Depositary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 42 | BWEN | Broadwind Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 42 | NTWK | NetSol Technologies Inc. Common  Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | GRML | Greenland Mines Ltd. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 43 | NORD | Nordicus Partners Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | AIRS | AirSculpt Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 43 | TZOO | Travelzoo Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 43 | SDEV | Stablecoin Development Corporation Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya questionable |
+| 43 | IH | iHuman Inc. American depositary shares each r | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | EMPD | Empery Digital Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | ELOX | Eloxx Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | AACG | ATA Creativity Global American Depositary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | RFL | Rafael Holdings Inc. Class B Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | DWSN | Dawson Geophysical Company Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 43 | TRT | Trio-Tech International Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 43 | HOUR | Hour Loop Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 43 | QUCY | Quantum Cyber N.V. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | APLM | Apollomics Inc. Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 43 | REED | Reed's Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | SPAI | Safe Pro Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | FBDT | First Breach Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | TCBS | Texas Community Bancshares Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | IBIO | iBio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | NFE | New Fortress Energy Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | TPCS | TechPrecision Corporation Common stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya Shariah-compliant |
+| 43 | CTOR | Citius Oncology Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 43 | JZXN | Jiuzi Holdings Inc. Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 43 | TOUR | Tuniu Corporation American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | OESX | Orion Energy Systems Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 43 | ADBT | Advasa Holdings Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 43 | MREO | Mereo BioPharma Group plc American Depositary | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | OFS | OFS Capital Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | MATH | Metalpha Technology Holding Limited Ordinary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | DXR | Daxor Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | BRID | Bridgford Foods Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 43 | HOWL | Werewolf Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | DSWL | Deswell Industries Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | ANVS | Annovis Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | INKT | MiNK Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | KFFB | Kentucky First Federal Bancorp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | TACT | TransAct Technologies Incorporated Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | WWR | Westwater Resources Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | ATNM | Actinium Pharmaceuticals Inc. (Delaware) Comm | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | SAFX | XCF Global Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | WBX | Wallbox N.V. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | RML | Resolution Minerals Ltd American Depositary S | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 43 | WATR | Air Water Ventures Limited Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 43 | ONCY | Oncolytics Biotech Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | RNXT | RenovoRx Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | BBCI | Bradbury Capital Inc. Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 43 | APWC | Asia Pacific Wire & Cable Corporation Ltd. Or | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | BRIA | BrilliA Inc Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 43 | MIST | Milestone Pharmaceuticals Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | AVAT | Avalanche Treasury Corporation Class A Common | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | SCOR | comScore Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 43 | ATLX | Atlas Lithium Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | FJET | Starfighters Space Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | NMAD | Nomad Power Solutions Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | VERI | Veritone Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 43 | MBBC | Marathon Bancorp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | EUDA | EUDA Health Holdings Limited Class A Ordinary | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 43 | BTCS | BTCS Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | VTSI | VirTra Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 43 | TLPH | Talphera Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | ECOR | electroCore Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 43 | SPWH | Sportsman's Warehouse Holdings Inc. Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | SJ | Scienjoy Holding Corporation Class A Ordinary | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | INVZ | Innoviz Technologies Ltd. Ordinary shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 43 | HYFT | MindWalk Holdings Corp. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 43 | AIIO | Robo.ai Inc. Class B Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 43 | GEOS | Geospace Technologies Corporation Common Stoc | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 43 | CATO | Cato Corporation (The) Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | VAI | Valor Energy Incorporated Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | SPCB | SuperCom Ltd. Ordinary Shares (Israel) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | LINK | Interlink Electronics Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 43 | BZFD | BuzzFeed Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | TYGO | Tigo Energy Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 43 | DLHC | DLH Holdings Corp. | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | THRY | Thryv Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | ZDGE | Zedge Inc. Class B Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | IBO | Impact BioMedical Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | VGAS | Verde Clean Fuels Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | MBOT | Microbot Medical Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | RDI | Reading International Inc Class A Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | ELBM | Electra Battery Materials Corporation Common  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | SNT | Senstar Technologies Corporation Common Share | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 43 | SOGP | Sound Group Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 43 | PLRX | Pliant Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | NCTY | The9 Limited American Depository Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 43 | PEW | GrabAGun Digital Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | MNTS | Momentus Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | PROP | Prairie Operating Co. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | SGA | Saga Communications Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | SLND | Southland Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | CULP | Culp Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | LONA | LeonaBio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | MDAI | Spectral AI Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 43 | ESYN | EnerSyn Global Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 43 | ELTX | Elicio Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | GANX | Gain Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 43 | CRGO | Freightos Limited Ordinary shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 43 | TREO | Tactical Resources Corp. Common Shares | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 43 | BGSF | BGSF Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 44 | NVX | NOVONIX Limited American Depository Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | IZEA | IZEA Worldwide Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | MYO | Myomo Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 44 | EDHL | Everbright Digital Holding Limited Ordinary S | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 44 | GPUS | Hyperscale Data Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | AIOK | AI OKTO CORP. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 44 | WATT | Energous Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 44 | DPU | Nexpu Ltd. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | HBIO | Harvard Bioscience Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | DWTX | Dogwood Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | NAMM | Namib Minerals Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | CNTB | Connect Biopharma Holdings Limited Ordinary S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | ALDX | Aldeyra Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | STKE | Sol Strategies Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | BOF | BranchOut Food Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 44 | CTM | Castellum Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 44 | ELTK | Eltek Ltd. Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 44 | YMT | Yimutian Inc. American Depositary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 44 | FTEK | Fuel Tech Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | IMA | ImageneBio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | ZOOZ | ZOOZ Strategy Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | SPWR | SunPower Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | FSP | Franklin Street Properties Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | SMJF | SMJ International Holdings Inc. Class A Ordin | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 44 | TIL | Instil Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | XPL | Solitario Resources Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | MAMO | Massimo Group Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 44 | SAIH | SAIHEAT Limited Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 44 | NPT | Texxon Holding Limited Ordinary shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | SRTS | Sensus Healthcare Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | HGBL | Heritage Global Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | YSXT | YSX Tech. Co. Ltd Class A Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 44 | HYPD | Hyperion DeFi Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 44 | CRBU | Caribou Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | BMEA | Biomea Fusion Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | SER | Serina Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | SITC | SITE Centers Corp. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 44 | LVO | LiveOne Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya questionable |
+| 44 | UG | United-Guardian Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 44 | RPID | Rapid Micro Biosystems Inc. Class A Common St | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 44 | LOAN | Manhattan Bridge Capital Inc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | SCWO | 374Water Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 44 | BATL | Battalion Oil Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | EXOZ | eXoZymes Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | ZEPP | Zepp Health Corporation American depositary s | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | XBP | XBP Global Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | VHC | VirnetX Holding Corp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | GRCE | Grace Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | LNZA | LanzaTech Global Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 44 | GROV | Grove Collaborative Holdings Inc. Class A Com | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 44 | MLCI | Mount Logan Capital Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | ELUT | Elutia Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | CCEL | Cryo-Cell International Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 44 | ALPS | ALPS Group Inc Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | NAAS | NaaS Technology Inc. American Depositary Shar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | RMCO | Royalty Management Holding Corporation Class  | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 44 | HDRN | Hadron Energy Inc. Common Stock   | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | NTIP | Network-1 Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | NXB | NextBoat Inc. Common Stcok | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | THCH | TH International Limited Ordinary shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | PRPO | Precipio Inc.  Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 44 | ATHE | Alterity Therapeutics Limited American Deposi | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | WETH | Wetouch Technology Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | KNDI | Kandi Technologies Group Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | VERU | Veru Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | TELO | Telomir Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | STI | Solidion Technology Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | OSTX | OS Therapies Incorporated Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | STEX | Streamex Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 44 | XTIA | XTI Aerospace Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 44 | MVIS | MicroVision Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | ODYS | Odysight.ai Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | ACFN | Acorn Energy Inc. Common Stock | **FAIL** | Ethics (auto list match: (a?) defense-related industry classification 'Military/Government/Technical' — verify) |
+| 44 | EYPT | EyePoint Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | NSYS | Nortech Systems Incorporated Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | KLRS | Kalaris Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | AZI | Autozi Internet Technology (Global) Ltd. Clas | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | NCT | Intercont (Cayman) Limited Class A Ordinary s | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | MWYN | Marwynn Holdings Inc. Common stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 44 | STRR | Star Equity Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | RNTX | Rein Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | BTMD | Biote Corp. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | SQNS | Sequans Communications S.A. American Deposita | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | TELA | TELA Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | NEXM | NexMetals Mining Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | PN | PN Smart Energy Limited Class A Ordinary Shar | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 44 | PHUN | Phunware Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | AVX | Avax One Technology Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | VRM | Vroom Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | AXIL | AXIL Brands Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 44 | IDN | Intellicheck Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 44 | GRDX | GridAI Technologies Corp. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 44 | LGO | Largo Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | INDO | Indonesia Energy Corporation Limited Ordinary | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | PXLW | Pixelworks Inc.  Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | GENK | GEN Restaurant Group Inc. Class A Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | AHMA | Ambitions Enterprise Management Co. L.L.C Cla | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 44 | STKS | The ONE Group Hospitality Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 44 | CNF | CNFinance Holdings Limited American Depositar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 44 | CHWM | Chilwa Minerals Limited American Depository S | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 45 | KG | Kestrel Group Ltd. | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | ACCL | Acco Group Holdings Limited Class A Ordinary  | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 45 | VIP | Vulcan Infrastructure and Power Inc. Class A  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | CMTL | Comtech Telecommunications Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | GAME | GameSquare Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 45 | STAK | STAK Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | GRAN | Grande Group Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 45 | NEPH | Nephros Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 45 | CSTE | Caesarstone Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | LIDR | AEye Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | EHLD | Euroholdings Ltd. Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | ANGH | Anghami Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | XTNT | Xtant Medical Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 45 | SLMT | Solmate Infrastructure Public Limited Company | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 45 | CVV | CVD Equipment Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | AURE | Aurelion Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | GAIA | Gaia Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 45 | FRMM | Forum Markets Incorporated Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | AETR | Aetherion Technologies Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | NSRX | Nasus Pharma Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | FTFT | Future FinTech Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | MBAI | MBody AI Ltd. Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | NNVC | NanoViricides Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | PFAI | Pinnacle Food Group Limited Class A Common Sh | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 45 | IPWR | Ideal Power Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | QRHC | Quest Resource Holding Corporation Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | PAAI | Paradium.AI Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | NA | Nano Labs Ltd Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | BHST | BioHarvest Sciences Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 45 | BHM | Bluerock Homes Trust Inc. Class A Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | DAIO | Data I/O Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 45 | BCHT | Birchtech Corp. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 45 | SACH | Sachem Capital Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | NXTC | NextCure Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | GROW | U.S. Global Investors Inc. Class A Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | COHN | Cohen & Company Inc. | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | TOON | Kartoon Studios Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | KOSS | Koss Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | CKX | CKX Lands Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | REKR | Rekor Systems Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 45 | PMN | ProMIS Neurosciences Inc. Common Shares (ON) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | RAVE | Rave Restaurant Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | ATHR | Aether Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 45 | JG | Aurora Mobile Limited American Depositary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | YQ | 17 Education & Technology Group Inc. American | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | INMB | INmune Bio Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | BOSC | B.O.S. Better Online Solutions Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | JVA | Coffee Holding Co. Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 45 | NIPG | NIP Group Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 45 | ONMD | OneMedNet Corp Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 45 | CVM | Cel-Sci Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | WKHS | Workhorse Group Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 45 | SCYX | SCYNEXIS Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | BCTX | BriaCell Therapeutics Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | SPHL | Springview Holdings Ltd Class A Ordinary Shar | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 45 | SVRN | SVRN Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | USEA | United Maritime Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | HHS | Harte Hanks Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 45 | MI | NFT Limited Class A Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | LASE | LASE Corp. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 45 | BNAI | Brand Engagement Network Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 45 | SAEN | Genenta Science S.p.A. American Depositary Sh | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 45 | AGIG | Abundia Global Impact Group Inc. Common stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 45 | ROLR | High Roller Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | NSPR | InspireMD Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | RYOJ | rYojbaba Co. Ltd. Common Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 45 | PTHS | Pelthos Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | XOS | Xos Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | RAND | Rand Capital Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | TANH | Tantech Holdings Ltd. Class A Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | AARD | Aardvark Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | KMRK | K-Tech Solutions Company Limited Class A Ordi | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 45 | GRSD | Grandstand Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | PLRZ | Polyrizon Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | EFOI | Energy Focus Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 45 | CLPS | CLPS Incorporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | RMTI | Rockwell Medical Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | YRD | Yiren Digital Ltd. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | RYM | RYTHM Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | MNY | MoneyHero Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | MLSS | Milestone Scientific Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 45 | MIRA | MIRA Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | ZONE | Zone Frontier Inc. Class B Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 45 | QTI | QT Imaging Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 45 | HIT | Health In Tech Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 45 | SPPL | SIMPPLE LTD. Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 45 | CRWS | Crown Crafts Inc Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 45 | ACET | Adicet Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | FGC | FG Communities Holdings Inc. Common Stock  | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 45 | MGX | Metagenomi Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | LITS | Lite Strategy Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | EVAX | Evaxion A/S American Depositary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | EDSA | Edesa Biotech Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | DAVI | Davion Healthcare Plc Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 45 | MIND | MIND Technology Inc. Common Stock (DE) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | ABVC | ABVC BioPharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | ORIO | Orion Digital Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | CRVO | CervoMed Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 45 | STG | Sunlands Technology Group American Depositary | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 45 | MNDO | MIND C.T.I. Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | NNOX | NANO-X IMAGING LTD Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | SDA | SunCar Technology Group Inc. Class A Ordinary | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | SKIL | Skillsoft Corp. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | SPRU | Spruce Power Holding Corporation Class A Comm | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | IMMP | Immutep Limited American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | SFWL | Shengfeng Development Limited Class A Ordinar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | HOLO | MicroCloud Hologram Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | SYPR | Sypris Solutions Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | FIEE | FiEE Inc Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 46 | YI | 111 Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | SNSC | SunScout Holding Limited Class A Ordinary Sha | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 46 | CCG | Cheche Group Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | AERT | Aeries Technology Inc. Class A Ordinary Share | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 46 | GAUZ | Gauzy Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | PPSI | Pioneer Power Solutions Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 46 | BCG | Binah Capital Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | IXHL | Incannex Healthcare Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | BODI | The Beachbody Company Inc. Class A Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | AAME | Atlantic American Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | PSHG | Performance Shipping Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | TOMZ | TOMI Environmental Solutions Inc. Common Stoc | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 46 | BLIV | BeLive Holdings Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | MLGO | MicroAlgo Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | HUIZ | Huize Holding Limited American Depositary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | CREX | Creative Realities Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | BYSI | BeyondSpring Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | BDAI | Biddance AI Systems Inc. Class A Ordinary Sha | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 46 | FLNA | Filana Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | JFU | 9F Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | RCON | Recon Technology Ltd. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | WAVE | Eco Wave Power Global AB (publ) American Depo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | JOB | GEE Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | RNAZ | TransCode Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | TSQ | Townsquare Media Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | GIFT | Giftify Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 46 | IDXG | Interpace Biosciences Inc. | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | MOB | Mobilicom Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | BEAT | Heartbeam Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | FKWL | Franklin Wireless Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | AVD | American Vanguard Corporation Common Stock ($ | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | DXLG | Destination XL Group Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 46 | JBDI | JBDI Holdings Limited Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 46 | SWAG | Stran & Company Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | AIFA | All In FutureTech Alliance Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | LIVE | Live Ventures Incorporated Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | LSF | Laird Superfood Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | AIFC | AI Financial Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | COPR | Idaho Copper Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | FEDU | Four Seasons Education (Cayman) Inc. American | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | FNUC | Frontier Nuclear and Minerals Inc. Common Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | UAVS | AgEagle Aerial Systems Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | MDRN | Modern Mining Technology Corp. Common Shares | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 46 | AMCI | AMC Robotics Corporation Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya PASS |
+| 46 | OMEX | Odyssey Marine Exploration Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | TXMD | TherapeuticsMD Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | BZAI | Blaize Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 46 | TC | Token Cat Limited American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | BRLS | Borealis Foods Inc. Class A Common Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 46 | CPHI | China Pharma Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | IGC | IGC Pharma Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 46 | SAGT | SAGTEC GLOBAL LIMITED Class A Ordinary shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 46 | AMTD | AMTD IDEA Group American Depositary Shares ea | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | DUO | Fangdd Network Group Ltd. Class A Ordinary Sh | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 46 | AWRE | Aware Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | SHPH | Shuttle Pharmaceuticals Holdings Inc. Common  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | VHUB | VenHub Global Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 46 | CELU | Celularity Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 46 | CIRC | Circle8 Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | PETS | PetMed Express Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 46 | AYTU | Aytu BioPharma Inc.  Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | AEI | Alset Inc. Common Stock (TX) | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | NYC | American Strategic Investment Co. Class A Com | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | BESS | Bimergen Energy Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | OMH | Ohmyhome Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 46 | GNS | Genius Group Limited Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 46 | VEEA | Veea Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | GOAI | Eva Live Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 46 | RECT | Rectitude Holdings Ltd Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 46 | MXC | Mexco Energy Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 46 | ATOS | Atossa Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | COOT | Australian Oilseeds Holdings Limited Ordinary | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | SRXH | SRX Global Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | STEM | Stem Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | SNAL | Snail Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | NXPL | NextPlat Corp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | COCP | Cocrystal Pharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | DCGO | DocGo Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 46 | LFT | Lument Finance Trust Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 46 | SMXT | Solarmax Technology Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 46 | TLF | Tandy Leather Factory Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 46 | PMI | Picard Medical Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | LVLU | Lulu's Fashion Lounge Holdings Inc. Common St | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 46 | BSEM | BioStem Technologies Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 46 | LPCN | Lipocine Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | KTTA | Pasithea Therapeutics Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 46 | ELWT | Elauwit Connection Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 46 | TRSG | Tungray Technologies Inc Class A Ordinary Sha | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 46 | MODD | Modular Medical Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 46 | RYET | Ruanyun Edai Technology Inc. Ordinary shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 46 | MSGM | Motorsport Games Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya questionable |
+| 47 | BRAG | Bragg Gaming Group Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | QNRX | Quoin Pharmaceuticals Ltd. American Depositar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | PIII | P3 Health Partners Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | CVRX | CVRx Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 47 | FMST | Foremost Clean Energy Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | FFR | FF EAI Robotics Ecosystem Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 47 | ONEG | OneConstruction Group Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | UTSI | UTStarcom Holdings Corp. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | BGDE | Big Digital Energy Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | CMCT | Creative Media & Community Trust Corporation  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | XCH | XCHG Limited American Depositary Share | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 47 | FLL | Full House Resorts Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | DOMH | Dominari Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | CABO | Cable One Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | CCHH | CCH Holdings Ltd Class A Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 47 | JF | J and Friends Holdings Limited American Depos | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | JAGU | Jaguar Uranium Corp. Class A Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | INLX | Intellinetics Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 47 | RVP | Retractable Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | FTCI | FTC Solar Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | ESLA | Estrella Immunopharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 47 | ENGS | Energys Group Limited Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 47 | FENG | Phoenix New Media Limited American Depositary | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | PRHI | Presurance Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | LEDS | SemiLEDS Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | TEAD | Teads Holding Co. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | FLD | Fold Holdings Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | ACTU | Actuate Therapeutics Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | MDRR | Medalist Diversified Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | ANPA | Rich Sparkle Holdings Limited Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 47 | VTIX | Virtuix Holdings Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | TLIH | Ten-League International Holdings Limited Ord | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | NCPL | Netcapital Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | NCEL | NewcelX Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | ARKR | Ark Restaurants Corp. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 47 | CCM | Concord Medical Services Holdings Limited Ame | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | NOMA | NOMADAR Corp. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | PTIV | Pineapple Financial Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 47 | ABOS | Acumen Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | SLE | Super League Enterprise Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | SEAT | Vivid Seats Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | SNWV | SANUWAVE Health Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 47 | LRE | Lead Real Estate Co. Ltd American Depositary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | MOGU | MOGU Inc. American Depositary Shares (each  r | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | PDC | Perpetuals.com Ltd American Depositary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 47 | LOCL | Local Bounti Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | GIGM | GigaMedia Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | EDTK | Skillful Craftsman Education Technology Limit | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | CTSO | Cytosorbents Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | IPM | Intelligent Protection Management Corp. Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | CNTX | Context Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | BEEM | Beam Global Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 47 | KSCP | Knightscope Inc. Class A Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 47 | DRK | DarkHorse Technologies Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | BOLT | Bolt Biotherapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | TAOX | Tao Synergies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | PBM | Psyence Biomedical Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | ICMB | Investcorp Credit Management BDC Inc. Common  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | OCCI | OFS Credit Company Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | JL | J-Long Group Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | PLUR | Pluri Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | BLNE | Beeline Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | SMSI | Smith Micro Software Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 47 | MGIH | Millennium Group International Holdings Limit | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | AHT | Ashford Hospitality Trust Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | CRMN | Skyline Builders Group Holding Limited Class  | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 47 | LGPS | LogProstyle Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | TVRD | Tvardi Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | ZEO | Zeo Energy Corporation Class A Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 47 | ARTW | Art's-Way Manufacturing Co. Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | CLIR | ClearSign Technologies Corporation Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | ARBK | Argo Blockchain plc American Depositary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | CTXR | Citius Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | PLUT | Plutus Financial Group Limited Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | AKTX | Akari Therapeutics plc ADS | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | BIRD | Smartbird Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | MCRB | Seres Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 47 | EXYN | Exyn Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | MDXH | MDxHealth SA Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | BAER | Bridger Aerospace Group Holdings Inc. Common  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | VNTG | Vantage Corp Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 47 | SDOT | Sadot Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | MERC | Mercer International Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | ALLR | Allarity Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | PAVM | PAVmed Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | AIFF | Firefly Neuroscience Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | MRKR | Marker Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | MRNO | Murano Global Investments PLC Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | LHAI | Linkhome Holdings Inc. Common stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 47 | BMR | Beamr Imaging Ltd. Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | ITOC | iTonic Holdings Ltd Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | EONR | EON Resources Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | DSY | Big Tree Cloud Holdings Limited Class A Ordin | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 47 | NEUP | Neuphoria Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | ACCS | ACCESS Newswire Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 47 | NTRP | NextTrip Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 47 | ATYR | aTyr Pharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | PASG | Passage Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 47 | YAAS | Youxin Technology Ltd Class A Ordinary shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 47 | PMEC | Primech Holdings Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | TGHL | The GrowHub Limited Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 48 | KTCC | Key Tronic Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | GUTS | Fractyl Health Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | BNGO | Bionano Genomics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | GTIM | Good Times Restaurants Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 48 | JSPR | Jasper Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | CMMB | Chemomab Therapeutics Ltd. American Depositar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | FOFO | Hang Feng Technology Innovation Co. Ltd. Clas | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | DRIO | DarioHealth Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | KYNB | Kyntra Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | CHOW | ChowChow Cloud International Holdings Limited | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 48 | CUPR | Cuprina Holdings (Cayman) Limited Class A Ord | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | DYAI | Dyadic International Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 48 | CLRO | ClearOne Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | BIOX | Bioceres Crop Solutions Corp. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | UONE | Urban One Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | DLPN | Dolphin Entertainment Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | QNTM | Quantum Biopharma Ltd. Class B Subordinate Vo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | BRN | Barnwell Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | NXTT | Next Technology Holding Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | IDAI | T Stamp Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | COSM | Cosmos Health Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | GRNQ | Greenpro Capital Corp. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 48 | ATTT | Atlas Trinity Tech Limited Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 48 | SUNE | SUNation Energy Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | INV | Innventure Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | EHTH | eHealth Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | OPTH | Optimi Health Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | IRIX | IRIDEX Corporation Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 48 | AIRI | Air Industries Group Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | BCDA | BioCardia Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | FABC | Fabric.AI Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | BENF | Beneficient Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | TULP | Bloomia Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | GTEC | Greenland Technologies Holding Corporation Cl | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | LSTA | Lisata Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | PETZ | TDH Holdings Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | REFR | Research Frontiers Incorporated Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 48 | ASTI | Ascent Solar Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 48 | ELOG | Eastern International Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | BIVI | BioVie Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | CETY | Clean Energy Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | IHT | InnSuites Hospitality Trust Shares of Benefic | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | DARE | Dare Bioscience Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | ASBP | Aspire-Lakewood Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | FFTT | Masonglory Limited Class A Ordinary Shares  | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 48 | CTRM | Castor Maritime Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | IFBD | Infobird Co. Ltd Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | HAIN | Hain Celestial Group Inc. (The) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | HTCO | High-Trend International Group Class A Ordina | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 48 | GYRO | Gyrodyne LLC Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | GPMT | Granite Point Mortgage Trust Inc. Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | RADX | Radiopharm Theranostics Limited American Depo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | QNME | Quanome Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | FEMY | Femasys Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | ZDAI | DirectBooking Technology Co. Ltd. Class A Ord | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 48 | AWX | Avalon Holdings Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | LOOP | Loop Industries Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 48 | PTN | Palatin Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | IOTR | iOThree Limited Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 48 | AQB | AquaBounty Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | SCLX | Scilex Holding Company Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | HIND | Vyome Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | PRZO | ParaZero Technologies Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | INTZ | Intrusion Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 48 | EBON | Ebang International Holdings Inc. Class A Ord | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | MYND | Mynd.ai Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | ALGS | Aligos Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | BBGI | Beasley Broadcast Group Inc. Class A Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | LFWD | Lifeward Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | MCRP | Micropolis AI Robotics Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | BFRI | Biofrontera Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | CLRB | Cellectar Biosciences Inc.  Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | JCTC | Jewett-Cameron Trading Company Common Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 48 | INTS | Intensity Therapeutics Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | SINT | SiNtx Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | AEON | AEON Biopharma Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | FUSE | Fusemachines Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 48 | FGI | FGI Industries Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | HSCS | HeartSciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | RAIN | Rain Enhancement Technologies Holdco Inc. Cla | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | AIMD | Ainos Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | TMDE | TMD Energy Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | BTLN | Brightline Interactive Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | SST | System1 Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | VIDA | VIDA Global Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | JYD | Jayud Global Logistics Limited Class A Ordina | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 48 | RPGL | Republic Power Group Limited Class A Ordinary | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 48 | NEON | Neonode Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | TURB | Turbo Energy S.A. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | AUST | Austin Gold Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | EPSM | Epsium Enterprise Limited Class A Ordinary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | MOBX | Mobix Labs Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | DCM | DeFi Capital Markets Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 48 | BIYA | Baiya International Group Inc Class A Ordinar | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 48 | TCRX | TScan Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 48 | SEED | Origin Agritech Limited Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 48 | PLSM | Pulsenmore Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 48 | GDTC | CytoMed Therapeutics Limited Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 48 | CVR | Chicago Rivet & Machine Co. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 49 | HYFM | Hydrofarm Holdings Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | SOAR | SOAR AI Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | BFRG | Bullfrog AI Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | BTBD | BT Brands Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 49 | FOXX | Foxx Development Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 49 | HPAI | Helport AI Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | INEO | INNEOVA Holdings Limited Class A Ordinary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | UONEK | Urban One Inc. Class D Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | OPAD | Offerpad Solutions Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | PHIO | Phio Pharmaceuticals Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | QH | Quhuo Limited Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | BON | Bon Natural Life Limited Class A Ordinary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | INAB | IN8bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | JCSE | JE Cleantech Holdings Limited Class A Ordinar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | ATCX | Atlas Critical Minerals Corporation Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | CABR | Caring Brands Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | WVVI | Willamette Valley Vineyards Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | CNTY | Century Casinos Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | EQS | Equus Total Return Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | XHLD | TEN Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | LEXX | Lexaria Bioscience Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | ZTG | Zenta Group Company Limited Class A Ordinary  | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | SURG | SurgePays Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | SKYQ | Sky Quarry Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | YHGJ | Yunhong Green CTI Ltd. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | VTGN | Vistagen Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | NWTG | Newton Golf Company Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | WIMI | WiMi Hologram Cloud Inc. Class B Ordinary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | CLWT | Euro Tech Holdings Company Limited Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | WETO | Wetour Robotics Limited Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | REBN | Reborn Coffee Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | MDBH | MDB Capital Holdings LLC Class A common | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 49 | RGNT | Regentis Biomaterials Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | OPNW | OpenWorld Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 49 | BRFH | Barfresh Food Group Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 49 | MMA | Mixed Martial Arts Group Limited Ordinary Sha | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 49 | MEGL | Magic Empire Global Limited Class A Ordinary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | CALC | CalciMedica Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | BANL | CBL International Limited Class B Ordinary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | AZIO | Azio AI Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | ASTC | Astrotech Corporation (DE) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | MTVA | MetaVia Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | EPOW | E-Power Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | ALAR | Alarum Technologies Ltd. American Depositary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | HUDI | Huadi International Group Co. Ltd. Ordinary S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | YOUL | Youlife Group Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 49 | SLGB | Smart Logistics Global Limited Class A Ordina | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | WXM | WF International Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | LIQT | LiqTech International Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | CYCU | Cycurion Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | AEMD | Aethlon Medical Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | RKTO | Rocket One Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | TPET | Trio Petroleum Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | IQST | iQSTEL Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | ENSC | Ensysce Biosciences Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | SFHG | Samfine Creation Holdings Group Limited Class | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | GIXI | Gix Internet Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | LZMH | LZ Technology Holdings Limited Class B Ordina | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 49 | CDLX | Cardlytics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | CISO | CISO Global Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 49 | PBK | PowerBank Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | CRMT | America's Car-Mart Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | UPLD | Upland Software Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | DFNS | T3 Defense Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | TKLF | Tokyo Lifestyle Co. Ltd. American Depositary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | ARAY | Accuray Incorporated Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | FEBO | Fenbo Holdings Limited Class A Ordinary Share | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | UCL | uCloudlink Group Inc. American Depositary Sha | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | MBRX | Moleculin Biotech Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | GTBP | GT Biopharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | HTOO | Fusion Fuel Green PLC Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | UFG | Uni-Fuels Holdings Limited Class A Ordinary S | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | DTSS | Datasea Intelligent Technology Ltd. Class A O | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | MWG | Multi Ways Holdings Limited Class A Ordinary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | EDUC | Educational Development Corporation Common St | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | BLIN | Bridgeline Digital Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | IMRN | Immuron Limited American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | MTEX | Mannatech Incorporated Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | AMS | American Shared Hospital Services Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 49 | LGVN | Longeveron Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | CURX | Curanex Pharmaceuticals Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | UPC | Universe Pharmaceuticals Inc. Class A Ordinar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | VNRX | VolitionRX Limited Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | XCUR | Exicure Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | CNSY | Cerenome Inc. Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | TPST | Tempest Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | LUCY | Innovative Eyewear Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | NMTC | NeuroOne Medical Technologies Corporation Com | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 49 | SNGX | Soligenix Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | TCRT | Alaunos Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | MSAI | MultiSensor AI Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | LHSW | Lianhe Sowell International Group Ltd Class A | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | RMCF | Rocky Mountain Chocolate Factory Inc. Common  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | YXT | YXT.COM GROUP HOLDING LIMITED American Deposi | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | OXBR | Oxbridge Re Holdings Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | WKSP | Worksport Ltd. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 49 | BTCT | BTC Digital Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 49 | ADXN | Addex Therapeutics Ltd American Depositary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | RBNE | Robin Energy Ltd. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 49 | NDRA | ENDRA Life Sciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | TOVX | Theriva Biologics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | DOGZ | Dogness (International) Corporation Class A C | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | ENVB | Enveric Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | BNKK | Bonk Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 50 | AXNX | Axonex AI Group Limited Class A Ordinary Shar | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 50 | HUHU | HUHUTECH International Group Inc. Ordinary Sh | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | YJ | Yunji Inc. American Depository Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | DUKR | DUKE Robotics Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | FLUX | Flux Power Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 50 | DTST | Data Storage Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 50 | EVGN | Evogene Ltd Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | FNGR | FingerMotion Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 50 | WAFU | Wah Fu Education & Technology Group Ltd. Ordi | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | FBLG | FibroBiologics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | NAII | Natural Alternatives International Inc. Commo | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 50 | BMRA | Biomerica Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | INHD | Inno Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | NHTC | Natural Health Trends Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | EEIQ | EpicQuest Education Group International Limit | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | CLIK | Click Holdings Limited Class A Ordinary Share | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | MSN | Emerson Radio Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | GWAV | Greenwave Technology Solutions Inc. Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 50 | GXAI | Gaxos.ai Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | NAMI | Jinxin Technology Holding Company American De | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | ORKT | Orangekloud Technology Inc. Class A Ordinary  | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 50 | PRSO | Peraso Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | LTRN | Lantern Pharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 50 | APRE | Aprea Therapeutics Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 50 | BLRX | BioLineRx Ltd. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | FRTT | Fort Technology Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | THH | TryHard Holdings Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | ALZN | Alzamend Neuro Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | GITS | Global Interactive Technologies Inc. Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | ARBB | ARB IOT Group Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | ACXP | Acurx Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 50 | PRPL | Purple Innovation Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 50 | MYSE | Myseum.AI Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | NUR | Nuran Wireless Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | HIHO | Highway Holdings Limited Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | WOK | WORK Medical Technology Group LTD Class A Ord | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | ATXG | Addentax Group Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | MITQ | Moving iMage Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | TDIC | Dreamland Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 50 | AIM | AIM ImmunoTech Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 50 | BIOT | Instinct Bio Technical Company Holdings Inc.  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | GYGY | Game Your Game Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 50 | POAS | Phaos Technology Holdings (Cayman) Limited Cl | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 50 | JWEL | Jowell Global Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | SCNX | Scienture Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | KRKR | 36Kr Holdings Inc. American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | CDIO | Cardio Diagnostics Holdings Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | DETX | Liberty Defense Holdings Ltd. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | AKAN | Akanda Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | CENN | Cenntro Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | SNES | SenesTech Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | SNTI | Senti Biosciences Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 50 | NCI | Neo-Concept International Group Holdings Limi | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | CPOP | Pop Culture Group Co. Ltd Class A Ordinary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | OLB | The OLB Group Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 50 | JAGX | Jaguar Health Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | CRE | Cre8 Enterprise Limited Class A Ordinary Shar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | PLAG | Planet Green Holdings Corp. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 50 | CNSP | CNS Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | BYAH | Park Ha Biological Technology Co. Ltd. Class  | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | DDC | DDC Enterprise Limited Class A Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | INBS | Intelligent Bio Solutions Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | CVKD | Cadrenal Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | DSS | DSS Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | SNTG | Sentage Holdings Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | XWEL | XWELL Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | GDC | GD Culture Group Limited Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | BAOS | Baosheng Media Group Holdings Limited Ordinar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | CJMB | Callan JMB Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | NIKI | Niki BioSolutions Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | PULM | Pulmatrix Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | GURE | Gulf Resources Inc. (NV) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | RETO | ReTo Eco-Solutions Inc. Class A Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | PCSA | Processa Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | YCBD | cbdMD Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | SYNX | Silynxcom Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 50 | UCAR | U Power Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | NIXX | Nixxy Inc. Common Stock | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 50 | INUV | Inuvo Inc. | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 50 | CANF | Can-Fite Biopharma Ltd American Depositary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | YDKG | Yueda Digital Holding Class A Ordinary Share | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | VSA | VisionSys AI Inc. American Depositary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | BTOC | Armlogi Holding Corp. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | SKYE | Skye Bioscience Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 50 | DLXY | Delixy Holdings Limited Class A Ordinary Shar | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | FCUV | Focus Universal Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 50 | TRIB | Trinity Biotech plc American Depositary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | LOBO | LOBO TECHNOLOGIES LTD. Class A Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | CYAB | Cyabra Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | ICU | SeaStar Medical Holding Corporation Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | TWAV | TaoWeave Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 50 | BDMD | Baird Medical Investment Holdings Ltd Ordinar | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 50 | SNOA | Sonoma Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | VS | Versus Systems Inc. Common Stock | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 50 | NCNA | NuCana plc American Depositary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 50 | RVSN | Rail Vision Ltd. Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | PASW | Ping An Biomedical Co. Ltd. Class A Ordinary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | GFAI | Guardforce AI Co. Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | CHNR | China Natural Resources Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | MPU | Mega Matrix Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya not Shariah-compliant |
+| 51 | KPRX | Kiora Pharmaceuticals Inc.  Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | CCTG | CCSC Technology International Holdings Limite | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | CHAI | Core AI Holdings Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | BTTC | Black Titan Corporation Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | BGMS | Bio Green Med Solution Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | BKYI | BIO-key International Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | RCT | RedCloud Holdings plc Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | GLE | Global Engine Group Holding Limited Class A O | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | WLDS | Wearable Devices Ltd. Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | CRIS | Curis Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 51 | CGTL | Creative Global Technology Holdings Limited C | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | BGL | Blue Gold Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | NVNO | enVVeno Medical Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 51 | ALP | Alpha Compute Corp Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | BMGL | Basel Medical Group Ltd Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | RENX | RenX Enterprises Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | YMAT | J-Star Holding Co. Ltd. Class A Ordinary Shar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | VEEE | Twin Vee PowerCats Co. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | TRAW | Traws Pharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | LIMN | Liminatus Pharma Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | ZCMD | Zhongchao Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | ACON | Aclarion Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | SCAG | Scage Future American Depositary Shares | **PENDING-ETHICS** | Shariah pass; no list match; manual ethics review not done |
+| 51 | CWD | CaliberCos Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | CELZ | Creative Medical Technology Holdings Inc. Com | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | WCT | Wellchange Holdings Company Limited Class A O | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | GBR | New Concept Energy Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | CYN | Cyngn Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 51 | SOS | SOS Limited Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | GLXG | Galaxy Payroll Group Limited Class A Ordinary | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | CHSN | Chanson International Holding Class A Ordinar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | IMNN | Imunon Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | HKPD | Cellyan Biotechnology Co. Ltd Class A Ordinar | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | GELS | Gelteq Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | UZX | Linkage Global Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | XTLB | XTL Biopharmaceuticals Ltd. American Deposita | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | JZ | Jianzhi Education Technology Group Company Li | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | SEGG | Sports Entertainment Gaming Global Corporatio | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | AQMS | Aqua Metals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 51 | MEDS | DataMeds AI Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | ADVB | Advanced Biomed Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | RDGT | Ridgetech Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | INTJ | Intelligent Group Limited Class A Ordinary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | BIAF | bioAffinity Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa HALAL; Zoya not Shariah-compliant |
+| 51 | AZTR | Azitra Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | RIME | Algorhythm Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | TNON | Tenon Medical Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | AMST | Amesite Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | MGRX | Mangoceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | GVH | Globavend Holdings Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | ILAG | Intelligent Living Application Group Inc. Ord | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | CXAI | CXApp Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 51 | XBIO | Xenetic Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | SHFS | SHF Holdings Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 51 | DFLI | Dragonfly Energy Holdings Corp. Common Stock  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 51 | SCKT | Socket Mobile Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | SLQT | SelectQuote Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 51 | XAIR | Beyond Air Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 51 | SILO | Silo Pharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | OPTT | Ocean Power Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 51 | ICON | Icon Energy Corp. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | NCRA | Nocera Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | FAMI | Farmmi Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | SMX | SMX (Security Matters) Public Limited Company | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | ISPC | iSpecimen Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | YYAI | AiRWA Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | MKZR | MacKenzie Realty Capital Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | APUS | Apimeds Pharmaceuticals US Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | SSM | Sono Group N.V. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | BQ | Boqii Holding Limited Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | MTEK | Maris-Tech Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 51 | TOPS | TOP Ships Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | AGRZ | Agroz Inc. Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | MDCX | Medicus Pharma Ltd. Common Stock   | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | PMCB | PharmaCyte  Biotech Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | RDHL | Redhill Biopharma Ltd. American Depositary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | IBG | Innovation Beverage Group Limited Ordinary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | SONM | DNA X Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | FLYE | Fly-E Group Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | CDTG | CDT Environmental Technology Investment Holdi | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 51 | OCG | Oriental Culture Holding LTD Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | MKDW | MKDWELL Tech Inc. Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | ZNB | Zeta Network Group Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | SGLY | Singularity Future Technology Ltd. Common Sto | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | GRI | GRI Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | HCTI | Healthcare Triangle Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | FTHM | Fathom Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 51 | OBAI | Our Bond Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | KITT | Nauticus Robotics Inc. Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | NRSN | NeuroSense Therapeutics Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | WBUY | WEBUY GLOBAL LTD. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | GP | GreenPower Motor Company Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | DRMA | Dermata Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | MBIO | Mustang Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | MTR | Mesa Royalty Trust Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 51 | JTAI | Jet.AI Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 52 | ARAI | Arrive AI Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | EZGO | EZGO Technologies Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | ERNA | Ernexa Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | CHR | Cheer Holding Inc. Class A Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | AXG | Solowin Holdings Class A Ordinary Share | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 52 | AUID | authID Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 52 | VVOS | Vivos Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | IVF | INVO Fertility Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | PPBT | Purple Biotech Ltd. American Depositary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | PMAX | Powell Max Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 52 | AMSS | AMASS Brands Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | WFF | WF Holding Limited Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 52 | DAIC | CID HoldCo Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | LXEH | Lixiang Education Holding Co. Ltd. American D | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | CNET | ZW Data Action Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | TOPP | Toppoint Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 52 | RMSG | Real Messenger Corporation Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | FFAI | Faraday Future Intelligent Electric Inc. Clas | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 52 | QCLS | Q/C Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | AIRE | reAlpha Tech Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | ICCM | IceCure Medical Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | CNEY | CN Energy Group Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | VIVK | Vivakor Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | REVB | Revelation Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | PW | Power REIT (MD) Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | BJDX | Bluejay Diagnostics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | GNPX | Genprex Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 52 | TAOP | Taoping Inc. Ordinary Shares  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | VIVS | VivoSim Labs Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | FCDH | Forcendra Holding Limited Class A Ordinary Sh | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 52 | ELPW | Elong Power Holding Limited Class A Ordinary  | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 52 | FBGL | FBS Global Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | AIDX | 20/20 Biolabs Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | HCWB | HCW Biologics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | PRFX | PRF Technologies Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | NUWE | Nuwellis Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | MTEN | Mingteng International Corporation Inc. Class | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 52 | IVDA | Iveda Solutions Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | CODX | Co-Diagnostics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 52 | EOCN | Eocene Ltd. Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 52 | YHC | LQR House Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | XELB | Xcel Brands Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | PFSA | Profusa Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | AUUD | Auddia Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | KALA | KALA BIO Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 52 | CTNT | Cheetah Net Supply Chain Service Inc Class A  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | XPON | Expion Energy Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 52 | MASK | 3 E Network Technology Group Ltd Class A Ordi | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 52 | AMIX | Autonomix Medical Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | BGLC | BioNexus Gene Lab Corp Common stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | JUNS | Jupiter Neurosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | MRM | MEDIROM Healthcare Technologies Inc. American | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | TGL | Treasure Global Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | DCOY | Decoy Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | CIIT | Tianci International Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 52 | SBFM | Sunshine Biopharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | AGMH | AGM Group Holdings Inc. Class A Ordinary Shar | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 52 | CLDI | Calidi Biotherapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | SUGP | SU Group Holdings Limited Class A Ordinary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | CMND | Clearmind Medicine Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | NIVF | NewGenIvf Group Limited Class A Ordinary Shar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | ONFO | Onfolio Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | ZBAO | Zhibao Technology Inc. Class A Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | TNMG | TNL Mediagene Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | VMAR | Vision Marine Technologies Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | HXHX | Haoxin Holdings Limited Class A Ordinary Shar | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | JEM | 707 Cayman Holdings Limited Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 52 | PPCB | Propanc Biopharma Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | PAVS | Paranovus Entertainment Technology Ltd. Class | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | BRTX | BioRestorative Therapies Inc. Common Stock (N | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | EDVA | Endovia Health Sciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | ONCO | Onconetix Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | ELAB | PMGC Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | KAPA | Kairos Pharma Ltd. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | NXL | Nexalin Technology Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | IPST | IP Strategy Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | IZM | ICZOOM Group Inc. Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 52 | NXGL | NexGel Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | BURU | Nuburu Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 52 | APVO | Aptevo Therapeutics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | HTCR | Heartcore Enterprises Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | GIPR | Generation Income Properties Inc. Common Stoc | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | XRTX | XORTX Therapeutics Inc. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | DFSC | DEFSEC Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | KUST | Kustom Entertainment Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | MSS | Maison Solutions Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | LGCL | Lucas GC Limited Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 52 | EHGO | Eshallgo Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | VCIG | VCI Global Limited Ordinary Share | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | POLA | Polar Power Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | CETX | Cemtrex Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | SXTP | 60 Degrees Pharmaceuticals Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | LNKS | Linkers Industries Limited Class A Ordinary S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | TRNR | Interactive Strength Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | ENLV | Enlivex Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | NTCL | NETCLASS TECHNOLOGY INC Class A Ordinary Shar | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 52 | SQFT | Presidio Property Trust Inc. Class A Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | DCX | Digital Currency X Technology Inc. Class A Or | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 52 | CAPS | Capstone Holding Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 52 | WORX | SCWorx Corp. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | XXII | 22nd Century Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 53 | ARTL | Artelo Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | LCFY | Locafy Limited Ordinary Share | **FAIL** | Shariah: Musaffa DOUBTFUL; Zoya NOT LISTED |
+| 53 | BOXL | Boxlight Corporation Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | HCAI | Huachen AI Parking Management Technology Hold | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 53 | FRSX | Foresight Autonomous Holdings Ltd. American D | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | NWGL | CL Workshop Group Limited American Depositary | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 53 | GSUN | Golden Sun Technology Group Limited Class A O | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | ADGM | Adagio Medical Holdings Inc Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | DXST | Decent Holding Inc Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 53 | CISS | C3is Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | HUBC | Hub Cyber Security Ltd. | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | TWG | Top Wealth Group Holding Limited Class A Ordi | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | MNDR | Mobile-health Network Solutions Class A Ordin | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 53 | INLF | INLIF LIMITED Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | NXTS | Nexentis Technologies Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | IMTE | Integrated Media Technology Limited Ordinary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | VWAV | VisionWave Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 53 | HAO | Haoxi Health Technology Limited Class A Ordin | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | RUBI | Rubico Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | ATPC | Agape ATP Corporation Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 53 | LBGJ | Li Bang International Corporation Class A Ord | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | FRGT | Freight Technologies Inc. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | BDRX | Biodexa Pharmaceuticals plc American Deposita | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | RKDA | Arcadia Biosciences Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | ABTS | Abits Group Inc Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 53 | SLXN | Silexion Therapeutics Corp Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | CSAI | Cloudastructure Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | CHGA | Change Agents Corporation Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | VBIO | Valion Bio Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | GOVX | GeoVax Labs Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 53 | PWCM | PowerCompute Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | SVRE | SaverOne 2014 Ltd. American Depositary Shares | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 53 | EDBL | Edible Garden AG Incorporated Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | KIDZ | KIDZ AI Inc. Class B Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | IPDN | Professional Diversity Network Inc. Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | ITP | IT Tech Packaging Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | STKH | Steakholder Foods Ltd. American Depositary Sh | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | SCNI | Scinai Immunotherapeutics Ltd. American Depos | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | TRUG | TruGolf Holdings Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | SGRX | SANGRIX INC. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | BBLG | Bone Biologics Corp Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | IPW | iPower Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 53 | OLOX | Olenox Industries Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | NXAT | Nexus Advanced Technologies Inc. Ordinary Sha | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 53 | VJET | Flyte Aviation Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | MTNB | Matinas Biopharma Holdings Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya Shariah-compliant |
+| 53 | UK | Ucommune International Ltd Class A Ordinary S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | IMCC | IM Cannabis Corp. Common Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | FMFC | Kandal M Venture Limited Class A Ordinary Sha | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 53 | FCHL | Fitness Champs Holdings Limited Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 53 | OGEN | Oragenics Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | FGL | Founder Group Limited Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | DXF | Eason Technology Limited American Depositary  | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | SPRC | SciSparc Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | BRNX | BrenX Ltd. Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | MYSZ | My Size Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | SMTK | SmartKem Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | JDZG | JIADE LIMITED Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 53 | WHLR | Wheeler Real Estate Investment Trust Inc. Com | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | NEXR | Nexera Technologies Ltd Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | VRAX | Virax Biolabs Group Limited Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | GNLN | Greenlane Holdings Inc. Class A Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | SRTM | Stratum Holdings Corp. Common Stock | **UNVERIFIED** | Shariah: Musaffa NOT LISTED; Zoya NOT LISTED |
+| 53 | LABT | Lakewood-Amedex Biotherapeutics Inc. Common S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | RAYA | Erayak Power Solution Group Inc. Class A Ordi | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | YFOR | YYForce Inc. Class A Ordinary Shares | **UNVERIFIED** | Shariah: Musaffa NOT COVERED; Zoya NOT LISTED |
+| 53 | LICN | Lichen International Limited Class A Ordinary | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 53 | CDT | CDT Equity Inc. Common Stock | **UNVERIFIED** | Shariah: Musaffa PASS; Zoya NOT LISTED |
+| 53 | SXTC | China SXT Pharmaceuticals Inc. | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | AIXI | XIAO-I Corporation American Depositary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | PARA | Parabolic Technologies Inc. Class A Common St | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya not Shariah-compliant |
+| 53 | DBGI | Digital Brands Group Inc. Common Stock | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | LGHL | Lion Group Holding Ltd. American Depositary S | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
+| 53 | DKI | DarkIris Inc. Class A Ordinary Shares | **FAIL** | Shariah: Musaffa NOT HALAL; Zoya NOT LISTED |
 
-**Totals (Shariah-only batches):** FAIL: 1009, PENDING-ETHICS: 209, UNVERIFIED: 62
+**Totals (Shariah-only batches):** FAIL: 3262, PENDING-ETHICS: 384, UNVERIFIED: 329

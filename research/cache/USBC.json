@@ -1,0 +1,27 @@
+{
+ "ticker": "USBC",
+ "name": "USBC Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 133181060.0,
+ "price": "$0.3431",
+ "cik": 1074828,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/USBC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, US Biotec Inc (USBC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/usbc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:18+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "RNTX",
+ "name": "Rein Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 34506813.0,
+ "price": "$0.40",
+ "cik": 1420565,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RNTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Rein Therapeutics Inc. (RNTX) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rntx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:11+00:00"
+}

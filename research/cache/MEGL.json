@@ -1,0 +1,27 @@
+{
+ "ticker": "MEGL",
+ "name": "Magic Empire Global Limited Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Hong Kong",
+ "mcap": 8217180.0,
+ "price": "$0.1213",
+ "cik": 1881472,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MEGL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/megl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:30+00:00"
+}

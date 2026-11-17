@@ -1,0 +1,27 @@
+{
+ "ticker": "IBG",
+ "name": "Innovation Beverage Group Limited Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "Australia",
+ "mcap": 3164969.0,
+ "price": "$0.7499",
+ "cik": 1924482,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IBG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ibg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:34+00:00"
+}

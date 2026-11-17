@@ -1,0 +1,27 @@
+{
+ "ticker": "YHC",
+ "name": "LQR House Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "United States",
+ "mcap": 2320865.0,
+ "price": "$1.78",
+ "cik": 1843165,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YHC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yhc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:31+00:00"
+}

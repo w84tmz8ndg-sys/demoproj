@@ -1,0 +1,27 @@
+{
+ "ticker": "ADCT",
+ "name": "ADC Therapeutics SA Common Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Switzerland",
+ "mcap": 162226850.0,
+ "price": "$1.27",
+ "cik": 1771910,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADCT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/adct",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:08+00:00"
+}

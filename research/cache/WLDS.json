@@ -1,0 +1,27 @@
+{
+ "ticker": "WLDS",
+ "name": "Wearable Devices Ltd. Ordinary Share",
+ "sector": "Telecommunications",
+ "industry": "Computer Communications Equipment",
+ "country": "Israel",
+ "mcap": 4202774.0,
+ "price": "$1.30",
+ "cik": 1887673,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WLDS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wlds",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:40+00:00"
+}

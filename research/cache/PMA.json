@@ -1,0 +1,27 @@
+{
+ "ticker": "PMA",
+ "name": "PMA Graphene Technology Group Inc. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Engineering & Construction",
+ "country": "Hong Kong",
+ "mcap": 215941875.0,
+ "price": "$1.325",
+ "cik": 1956166,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PMA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pma",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:33+00:00"
+}

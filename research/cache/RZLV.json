@@ -1,0 +1,27 @@
+{
+ "ticker": "RZLV",
+ "name": "Rezolve AI PLC Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United Kingdom",
+ "mcap": 432423107.0,
+ "price": "$1.08",
+ "cik": 1920294,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RZLV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rzlv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:44+00:00"
+}

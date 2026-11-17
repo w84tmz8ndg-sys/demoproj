@@ -1,0 +1,27 @@
+{
+ "ticker": "HQI",
+ "name": "HireQuest Inc. Common Stock (DE)",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "United States",
+ "mcap": 187928000.0,
+ "price": "$13.52",
+ "cik": 1140102,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HQI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, HireQuest (HQI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hqi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:16+00:00"
+}

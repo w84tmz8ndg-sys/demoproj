@@ -1,0 +1,27 @@
+{
+ "ticker": "FCNCP",
+ "name": "First Citizens BancShares Inc. Depositary Shares",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 190762362.0,
+ "price": "$17.245",
+ "cik": 798941,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/FCNCP/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fcncp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:14+00:00"
+}

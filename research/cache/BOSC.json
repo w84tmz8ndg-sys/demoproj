@@ -1,0 +1,27 @@
+{
+ "ticker": "BOSC",
+ "name": "B.O.S. Better Online Solutions Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Computer Communications Equipment",
+ "country": "Israel",
+ "mcap": 29298212.0,
+ "price": "$4.15",
+ "cik": 1005516,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BOSC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bosc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:02+00:00"
+}

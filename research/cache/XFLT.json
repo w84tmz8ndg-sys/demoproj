@@ -1,0 +1,27 @@
+{
+ "ticker": "XFLT",
+ "name": "XAI Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 558984064.0,
+ "price": "$15.76",
+ "cik": 1703079,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XFLT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/xflt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:45+00:00"
+}

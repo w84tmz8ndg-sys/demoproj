@@ -1,0 +1,27 @@
+{
+ "ticker": "CURR",
+ "name": "Currenc Group Inc. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "Singapore",
+ "mcap": 204353031.0,
+ "price": "$1.82",
+ "cik": 1862935,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CURR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/curr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:53+00:00"
+}

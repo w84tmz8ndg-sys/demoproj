@@ -1,0 +1,27 @@
+{
+ "ticker": "MAMO",
+ "name": "Massimo Group Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 38730248.0,
+ "price": "$0.9301",
+ "cik": 1952853,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MAMO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Massimo Group (MAMO) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mamo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:33+00:00"
+}

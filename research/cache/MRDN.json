@@ -1,0 +1,27 @@
+{
+ "ticker": "MRDN",
+ "name": "Meridian Holdings Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 60632135.0,
+ "price": "$4.78",
+ "cik": 1437925,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MRDN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Golden Matrix Group, Inc. (MRDN) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mrdn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:26+00:00"
+}

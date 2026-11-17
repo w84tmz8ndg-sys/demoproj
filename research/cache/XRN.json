@@ -1,0 +1,27 @@
+{
+ "ticker": "XRN",
+ "name": "Chiron Real Estate Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 349977365.0,
+ "price": "$26.42",
+ "cik": 1533615,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XRN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Global Medical REIT Inc. (XRN) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/xrn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:17+00:00"
+}

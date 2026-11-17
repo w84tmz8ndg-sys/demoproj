@@ -1,0 +1,27 @@
+{
+ "ticker": "KRKR",
+ "name": "36Kr Holdings Inc. American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "China",
+ "mcap": 5329287.0,
+ "price": "$2.70",
+ "cik": 1779476,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KRKR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/krkr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:57+00:00"
+}

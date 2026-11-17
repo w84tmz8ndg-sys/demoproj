@@ -1,0 +1,27 @@
+{
+ "ticker": "JG",
+ "name": "Aurora Mobile Limited American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "China",
+ "mcap": 29330988.0,
+ "price": "$4.92",
+ "cik": 1737339,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:02+00:00"
+}

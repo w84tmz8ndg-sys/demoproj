@@ -1,0 +1,27 @@
+{
+ "ticker": "ELOX",
+ "name": "Eloxx Pharmaceuticals Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 51464852.0,
+ "price": "$12.75",
+ "cik": 1035354,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ELOX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/elox",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:19+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "JFU",
+ "name": "9F Inc. American Depositary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "China",
+ "mcap": 23546666.0,
+ "price": "$2.00",
+ "cik": 1619544,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JFU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jfu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:35+00:00"
+}

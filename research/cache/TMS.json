@@ -1,0 +1,27 @@
+{
+ "ticker": "TMS",
+ "name": "Teamshares Inc. Common Stock",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "United States",
+ "mcap": 331472322.0,
+ "price": "$4.50",
+ "cik": 2048951,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TMS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tms",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:39+00:00"
+}

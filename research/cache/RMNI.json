@@ -1,0 +1,27 @@
+{
+ "ticker": "RMNI",
+ "name": "Rimini Street Inc. (DE) Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 509828000.0,
+ "price": "$5.50",
+ "cik": 1635282,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RMNI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Rimini Street (RMNI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rmni",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:24+00:00"
+}

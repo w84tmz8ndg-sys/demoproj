@@ -1,0 +1,27 @@
+{
+ "ticker": "KITT",
+ "name": "Nauticus Robotics Inc. Common stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 2986789.0,
+ "price": "$1.13",
+ "cik": 1849820,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KITT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kitt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:47+00:00"
+}

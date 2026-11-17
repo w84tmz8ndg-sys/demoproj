@@ -1,0 +1,27 @@
+{
+ "ticker": "HYPD",
+ "name": "Hyperion DeFi Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 38255689.0,
+ "price": "$2.47",
+ "cik": 1682639,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HYPD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hypd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:40+00:00"
+}

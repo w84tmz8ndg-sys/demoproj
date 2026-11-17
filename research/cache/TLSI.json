@@ -1,0 +1,27 @@
+{
+ "ticker": "TLSI",
+ "name": "TriSalus Life Sciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 140056807.0,
+ "price": "$2.27",
+ "cik": 1826667,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TLSI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, TriSalus Life Sciences (TLSI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tlsi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:04+00:00"
+}

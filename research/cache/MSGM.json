@@ -1,0 +1,27 @@
+{
+ "ticker": "MSGM",
+ "name": "Motorsport Games Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 17896328.0,
+ "price": "$3.90",
+ "cik": 1821175,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MSGM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Motorsport Games Inc - Ordinary Shares - Class A (MSGM) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/msgm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:29+00:00"
+}

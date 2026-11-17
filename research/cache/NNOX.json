@@ -1,0 +1,27 @@
+{
+ "ticker": "NNOX",
+ "name": "NANO-X IMAGING LTD Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Medical Electronics",
+ "country": "Israel",
+ "mcap": 25222667.0,
+ "price": "$0.3203",
+ "cik": 1795251,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NNOX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nnox",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:17+00:00"
+}

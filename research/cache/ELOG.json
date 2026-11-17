@@ -1,0 +1,27 @@
+{
+ "ticker": "ELOG",
+ "name": "Eastern International Ltd. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Integrated Freight & Logistics",
+ "country": "China",
+ "mcap": 11678403.0,
+ "price": "$0.9101",
+ "cik": 2013320,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ELOG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/elog",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:17+00:00"
+}

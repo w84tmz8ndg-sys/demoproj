@@ -1,0 +1,27 @@
+{
+ "ticker": "CCSI",
+ "name": "Consensus Cloud Solutions Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 762510941.0,
+ "price": "$42.82",
+ "cik": 1866633,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CCSI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Consensus Cloud Solutions Inc (CCSI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ccsi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:17+00:00"
+}

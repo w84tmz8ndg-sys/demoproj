@@ -1,0 +1,27 @@
+{
+ "ticker": "PDEX",
+ "name": "Pro-Dex Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 206336064.0,
+ "price": "$64.48",
+ "cik": 788920,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PDEX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Pro-Dex (PDEX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pdex",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:46+00:00"
+}

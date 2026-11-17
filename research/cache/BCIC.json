@@ -1,0 +1,27 @@
+{
+ "ticker": "BCIC",
+ "name": "BCP Investment Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 64674766.0,
+ "price": "$5.22",
+ "cik": 1372807,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BCIC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, BCP Investment Corporation (BCIC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bcic",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:12+00:00"
+}

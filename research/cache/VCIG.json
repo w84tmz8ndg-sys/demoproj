@@ -1,0 +1,27 @@
+{
+ "ticker": "VCIG",
+ "name": "VCI Global Limited Ordinary Share",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "Malaysia",
+ "mcap": 1794324.0,
+ "price": "$3.35",
+ "cik": 1930510,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VCIG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vcig",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:07+00:00"
+}

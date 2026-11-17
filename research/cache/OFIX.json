@@ -1,0 +1,27 @@
+{
+ "ticker": "OFIX",
+ "name": "Orthofix Medical Inc. Common Stock (DE)",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "Curacao",
+ "mcap": 277166647.0,
+ "price": "$6.80",
+ "cik": 884624,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OFIX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Orthofix Medical Inc (OFIX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ofix",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:59+00:00"
+}

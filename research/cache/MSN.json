@@ -1,0 +1,27 @@
+{
+ "ticker": "MSN",
+ "name": "Emerson Radio Corporation Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "United States",
+ "mcap": 6003469.0,
+ "price": "$0.2853",
+ "cik": 32621,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MSN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/msn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:35+00:00"
+}

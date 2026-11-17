@@ -1,0 +1,27 @@
+{
+ "ticker": "MKDW",
+ "name": "MKDWELL Tech Inc. Ordinary Share",
+ "sector": "Technology",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "Taiwan",
+ "mcap": 3126478.0,
+ "price": "$0.086",
+ "cik": 1991332,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MKDW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mkdw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:39+00:00"
+}

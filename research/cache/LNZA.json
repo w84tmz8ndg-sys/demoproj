@@ -1,0 +1,27 @@
+{
+ "ticker": "LNZA",
+ "name": "LanzaTech Global Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 36780548.0,
+ "price": "$2.81",
+ "cik": 1843724,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LNZA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, LanzaTech Global (LNZA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lnza",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:48+00:00"
+}

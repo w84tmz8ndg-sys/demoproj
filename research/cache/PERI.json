@@ -1,0 +1,27 @@
+{
+ "ticker": "PERI",
+ "name": "Perion Network Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Israel",
+ "mcap": 436959844.0,
+ "price": "$11.11",
+ "cik": 1338940,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PERI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/peri",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:38+00:00"
+}

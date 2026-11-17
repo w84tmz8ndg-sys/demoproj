@@ -1,0 +1,27 @@
+{
+ "ticker": "GLND",
+ "name": "Greenland Energy Company Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 87023086.0,
+ "price": "$1.99",
+ "cik": 2093507,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GLND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/glnd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:37+00:00"
+}

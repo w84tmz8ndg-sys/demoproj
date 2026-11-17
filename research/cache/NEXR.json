@@ -1,0 +1,27 @@
+{
+ "ticker": "NEXR",
+ "name": "Nexera Technologies Ltd Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "Israel",
+ "mcap": 712086.0,
+ "price": "$1.35",
+ "cik": 1885408,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NEXR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nexr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:55+00:00"
+}

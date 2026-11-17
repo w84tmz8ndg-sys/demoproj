@@ -1,0 +1,27 @@
+{
+ "ticker": "GNLN",
+ "name": "Greenlane Holdings Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Durable Goods",
+ "country": "United States",
+ "mcap": 565359.0,
+ "price": "$0.814",
+ "cik": 1743745,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GNLN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gnln",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:54+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "POM",
+ "name": "POMDOCTOR LIMITED Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "China",
+ "mcap": 58265142.0,
+ "price": "$1.62",
+ "cik": 1877971,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/POM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pom",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:33+00:00"
+}

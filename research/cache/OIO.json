@@ -1,0 +1,27 @@
+{
+ "ticker": "OIO",
+ "name": "OIO Group Ordinary Shares",
+ "sector": "Utilities",
+ "industry": "Environmental Services",
+ "country": "Singapore",
+ "mcap": 602078247.0,
+ "price": "$1.73",
+ "cik": 1957538,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/oio",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:09+00:00"
+}

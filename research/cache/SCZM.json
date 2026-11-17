@@ -1,0 +1,27 @@
+{
+ "ticker": "SCZM",
+ "name": "Santacruz Silver Mining Ltd. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 597025242.0,
+ "price": "$6.42",
+ "cik": 1548536,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SCZM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sczm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:13+00:00"
+}

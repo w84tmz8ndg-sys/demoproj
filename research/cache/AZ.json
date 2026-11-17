@@ -1,0 +1,27 @@
+{
+ "ticker": "AZ",
+ "name": "A2Z Cust2Mate Solutions Corp. Common Shares",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "Canada",
+ "mcap": 236115733.0,
+ "price": "$5.245",
+ "cik": 1866030,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/az",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:01+00:00"
+}

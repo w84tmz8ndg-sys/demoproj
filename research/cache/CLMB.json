@@ -1,0 +1,27 @@
+{
+ "ticker": "CLMB",
+ "name": "Climb Global Solutions Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Retail: Computer Software & Peripheral Equipment",
+ "country": "United States",
+ "mcap": 791284211.0,
+ "price": "$42.41",
+ "cik": 945983,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLMB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Climb Global Solutions Inc (CLMB) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/clmb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:58:57+00:00"
+}

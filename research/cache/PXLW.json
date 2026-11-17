@@ -1,0 +1,27 @@
+{
+ "ticker": "PXLW",
+ "name": "Pixelworks Inc.  Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 33324245.0,
+ "price": "$5.58",
+ "cik": 1040161,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PXLW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Pixelworks (PXLW) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pxlw",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:24+00:00"
+}

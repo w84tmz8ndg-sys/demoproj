@@ -1,0 +1,27 @@
+{
+ "ticker": "EMPD",
+ "name": "Empery Digital Inc. Common stock",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "United States",
+ "mcap": 51614055.0,
+ "price": "$1.86",
+ "cik": 1829794,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EMPD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Volcon, Inc. (EMPD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/empd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:20+00:00"
+}

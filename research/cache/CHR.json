@@ -1,0 +1,27 @@
+{
+ "ticker": "CHR",
+ "name": "Cheer Holding Inc. Class A Ordinary Share",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "China",
+ "mcap": 2791089.0,
+ "price": "$1.19",
+ "cik": 1738758,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CHR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/chr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:05+00:00"
+}

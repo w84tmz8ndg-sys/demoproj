@@ -1,0 +1,27 @@
+{
+ "ticker": "ADV",
+ "name": "Advantage Solutions Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 370687118.0,
+ "price": "$29.03",
+ "cik": 1776661,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Advantage Solutions Inc. - Ordinary Shares - Class A (ADV) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/adv",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:56+00:00"
+}

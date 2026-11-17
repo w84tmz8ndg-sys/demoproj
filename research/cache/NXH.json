@@ -1,0 +1,27 @@
+{
+ "ticker": "NXH",
+ "name": "Neighborhood Intelligence Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "United States",
+ "mcap": 127619961.0,
+ "price": "$1.16",
+ "cik": 1130713,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NXH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nxh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:34+00:00"
+}

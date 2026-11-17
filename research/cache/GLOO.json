@@ -1,0 +1,27 @@
+{
+ "ticker": "GLOO",
+ "name": "Gloo Holdings Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 262694088.0,
+ "price": "$2.87",
+ "cik": 2069785,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GLOO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Gloo Holdings, Inc. (GLOO) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gloo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:18+00:00"
+}

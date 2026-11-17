@@ -1,0 +1,27 @@
+{
+ "ticker": "FBDT",
+ "name": "First Breach Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Ordnance And Accessories",
+ "country": "United States",
+ "mcap": 50170693.0,
+ "price": "$0.8995",
+ "cik": 1892704,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FBDT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fbdt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:25+00:00"
+}

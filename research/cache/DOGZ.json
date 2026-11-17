@@ -1,0 +1,27 @@
+{
+ "ticker": "DOGZ",
+ "name": "Dogness (International) Corporation Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Miscellaneous manufacturing industries",
+ "country": "China",
+ "mcap": 6450923.0,
+ "price": "$0.3661",
+ "cik": 1707303,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DOGZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dogz",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:23+00:00"
+}

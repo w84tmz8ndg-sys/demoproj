@@ -1,0 +1,27 @@
+{
+ "ticker": "AIFU",
+ "name": "AIFU Inc. Class A Ordinary Share",
+ "sector": "Finance",
+ "industry": "Specialty Insurers",
+ "country": "China",
+ "mcap": 712211239.0,
+ "price": "$9.84",
+ "cik": 1413855,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIFU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aifu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:42+00:00"
+}

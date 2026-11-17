@@ -1,0 +1,27 @@
+{
+ "ticker": "ARKO",
+ "name": "ARKO Corp. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Food Chains",
+ "country": "United States",
+ "mcap": 451506049.0,
+ "price": "$4.025",
+ "cik": 1823794,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ARKO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, ARKO Corp - Ordinary Shares - Class A (ARKO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/arko",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:22+00:00"
+}

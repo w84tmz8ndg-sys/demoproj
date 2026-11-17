@@ -1,0 +1,27 @@
+{
+ "ticker": "LSE",
+ "name": "Leishen Energy Holding Co. Ltd. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Oil and Gas Field Machinery",
+ "country": "China",
+ "mcap": 77123250.0,
+ "price": "$4.53",
+ "cik": 1985139,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LSE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lse",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:18+00:00"
+}

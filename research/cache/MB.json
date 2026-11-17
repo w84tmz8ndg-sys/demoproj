@@ -1,0 +1,27 @@
+{
+ "ticker": "MB",
+ "name": "MasterBeef Group Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "Hong Kong",
+ "mcap": 63816600.0,
+ "price": "$3.72",
+ "cik": 2027265,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:16+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MCFT",
+ "name": "MasterCraft Boat Holdings Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Marine Transportation",
+ "country": "United States",
+ "mcap": 527575892.0,
+ "price": "$21.83",
+ "cik": 1638290,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MCFT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, MasterCraft Boat Holdings (MCFT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mcft",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:10+00:00"
+}

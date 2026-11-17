@@ -1,0 +1,27 @@
+{
+ "ticker": "HDL",
+ "name": "SUPER HI INTERNATIONAL HOLDING LTD. American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "Singapore",
+ "mcap": 688666641.0,
+ "price": "$10.59",
+ "cik": 1995306,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HDL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hdl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:02+00:00"
+}

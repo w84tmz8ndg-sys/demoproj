@@ -1,0 +1,27 @@
+{
+ "ticker": "FUFU",
+ "name": "BitFuFu Inc. Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Singapore",
+ "mcap": 141655558.0,
+ "price": "$0.85",
+ "cik": 1921158,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FUFU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fufu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:01+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ZJYL",
+ "name": "JIN MEDICAL INTERNATIONAL LTD. Class A Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "China",
+ "mcap": 574246155.0,
+ "price": "$3.63",
+ "cik": 1837821,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZJYL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zjyl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:31+00:00"
+}

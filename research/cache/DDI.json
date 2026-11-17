@@ -1,0 +1,27 @@
+{
+ "ticker": "DDI",
+ "name": "DoubleDown Interactive Co. Ltd. American Depository Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "South Korea",
+ "mcap": 776997939.0,
+ "price": "$15.68",
+ "cik": 1799567,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DDI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ddi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:09+00:00"
+}

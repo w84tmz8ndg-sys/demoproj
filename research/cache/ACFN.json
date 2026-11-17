@@ -1,0 +1,27 @@
+{
+ "ticker": "ACFN",
+ "name": "Acorn Energy Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 35004400.0,
+ "price": "$13.81",
+ "cik": 880984,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACFN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Acorn Energy Inc (ACFN) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/acfn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:07+00:00"
+}

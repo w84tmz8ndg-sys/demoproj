@@ -1,0 +1,27 @@
+{
+ "ticker": "ABLV",
+ "name": "Able View Global Inc. Class B Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 125903483.0,
+ "price": "$2.28",
+ "cik": 1957489,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ABLV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ablv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:39+00:00"
+}

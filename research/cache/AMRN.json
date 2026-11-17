@@ -1,0 +1,27 @@
+{
+ "ticker": "AMRN",
+ "name": "Amarin Corporation plc",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Ireland",
+ "mcap": 233371332.0,
+ "price": "$11.31",
+ "cik": 897448,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMRN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/amrn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:10+00:00"
+}

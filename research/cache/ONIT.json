@@ -1,0 +1,27 @@
+{
+ "ticker": "ONIT",
+ "name": "Onity Group Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 228611150.0,
+ "price": "$27.98",
+ "cik": 873860,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ONIT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Onity Group Inc. (ONIT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/onit",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:13+00:00"
+}

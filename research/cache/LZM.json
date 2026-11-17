@@ -1,0 +1,27 @@
+{
+ "ticker": "LZM",
+ "name": "Lifezone Metals Limited Ordinary Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Isle of Man",
+ "mcap": 381237722.0,
+ "price": "$4.24",
+ "cik": 1958217,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LZM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lzm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:41+00:00"
+}

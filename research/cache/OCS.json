@@ -1,0 +1,27 @@
+{
+ "ticker": "OCS",
+ "name": "Oculis Holding AG Ordinary shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Switzerland",
+ "mcap": 469916997.0,
+ "price": "$7.63",
+ "cik": 1953530,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OCS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ocs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:00+00:00"
+}

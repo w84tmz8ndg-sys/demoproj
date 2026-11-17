@@ -1,0 +1,27 @@
+{
+ "ticker": "KULR",
+ "name": "KULR Technology Group Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Electrical Products",
+ "country": "United States",
+ "mcap": 74280272.0,
+ "price": "$1.605",
+ "cik": 1662684,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KULR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, KULR (KULR) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/kulr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:29+00:00"
+}

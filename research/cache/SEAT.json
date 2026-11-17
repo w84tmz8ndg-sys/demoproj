@@ -1,0 +1,27 @@
+{
+ "ticker": "SEAT",
+ "name": "Vivid Seats Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 15583527.0,
+ "price": "$1.36",
+ "cik": 1856031,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SEAT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Vivid Seats Inc - Ordinary Shares - Class A (SEAT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/seat",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:04+00:00"
+}

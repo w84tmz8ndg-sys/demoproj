@@ -1,0 +1,27 @@
+{
+ "ticker": "HUHU",
+ "name": "HUHUTECH International Group Inc. Ordinary Shares",
+ "sector": "Telecommunications",
+ "industry": "Metal Fabrications",
+ "country": "China",
+ "mcap": 6322450.0,
+ "price": "$0.248",
+ "cik": 1945415,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HUHU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/huhu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:27+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "RDCM",
+ "name": "Radcom Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer peripheral equipment",
+ "country": "Israel",
+ "mcap": 183219492.0,
+ "price": "$10.9775",
+ "cik": 1016838,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RDCM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rdcm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:29+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CYAB",
+ "name": "Cyabra Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Israel",
+ "mcap": 4553335.0,
+ "price": "$0.1368",
+ "cik": 2032341,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CYAB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cyab",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:26+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CODA",
+ "name": "Coda Octopus Group Inc. Common stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 93875400.0,
+ "price": "$8.32",
+ "cik": 1334325,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CODA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Coda Octopus Group (CODA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/coda",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:12+00:00"
+}

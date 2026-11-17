@@ -1,0 +1,27 @@
+{
+ "ticker": "AWX",
+ "name": "Avalon Holdings Corporation Common Stock",
+ "sector": "Utilities",
+ "industry": "Environmental Services",
+ "country": "United States",
+ "mcap": 10957401.0,
+ "price": "$2.81",
+ "cik": 1061069,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AWX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/awx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:30+00:00"
+}

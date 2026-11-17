@@ -1,0 +1,27 @@
+{
+ "ticker": "CMT",
+ "name": "Core Molding Technologies Inc Common Stock",
+ "sector": "Industrials",
+ "industry": "Plastic Products",
+ "country": "United States",
+ "mcap": 195377768.0,
+ "price": "$22.10",
+ "cik": 1026655,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CMT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Core Molding Technologies (CMT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cmt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:07+00:00"
+}

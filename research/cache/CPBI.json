@@ -1,0 +1,27 @@
+{
+ "ticker": "CPBI",
+ "name": "Central Plains Bancshares Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Savings Institutions",
+ "country": "United States",
+ "mcap": 86158939.0,
+ "price": "$20.68",
+ "cik": 1979332,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CPBI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Central Plains Bancshares (CPBI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cpbi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:44+00:00"
+}

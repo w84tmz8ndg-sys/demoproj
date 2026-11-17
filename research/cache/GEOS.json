@@ -1,0 +1,27 @@
+{
+ "ticker": "GEOS",
+ "name": "Geospace Technologies Corporation Common Stock (Texas)",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 44110406.0,
+ "price": "$3.41",
+ "cik": 1001115,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GEOS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Geospace Technologies (GEOS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/geos",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:57+00:00"
+}

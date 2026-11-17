@@ -1,0 +1,27 @@
+{
+ "ticker": "LINK",
+ "name": "Interlink Electronics Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer peripheral equipment",
+ "country": "United States",
+ "mcap": 43873244.0,
+ "price": "$2.785",
+ "cik": 828146,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LINK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Interlink Electronics (LINK) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/link",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:00+00:00"
+}

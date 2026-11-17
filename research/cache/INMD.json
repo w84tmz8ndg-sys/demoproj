@@ -1,0 +1,27 @@
+{
+ "ticker": "INMD",
+ "name": "InMode Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+ "country": "Israel",
+ "mcap": 755872152.0,
+ "price": "$13.15",
+ "cik": 1742692,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INMD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/inmd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:19+00:00"
+}

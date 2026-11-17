@@ -1,0 +1,27 @@
+{
+ "ticker": "TAOX",
+ "name": "Tao Synergies Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 15106678.0,
+ "price": "$1.86",
+ "cik": 1571934,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TAOX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/taox",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:15+00:00"
+}

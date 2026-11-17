@@ -1,0 +1,27 @@
+{
+ "ticker": "YMAT",
+ "name": "J-Star Holding Co. Ltd. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Recreational Games/Products/Toys",
+ "country": "Taiwan",
+ "mcap": 4024515.0,
+ "price": "$0.8902",
+ "cik": 1875016,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YMAT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ymat",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:44+00:00"
+}

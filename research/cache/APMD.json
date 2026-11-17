@@ -1,0 +1,27 @@
+{
+ "ticker": "APMD",
+ "name": "Apnimed Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 677749082.0,
+ "price": "$16.28",
+ "cik": 1745648,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/APMD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/apmd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:11+00:00"
+}

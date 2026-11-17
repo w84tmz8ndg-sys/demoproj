@@ -1,0 +1,27 @@
+{
+ "ticker": "ADIG",
+ "name": "ADI Global Distribution Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Wholesale Distributors",
+ "country": "United States",
+ "mcap": 706440031.0,
+ "price": "$9.295",
+ "cik": 2105139,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADIG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/adig",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:49+00:00"
+}

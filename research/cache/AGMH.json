@@ -1,0 +1,27 @@
+{
+ "ticker": "AGMH",
+ "name": "AGM Group Holdings Inc. Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Hong Kong",
+ "mcap": 2088399.0,
+ "price": "$0.4042",
+ "cik": 1705402,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AGMH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/agmh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:47+00:00"
+}

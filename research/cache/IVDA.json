@@ -1,0 +1,27 @@
+{
+ "ticker": "IVDA",
+ "name": "Iveda Solutions Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 2404905.0,
+ "price": "$0.1921",
+ "cik": 1397183,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IVDA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ivda",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:28+00:00"
+}

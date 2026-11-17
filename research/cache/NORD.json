@@ -1,0 +1,27 @@
+{
+ "ticker": "NORD",
+ "name": "Nordicus Partners Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "United States",
+ "mcap": 51854130.0,
+ "price": "$2.60",
+ "cik": 1011060,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NORD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nord",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:16+00:00"
+}

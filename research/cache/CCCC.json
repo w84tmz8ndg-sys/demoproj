@@ -1,0 +1,27 @@
+{
+ "ticker": "CCCC",
+ "name": "C4 Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 347991343.0,
+ "price": "$2.65",
+ "cik": 1662579,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CCCC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, C4 Therapeutics Inc (CCCC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cccc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:19+00:00"
+}

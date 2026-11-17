@@ -1,0 +1,27 @@
+{
+ "ticker": "MUX",
+ "name": "McEwen Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 682232149.0,
+ "price": "$11.075",
+ "cik": 314203,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MUX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mux",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:06+00:00"
+}

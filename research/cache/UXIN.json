@@ -1,0 +1,27 @@
+{
+ "ticker": "UXIN",
+ "name": "Uxin Limited ADS",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "China",
+ "mcap": 174202369.0,
+ "price": "$0.7919",
+ "cik": 1729173,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UXIN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/uxin",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:48+00:00"
+}

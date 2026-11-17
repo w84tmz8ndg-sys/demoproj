@@ -1,0 +1,27 @@
+{
+ "ticker": "TDUP",
+ "name": "ThredUp Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "United States",
+ "mcap": 212971542.0,
+ "price": "$1.60",
+ "cik": 1484778,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TDUP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, ThredUp (TDUP) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tdup",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:37+00:00"
+}

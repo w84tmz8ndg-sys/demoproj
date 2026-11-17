@@ -1,0 +1,27 @@
+{
+ "ticker": "ATLO",
+ "name": "Ames National Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 301056908.0,
+ "price": "$33.99",
+ "cik": 1132651,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ATLO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Ames National Corporation (ATLO) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/atlo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:13+00:00"
+}

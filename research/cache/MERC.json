@@ -1,0 +1,27 @@
+{
+ "ticker": "MERC",
+ "name": "Mercer International Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Paper",
+ "country": "Canada",
+ "mcap": 14006769.0,
+ "price": "$0.209",
+ "cik": 1333274,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MERC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/merc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:32+00:00"
+}

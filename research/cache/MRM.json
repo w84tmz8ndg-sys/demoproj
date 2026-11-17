@@ -1,0 +1,27 @@
+{
+ "ticker": "MRM",
+ "name": "MEDIROM Healthcare Technologies Inc. American Depositary Share",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "Japan",
+ "mcap": 2214126.0,
+ "price": "$0.2802",
+ "cik": 1819704,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MRM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mrm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:40+00:00"
+}

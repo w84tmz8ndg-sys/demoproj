@@ -1,0 +1,27 @@
+{
+ "ticker": "CLFD",
+ "name": "Clearfield Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 389044471.0,
+ "price": "$28.64",
+ "cik": 796505,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLFD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Clearfield Inc (CLFD) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/clfd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:24+00:00"
+}

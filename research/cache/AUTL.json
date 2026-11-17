@@ -1,0 +1,27 @@
+{
+ "ticker": "AUTL",
+ "name": "Autolus Therapeutics plc American Depositary Share",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United Kingdom",
+ "mcap": 303627976.0,
+ "price": "$1.14",
+ "cik": 1730463,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AUTL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/autl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:07+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "NXGL",
+ "name": "NexGel Inc Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 1915415.0,
+ "price": "$3.93",
+ "cik": 1468929,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NXGL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nxgl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:00+00:00"
+}

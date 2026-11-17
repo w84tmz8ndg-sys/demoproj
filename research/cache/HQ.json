@@ -1,0 +1,27 @@
+{
+ "ticker": "HQ",
+ "name": "Horizon Quantum Holdings Ltd. Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Singapore",
+ "mcap": 593692880.0,
+ "price": "$11.00",
+ "cik": 2088256,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HQ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hq",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:16+00:00"
+}

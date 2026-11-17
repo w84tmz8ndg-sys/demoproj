@@ -1,0 +1,27 @@
+{
+ "ticker": "SAR",
+ "name": "Saratoga Investment Corp New",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 169911247.0,
+ "price": "$10.92",
+ "cik": 1377936,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SAR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Saratoga Investment Corp (SAR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sar",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:00+00:00"
+}

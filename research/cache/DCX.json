@@ -1,0 +1,27 @@
+{
+ "ticker": "DCX",
+ "name": "Digital Currency X Technology Inc. Class A Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "Cayman Islands",
+ "mcap": 1619336.0,
+ "price": "$0.6902",
+ "cik": 1957413,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DCX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dcx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:16+00:00"
+}

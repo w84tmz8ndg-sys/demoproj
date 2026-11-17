@@ -1,0 +1,27 @@
+{
+ "ticker": "CNET",
+ "name": "ZW Data Action Technologies Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "China",
+ "mcap": 2670616.0,
+ "price": "$0.728",
+ "cik": 1376321,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cnet",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:15+00:00"
+}

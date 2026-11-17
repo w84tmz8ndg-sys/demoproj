@@ -1,0 +1,27 @@
+{
+ "ticker": "VIVS",
+ "name": "VivoSim Labs Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 2508821.0,
+ "price": "$0.1237",
+ "cik": 1497253,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VIVS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vivs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:22+00:00"
+}

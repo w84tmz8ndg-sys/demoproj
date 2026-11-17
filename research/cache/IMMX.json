@@ -1,0 +1,27 @@
+{
+ "ticker": "IMMX",
+ "name": "Immix Biopharma Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 626917171.0,
+ "price": "$7.48",
+ "cik": 1873835,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IMMX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Immix Biopharma (IMMX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/immx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:59+00:00"
+}

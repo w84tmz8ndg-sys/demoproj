@@ -1,0 +1,27 @@
+{
+ "ticker": "BTCS",
+ "name": "BTCS Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 44924569.0,
+ "price": "$0.8484",
+ "cik": 1436229,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BTCS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, BTCS (BTCS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/btcs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:52+00:00"
+}

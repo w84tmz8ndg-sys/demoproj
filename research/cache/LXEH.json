@@ -1,0 +1,27 @@
+{
+ "ticker": "LXEH",
+ "name": "Lixiang Education Holding Co. Ltd. American Depositary Shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 2683334.0,
+ "price": "$1.40",
+ "cik": 1814067,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LXEH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lxeh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:12+00:00"
+}

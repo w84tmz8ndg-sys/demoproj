@@ -1,0 +1,27 @@
+{
+ "ticker": "DNUT",
+ "name": "Krispy Kreme Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Food Chains",
+ "country": "United States",
+ "mcap": 657565000.0,
+ "price": "$3.79",
+ "cik": 1857154,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DNUT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Krispy Kreme (DNUT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dnut",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:25+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GOOS",
+ "name": "Canada Goose Holdings Inc. Subordinate Voting Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Apparel",
+ "country": "",
+ "mcap": 794959312.0,
+ "price": "$8.41",
+ "cik": 1690511,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GOOS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/goos",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:58:56+00:00"
+}

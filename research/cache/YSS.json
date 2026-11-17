@@ -1,0 +1,27 @@
+{
+ "ticker": "YSS",
+ "name": "York Space Systems Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 666323591.0,
+ "price": "$4.915",
+ "cik": 2086587,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YSS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yss",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:19+00:00"
+}

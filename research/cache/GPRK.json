@@ -1,0 +1,27 @@
+{
+ "ticker": "GPRK",
+ "name": "Geopark Ltd Common Shares",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Bermuda",
+ "mcap": 591849267.0,
+ "price": "$9.12",
+ "cik": 1464591,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GPRK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gprk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:20+00:00"
+}

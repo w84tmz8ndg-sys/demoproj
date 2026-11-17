@@ -1,0 +1,27 @@
+{
+ "ticker": "NL",
+ "name": "NLI Holdings Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 347669999.0,
+ "price": "$7.11",
+ "cik": 72162,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, NL Industries (NL) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:21+00:00"
+}

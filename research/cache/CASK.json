@@ -1,0 +1,27 @@
+{
+ "ticker": "CASK",
+ "name": "Sempreon Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "United States",
+ "mcap": 372740503.0,
+ "price": "$17.40",
+ "cik": 835011,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/CASK/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cask",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:51+00:00"
+}

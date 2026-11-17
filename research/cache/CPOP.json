@@ -1,0 +1,27 @@
+{
+ "ticker": "CPOP",
+ "name": "Pop Culture Group Co. Ltd Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "China",
+ "mcap": 5175098.0,
+ "price": "$3.03",
+ "cik": 1807389,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CPOP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cpop",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:03+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CMND",
+ "name": "Clearmind Medicine Inc. Common Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Canada",
+ "mcap": 2029616.0,
+ "price": "$4.00",
+ "cik": 1892500,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CMND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cmnd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:46+00:00"
+}

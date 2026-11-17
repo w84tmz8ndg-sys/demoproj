@@ -1,0 +1,27 @@
+{
+ "ticker": "CLDI",
+ "name": "Calidi Biotherapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "",
+ "mcap": 2082272.0,
+ "price": "$0.6037",
+ "cik": 1855485,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLDI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cldi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:46+00:00"
+}

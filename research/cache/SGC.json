@@ -1,0 +1,27 @@
+{
+ "ticker": "SGC",
+ "name": "Superior Group of Companies Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Apparel",
+ "country": "United States",
+ "mcap": 228110269.0,
+ "price": "$14.35",
+ "cik": 95574,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SGC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Superior Group of Companies (SGC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sgc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:13+00:00"
+}

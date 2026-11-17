@@ -1,0 +1,27 @@
+{
+ "ticker": "ACCS",
+ "name": "ACCESS Newswire Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "United States",
+ "mcap": 13400498.0,
+ "price": "$3.555",
+ "cik": 843006,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACCS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Access Newswire Inc. (ACCS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/accs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:43+00:00"
+}

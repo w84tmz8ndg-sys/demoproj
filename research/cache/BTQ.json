@@ -1,0 +1,27 @@
+{
+ "ticker": "BTQ",
+ "name": "BTQ Technologies Corp. Common Stock",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "Canada",
+ "mcap": 192675687.0,
+ "price": "$1.31",
+ "cik": 1821866,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BTQ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/btq",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:12+00:00"
+}

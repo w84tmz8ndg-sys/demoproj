@@ -1,0 +1,27 @@
+{
+ "ticker": "DSC",
+ "name": "DSC Holdings Ltd. American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "China",
+ "mcap": 105652958.0,
+ "price": "$2.11",
+ "cik": 1966041,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DSC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dsc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:38+00:00"
+}

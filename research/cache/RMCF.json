@@ -1,0 +1,27 @@
+{
+ "ticker": "RMCF",
+ "name": "Rocky Mountain Chocolate Factory Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Specialty Foods",
+ "country": "United States",
+ "mcap": 6634454.0,
+ "price": "$0.691",
+ "cik": 1616262,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RMCF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rmcf",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:15+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SLBT",
+ "name": "SL Science Holding Limited Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Taiwan",
+ "mcap": 400382466.0,
+ "price": "$0.714",
+ "cik": 2070534,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLBT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/slbt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:15+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MSB",
+ "name": "Mesabi Trust Common Stock",
+ "sector": "Industrials",
+ "industry": "Precious Metals",
+ "country": "United States",
+ "mcap": 207820958.0,
+ "price": "$15.84",
+ "cik": 65172,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MSB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/msb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:45+00:00"
+}

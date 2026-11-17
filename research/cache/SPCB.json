@@ -1,0 +1,27 @@
+{
+ "ticker": "SPCB",
+ "name": "SuperCom Ltd. Ordinary Shares (Israel)",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Israel",
+ "mcap": 43900359.0,
+ "price": "$6.99",
+ "cik": 1291855,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SPCB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/spcb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:59+00:00"
+}

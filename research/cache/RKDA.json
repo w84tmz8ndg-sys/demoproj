@@ -1,0 +1,27 @@
+{
+ "ticker": "RKDA",
+ "name": "Arcadia Biosciences Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 1174225.0,
+ "price": "$0.1936",
+ "cik": 1469443,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RKDA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rkda",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:32+00:00"
+}

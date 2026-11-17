@@ -1,0 +1,27 @@
+{
+ "ticker": "FF",
+ "name": "FutureFuel Corp.  Common shares",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 136634236.0,
+ "price": "$3.115",
+ "cik": 1337298,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, FutureFuel Corp. (FF) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ff",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:11+00:00"
+}

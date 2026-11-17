@@ -1,0 +1,27 @@
+{
+ "ticker": "AKA",
+ "name": "a.k.a. Brands Holding Corp. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "",
+ "mcap": 91250354.0,
+ "price": "$8.25",
+ "cik": 1865107,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AKA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, a.k.a. Brands (AKA) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aka",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:22+00:00"
+}

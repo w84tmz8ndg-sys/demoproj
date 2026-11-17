@@ -1,0 +1,27 @@
+{
+ "ticker": "OMSE",
+ "name": "OMS Energy Technologies Inc. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Oil and Gas Field Machinery",
+ "country": "Singapore",
+ "mcap": 170219303.0,
+ "price": "$4.01",
+ "cik": 2012219,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OMSE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/omse",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:58+00:00"
+}

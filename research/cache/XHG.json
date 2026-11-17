@@ -1,0 +1,27 @@
+{
+ "ticker": "XHG",
+ "name": "XChange TEC.INC American Depositary Shares ",
+ "sector": "Finance",
+ "industry": "Specialty Insurers",
+ "country": "China",
+ "mcap": 173201031.0,
+ "price": "$3.36",
+ "cik": 1769256,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XHG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/xhg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:52+00:00"
+}

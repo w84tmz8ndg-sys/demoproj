@@ -1,0 +1,27 @@
+{
+ "ticker": "GRPN",
+ "name": "Groupon Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Advertising",
+ "country": "United States",
+ "mcap": 471673192.0,
+ "price": "$11.79",
+ "cik": 1490281,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GRPN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Groupon (GRPN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/grpn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:59+00:00"
+}

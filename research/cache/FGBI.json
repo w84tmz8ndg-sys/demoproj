@@ -1,0 +1,27 @@
+{
+ "ticker": "FGBI",
+ "name": "First Guaranty Bancshares Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Savings Institutions",
+ "country": "United States",
+ "mcap": 204588593.0,
+ "price": "$12.37",
+ "cik": 1408534,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FGBI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, First Guaranty Bancshares (FGBI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fgbi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:50+00:00"
+}

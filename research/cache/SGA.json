@@ -1,0 +1,27 @@
+{
+ "ticker": "SGA",
+ "name": "Saga Communications Inc. Class A Common Stock (FL)",
+ "sector": "Consumer Discretionary",
+ "industry": "Broadcasting",
+ "country": "United States",
+ "mcap": 42695285.0,
+ "price": "$6.72",
+ "cik": 886136,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SGA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Saga Communications (SGA) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sga",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:10+00:00"
+}

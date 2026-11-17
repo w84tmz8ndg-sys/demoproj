@@ -1,0 +1,27 @@
+{
+ "ticker": "CDNL",
+ "name": "Cardinal Infrastructure Group Inc. Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 289980769.0,
+ "price": "$6.10",
+ "cik": 2079999,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CDNL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Cardinal Infrastructure Group Inc. Class A Common Stock (CDNL) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cdnl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:38+00:00"
+}

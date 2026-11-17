@@ -1,0 +1,27 @@
+{
+ "ticker": "FINS",
+ "name": "Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest",
+ "sector": "Finance",
+ "industry": "Finance/Investors Services",
+ "country": "",
+ "mcap": 292982238.0,
+ "price": "$11.69",
+ "cik": 1745059,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FINS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fins",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:27+00:00"
+}

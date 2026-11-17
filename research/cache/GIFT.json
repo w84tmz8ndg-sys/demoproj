@@ -1,0 +1,27 @@
+{
+ "ticker": "GIFT",
+ "name": "Giftify Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "United States",
+ "mcap": 23224106.0,
+ "price": "$0.6487",
+ "cik": 1760233,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GIFT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Giftify Inc. (GIFT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gift",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:39+00:00"
+}

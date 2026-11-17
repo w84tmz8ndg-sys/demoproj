@@ -1,0 +1,27 @@
+{
+ "ticker": "LXU",
+ "name": "LSB Industries Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 780148929.0,
+ "price": "$10.835",
+ "cik": 60714,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LXU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, LSB Industries, Inc. (LXU) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lxu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:07+00:00"
+}

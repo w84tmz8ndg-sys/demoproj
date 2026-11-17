@@ -1,0 +1,27 @@
+{
+ "ticker": "KTTA",
+ "name": "Pasithea Therapeutics Corp. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 18376274.0,
+ "price": "$0.50",
+ "cik": 1841330,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KTTA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ktta",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:27+00:00"
+}

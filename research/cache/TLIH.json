@@ -1,0 +1,27 @@
+{
+ "ticker": "TLIH",
+ "name": "Ten-League International Holdings Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Specialties",
+ "country": "Singapore",
+ "mcap": 15966562.0,
+ "price": "$5.43",
+ "cik": 1982012,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TLIH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tlih",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:57+00:00"
+}

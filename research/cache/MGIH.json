@@ -1,0 +1,27 @@
+{
+ "ticker": "MGIH",
+ "name": "Millennium Group International Holdings Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Publishing",
+ "country": "Hong Kong",
+ "mcap": 14850000.0,
+ "price": "$1.32",
+ "cik": 1903995,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MGIH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mgih",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:20+00:00"
+}

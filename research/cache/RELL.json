@@ -1,0 +1,27 @@
+{
+ "ticker": "RELL",
+ "name": "Richardson Electronics Ltd. Common Stock",
+ "sector": "Technology",
+ "industry": "Electronic Components",
+ "country": "United States",
+ "mcap": 264657258.0,
+ "price": "$17.79",
+ "cik": 355948,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RELL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Richardson Electronics (RELL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rell",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:12+00:00"
+}

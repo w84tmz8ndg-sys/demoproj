@@ -1,0 +1,27 @@
+{
+ "ticker": "ZYBT",
+ "name": "Zhengye Biotechnology Holding Limited Class A Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "China",
+ "mcap": 69665323.0,
+ "price": "$1.47",
+ "cik": 1975641,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZYBT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zybt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:44+00:00"
+}

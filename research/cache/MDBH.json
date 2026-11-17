@@ -1,0 +1,27 @@
+{
+ "ticker": "MDBH",
+ "name": "MDB Capital Holdings LLC Class A common",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 8397884.0,
+ "price": "$1.47",
+ "cik": 1934642,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MDBH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, MDB Capital Holdings LLC - Ordinary Shares - Class A (MDBH) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mdbh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:27+00:00"
+}

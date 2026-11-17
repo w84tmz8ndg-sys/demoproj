@@ -1,0 +1,27 @@
+{
+ "ticker": "FLX",
+ "name": "BingEx Limited American Depositary Shares",
+ "sector": "Industrials",
+ "industry": "Trucking Freight/Courier Services",
+ "country": "China",
+ "mcap": 109694865.0,
+ "price": "$1.50",
+ "cik": 1858724,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FLX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/flx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:25+00:00"
+}

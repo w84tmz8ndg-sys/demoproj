@@ -1,0 +1,27 @@
+{
+ "ticker": "BMGL",
+ "name": "Basel Medical Group Ltd Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Medical/Nursing Services",
+ "country": "Singapore",
+ "mcap": 4105872.0,
+ "price": "$0.3023",
+ "cik": 2004489,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BMGL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bmgl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:44+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "FSI",
+ "name": "Flexible Solutions International Inc. Common Stock (CDA)",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "Canada",
+ "mcap": 77030223.0,
+ "price": "$6.03",
+ "cik": 1069394,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FSI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Flexible Solutions International (FSI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fsi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:18+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "KOSS",
+ "name": "Koss Corporation Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "United States",
+ "mcap": 29961276.0,
+ "price": "$3.165",
+ "cik": 56701,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KOSS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Koss Corporation (KOSS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/koss",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:55+00:00"
+}

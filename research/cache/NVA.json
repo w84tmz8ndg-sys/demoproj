@@ -1,0 +1,27 @@
+{
+ "ticker": "NVA",
+ "name": "Nova Minerals Corp Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "",
+ "mcap": 111527555.0,
+ "price": "$2.92",
+ "cik": 1852551,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NVA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nva",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:19+00:00"
+}

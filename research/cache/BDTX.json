@@ -1,0 +1,27 @@
+{
+ "ticker": "BDTX",
+ "name": "Black Diamond Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 87926430.0,
+ "price": "$1.53",
+ "cik": 1701541,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BDTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Black Diamond Therapeutics (BDTX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bdtx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:31+00:00"
+}

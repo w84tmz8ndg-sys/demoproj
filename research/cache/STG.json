@@ -1,0 +1,27 @@
+{
+ "ticker": "STG",
+ "name": "Sunlands Technology Group American Depositary Shares representing Class A ordinary shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "",
+ "mcap": 25245797.0,
+ "price": "$1.885",
+ "cik": 1723935,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/STG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/stg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:39+00:00"
+}

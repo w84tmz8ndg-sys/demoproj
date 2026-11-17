@@ -1,0 +1,27 @@
+{
+ "ticker": "WSBF",
+ "name": "Waterstone Financial Inc. Common Stock (MD)",
+ "sector": "Finance",
+ "industry": "Savings Institutions",
+ "country": "United States",
+ "mcap": 346799540.0,
+ "price": "$19.28",
+ "cik": 1569994,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WSBF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Waterstone Financial (WSBF) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wsbf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:22+00:00"
+}

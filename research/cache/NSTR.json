@@ -1,0 +1,27 @@
+{
+ "ticker": "NSTR",
+ "name": "NorthStar Earth & Space Enterprises Inc. Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Telecommunications Equipment",
+ "country": "",
+ "mcap": 113876064.0,
+ "price": "$1.775",
+ "cik": 2080023,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NSTR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nstr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:09+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "LRE",
+ "name": "Lead Real Estate Co. Ltd American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Homebuilding",
+ "country": "Japan",
+ "mcap": 15551766.0,
+ "price": "$1.14",
+ "cik": 1888980,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LRE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lre",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:03+00:00"
+}

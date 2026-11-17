@@ -1,0 +1,27 @@
+{
+ "ticker": "YQ",
+ "name": "17 Education & Technology Group Inc. American Depositary Shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 29310358.0,
+ "price": "$2.70",
+ "cik": 1821468,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YQ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yq",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:02+00:00"
+}

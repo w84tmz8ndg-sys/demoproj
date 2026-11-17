@@ -1,0 +1,27 @@
+{
+ "ticker": "GOOD",
+ "name": "Gladstone Commercial Corporation Real Estate Investment Trust",
+ "sector": "Real Estate",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 471225282.0,
+ "price": "$9.70",
+ "cik": 1234006,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GOOD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Gladstone Commercial Corp (GOOD) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/good",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:59+00:00"
+}

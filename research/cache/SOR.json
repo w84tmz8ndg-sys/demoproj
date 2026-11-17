@@ -1,0 +1,27 @@
+{
+ "ticker": "SOR",
+ "name": "Source Capital Inc. Cmn Shs of BI",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 383095215.0,
+ "price": "$45.91",
+ "cik": 91847,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SOR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sor",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:34+00:00"
+}

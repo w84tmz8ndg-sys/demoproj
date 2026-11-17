@@ -1,0 +1,27 @@
+{
+ "ticker": "SITC",
+ "name": "SITE Centers Corp. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 37479846.0,
+ "price": "$0.714",
+ "cik": 894315,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SITC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, SITE Centers Corp. (SITC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sitc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:41+00:00"
+}

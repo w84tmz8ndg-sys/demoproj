@@ -1,0 +1,27 @@
+{
+ "ticker": "AXNX",
+ "name": "Axonex AI Group Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "Hong Kong",
+ "mcap": 6355777.0,
+ "price": "$0.9998",
+ "cik": 1998560,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AXNX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Axonics, Inc. (AXNX) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/axnx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:23+00:00"
+}

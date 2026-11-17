@@ -1,0 +1,27 @@
+{
+ "ticker": "AYTU",
+ "name": "Aytu BioPharma Inc.  Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 19780139.0,
+ "price": "$1.82",
+ "cik": 1385818,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AYTU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aytu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:06+00:00"
+}

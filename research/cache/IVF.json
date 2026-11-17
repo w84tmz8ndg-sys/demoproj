@@ -1,0 +1,27 @@
+{
+ "ticker": "IVF",
+ "name": "INVO Fertility Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 2760818.0,
+ "price": "$2.40",
+ "cik": 1417926,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IVF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ivf",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:09+00:00"
+}

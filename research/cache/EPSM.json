@@ -1,0 +1,27 @@
+{
+ "ticker": "EPSM",
+ "name": "Epsium Enterprise Limited Class A Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "Macau",
+ "mcap": 9500690.0,
+ "price": "$0.707",
+ "cik": 1883437,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EPSM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/epsm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:57+00:00"
+}

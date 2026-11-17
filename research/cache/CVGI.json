@@ -1,0 +1,27 @@
+{
+ "ticker": "CVGI",
+ "name": "Commercial Vehicle Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "United States",
+ "mcap": 135235712.0,
+ "price": "$3.33",
+ "cik": 1290900,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CVGI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Commercial Vehicle Group (CVGI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cvgi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:13+00:00"
+}

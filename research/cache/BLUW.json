@@ -1,0 +1,27 @@
+{
+ "ticker": "BLUW",
+ "name": "Blue Water Acquisition Corp. III Class A Ordinary Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "United States",
+ "mcap": 75674025.0,
+ "price": "$10.445",
+ "cik": 2050501,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BLUW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bluw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:23+00:00"
+}

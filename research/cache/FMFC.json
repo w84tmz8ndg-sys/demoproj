@@ -1,0 +1,27 @@
+{
+ "ticker": "FMFC",
+ "name": "Kandal M Venture Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Apparel",
+ "country": "Cambodia",
+ "mcap": 866578.0,
+ "price": "$1.76",
+ "cik": 2024656,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FMFC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fmfc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:47+00:00"
+}

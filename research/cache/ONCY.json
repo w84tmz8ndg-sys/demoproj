@@ -1,0 +1,27 @@
+{
+ "ticker": "ONCY",
+ "name": "Oncolytics Biotech Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Canada",
+ "mcap": 46274145.0,
+ "price": "$0.3399",
+ "cik": 1129928,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ONCY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/oncy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:41+00:00"
+}

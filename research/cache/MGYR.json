@@ -1,0 +1,27 @@
+{
+ "ticker": "MGYR",
+ "name": "Magyar Bancorp Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Savings Institutions",
+ "country": "United States",
+ "mcap": 145439779.0,
+ "price": "$22.53",
+ "cik": 1337068,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MGYR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Magyar Bancorp Inc. (MGYR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mgyr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:55+00:00"
+}

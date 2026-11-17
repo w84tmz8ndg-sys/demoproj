@@ -1,0 +1,27 @@
+{
+ "ticker": "YSXT",
+ "name": "YSX Tech. Co. Ltd Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Automotive Aftermarket",
+ "country": "China",
+ "mcap": 38259000.0,
+ "price": "$1.20",
+ "cik": 1993463,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YSXT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ysxt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:39+00:00"
+}

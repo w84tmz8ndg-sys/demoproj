@@ -1,0 +1,27 @@
+{
+ "ticker": "NECB",
+ "name": "NorthEast Community Bancorp Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Banks",
+ "country": "United States",
+ "mcap": 401820330.0,
+ "price": "$29.18",
+ "cik": 1847398,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NECB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Northeast Community Bancorp (NECB) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/necb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:12+00:00"
+}

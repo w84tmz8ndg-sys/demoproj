@@ -1,0 +1,27 @@
+{
+ "ticker": "UCL",
+ "name": "uCloudlink Group Inc. American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Telecommunications Equipment",
+ "country": "Hong Kong",
+ "mcap": 7584167.0,
+ "price": "$0.1991",
+ "cik": 1775898,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UCL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ucl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:53+00:00"
+}

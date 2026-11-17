@@ -1,0 +1,27 @@
+{
+ "ticker": "KREF",
+ "name": "KKR Real Estate Finance Trust Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 318622722.0,
+ "price": "$5.56",
+ "cik": 1631596,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KREF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, KKR Real Estate Finance Trust Inc (KREF) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/kref",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:51+00:00"
+}

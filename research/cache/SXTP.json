@@ -1,0 +1,27 @@
+{
+ "ticker": "SXTP",
+ "name": "60 Degrees Pharmaceuticals Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 1737744.0,
+ "price": "$0.4941",
+ "cik": 1946563,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SXTP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sxtp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:12+00:00"
+}

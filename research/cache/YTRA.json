@@ -1,0 +1,27 @@
+{
+ "ticker": "YTRA",
+ "name": "Yatra Online Inc. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Transportation Services",
+ "country": "India",
+ "mcap": 54375593.0,
+ "price": "$0.85",
+ "cik": 1516899,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YTRA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ytra",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:59+00:00"
+}

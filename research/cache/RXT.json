@@ -1,0 +1,27 @@
+{
+ "ticker": "RXT",
+ "name": "Rackspace Technology Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 661567873.0,
+ "price": "$2.515",
+ "cik": 1810019,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RXT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Rackspace Technology (RXT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rxt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:21+00:00"
+}

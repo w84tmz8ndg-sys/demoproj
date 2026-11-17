@@ -1,0 +1,27 @@
+{
+ "ticker": "WBUY",
+ "name": "WEBUY GLOBAL LTD. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "Singapore",
+ "mcap": 2967644.0,
+ "price": "$0.5281",
+ "cik": 1946703,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WBUY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wbuy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:54+00:00"
+}

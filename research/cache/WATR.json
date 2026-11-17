@@ -1,0 +1,27 @@
+{
+ "ticker": "WATR",
+ "name": "Air Water Ventures Limited Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "United Arab Emirates",
+ "mcap": 46509997.0,
+ "price": "$1.47",
+ "cik": 2092314,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WATR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/watr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:44+00:00"
+}

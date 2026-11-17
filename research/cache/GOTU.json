@@ -1,0 +1,27 @@
+{
+ "ticker": "GOTU",
+ "name": "Gaotu Techedu Inc. American Depositary Shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 573452630.0,
+ "price": "$2.405",
+ "cik": 1768259,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GOTU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gotu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:31+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "DFSC",
+ "name": "DEFSEC Technologies Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Canada",
+ "mcap": 1888643.0,
+ "price": "$3.70",
+ "cik": 1889823,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DFSC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dfsc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:05+00:00"
+}

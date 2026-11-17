@@ -1,0 +1,27 @@
+{
+ "ticker": "OVLY",
+ "name": "Oak Valley Bancorp (CA) Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 284424796.0,
+ "price": "$33.78",
+ "cik": 1431567,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OVLY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Oak Valley Bancorp (OVLY) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ovly",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:48+00:00"
+}

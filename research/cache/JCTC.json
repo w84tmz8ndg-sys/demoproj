@@ -1,0 +1,27 @@
+{
+ "ticker": "JCTC",
+ "name": "Jewett-Cameron Trading Company Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "RETAIL: Building Materials",
+ "country": "United States",
+ "mcap": 10137925.0,
+ "price": "$2.88",
+ "cik": 885307,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JCTC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jctc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:43+00:00"
+}

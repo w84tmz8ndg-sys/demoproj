@@ -1,0 +1,27 @@
+{
+ "ticker": "TRSG",
+ "name": "Tungray Technologies Inc Class A Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "Singapore",
+ "mcap": 18315903.0,
+ "price": "$1.12",
+ "cik": 1943444,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRSG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/trsg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:28+00:00"
+}

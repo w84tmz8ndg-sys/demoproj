@@ -1,0 +1,27 @@
+{
+ "ticker": "ESYN",
+ "name": "EnerSyn Global Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Other Pharmaceuticals",
+ "country": "United States",
+ "mcap": 42158000.0,
+ "price": "$1.25",
+ "cik": 1897245,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ESYN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/esyn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:14+00:00"
+}

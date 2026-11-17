@@ -1,0 +1,27 @@
+{
+ "ticker": "SCHL",
+ "name": "Scholastic Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Books",
+ "country": "United States",
+ "mcap": 685199506.0,
+ "price": "$37.22",
+ "cik": 866729,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SCHL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Scholastic Corp. (SCHL) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/schl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:02+00:00"
+}

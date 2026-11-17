@@ -1,0 +1,27 @@
+{
+ "ticker": "ADVB",
+ "name": "Advanced Biomed Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "Taiwan",
+ "mcap": 3667735.0,
+ "price": "$2.22",
+ "cik": 1941029,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADVB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/advb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:01+00:00"
+}

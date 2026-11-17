@@ -1,0 +1,27 @@
+{
+ "ticker": "ZENA",
+ "name": "ZenaTech Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Canada",
+ "mcap": 116993425.0,
+ "price": "$0.5816",
+ "cik": 1997403,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZENA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zena",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:58+00:00"
+}

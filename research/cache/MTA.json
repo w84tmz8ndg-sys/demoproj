@@ -1,0 +1,27 @@
+{
+ "ticker": "MTA",
+ "name": "Metalla Royalty & Streaming Ltd. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 637010578.0,
+ "price": "$6.76",
+ "cik": 1722606,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MTA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mta",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:45+00:00"
+}

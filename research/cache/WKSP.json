@@ -1,0 +1,27 @@
+{
+ "ticker": "WKSP",
+ "name": "Worksport Ltd. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "Canada",
+ "mcap": 6558619.0,
+ "price": "$0.3236",
+ "cik": 1096275,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WKSP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wksp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:16+00:00"
+}

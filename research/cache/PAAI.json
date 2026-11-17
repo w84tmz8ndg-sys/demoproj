@@ -1,0 +1,27 @@
+{
+ "ticker": "PAAI",
+ "name": "Paradium.AI Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 31423031.0,
+ "price": "$0.66",
+ "cik": 894871,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PAAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/paai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:48+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "VALU",
+ "name": "Value Line Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 362618088.0,
+ "price": "$38.65",
+ "cik": 717720,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VALU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Value Line, Inc. (VALU) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/valu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:03+00:00"
+}

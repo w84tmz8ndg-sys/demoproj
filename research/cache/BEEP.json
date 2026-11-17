@@ -1,0 +1,27 @@
+{
+ "ticker": "BEEP",
+ "name": "Mobile Infrastructure Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 90034000.0,
+ "price": "$2.18",
+ "cik": 1847874,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BEEP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Mobile Infrastructure Corp. (BEEP) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/beep",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:25+00:00"
+}

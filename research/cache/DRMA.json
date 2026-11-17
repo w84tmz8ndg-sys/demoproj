@@ -1,0 +1,27 @@
+{
+ "ticker": "DRMA",
+ "name": "Dermata Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 2950729.0,
+ "price": "$0.5985",
+ "cik": 1853816,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DRMA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/drma",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:56+00:00"
+}

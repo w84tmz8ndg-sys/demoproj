@@ -1,0 +1,27 @@
+{
+ "ticker": "AUBN",
+ "name": "Auburn National Bancorporation Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 91822606.0,
+ "price": "$26.39",
+ "cik": 750574,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AUBN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Auburn National Bancorp Inc. (AUBN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aubn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:19+00:00"
+}

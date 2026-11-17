@@ -1,0 +1,27 @@
+{
+ "ticker": "EXYN",
+ "name": "Exyn Technologies Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 14317123.0,
+ "price": "$1.80",
+ "cik": 1960355,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EXYN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/exyn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:31+00:00"
+}

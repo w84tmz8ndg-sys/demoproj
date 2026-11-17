@@ -1,0 +1,27 @@
+{
+ "ticker": "FENG",
+ "name": "Phoenix New Media Limited American Depositary Shares each representing 48 Class A ordinary shares.",
+ "sector": "Industrials",
+ "industry": "Broadcasting",
+ "country": "China",
+ "mcap": 16514817.0,
+ "price": "$1.375",
+ "cik": 1509646,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FENG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/feng",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:51+00:00"
+}

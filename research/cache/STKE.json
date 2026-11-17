@@ -1,0 +1,27 @@
+{
+ "ticker": "STKE",
+ "name": "Sol Strategies Inc. Common Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "Canada",
+ "mcap": 40276617.0,
+ "price": "$1.02",
+ "cik": 1846839,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/STKE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/stke",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:28+00:00"
+}

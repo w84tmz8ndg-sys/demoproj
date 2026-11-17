@@ -1,0 +1,27 @@
+{
+ "ticker": "QUCY",
+ "name": "Quantum Cyber N.V. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Germany",
+ "mcap": 51036415.0,
+ "price": "$0.585",
+ "cik": 1874252,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QUCY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/qucy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:22+00:00"
+}

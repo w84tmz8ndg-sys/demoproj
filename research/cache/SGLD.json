@@ -1,0 +1,27 @@
+{
+ "ticker": "SGLD",
+ "name": "Scorpio Gold Corporation American Depositary Shares ",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "Canada",
+ "mcap": 52137215.0,
+ "price": "$2.995",
+ "cik": 1467093,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SGLD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sgld",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:11+00:00"
+}

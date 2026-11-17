@@ -1,0 +1,27 @@
+{
+ "ticker": "WIMI",
+ "name": "WiMi Hologram Cloud Inc. Class B Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 8493895.0,
+ "price": "$0.462",
+ "cik": 1770088,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WIMI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wimi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:22+00:00"
+}

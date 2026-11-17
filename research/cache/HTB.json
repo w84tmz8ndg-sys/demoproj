@@ -1,0 +1,27 @@
+{
+ "ticker": "HTB",
+ "name": "HomeTrust Bancshares Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Savings Institutions",
+ "country": "United States",
+ "mcap": 743845762.0,
+ "price": "$47.03",
+ "cik": 1538263,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HTB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Hometrust Bancshares Inc. (HTB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/htb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:27+00:00"
+}

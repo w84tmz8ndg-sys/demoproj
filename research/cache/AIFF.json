@@ -1,0 +1,27 @@
+{
+ "ticker": "AIFF",
+ "name": "Firefly Neuroscience Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 13942597.0,
+ "price": "$0.8853",
+ "cik": 803578,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIFF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aiff",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:36+00:00"
+}

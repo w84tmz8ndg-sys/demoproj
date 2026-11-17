@@ -1,0 +1,27 @@
+{
+ "ticker": "CIX",
+ "name": "CompX International Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 560207594.0,
+ "price": "$45.41",
+ "cik": 1049606,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CIX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, CompX International (CIX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cix",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:43+00:00"
+}

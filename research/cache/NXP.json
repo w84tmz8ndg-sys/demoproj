@@ -1,0 +1,27 @@
+{
+ "ticker": "NXP",
+ "name": "Nuveen Select Tax Free Income Portfolio Common Stock",
+ "sector": "Finance",
+ "industry": "Trusts Except Educational Religious and Charitable",
+ "country": "United States",
+ "mcap": 611664407.0,
+ "price": "$13.07",
+ "cik": 883618,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NXP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nxp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:01+00:00"
+}

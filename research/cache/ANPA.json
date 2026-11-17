@@ -1,0 +1,27 @@
+{
+ "ticker": "ANPA",
+ "name": "Rich Sparkle Holdings Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "Hong Kong",
+ "mcap": 16007860.0,
+ "price": "$1.06",
+ "cik": 2031688,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ANPA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/anpa",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:55+00:00"
+}

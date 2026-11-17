@@ -1,0 +1,27 @@
+{
+ "ticker": "MYSZ",
+ "name": "My Size Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Israel",
+ "mcap": 801364.0,
+ "price": "$0.6784",
+ "cik": 1211805,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MYSZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mysz",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:52+00:00"
+}

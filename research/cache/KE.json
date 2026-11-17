@@ -1,0 +1,27 @@
+{
+ "ticker": "KE",
+ "name": "Kimball Electronics Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Electrical Products",
+ "country": "United States",
+ "mcap": 452191905.0,
+ "price": "$18.86",
+ "cik": 1606757,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Kimball Electronics Inc (KE) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ke",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:22+00:00"
+}

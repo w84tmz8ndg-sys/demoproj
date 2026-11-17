@@ -1,0 +1,27 @@
+{
+ "ticker": "PLRZ",
+ "name": "Polyrizon Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "Israel",
+ "mcap": 27078935.0,
+ "price": "$11.15",
+ "cik": 1893645,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLRZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/plrz",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:22+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GP",
+ "name": "GreenPower Motor Company Inc. Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Construction/Ag Equipment/Trucks",
+ "country": "Canada",
+ "mcap": 2962001.0,
+ "price": "$1.41",
+ "cik": 1584547,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:55+00:00"
+}

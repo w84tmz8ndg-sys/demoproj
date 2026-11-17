@@ -1,0 +1,27 @@
+{
+ "ticker": "ELMT",
+ "name": "The Elmet Group Co. Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 583784336.0,
+ "price": "$19.04",
+ "cik": 2101698,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ELMT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/elmt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:26+00:00"
+}

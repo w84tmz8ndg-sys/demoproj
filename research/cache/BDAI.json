@@ -1,0 +1,27 @@
+{
+ "ticker": "BDAI",
+ "name": "Biddance AI Systems Inc. Class A Ordinary Share",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 23775104.0,
+ "price": "$1.83",
+ "cik": 1742341,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BDAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bdai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:33+00:00"
+}

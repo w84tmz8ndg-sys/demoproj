@@ -1,0 +1,27 @@
+{
+ "ticker": "FDBC",
+ "name": "Fidelity D & D Bancorp Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 389518546.0,
+ "price": "$67.06",
+ "cik": 1098151,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FDBC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Fidelity D & D Bancorp (FDBC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fdbc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:22+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "VIDA",
+ "name": "VIDA Global Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "",
+ "mcap": 9763273.0,
+ "price": "$0.6695",
+ "cik": 1973062,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VIDA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vida",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:52+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PXS",
+ "name": "Pyxis Tankers Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 56205010.0,
+ "price": "$5.47",
+ "cik": 1640043,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PXS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pxs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:46+00:00"
+}

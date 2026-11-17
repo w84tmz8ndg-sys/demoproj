@@ -1,0 +1,27 @@
+{
+ "ticker": "UFG",
+ "name": "Uni-Fuels Holdings Limited Class A Ordinary Shares",
+ "sector": "Energy",
+ "industry": "Oil Refining/Marketing",
+ "country": "Singapore",
+ "mcap": 7434485.0,
+ "price": "$2.29",
+ "cik": 2021688,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UFG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ufg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:56+00:00"
+}

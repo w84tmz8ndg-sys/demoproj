@@ -1,0 +1,27 @@
+{
+ "ticker": "VKQ",
+ "name": "Invesco Municipal Trust Common Stock",
+ "sector": "Finance",
+ "industry": "Trusts Except Educational Religious and Charitable",
+ "country": "United States",
+ "mcap": 485292467.0,
+ "price": "$8.77",
+ "cik": 877463,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VKQ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vkq",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:43+00:00"
+}

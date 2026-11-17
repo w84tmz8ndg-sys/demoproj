@@ -1,0 +1,27 @@
+{
+ "ticker": "FTW",
+ "name": "Presidio Production Company Class A Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 319244767.0,
+ "price": "$10.135",
+ "cik": 2083125,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FTW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ftw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:50+00:00"
+}

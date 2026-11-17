@@ -1,0 +1,27 @@
+{
+ "ticker": "SONM",
+ "name": "DNA X Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 3155128.0,
+ "price": "$2.12",
+ "cik": 1178697,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SONM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sonm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:33+00:00"
+}

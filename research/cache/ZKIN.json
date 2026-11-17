@@ -1,0 +1,27 @@
+{
+ "ticker": "ZKIN",
+ "name": "ZK International Group Co. Ltd Ordinary Share",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "China",
+ "mcap": 81383477.0,
+ "price": "$1.42",
+ "cik": 1687451,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZKIN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zkin",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:04+00:00"
+}

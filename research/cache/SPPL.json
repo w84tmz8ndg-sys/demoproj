@@ -1,0 +1,27 @@
+{
+ "ticker": "SPPL",
+ "name": "SIMPPLE LTD. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "Singapore",
+ "mcap": 26129111.0,
+ "price": "$2.67",
+ "cik": 1948697,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SPPL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sppl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:30+00:00"
+}

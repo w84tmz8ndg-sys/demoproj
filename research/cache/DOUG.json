@@ -1,0 +1,27 @@
+{
+ "ticker": "DOUG",
+ "name": "Douglas Elliman Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 150074321.0,
+ "price": "$1.65",
+ "cik": 1878897,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DOUG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Douglas Elliman Inc. (DOUG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/doug",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:46+00:00"
+}

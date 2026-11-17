@@ -1,0 +1,27 @@
+{
+ "ticker": "BRBI",
+ "name": "BRBI BR Partners S.A. ADSs",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Brazil",
+ "mcap": 361484497.0,
+ "price": "$7.21",
+ "cik": 2058601,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BRBI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/brbi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:06+00:00"
+}

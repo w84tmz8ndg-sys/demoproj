@@ -1,0 +1,27 @@
+{
+ "ticker": "DTIL",
+ "name": "Precision BioSciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 277572874.0,
+ "price": "$7.28",
+ "cik": 1357874,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DTIL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Precision BioSciences (DTIL) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dtil",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:56+00:00"
+}

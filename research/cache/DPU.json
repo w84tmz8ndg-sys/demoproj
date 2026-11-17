@@ -1,0 +1,27 @@
+{
+ "ticker": "DPU",
+ "name": "Nexpu Ltd. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "China",
+ "mcap": 40827625.0,
+ "price": "$0.9395",
+ "cik": 1938865,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DPU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dpu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:23+00:00"
+}

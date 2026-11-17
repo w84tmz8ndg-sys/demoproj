@@ -1,0 +1,27 @@
+{
+ "ticker": "IHT",
+ "name": "InnSuites Hospitality Trust Shares of Beneficial Interest",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 11505183.0,
+ "price": "$1.025",
+ "cik": 82473,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IHT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/iht",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:20+00:00"
+}

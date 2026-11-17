@@ -1,0 +1,27 @@
+{
+ "ticker": "MFIN",
+ "name": "Medallion Financial Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 210852989.0,
+ "price": "$9.40",
+ "cik": 1000209,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MFIN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Medallion Financial Corp. (MFIN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mfin",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:43+00:00"
+}

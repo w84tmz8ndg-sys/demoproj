@@ -1,0 +1,27 @@
+{
+ "ticker": "BIOT",
+ "name": "Instinct Bio Technical Company Holdings Inc. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "Japan",
+ "mcap": 5405724.0,
+ "price": "$0.188",
+ "cik": 2072188,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BIOT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/biot",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:53+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ALAR",
+ "name": "Alarum Technologies Ltd. American Depositary Share",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Israel",
+ "mcap": 8120528.0,
+ "price": "$1.12",
+ "cik": 1725332,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ALAR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/alar",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:36+00:00"
+}

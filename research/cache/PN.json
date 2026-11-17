@@ -1,0 +1,27 @@
+{
+ "ticker": "PN",
+ "name": "PN Smart Energy Limited Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Retail: Computer Software & Peripheral Equipment",
+ "country": "China",
+ "mcap": 34376878.0,
+ "price": "$2.33",
+ "cik": 2001288,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:16+00:00"
+}

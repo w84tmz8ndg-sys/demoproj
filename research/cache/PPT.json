@@ -1,0 +1,27 @@
+{
+ "ticker": "PPT",
+ "name": "Franklin Premier Income Trust Shares of Beneficial Interest",
+ "sector": "Finance",
+ "industry": "Finance Companies",
+ "country": "United States",
+ "mcap": 325457420.0,
+ "price": "$3.27",
+ "cik": 827773,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PPT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ppt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:42+00:00"
+}

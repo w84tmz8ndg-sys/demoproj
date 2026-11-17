@@ -1,0 +1,27 @@
+{
+ "ticker": "SSII",
+ "name": "SS Innovations International Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "India",
+ "mcap": 270659376.0,
+ "price": "$1.35",
+ "cik": 1676163,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SSII/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, SS Innovations International Inc (SSII) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ssii",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:08+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SJ",
+ "name": "Scienjoy Holding Corporation Class A Ordinary Shares ",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "China",
+ "mcap": 44585906.0,
+ "price": "$1.05",
+ "cik": 1753673,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SJ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sj",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:54+00:00"
+}

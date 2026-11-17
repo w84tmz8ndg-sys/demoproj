@@ -1,0 +1,27 @@
+{
+ "ticker": "PMM",
+ "name": "Franklin Managed Municipal Income Trust Shares of Beneficial Interest",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 299256287.0,
+ "price": "$6.14",
+ "cik": 844790,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PMM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pmm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:16+00:00"
+}

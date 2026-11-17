@@ -1,0 +1,27 @@
+{
+ "ticker": "BVC",
+ "name": "BitVentures Limited Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "China",
+ "mcap": 118020522.0,
+ "price": "$13.91",
+ "cik": 1785680,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BVC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bvc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:56+00:00"
+}

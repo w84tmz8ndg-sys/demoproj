@@ -1,0 +1,27 @@
+{
+ "ticker": "SJT",
+ "name": "San Juan Basin Royalty Trust Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 205544790.0,
+ "price": "$4.41",
+ "cik": 319655,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SJT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sjt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:49+00:00"
+}

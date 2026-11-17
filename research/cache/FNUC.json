@@ -1,0 +1,27 @@
+{
+ "ticker": "FNUC",
+ "name": "Frontier Nuclear and Minerals Inc. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Other Metals and Minerals",
+ "country": "Canada",
+ "mcap": 21359932.0,
+ "price": "$0.595",
+ "cik": 1769697,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FNUC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fnuc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:52+00:00"
+}

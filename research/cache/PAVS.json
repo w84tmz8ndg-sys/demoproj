@@ -1,0 +1,27 @@
+{
+ "ticker": "PAVS",
+ "name": "Paranovus Entertainment Technology Ltd. Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "China",
+ "mcap": 1965382.0,
+ "price": "$2.26",
+ "cik": 1751876,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PAVS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pavs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:53+00:00"
+}

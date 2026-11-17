@@ -1,0 +1,27 @@
+{
+ "ticker": "TRIB",
+ "name": "Trinity Biotech plc American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+ "country": "Ireland",
+ "mcap": 4610458.0,
+ "price": "$5.67",
+ "cik": 888721,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRIB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/trib",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:26+00:00"
+}

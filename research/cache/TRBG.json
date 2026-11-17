@@ -1,0 +1,27 @@
+{
+ "ticker": "TRBG",
+ "name": "TurboGen Ltd. Ordinary Shares",
+ "sector": "Utilities",
+ "industry": "Power Generation",
+ "country": "Israel",
+ "mcap": 86550366.0,
+ "price": "$3.40",
+ "cik": 2088375,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRBG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/trbg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:41+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ASC",
+ "name": "Ardmore Shipping Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "",
+ "mcap": 770149339.0,
+ "price": "$18.875",
+ "cik": 1577437,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ASC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/asc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:14+00:00"
+}

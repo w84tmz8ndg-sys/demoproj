@@ -1,0 +1,27 @@
+{
+ "ticker": "IMSR",
+ "name": "Terrestrial Energy Inc. Common Stock  ",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 258611711.0,
+ "price": "$2.44",
+ "cik": 2019804,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IMSR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Terrestrial Energy Inc. (IMSR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/imsr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:27+00:00"
+}

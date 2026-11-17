@@ -1,0 +1,27 @@
+{
+ "ticker": "BRNX",
+ "name": "BrenX Ltd. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Building Products",
+ "country": "Israel",
+ "mcap": 809940.0,
+ "price": "$0.416",
+ "cik": 1901215,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BRNX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/brnx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:52+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SHOE",
+ "name": "Shoe Station Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Clothing/Shoe/Accessory Stores",
+ "country": "United States",
+ "mcap": 374592971.0,
+ "price": "$13.78",
+ "cik": 895447,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SHOE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/shoe",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:50+00:00"
+}

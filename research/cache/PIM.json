@@ -1,0 +1,27 @@
+{
+ "ticker": "PIM",
+ "name": "Franklin Master Intermediate Income Trust Shares of Beneficial Interest",
+ "sector": "Finance",
+ "industry": "Finance Companies",
+ "country": "United States",
+ "mcap": 151765250.0,
+ "price": "$3.02",
+ "cik": 830622,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PIM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pim",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:40+00:00"
+}

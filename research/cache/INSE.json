@@ -1,0 +1,27 @@
+{
+ "ticker": "INSE",
+ "name": "Inspired Entertainment Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 108103404.0,
+ "price": "$4.10",
+ "cik": 1615063,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INSE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Inspired Entertainment Inc (INSE) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/inse",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:28+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "REBN",
+ "name": "Reborn Coffee Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "United States",
+ "mcap": 8402895.0,
+ "price": "$0.9748",
+ "cik": 1707910,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/REBN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rebn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:24+00:00"
+}

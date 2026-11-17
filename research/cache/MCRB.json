@@ -1,0 +1,27 @@
+{
+ "ticker": "MCRB",
+ "name": "Seres Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 14374994.0,
+ "price": "$1.41",
+ "cik": 1609809,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MCRB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Seres Therapeutics (MCRB) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mcrb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:28+00:00"
+}

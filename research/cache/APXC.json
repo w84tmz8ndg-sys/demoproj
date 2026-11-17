@@ -1,0 +1,27 @@
+{
+ "ticker": "APXC",
+ "name": "Apex Critical Metals Corp. American Depositary Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "Canada",
+ "mcap": 427072107.0,
+ "price": "$4.27",
+ "cik": 2093856,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/APXC/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/apxc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:50+00:00"
+}

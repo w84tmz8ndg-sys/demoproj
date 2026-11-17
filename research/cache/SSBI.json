@@ -1,0 +1,27 @@
+{
+ "ticker": "SSBI",
+ "name": "Summit State Bank Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 78209084.0,
+ "price": "$11.72",
+ "cik": null,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SSBI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Summit State Bank (SSBI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ssbi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:12+00:00"
+}

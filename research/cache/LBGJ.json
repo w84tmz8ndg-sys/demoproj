@@ -1,0 +1,27 @@
+{
+ "ticker": "LBGJ",
+ "name": "Li Bang International Corporation Class A Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "China",
+ "mcap": 1207724.0,
+ "price": "$1.70",
+ "cik": 1896425,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LBGJ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lbgj",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:30+00:00"
+}

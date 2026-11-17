@@ -1,0 +1,27 @@
+{
+ "ticker": "JLHL",
+ "name": "Julong Holding Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Military/Government/Technical",
+ "country": "China",
+ "mcap": 111437133.0,
+ "price": "$5.02",
+ "cik": 2007846,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JLHL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jlhl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:21+00:00"
+}

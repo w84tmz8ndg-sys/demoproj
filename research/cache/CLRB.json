@@ -1,0 +1,27 @@
+{
+ "ticker": "CLRB",
+ "name": "Cellectar Biosciences Inc.  Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 10139575.0,
+ "price": "$1.01",
+ "cik": 1279704,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLRB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Cellectar Biosciences (CLRB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/clrb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:42+00:00"
+}

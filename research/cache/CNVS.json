@@ -1,0 +1,27 @@
+{
+ "ticker": "CNVS",
+ "name": "Cineverse Corp. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Consumer Electronics/Video Chains",
+ "country": "United States",
+ "mcap": 57660968.0,
+ "price": "$2.15",
+ "cik": 1173204,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNVS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Cineverse (CNVS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cnvs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:38+00:00"
+}

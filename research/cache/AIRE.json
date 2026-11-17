@@ -1,0 +1,27 @@
+{
+ "ticker": "AIRE",
+ "name": "reAlpha Tech Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 2613803.0,
+ "price": "$0.3516",
+ "cik": 1859199,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIRE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aire",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:18+00:00"
+}

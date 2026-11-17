@@ -1,0 +1,27 @@
+{
+ "ticker": "KPRX",
+ "name": "Kiora Pharmaceuticals Inc.  Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 4344748.0,
+ "price": "$0.982",
+ "cik": 1372514,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KPRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kprx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:35+00:00"
+}

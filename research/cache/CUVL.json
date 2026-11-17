@@ -1,0 +1,27 @@
+{
+ "ticker": "CUVL",
+ "name": "Clinuvel Pharmaceuticals Limited American Depositary Shares",
+ "sector": "Miscellaneous",
+ "industry": "Miscellaneous",
+ "country": "Australia",
+ "mcap": 252139490.0,
+ "price": "$5.00",
+ "cik": 1290877,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CUVL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cuvl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:36+00:00"
+}

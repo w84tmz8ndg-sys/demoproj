@@ -1,0 +1,27 @@
+{
+ "ticker": "BENF",
+ "name": "Beneficient Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 11867256.0,
+ "price": "$0.625",
+ "cik": 1775734,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BENF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/benf",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:13+00:00"
+}

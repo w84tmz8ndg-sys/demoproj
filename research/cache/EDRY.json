@@ -1,0 +1,27 @@
+{
+ "ticker": "EDRY",
+ "name": "EuroDry Ltd. Common Shares ",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 106694517.0,
+ "price": "$37.22",
+ "cik": 1731388,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EDRY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/edry",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:34+00:00"
+}

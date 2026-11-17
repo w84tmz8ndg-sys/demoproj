@@ -1,0 +1,27 @@
+{
+ "ticker": "ACU",
+ "name": "Acme United Corporation. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 265442141.0,
+ "price": "$66.90",
+ "cik": 2098,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Acme United Corporation (ACU) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/acu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:11+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "BOF",
+ "name": "BranchOut Food Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 40266223.0,
+ "price": "$2.05",
+ "cik": 1962481,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BOF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, BranchOut Food Inc (BOF) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bof",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:27+00:00"
+}

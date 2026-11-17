@@ -1,0 +1,27 @@
+{
+ "ticker": "WOOF",
+ "name": "Petco Health and Wellness Company Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "United States",
+ "mcap": 790517425.0,
+ "price": "$2.76",
+ "cik": 1826470,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WOOF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Petco Health and Wellness Company (WOOF) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/woof",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:01+00:00"
+}

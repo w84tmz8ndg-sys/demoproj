@@ -1,0 +1,27 @@
+{
+ "ticker": "FOCL",
+ "name": "EDAP TMS S.A. American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+ "country": "France",
+ "mcap": 149689267.0,
+ "price": "$3.17",
+ "cik": 1041934,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FOCL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/focl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:45+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "KTWO",
+ "name": "K2 Capital Acquisition Corporation Class A Ordinary Share",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "Cayman Islands",
+ "mcap": 203217362.0,
+ "price": "$10.14",
+ "cik": 2086524,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/KTWO/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ktwo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:55+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ATTT",
+ "name": "Atlas Trinity Tech Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "Hong Kong",
+ "mcap": 12454455.0,
+ "price": "$2.12",
+ "cik": 1948443,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ATTT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/attt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:06+00:00"
+}

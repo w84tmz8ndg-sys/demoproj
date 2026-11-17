@@ -1,0 +1,27 @@
+{
+ "ticker": "CVR",
+ "name": "Chicago Rivet & Machine Co. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 9146758.0,
+ "price": "$9.4674",
+ "cik": 19871,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CVR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Chicago Rivet & Machine Co. (CVR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cvr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:02+00:00"
+}

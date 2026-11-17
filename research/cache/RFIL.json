@@ -1,0 +1,27 @@
+{
+ "ticker": "RFIL",
+ "name": "RF Industries Ltd. Common Stock",
+ "sector": "Technology",
+ "industry": "Electrical Products",
+ "country": "United States",
+ "mcap": 73656297.0,
+ "price": "$6.79",
+ "cik": 740664,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RFIL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, RF Industries, Ltd. (RFIL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rfil",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:32+00:00"
+}

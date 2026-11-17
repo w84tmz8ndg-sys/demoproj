@@ -1,0 +1,27 @@
+{
+ "ticker": "KRNT",
+ "name": "Kornit Digital Ltd. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "Israel",
+ "mcap": 705940154.0,
+ "price": "$16.43",
+ "cik": 1625791,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KRNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/krnt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:51+00:00"
+}

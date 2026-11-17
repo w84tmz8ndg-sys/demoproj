@@ -1,0 +1,27 @@
+{
+ "ticker": "HHS",
+ "name": "Harte Hanks Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Advertising",
+ "country": "United States",
+ "mcap": 28698824.0,
+ "price": "$3.85",
+ "cik": 45919,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HHS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Harte Hanks (HHS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hhs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:11+00:00"
+}

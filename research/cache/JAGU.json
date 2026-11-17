@@ -1,0 +1,27 @@
+{
+ "ticker": "JAGU",
+ "name": "Jaguar Uranium Corp. Class A Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Canada",
+ "mcap": 16648719.0,
+ "price": "$0.8216",
+ "cik": 2039273,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JAGU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jagu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:45+00:00"
+}

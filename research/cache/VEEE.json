@@ -1,0 +1,27 @@
+{
+ "ticker": "VEEE",
+ "name": "Twin Vee PowerCats Co. Common Stock",
+ "sector": "Industrials",
+ "industry": "Marine Transportation",
+ "country": "United States",
+ "mcap": 4011901.0,
+ "price": "$6.87",
+ "cik": 1855509,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VEEE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/veee",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:45+00:00"
+}

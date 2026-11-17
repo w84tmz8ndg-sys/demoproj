@@ -1,0 +1,27 @@
+{
+ "ticker": "AURE",
+ "name": "Aurelion Inc. Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Hong Kong",
+ "mcap": 32057787.0,
+ "price": "$0.9248",
+ "cik": 1765850,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AURE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aure",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:38+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SVRN",
+ "name": "SVRN Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 28756259.0,
+ "price": "$15.33",
+ "cik": 1869467,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SVRN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/svrn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:09+00:00"
+}

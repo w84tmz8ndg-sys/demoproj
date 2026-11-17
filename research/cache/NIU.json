@@ -1,0 +1,27 @@
+{
+ "ticker": "NIU",
+ "name": "Niu Technologies American Depositary Shares",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "China",
+ "mcap": 127066463.0,
+ "price": "$1.62",
+ "cik": 1744781,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NIU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/niu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:34+00:00"
+}

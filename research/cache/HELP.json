@@ -1,0 +1,27 @@
+{
+ "ticker": "HELP",
+ "name": "Helus Pharma Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Canada",
+ "mcap": 560383139.0,
+ "price": "$7.67",
+ "cik": 1833141,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HELP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/help",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:41+00:00"
+}

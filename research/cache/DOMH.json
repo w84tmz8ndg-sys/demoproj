@@ -1,0 +1,27 @@
+{
+ "ticker": "DOMH",
+ "name": "Dominari Holdings Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "United States",
+ "mcap": 16932818.0,
+ "price": "$0.709",
+ "cik": 12239,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DOMH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Dominari Holdings Inc (DOMH) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/domh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:42+00:00"
+}

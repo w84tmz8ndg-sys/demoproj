@@ -1,0 +1,27 @@
+{
+ "ticker": "GURE",
+ "name": "Gulf Resources Inc. (NV) Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "China",
+ "mcap": 4823992.0,
+ "price": "$2.66",
+ "cik": 885462,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GURE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gure",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:15+00:00"
+}

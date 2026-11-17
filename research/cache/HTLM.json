@@ -1,0 +1,27 @@
+{
+ "ticker": "HTLM",
+ "name": "HomesToLife Ltd Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "Singapore",
+ "mcap": 102243750.0,
+ "price": "$1.14",
+ "cik": 2023153,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HTLM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/htlm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:52+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "VCV",
+ "name": "Invesco California Value Municipal Income Trust Common Stock",
+ "sector": "Finance",
+ "industry": "Trusts Except Educational Religious and Charitable",
+ "country": "United States",
+ "mcap": 449213125.0,
+ "price": "$9.38",
+ "cik": 895531,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VCV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vcv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:26+00:00"
+}

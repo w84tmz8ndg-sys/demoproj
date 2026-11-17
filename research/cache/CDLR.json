@@ -1,0 +1,27 @@
+{
+ "ticker": "CDLR",
+ "name": "Cadeler plc Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "",
+ "mcap": 609822090.0,
+ "price": "$6.32",
+ "cik": 2063345,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CDLR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cdlr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:07+00:00"
+}

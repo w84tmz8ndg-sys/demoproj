@@ -1,0 +1,27 @@
+{
+ "ticker": "SAFX",
+ "name": "XCF Global Inc. Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 46674061.0,
+ "price": "$0.0777",
+ "cik": 2019793,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SAFX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, XCF Global Inc. (SAFX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/safx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:40+00:00"
+}

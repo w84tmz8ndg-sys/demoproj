@@ -1,0 +1,27 @@
+{
+ "ticker": "DDL",
+ "name": "Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares)",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "Cayman Islands",
+ "mcap": 411036172.0,
+ "price": "$1.74",
+ "cik": 1854545,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DDL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ddl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:01+00:00"
+}

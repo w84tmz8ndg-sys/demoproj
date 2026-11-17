@@ -1,0 +1,27 @@
+{
+ "ticker": "CLPT",
+ "name": "ClearPoint Neuro Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 266050424.0,
+ "price": "$8.30",
+ "cik": 1285550,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLPT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, ClearPoint Neuro (CLPT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/clpt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:11+00:00"
+}

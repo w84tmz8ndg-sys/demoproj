@@ -1,0 +1,27 @@
+{
+ "ticker": "ACTG",
+ "name": "Acacia Research Corporation (Acacia Tech) Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Multi-Sector Companies",
+ "country": "United States",
+ "mcap": 403062254.0,
+ "price": "$4.13",
+ "cik": 934549,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACTG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Acacia Research Corporation (ACTG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/actg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:10+00:00"
+}

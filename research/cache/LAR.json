@@ -1,0 +1,27 @@
+{
+ "ticker": "LAR",
+ "name": "Lithium Argentina AG Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Canada",
+ "mcap": 570595000.0,
+ "price": "$3.475",
+ "cik": 1440972,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LAR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lar",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:33+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MITQ",
+ "name": "Moving iMage Technologies Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 5471732.0,
+ "price": "$0.5498",
+ "cik": 1770236,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MITQ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mitq",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:50+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CPIX",
+ "name": "Cumberland Pharmaceuticals Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 78126800.0,
+ "price": "$5.21",
+ "cik": 1087294,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CPIX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Cumberland Pharmaceuticals (CPIX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cpix",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:11+00:00"
+}

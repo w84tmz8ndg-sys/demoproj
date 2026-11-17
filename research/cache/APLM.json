@@ -1,0 +1,27 @@
+{
+ "ticker": "APLM",
+ "name": "Apollomics Inc. Class A Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 50709888.0,
+ "price": "$17.51",
+ "cik": 1944885,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/APLM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aplm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:24+00:00"
+}

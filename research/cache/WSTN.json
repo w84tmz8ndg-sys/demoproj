@@ -1,0 +1,27 @@
+{
+ "ticker": "WSTN",
+ "name": "Westin Acquisition Corp Class A Ordinary Share",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Singapore",
+ "mcap": 82523475.0,
+ "price": "$10.245",
+ "cik": 2076192,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WSTN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wstn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:58+00:00"
+}

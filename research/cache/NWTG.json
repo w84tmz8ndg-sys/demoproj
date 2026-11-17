@@ -1,0 +1,27 @@
+{
+ "ticker": "NWTG",
+ "name": "Newton Golf Company Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Recreational Games/Products/Toys",
+ "country": "United States",
+ "mcap": 8502622.0,
+ "price": "$0.8356",
+ "cik": 1934245,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NWTG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nwtg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:21+00:00"
+}

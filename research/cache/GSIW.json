@@ -1,0 +1,27 @@
+{
+ "ticker": "GSIW",
+ "name": "Garden Stage Limited Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "Hong Kong",
+ "mcap": 111944570.0,
+ "price": "$10.45",
+ "cik": 1954269,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GSIW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gsiw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:17+00:00"
+}

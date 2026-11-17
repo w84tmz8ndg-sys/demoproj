@@ -1,0 +1,27 @@
+{
+ "ticker": "EUDA",
+ "name": "EUDA Health Holdings Limited Class A Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Medical/Nursing Services",
+ "country": "Singapore",
+ "mcap": 44944818.0,
+ "price": "$15.01",
+ "cik": 1847846,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EUDA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/euda",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:51+00:00"
+}

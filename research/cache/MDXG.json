@@ -1,0 +1,27 @@
+{
+ "ticker": "MDXG",
+ "name": "MiMedx Group Inc Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 464043379.0,
+ "price": "$3.18",
+ "cik": 1376339,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MDXG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, MiMedx Group (MDXG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mdxg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:08+00:00"
+}

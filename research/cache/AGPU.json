@@ -1,0 +1,27 @@
+{
+ "ticker": "AGPU",
+ "name": "Axe Compute Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 84847028.0,
+ "price": "$7.32",
+ "cik": 1446159,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AGPU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Predictive Oncology Inc. (AGPU) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/agpu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:47+00:00"
+}

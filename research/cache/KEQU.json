@@ -1,0 +1,27 @@
+{
+ "ticker": "KEQU",
+ "name": "Kewaunee Scientific Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 101510866.0,
+ "price": "$35.06",
+ "cik": 55529,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KEQU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Kewaunee Scientific (KEQU) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/kequ",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:55+00:00"
+}

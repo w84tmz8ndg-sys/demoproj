@@ -1,0 +1,27 @@
+{
+ "ticker": "GAIA",
+ "name": "Gaia Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Movies/Entertainment",
+ "country": "United States",
+ "mcap": 32036499.0,
+ "price": "$1.26",
+ "cik": 1089872,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GAIA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Gaia (GAIA) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gaia",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:40+00:00"
+}

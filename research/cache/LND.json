@@ -1,0 +1,27 @@
+{
+ "ticker": "LND",
+ "name": "Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil)",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "Brazil",
+ "mcap": 314211339.0,
+ "price": "$3.06",
+ "cik": 1499849,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lnd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:57+00:00"
+}

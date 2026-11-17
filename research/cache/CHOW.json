@@ -1,0 +1,27 @@
+{
+ "ticker": "CHOW",
+ "name": "ChowChow Cloud International Holdings Limited Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "",
+ "mcap": 12886809.0,
+ "price": "$3.545",
+ "cik": 2041829,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CHOW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/chow",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:55+00:00"
+}

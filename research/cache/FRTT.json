@@ -1,0 +1,27 @@
+{
+ "ticker": "FRTT",
+ "name": "Fort Technology Inc. Common Shares",
+ "sector": "Industrials",
+ "industry": "Agricultural Chemicals",
+ "country": "Canada",
+ "mcap": 5716181.0,
+ "price": "$0.38",
+ "cik": 2092967,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FRTT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/frtt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:43+00:00"
+}

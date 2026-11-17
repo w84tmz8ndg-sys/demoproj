@@ -1,0 +1,27 @@
+{
+ "ticker": "DSS",
+ "name": "DSS Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Containers/Packaging",
+ "country": "United States",
+ "mcap": 4968034.0,
+ "price": "$0.4947",
+ "cik": 771999,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DSS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dss",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:10+00:00"
+}

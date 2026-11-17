@@ -1,0 +1,27 @@
+{
+ "ticker": "CTEV",
+ "name": "Claritev Corporation Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 426186634.0,
+ "price": "$24.96",
+ "cik": 1793229,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CTEV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Claritev Corporation (CTEV) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ctev",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:49+00:00"
+}

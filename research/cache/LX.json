@@ -1,0 +1,27 @@
+{
+ "ticker": "LX",
+ "name": "LexinFintech Holdings Ltd. American Depositary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "China",
+ "mcap": 92017772.0,
+ "price": "$0.5584",
+ "cik": 1708259,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:19+00:00"
+}

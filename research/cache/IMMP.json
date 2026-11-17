@@ -1,0 +1,27 @@
+{
+ "ticker": "IMMP",
+ "name": "Immutep Limited American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Australia",
+ "mcap": 25059873.0,
+ "price": "$3.40",
+ "cik": 1506184,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IMMP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/immp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:20+00:00"
+}

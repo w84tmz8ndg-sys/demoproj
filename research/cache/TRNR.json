@@ -1,0 +1,27 @@
+{
+ "ticker": "TRNR",
+ "name": "Interactive Strength Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "United States",
+ "mcap": 1700687.0,
+ "price": "$1.05",
+ "cik": 1785056,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRNR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/trnr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:13+00:00"
+}

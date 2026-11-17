@@ -1,0 +1,27 @@
+{
+ "ticker": "LPA",
+ "name": "Logistic Properties of the Americas Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "",
+ "mcap": 75125765.0,
+ "price": "$2.37",
+ "cik": 1997711,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LPA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Logistic Properties of the Americas (LPA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lpa",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:27+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "FCDH",
+ "name": "Forcendra Holding Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Advertising",
+ "country": "Singapore",
+ "mcap": 2504429.0,
+ "price": "$0.5489",
+ "cik": 1951294,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/FCDH/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fcdh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:24+00:00"
+}

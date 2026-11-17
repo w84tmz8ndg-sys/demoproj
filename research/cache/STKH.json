@@ -1,0 +1,27 @@
+{
+ "ticker": "STKH",
+ "name": "Steakholder Foods Ltd. American Depositary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "Israel",
+ "mcap": 1036120.0,
+ "price": "$1.815",
+ "cik": 1828098,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/STKH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/stkh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:39+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "TDTH",
+ "name": "Trident Digital Tech Holdings Ltd Class B Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "Singapore",
+ "mcap": 57763445.0,
+ "price": "$0.978",
+ "cik": 1983550,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TDTH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tdth",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:35+00:00"
+}

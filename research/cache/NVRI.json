@@ -1,0 +1,27 @@
+{
+ "ticker": "NVRI",
+ "name": "Enviri Corporation Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Diversified Commercial Services",
+ "country": "",
+ "mcap": 703966775.0,
+ "price": "$24.97",
+ "cik": 2104052,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NVRI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Enviri Corporation (NVRI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nvri",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:52+00:00"
+}

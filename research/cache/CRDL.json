@@ -1,0 +1,27 @@
+{
+ "ticker": "CRDL",
+ "name": "Cardiol Therapeutics Inc. Class A Common Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Canada",
+ "mcap": 125109093.0,
+ "price": "$0.9798",
+ "cik": 1702123,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRDL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/crdl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:40+00:00"
+}

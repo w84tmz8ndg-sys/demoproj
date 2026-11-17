@@ -1,0 +1,27 @@
+{
+ "ticker": "MSLE",
+ "name": "Satellos Bioscience Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Canada",
+ "mcap": 137270360.0,
+ "price": "$6.47",
+ "cik": 1421642,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MSLE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/msle",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:10+00:00"
+}

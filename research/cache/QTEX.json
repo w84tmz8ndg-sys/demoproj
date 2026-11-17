@@ -1,0 +1,27 @@
+{
+ "ticker": "QTEX",
+ "name": "QTREX Quantum Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "Israel",
+ "mcap": 64358524.0,
+ "price": "$1.15",
+ "cik": 1837493,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QTEX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/qtex",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:14+00:00"
+}

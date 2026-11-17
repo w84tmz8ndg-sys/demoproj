@@ -1,0 +1,27 @@
+{
+ "ticker": "JDZG",
+ "name": "JIADE LIMITED Class A Ordinary Shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 754433.0,
+ "price": "$0.1389",
+ "cik": 1976908,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JDZG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jdzg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:51+00:00"
+}

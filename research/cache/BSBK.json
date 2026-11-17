@@ -1,0 +1,27 @@
+{
+ "ticker": "BSBK",
+ "name": "Bogota Financial Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Banks",
+ "country": "United States",
+ "mcap": 117276466.0,
+ "price": "$9.19",
+ "cik": 1787414,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BSBK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Bogota Financial Corp. (BSBK) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bsbk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:56+00:00"
+}

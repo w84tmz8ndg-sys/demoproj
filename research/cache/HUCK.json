@@ -1,0 +1,27 @@
+{
+ "ticker": "HUCK",
+ "name": "Huckleberry.ai Inc. Class B Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 154278608.0,
+ "price": "$3.28",
+ "cik": 1505952,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HUCK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/huck",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:29+00:00"
+}

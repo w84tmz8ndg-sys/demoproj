@@ -1,0 +1,27 @@
+{
+ "ticker": "CHNR",
+ "name": "China Natural Resources Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Hong Kong",
+ "mcap": 4427263.0,
+ "price": "$3.59",
+ "cik": 793628,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CHNR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/chnr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:34+00:00"
+}

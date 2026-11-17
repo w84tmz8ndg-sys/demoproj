@@ -1,0 +1,27 @@
+{
+ "ticker": "VITL",
+ "name": "Vital Farms Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 388570891.0,
+ "price": "$9.05",
+ "cik": 1579733,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VITL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Vital Farms (VITL) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vitl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:24+00:00"
+}

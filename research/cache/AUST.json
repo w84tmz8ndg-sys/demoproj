@@ -1,0 +1,27 @@
+{
+ "ticker": "AUST",
+ "name": "Austin Gold Corp. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "",
+ "mcap": 9598794.0,
+ "price": "$0.701",
+ "cik": 1817740,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AUST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aust",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:54+00:00"
+}

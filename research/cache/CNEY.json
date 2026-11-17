@@ -1,0 +1,27 @@
+{
+ "ticker": "CNEY",
+ "name": "CN Energy Group Inc. Class A Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "China",
+ "mcap": 2603799.0,
+ "price": "$0.463",
+ "cik": 1780785,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNEY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cney",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:15+00:00"
+}

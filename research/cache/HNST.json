@@ -1,0 +1,27 @@
+{
+ "ticker": "HNST",
+ "name": "The Honest Company Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "United States",
+ "mcap": 531787995.0,
+ "price": "$4.875",
+ "cik": 1530979,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HNST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, The Honest Company (HNST) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hnst",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:05+00:00"
+}

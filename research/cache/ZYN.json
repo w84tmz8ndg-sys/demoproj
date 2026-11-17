@@ -1,0 +1,27 @@
+{
+ "ticker": "ZYN",
+ "name": "PTL LTD Class A Ordinary Shares",
+ "sector": "Energy",
+ "industry": "Oil Refining/Marketing",
+ "country": "Singapore",
+ "mcap": 105326250.0,
+ "price": "$16.7687",
+ "cik": 2016337,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/ZYN/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zyn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:37+00:00"
+}

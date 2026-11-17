@@ -1,0 +1,27 @@
+{
+ "ticker": "ROMA",
+ "name": "Roma Green Finance Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "Hong Kong",
+ "mcap": 385680597.0,
+ "price": "$6.475",
+ "cik": 1945240,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ROMA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/roma",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:31+00:00"
+}

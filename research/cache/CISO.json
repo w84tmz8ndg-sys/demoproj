@@ -1,0 +1,27 @@
+{
+ "ticker": "CISO",
+ "name": "CISO Global Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "United States",
+ "mcap": 7839542.0,
+ "price": "$0.172",
+ "cik": 1777319,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CISO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Cerberus Cyber Sentinel Corporation (CISO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ciso",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:46+00:00"
+}

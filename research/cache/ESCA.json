@@ -1,0 +1,27 @@
+{
+ "ticker": "ESCA",
+ "name": "Escalade Incorporated Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Recreational Games/Products/Toys",
+ "country": "United States",
+ "mcap": 294127525.0,
+ "price": "$21.38",
+ "cik": 33488,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ESCA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Escalade, Incorporated (ESCA) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/esca",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:25+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "YOUL",
+ "name": "Youlife Group Inc. American Depositary Shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 8101631.0,
+ "price": "$0.10",
+ "cik": 2028177,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YOUL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Youlife Group Inc. American Depositary Receipt (YOUL) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/youl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:34+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "WHLR",
+ "name": "Wheeler Real Estate Investment Trust Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 747025.0,
+ "price": "$0.401",
+ "cik": 1527541,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WHLR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/whlr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:54+00:00"
+}

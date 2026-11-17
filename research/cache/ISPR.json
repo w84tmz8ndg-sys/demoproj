@@ -1,0 +1,27 @@
+{
+ "ticker": "ISPR",
+ "name": "Ispire Technology Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "United States",
+ "mcap": 87804373.0,
+ "price": "$1.52",
+ "cik": 1948455,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ISPR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Ispire Technology Inc (ISPR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ispr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:33+00:00"
+}

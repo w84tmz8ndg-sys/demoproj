@@ -1,0 +1,27 @@
+{
+ "ticker": "VOGX",
+ "name": "Vogenx Inc Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 213616151.0,
+ "price": "$14.38",
+ "cik": 1903784,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VOGX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vogx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:37+00:00"
+}

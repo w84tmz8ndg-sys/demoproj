@@ -1,0 +1,27 @@
+{
+ "ticker": "CMTL",
+ "name": "Comtech Telecommunications Corp. Common Stock",
+ "sector": "Technology",
+ "industry": "Radio And Television Broadcasting And Communications Equipment",
+ "country": "United States",
+ "mcap": 32698934.0,
+ "price": "$1.085",
+ "cik": 23197,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CMTL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Comtech Telecommunications Corp. (CMTL) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cmtl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:30+00:00"
+}

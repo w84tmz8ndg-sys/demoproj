@@ -1,0 +1,27 @@
+{
+ "ticker": "HKPD",
+ "name": "Cellyan Biotechnology Co. Ltd Class A Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Other Pharmaceuticals",
+ "country": "Hong Kong",
+ "mcap": 3846762.0,
+ "price": "$1.56",
+ "cik": 2007702,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HKPD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hkpd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:55+00:00"
+}

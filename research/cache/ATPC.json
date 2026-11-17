@@ -1,0 +1,27 @@
+{
+ "ticker": "ATPC",
+ "name": "Agape ATP Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Nursing Services",
+ "country": "Malaysia",
+ "mcap": 1230770.0,
+ "price": "$1.23",
+ "cik": 1713210,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ATPC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/atpc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:30+00:00"
+}

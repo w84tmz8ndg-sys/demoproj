@@ -1,0 +1,27 @@
+{
+ "ticker": "BALY",
+ "name": "Bally's Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Hotels/Resorts",
+ "country": "United States",
+ "mcap": 551301125.0,
+ "price": "$10.92",
+ "cik": 1747079,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BALY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Ballys Corporation (BALY) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/baly",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:49+00:00"
+}

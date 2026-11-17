@@ -1,0 +1,27 @@
+{
+ "ticker": "BIOX",
+ "name": "Bioceres Crop Solutions Corp. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Agricultural Chemicals",
+ "country": "Argentina",
+ "mcap": 12744033.0,
+ "price": "$0.1997",
+ "cik": 1769484,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BIOX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/biox",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:59+00:00"
+}

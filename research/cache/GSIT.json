@@ -1,0 +1,27 @@
+{
+ "ticker": "GSIT",
+ "name": "GSI Technology Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 112800605.0,
+ "price": "$2.93",
+ "cik": 1126741,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GSIT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, GSI Technology (GSIT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gsit",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:14+00:00"
+}

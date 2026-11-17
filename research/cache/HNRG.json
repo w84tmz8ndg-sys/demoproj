@@ -1,0 +1,27 @@
+{
+ "ticker": "HNRG",
+ "name": "Hallador Energy Company Common Stock",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 479467203.0,
+ "price": "$10.17",
+ "cik": 788965,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HNRG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Hallador Energy (HNRG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hnrg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:51+00:00"
+}

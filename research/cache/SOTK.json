@@ -1,0 +1,27 @@
+{
+ "ticker": "SOTK",
+ "name": "Sono-Tek Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 65133428.0,
+ "price": "$4.135",
+ "cik": 806172,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SOTK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Sono-Tek (SOTK) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sotk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:04+00:00"
+}

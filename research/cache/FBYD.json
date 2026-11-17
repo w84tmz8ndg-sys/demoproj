@@ -1,0 +1,27 @@
+{
+ "ticker": "FBYD",
+ "name": "Falcon's Beyond Global Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 643401413.0,
+ "price": "$5.30",
+ "cik": 1937987,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FBYD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Falcon`s Beyond Global Inc - Ordinary Shares - Class A (FBYD) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fbyd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:42+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CEPL",
+ "name": "Capstone Energy Plus Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 85768479.0,
+ "price": "$2.63",
+ "cik": 1009759,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CEPL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cepl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:44+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "FCHL",
+ "name": "Fitness Champs Holdings Limited Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "Singapore",
+ "mcap": 866545.0,
+ "price": "$0.6571",
+ "cik": 2023796,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FCHL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fchl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:47+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "USDE",
+ "name": "StablecoinX Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 109564130.0,
+ "price": "$4.03",
+ "cik": 2080215,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/USDE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/usde",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:27+00:00"
+}

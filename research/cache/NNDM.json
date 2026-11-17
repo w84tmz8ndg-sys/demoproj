@@ -1,0 +1,27 @@
+{
+ "ticker": "NNDM",
+ "name": "Nano Dimension Ltd. American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Electrical Products",
+ "country": "Israel",
+ "mcap": 235895569.0,
+ "price": "$1.19",
+ "cik": 1643303,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NNDM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nndm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:03+00:00"
+}

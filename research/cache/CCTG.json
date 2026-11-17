@@ -1,0 +1,27 @@
+{
+ "ticker": "CCTG",
+ "name": "CCSC Technology International Holdings Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Building Products",
+ "country": "Hong Kong",
+ "mcap": 4342943.0,
+ "price": "$0.3198",
+ "cik": 1931717,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CCTG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cctg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:36+00:00"
+}

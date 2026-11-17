@@ -1,0 +1,27 @@
+{
+ "ticker": "SPWR",
+ "name": "SunPower Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 39571894.0,
+ "price": "$0.1231",
+ "cik": 1838987,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SPWR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, SunPower Inc. (SPWR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/spwr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:31+00:00"
+}

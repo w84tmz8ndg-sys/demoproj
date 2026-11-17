@@ -1,0 +1,27 @@
+{
+ "ticker": "RYET",
+ "name": "Ruanyun Edai Technology Inc. Ordinary shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 17935410.0,
+ "price": "$0.4811",
+ "cik": 1873454,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RYET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ryet",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:27+00:00"
+}

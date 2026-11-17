@@ -1,0 +1,27 @@
+{
+ "ticker": "PALI",
+ "name": "Palisade Bio Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 184656155.0,
+ "price": "$1.03",
+ "cik": 1357459,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PALI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Palisade Bio Inc (PALI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pali",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:25+00:00"
+}

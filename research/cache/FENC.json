@@ -1,0 +1,27 @@
+{
+ "ticker": "FENC",
+ "name": "Fennec Pharmaceuticals Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 450493293.0,
+ "price": "$12.76",
+ "cik": 1211583,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FENC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Fennec Pharmaceuticals Inc. (FENC) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fenc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:24+00:00"
+}

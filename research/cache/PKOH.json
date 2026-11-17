@@ -1,0 +1,27 @@
+{
+ "ticker": "PKOH",
+ "name": "Park-Ohio Holdings Corp. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 647945464.0,
+ "price": "$44.78",
+ "cik": 76282,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PKOH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Park-Ohio Holdings Corp. (PKOH) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pkoh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:36+00:00"
+}

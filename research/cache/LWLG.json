@@ -1,0 +1,27 @@
+{
+ "ticker": "LWLG",
+ "name": "Lightwave Logic Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Containers/Packaging",
+ "country": "United States",
+ "mcap": 472900478.0,
+ "price": "$3.06",
+ "cik": 1325964,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LWLG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Lightwave Logic Inc (LWLG) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lwlg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:57+00:00"
+}

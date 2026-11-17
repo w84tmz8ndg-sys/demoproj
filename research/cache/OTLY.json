@@ -1,0 +1,27 @@
+{
+ "ticker": "OTLY",
+ "name": "Oatly Group AB American Depositary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "Sweden",
+ "mcap": 227534400.0,
+ "price": "$7.13",
+ "cik": 1843586,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OTLY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/otly",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:15+00:00"
+}

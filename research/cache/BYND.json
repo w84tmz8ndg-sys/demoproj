@@ -1,0 +1,27 @@
+{
+ "ticker": "BYND",
+ "name": "Beyond Meat Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 92840883.0,
+ "price": "$4.95",
+ "cik": 1655210,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BYND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Beyond Meat (BYND) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bynd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:16+00:00"
+}

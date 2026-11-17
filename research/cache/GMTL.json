@@ -1,0 +1,27 @@
+{
+ "ticker": "GMTL",
+ "name": "Guardian Metal Resources PLC ADS",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "",
+ "mcap": 161423172.0,
+ "price": "$4.06",
+ "cik": 2039972,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GMTL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gmtl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:12+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "TROO",
+ "name": "TROOPS Inc. Ordinary Shares ",
+ "sector": "Finance",
+ "industry": "Diversified Financial Services",
+ "country": "China",
+ "mcap": 160029817.0,
+ "price": "$1.31",
+ "cik": 1412095,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TROO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/troo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:18+00:00"
+}

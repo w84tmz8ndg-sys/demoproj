@@ -1,0 +1,27 @@
+{
+ "ticker": "POLA",
+ "name": "Polar Power Inc. Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 1787660.0,
+ "price": "$0.348",
+ "cik": 1622345,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/POLA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pola",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:09+00:00"
+}

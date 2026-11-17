@@ -1,0 +1,27 @@
+{
+ "ticker": "YDES",
+ "name": "YD Bio Limited Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 342115401.0,
+ "price": "$4.83",
+ "cik": 2011674,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YDES/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ydes",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:28+00:00"
+}

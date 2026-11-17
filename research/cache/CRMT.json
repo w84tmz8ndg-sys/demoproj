@@ -1,0 +1,27 @@
+{
+ "ticker": "CRMT",
+ "name": "America's Car-Mart Inc Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Retail-Auto Dealers and Gas Stations",
+ "country": "United States",
+ "mcap": 7754785.0,
+ "price": "$0.93",
+ "cik": 799850,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRMT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/crmt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:49+00:00"
+}

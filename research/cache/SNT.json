@@ -1,0 +1,27 @@
+{
+ "ticker": "SNT",
+ "name": "Senstar Technologies Corporation Common Shares",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "Canada",
+ "mcap": 43163558.0,
+ "price": "$1.85",
+ "cik": 1993727,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/snt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:08+00:00"
+}

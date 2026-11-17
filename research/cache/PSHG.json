@@ -1,0 +1,27 @@
+{
+ "ticker": "PSHG",
+ "name": "Performance Shipping Inc. Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 23992714.0,
+ "price": "$1.93",
+ "cik": 1481241,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PSHG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pshg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:29+00:00"
+}

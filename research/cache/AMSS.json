@@ -1,0 +1,27 @@
+{
+ "ticker": "AMSS",
+ "name": "AMASS Brands Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "United States",
+ "mcap": 2695731.0,
+ "price": "$0.2237",
+ "cik": 1851491,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMSS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/amss",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:10+00:00"
+}

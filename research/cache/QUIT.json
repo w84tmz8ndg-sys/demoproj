@@ -1,0 +1,27 @@
+{
+ "ticker": "QUIT",
+ "name": "Achieve Life Sciences Inc. Common Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+ "country": "United States",
+ "mcap": 666808809.0,
+ "price": "$6.06",
+ "cik": 949858,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/QUIT/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/quit",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:25+00:00"
+}

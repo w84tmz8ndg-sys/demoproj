@@ -1,0 +1,27 @@
+{
+ "ticker": "AFRI",
+ "name": "Forafric Global PLC Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "Gibraltar",
+ "mcap": 351608148.0,
+ "price": "$13.04",
+ "cik": 1903870,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AFRI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/afri",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:16+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ELTK",
+ "name": "Eltek Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Electrical Products",
+ "country": "Israel",
+ "mcap": 40251764.0,
+ "price": "$5.99",
+ "cik": 1024672,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ELTK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eltk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:30+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PMCB",
+ "name": "PharmaCyte  Biotech Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 3209713.0,
+ "price": "$5.67",
+ "cik": 1157075,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PMCB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pmcb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:32+00:00"
+}

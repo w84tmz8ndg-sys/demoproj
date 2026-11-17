@@ -1,0 +1,27 @@
+{
+ "ticker": "VOXR",
+ "name": "Vox Royalty Corp. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 303106258.0,
+ "price": "$4.36",
+ "cik": 1907909,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VOXR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/voxr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:07+00:00"
+}

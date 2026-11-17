@@ -1,0 +1,27 @@
+{
+ "ticker": "YFOR",
+ "name": "YYForce Inc. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "Singapore",
+ "mcap": 494214.0,
+ "price": "$0.0385",
+ "cik": 1985337,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YFOR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yfor",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:57+00:00"
+}

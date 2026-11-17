@@ -1,0 +1,27 @@
+{
+ "ticker": "AIB",
+ "name": "AIB Data Centers Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "",
+ "mcap": 53284400.0,
+ "price": "$0.7013",
+ "cik": 2070542,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aib",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:04+00:00"
+}

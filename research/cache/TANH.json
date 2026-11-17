@@ -1,0 +1,27 @@
+{
+ "ticker": "TANH",
+ "name": "Tantech Holdings Ltd. Class A Common Shares",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "China",
+ "mcap": 27600527.0,
+ "price": "$41.34",
+ "cik": 1588084,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TANH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tanh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:19+00:00"
+}

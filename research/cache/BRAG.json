@@ -1,0 +1,27 @@
+{
+ "ticker": "BRAG",
+ "name": "Bragg Gaming Group Inc. Common Shares",
+ "sector": "Technology",
+ "industry": "Office Equipment/Supplies/Services",
+ "country": "Canada",
+ "mcap": 17814862.0,
+ "price": "$0.5735",
+ "cik": 1867834,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BRAG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/brag",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:32+00:00"
+}

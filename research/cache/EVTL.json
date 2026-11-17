@@ -1,0 +1,27 @@
+{
+ "ticker": "EVTL",
+ "name": "Vertical Aerospace Ltd. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "",
+ "mcap": 54659635.0,
+ "price": "$0.3183",
+ "cik": 1867102,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EVTL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/evtl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:53+00:00"
+}

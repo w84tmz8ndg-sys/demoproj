@@ -1,0 +1,27 @@
+{
+ "ticker": "BTTC",
+ "name": "Black Titan Corporation Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Malaysia",
+ "mcap": 4308627.0,
+ "price": "$0.2873",
+ "cik": 2034400,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BTTC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bttc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:37+00:00"
+}

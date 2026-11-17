@@ -1,0 +1,27 @@
+{
+ "ticker": "FEDU",
+ "name": "Four Seasons Education (Cayman) Inc. American Depositary Shares each ADS representing 10 ordinary shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "",
+ "mcap": 21664576.0,
+ "price": "$9.58",
+ "cik": 1709819,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FEDU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fedu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:53+00:00"
+}

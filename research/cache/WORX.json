@@ -1,0 +1,27 @@
+{
+ "ticker": "WORX",
+ "name": "SCWorx Corp. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 1595164.0,
+ "price": "$1.15",
+ "cik": 1674227,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WORX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/worx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:14+00:00"
+}

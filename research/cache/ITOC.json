@@ -1,0 +1,27 @@
+{
+ "ticker": "ITOC",
+ "name": "iTonic Holdings Ltd Class A Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+ "country": "China",
+ "mcap": 13533906.0,
+ "price": "$1.85",
+ "cik": 1970544,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ITOC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/itoc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:39+00:00"
+}

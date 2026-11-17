@@ -1,0 +1,27 @@
+{
+ "ticker": "PFIS",
+ "name": "Peoples Financial Services Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 725084683.0,
+ "price": "$72.42",
+ "cik": 1056943,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PFIS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Peoples Financial Services Corp (PFIS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pfis",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:35+00:00"
+}

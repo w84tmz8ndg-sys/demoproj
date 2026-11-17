@@ -1,0 +1,27 @@
+{
+ "ticker": "BGDE",
+ "name": "Big Digital Energy Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Australia",
+ "mcap": 17139376.0,
+ "price": "$2.67",
+ "cik": 1218683,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BGDE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bgde",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:38+00:00"
+}

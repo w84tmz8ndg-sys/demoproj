@@ -1,0 +1,27 @@
+{
+ "ticker": "FTFT",
+ "name": "Future FinTech Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "China",
+ "mcap": 31662765.0,
+ "price": "$3.65",
+ "cik": 1066923,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FTFT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ftft",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:42+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "LANV",
+ "name": "Lanvin Group Holdings Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Apparel",
+ "country": "Cayman Islands",
+ "mcap": 76613508.0,
+ "price": "$0.61",
+ "cik": 1922097,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LANV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lanv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:20+00:00"
+}

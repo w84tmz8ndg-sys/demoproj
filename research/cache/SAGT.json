@@ -1,0 +1,27 @@
+{
+ "ticker": "SAGT",
+ "name": "SAGTEC GLOBAL LIMITED Class A Ordinary shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Malaysia",
+ "mcap": 20497000.0,
+ "price": "$1.03",
+ "cik": 2029138,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SAGT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sagt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:03+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "APWC",
+ "name": "Asia Pacific Wire & Cable Corporation Ltd. Ordinary Shares (Bermuda)",
+ "sector": "Industrials",
+ "industry": "Telecommunications Equipment",
+ "country": "Taiwan",
+ "mcap": 45768024.0,
+ "price": "$1.11",
+ "cik": 1026980,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/APWC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/apwc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:47+00:00"
+}

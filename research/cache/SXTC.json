@@ -1,0 +1,27 @@
+{
+ "ticker": "SXTC",
+ "name": "China SXT Pharmaceuticals Inc.",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "China",
+ "mcap": 309689.0,
+ "price": "$2.99",
+ "cik": 1723980,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SXTC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sxtc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:30:00+00:00"
+}

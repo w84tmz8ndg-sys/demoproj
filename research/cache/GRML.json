@@ -1,0 +1,27 @@
+{
+ "ticker": "GRML",
+ "name": "Greenland Mines Ltd. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 51867232.0,
+ "price": "$3.50",
+ "cik": 1907223,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GRML/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Greenland Mines Ltd (GRML) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/grml",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:16+00:00"
+}

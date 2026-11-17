@@ -1,0 +1,27 @@
+{
+ "ticker": "SBC",
+ "name": "SBC Medical Group Holdings Incorporated Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Nursing Services",
+ "country": "United States",
+ "mcap": 635594108.0,
+ "price": "$6.18",
+ "cik": 1930313,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SBC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, SBC Medical Group Holdings Inc. (SBC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sbc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:47+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "TGE",
+ "name": "The Generation Essentials Group Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Newspapers/Magazines",
+ "country": "",
+ "mcap": 56228562.0,
+ "price": "$0.2273",
+ "cik": 2053456,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TGE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tge",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:47+00:00"
+}

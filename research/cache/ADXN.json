@@ -1,0 +1,27 @@
+{
+ "ticker": "ADXN",
+ "name": "Addex Therapeutics Ltd American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Switzerland",
+ "mcap": 6525221.0,
+ "price": "$3.83",
+ "cik": 1574232,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADXN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/adxn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:19+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CAMP",
+ "name": "CAMP4 Therapeutics Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 242231212.0,
+ "price": "$3.86",
+ "cik": 1736730,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CAMP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Camp4 Therapeutics Corp. (CAMP) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/camp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:49+00:00"
+}

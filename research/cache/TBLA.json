@@ -1,0 +1,27 @@
+{
+ "ticker": "TBLA",
+ "name": "Taboola.com Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "Israel",
+ "mcap": 559173932.0,
+ "price": "$2.10",
+ "cik": 1840502,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TBLA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Taboola.com Ltd (TBLA) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tbla",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:44+00:00"
+}

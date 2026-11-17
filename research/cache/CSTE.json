@@ -1,0 +1,27 @@
+{
+ "ticker": "CSTE",
+ "name": "Caesarstone Ltd. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Building Materials",
+ "country": "Israel",
+ "mcap": 32571605.0,
+ "price": "$0.942",
+ "cik": 1504379,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CSTE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cste",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:34+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SNES",
+ "name": "SenesTech Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Agricultural Chemicals",
+ "country": "United States",
+ "mcap": 5255753.0,
+ "price": "$0.7702",
+ "cik": 1680378,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SNES/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/snes",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:00+00:00"
+}

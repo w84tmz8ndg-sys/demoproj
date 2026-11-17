@@ -1,0 +1,27 @@
+{
+ "ticker": "GCTS",
+ "name": "GCT Semiconductor Holding Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 108348738.0,
+ "price": "$1.175",
+ "cik": 1851961,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GCTS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, GCT Semiconductor Holding Inc. (GCTS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gcts",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:28+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PRZO",
+ "name": "ParaZero Technologies Ltd. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "Israel",
+ "mcap": 10503665.0,
+ "price": "$0.4051",
+ "cik": 1916241,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PRZO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/przo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:34+00:00"
+}

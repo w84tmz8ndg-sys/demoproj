@@ -1,0 +1,27 @@
+{
+ "ticker": "NKLR",
+ "name": "Terra Innovatum Global N.V. Ordinary shares",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "Italy",
+ "mcap": 226526861.0,
+ "price": "$2.05",
+ "cik": 2067627,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NKLR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nklr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:18+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SQFT",
+ "name": "Presidio Property Trust Inc. Class A Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 1660245.0,
+ "price": "$0.7358",
+ "cik": 1080657,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SQFT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sqft",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:14+00:00"
+}

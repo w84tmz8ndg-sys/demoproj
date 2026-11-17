@@ -1,0 +1,27 @@
+{
+ "ticker": "OKYO",
+ "name": "OKYO Pharma Limited Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Guernsey",
+ "mcap": 61663444.0,
+ "price": "$1.175",
+ "cik": 1849296,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OKYO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/okyo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:21+00:00"
+}

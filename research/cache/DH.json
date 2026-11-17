@@ -1,0 +1,27 @@
+{
+ "ticker": "DH",
+ "name": "Definitive Healthcare Corp. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 183332935.0,
+ "price": "$1.26",
+ "cik": 1861795,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Definitive Healthcare Corp. (DH) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:27+00:00"
+}

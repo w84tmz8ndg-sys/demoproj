@@ -1,0 +1,27 @@
+{
+ "ticker": "VTEX",
+ "name": "VTEX Class A Common Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United Kingdom",
+ "mcap": 670349731.0,
+ "price": "$3.875",
+ "cik": 1793663,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VTEX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vtex",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:17+00:00"
+}

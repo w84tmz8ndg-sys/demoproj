@@ -1,0 +1,27 @@
+{
+ "ticker": "MPU",
+ "name": "Mega Matrix Inc. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Movies/Entertainment",
+ "country": "United States",
+ "mcap": 4413467.0,
+ "price": "$1.29",
+ "cik": 1953021,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MPU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Mega Matrix (MPU) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mpu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:31+00:00"
+}

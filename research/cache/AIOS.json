@@ -1,0 +1,27 @@
+{
+ "ticker": "AIOS",
+ "name": "AIOS Tech Inc. Class A Common Shares",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "China",
+ "mcap": 62035014.0,
+ "price": "$7.52",
+ "cik": 1603993,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIOS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aios",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:19+00:00"
+}

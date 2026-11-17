@@ -1,0 +1,27 @@
+{
+ "ticker": "BGMS",
+ "name": "Bio Green Med Solution Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 4306141.0,
+ "price": "$0.6502",
+ "cik": 1130166,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BGMS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bgms",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:38+00:00"
+}

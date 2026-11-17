@@ -1,0 +1,27 @@
+{
+ "ticker": "EVLV",
+ "name": "Evolv Technologies Holdings Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer peripheral equipment",
+ "country": "United States",
+ "mcap": 714658693.0,
+ "price": "$3.94",
+ "cik": 1805385,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EVLV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Evolv Technologies Holdings Inc - Ordinary Shares - Class A (EVLV) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/evlv",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:40+00:00"
+}

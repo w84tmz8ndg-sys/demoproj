@@ -1,0 +1,27 @@
+{
+ "ticker": "VALN",
+ "name": "Valneva SE American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "France",
+ "mcap": 536103747.0,
+ "price": "$5.65",
+ "cik": 1836564,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VALN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/valn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:03+00:00"
+}

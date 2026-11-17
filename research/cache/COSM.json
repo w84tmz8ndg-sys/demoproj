@@ -1,0 +1,27 @@
+{
+ "ticker": "COSM",
+ "name": "Cosmos Health Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Other Pharmaceuticals",
+ "country": "United States",
+ "mcap": 12528906.0,
+ "price": "$2.49",
+ "cik": 1474167,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COSM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cosm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:04+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "UTSI",
+ "name": "UTStarcom Holdings Corp. Ordinary Shares",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "China",
+ "mcap": 17279280.0,
+ "price": "$1.82",
+ "cik": 1030471,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UTSI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/utsi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:37+00:00"
+}

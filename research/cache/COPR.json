@@ -1,0 +1,27 @@
+{
+ "ticker": "COPR",
+ "name": "Idaho Copper Corporation Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "",
+ "mcap": 21689288.0,
+ "price": "$1.155",
+ "cik": 1263364,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COPR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/copr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:51+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CRVO",
+ "name": "CervoMed Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 25264662.0,
+ "price": "$1.67",
+ "cik": 1053691,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRVO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, CervoMed Inc. (CRVO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/crvo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:39+00:00"
+}

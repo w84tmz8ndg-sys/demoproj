@@ -1,0 +1,27 @@
+{
+ "ticker": "CGC",
+ "name": "Canopy Growth Corporation Common Shares",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "Canada",
+ "mcap": 231150557.0,
+ "price": "$0.546",
+ "cik": 1737927,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CGC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cgc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:08+00:00"
+}

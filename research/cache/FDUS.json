@@ -1,0 +1,27 @@
+{
+ "ticker": "FDUS",
+ "name": "Fidus Investment Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Finance/Investors Services",
+ "country": "United States",
+ "mcap": 766379558.0,
+ "price": "$19.27",
+ "cik": 1513363,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FDUS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Fidus Investment Corp (FDUS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fdus",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:13+00:00"
+}

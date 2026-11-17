@@ -1,0 +1,27 @@
+{
+ "ticker": "EDVA",
+ "name": "Endovia Health Sciences Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "",
+ "mcap": 1957253.0,
+ "price": "$0.1715",
+ "cik": 1553788,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EDVA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/edva",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:55+00:00"
+}

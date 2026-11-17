@@ -1,0 +1,27 @@
+{
+ "ticker": "GFUZ",
+ "name": "General Fusion Group Ltd. Common Shares",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 333630785.0,
+ "price": "$5.25",
+ "cik": 2074850,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GFUZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gfuz",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:38+00:00"
+}

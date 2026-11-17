@@ -1,0 +1,27 @@
+{
+ "ticker": "GMEX",
+ "name": "GMEX ROBOTICS CORPORATION Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Recreational Games/Products/Toys",
+ "country": "Australia",
+ "mcap": 527661413.0,
+ "price": "$0.3749",
+ "cik": 1928581,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GMEX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gmex",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:09+00:00"
+}

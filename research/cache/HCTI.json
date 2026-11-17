@@ -1,0 +1,27 @@
+{
+ "ticker": "HCTI",
+ "name": "Healthcare Triangle Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 3047579.0,
+ "price": "$3.33",
+ "cik": 1839285,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HCTI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hcti",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:52+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "WWR",
+ "name": "Westwater Resources Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "United States",
+ "mcap": 46927036.0,
+ "price": "$0.3572",
+ "cik": 839470,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WWR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Westwater Resources (WWR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wwr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:39+00:00"
+}

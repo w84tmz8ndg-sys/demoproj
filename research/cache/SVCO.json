@@ -1,0 +1,27 @@
+{
+ "ticker": "SVCO",
+ "name": "Silvaco Group Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 236984600.0,
+ "price": "$6.93",
+ "cik": 1943289,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SVCO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Silvaco Group (SVCO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/svco",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:00+00:00"
+}

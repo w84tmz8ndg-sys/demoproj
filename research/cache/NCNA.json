@@ -1,0 +1,27 @@
+{
+ "ticker": "NCNA",
+ "name": "NuCana plc American Depositary Share",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United Kingdom",
+ "mcap": 4450276.0,
+ "price": "$0.8655",
+ "cik": 1709626,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NCNA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ncna",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:30+00:00"
+}

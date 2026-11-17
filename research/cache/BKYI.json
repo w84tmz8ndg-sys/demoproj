@@ -1,0 +1,27 @@
+{
+ "ticker": "BKYI",
+ "name": "BIO-key International Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 4253461.0,
+ "price": "$2.09",
+ "cik": 1019034,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BKYI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bkyi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:38+00:00"
+}

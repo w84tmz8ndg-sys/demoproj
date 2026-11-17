@@ -1,0 +1,27 @@
+{
+ "ticker": "ADGM",
+ "name": "Adagio Medical Holdings Inc Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 1472577.0,
+ "price": "$1.61",
+ "cik": 2006986,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADGM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/adgm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:23+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CCHH",
+ "name": "CCH Holdings Ltd Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "Malaysia",
+ "mcap": 16824948.0,
+ "price": "$0.8201",
+ "cik": 2074123,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CCHH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cchh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:44+00:00"
+}

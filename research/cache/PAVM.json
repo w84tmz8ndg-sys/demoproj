@@ -1,0 +1,27 @@
+{
+ "ticker": "PAVM",
+ "name": "PAVmed Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 13992857.0,
+ "price": "$1.75",
+ "cik": 1624326,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PAVM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pavm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:36+00:00"
+}

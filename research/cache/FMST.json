@@ -1,0 +1,27 @@
+{
+ "ticker": "FMST",
+ "name": "Foremost Clean Energy Ltd. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Other Metals and Minerals",
+ "country": "Canada",
+ "mcap": 17449093.0,
+ "price": "$0.58",
+ "cik": 1935418,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FMST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fmst",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:34+00:00"
+}

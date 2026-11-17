@@ -1,0 +1,27 @@
+{
+ "ticker": "LSAK",
+ "name": "Lesaka Technologies Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "South Africa",
+ "mcap": 274327914.0,
+ "price": "$3.17",
+ "cik": 1041514,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LSAK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lsak",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:03+00:00"
+}

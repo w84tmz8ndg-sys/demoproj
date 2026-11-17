@@ -1,0 +1,27 @@
+{
+ "ticker": "ARTW",
+ "name": "Art's-Way Manufacturing Co. Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 14577881.0,
+ "price": "$2.80",
+ "cik": 7623,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ARTW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/artw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:25+00:00"
+}

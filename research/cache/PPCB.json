@@ -1,0 +1,27 @@
+{
+ "ticker": "PPCB",
+ "name": "Propanc Biopharma Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Australia",
+ "mcap": 1981187.0,
+ "price": "$1.89",
+ "cik": 1517681,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PPCB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ppcb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:50+00:00"
+}

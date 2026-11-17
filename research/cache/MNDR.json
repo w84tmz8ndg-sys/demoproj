@@ -1,0 +1,27 @@
+{
+ "ticker": "MNDR",
+ "name": "Mobile-health Network Solutions Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Singapore",
+ "mcap": 1340487.0,
+ "price": "$0.9675",
+ "cik": 1976695,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MNDR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mndr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:25+00:00"
+}

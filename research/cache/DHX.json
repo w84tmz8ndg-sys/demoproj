@@ -1,0 +1,27 @@
+{
+ "ticker": "DHX",
+ "name": "DHI Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 180306889.0,
+ "price": "$4.245",
+ "cik": 1393883,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DHX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, DHI Group (DHX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dhx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:37+00:00"
+}

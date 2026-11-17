@@ -1,0 +1,27 @@
+{
+ "ticker": "TOUR",
+ "name": "Tuniu Corporation American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Transportation Services",
+ "country": "China",
+ "mcap": 49538732.0,
+ "price": "$4.56",
+ "cik": 1597095,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TOUR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tour",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:30+00:00"
+}

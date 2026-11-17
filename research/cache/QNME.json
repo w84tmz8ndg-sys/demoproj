@@ -1,0 +1,27 @@
+{
+ "ticker": "QNME",
+ "name": "Quanome Technologies Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Integrated Freight & Logistics",
+ "country": "United States",
+ "mcap": 11089117.0,
+ "price": "$0.3221",
+ "cik": 1996192,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QNME/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/qnme",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:27+00:00"
+}

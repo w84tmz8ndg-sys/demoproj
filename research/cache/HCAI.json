@@ -1,0 +1,27 @@
+{
+ "ticker": "HCAI",
+ "name": "Huachen AI Parking Management Technology Holding Co. Ltd. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Miscellaneous manufacturing industries",
+ "country": "China",
+ "mcap": 1518606.0,
+ "price": "$2.68",
+ "cik": 1958399,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HCAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hcai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:19+00:00"
+}

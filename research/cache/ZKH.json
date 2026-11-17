@@ -1,0 +1,27 @@
+{
+ "ticker": "ZKH",
+ "name": "ZKH Group Limited American Depositary Shares each representing thirty-five (35) Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "RETAIL: Building Materials",
+ "country": "Cayman Islands",
+ "mcap": 233611396.0,
+ "price": "$1.47",
+ "cik": 1862044,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZKH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zkh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:08+00:00"
+}

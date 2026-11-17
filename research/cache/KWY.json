@@ -1,0 +1,27 @@
+{
+ "ticker": "KWY",
+ "name": "Kingsway Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "Canada",
+ "mcap": 254882110.0,
+ "price": "$8.81",
+ "cik": 1072627,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KWY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kwy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:32+00:00"
+}

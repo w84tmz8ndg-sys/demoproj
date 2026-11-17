@@ -1,0 +1,27 @@
+{
+ "ticker": "SYNX",
+ "name": "Silynxcom Ltd. Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "",
+ "mcap": 4794710.0,
+ "price": "$0.7227",
+ "cik": 1976443,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SYNX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/synx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:18+00:00"
+}

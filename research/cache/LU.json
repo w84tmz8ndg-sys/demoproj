@@ -1,0 +1,27 @@
+{
+ "ticker": "LU",
+ "name": "Lufax Holding Ltd American Depositary Shares (each representing twenty (20) Ordinary Shares)",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "China",
+ "mcap": 615349112.0,
+ "price": "$7.10",
+ "cik": 1816007,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:03+00:00"
+}

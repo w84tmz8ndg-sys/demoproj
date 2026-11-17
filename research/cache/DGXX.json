@@ -1,0 +1,27 @@
+{
+ "ticker": "DGXX",
+ "name": "Digi Power X Inc. Subordinate Voting Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Canada",
+ "mcap": 201779411.0,
+ "price": "$1.99",
+ "cik": 1854368,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DGXX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dgxx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:58+00:00"
+}

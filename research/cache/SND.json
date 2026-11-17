@@ -1,0 +1,27 @@
+{
+ "ticker": "SND",
+ "name": "Smart Sand Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+ "country": "United States",
+ "mcap": 207543749.0,
+ "price": "$4.77",
+ "cik": 1529628,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Smart Sand (SND) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/snd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:45+00:00"
+}

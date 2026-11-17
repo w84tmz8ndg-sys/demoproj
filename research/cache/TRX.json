@@ -1,0 +1,27 @@
+{
+ "ticker": "TRX",
+ "name": "TRX Gold Corporation Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 261749975.0,
+ "price": "$0.7993",
+ "cik": 1173643,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/trx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:23+00:00"
+}

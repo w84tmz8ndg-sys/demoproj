@@ -1,0 +1,27 @@
+{
+ "ticker": "CDIO",
+ "name": "Cardio Diagnostics Holdings Inc. Common stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+ "country": "United States",
+ "mcap": 5297450.0,
+ "price": "$1.79",
+ "cik": 1870144,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CDIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cdio",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:58+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "RBNE",
+ "name": "Robin Energy Ltd. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Cyprus",
+ "mcap": 6512866.0,
+ "price": "$0.135",
+ "cik": 2039060,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RBNE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rbne",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:19+00:00"
+}

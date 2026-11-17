@@ -1,0 +1,27 @@
+{
+ "ticker": "PSNYW",
+ "name": "Polestar Automotive Holding UK PLC Class C-1 ADS (ADW)",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "Sweden",
+ "mcap": 496125990.0,
+ "price": "$3.02",
+ "cik": 1884082,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/PSNYW/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/psnyw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:33+00:00"
+}

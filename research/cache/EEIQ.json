@@ -1,0 +1,27 @@
+{
+ "ticker": "EEIQ",
+ "name": "EpicQuest Education Group International Limited Common Stock",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "United States",
+ "mcap": 6010174.0,
+ "price": "$3.65",
+ "cik": 1781397,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EEIQ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eeiq",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:34+00:00"
+}

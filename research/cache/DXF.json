@@ -1,0 +1,27 @@
+{
+ "ticker": "DXF",
+ "name": "Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60000) Ordinary Shares)",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "",
+ "mcap": 825492.0,
+ "price": "$0.2551",
+ "cik": 1499494,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DXF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dxf",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:51+00:00"
+}

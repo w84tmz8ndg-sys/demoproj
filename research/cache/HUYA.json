@@ -1,0 +1,27 @@
+{
+ "ticker": "HUYA",
+ "name": "HUYA Inc. American depositary shares each  representing one Class A ordinary share",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 477285134.0,
+ "price": "$2.09",
+ "cik": 1728190,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HUYA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/huya",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:52+00:00"
+}

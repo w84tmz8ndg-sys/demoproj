@@ -1,0 +1,27 @@
+{
+ "ticker": "CIIT",
+ "name": "Tianci International Inc. Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Computer Communications Equipment",
+ "country": "Hong Kong",
+ "mcap": 2143111.0,
+ "price": "$1.81",
+ "cik": 1557798,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CIIT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ciit",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:43+00:00"
+}

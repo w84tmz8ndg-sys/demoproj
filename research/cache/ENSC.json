@@ -1,0 +1,27 @@
+{
+ "ticker": "ENSC",
+ "name": "Ensysce Biosciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 7967557.0,
+ "price": "$0.4095",
+ "cik": 1716947,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENSC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ensc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:44+00:00"
+}

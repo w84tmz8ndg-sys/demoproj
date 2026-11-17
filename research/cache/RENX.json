@@ -1,0 +1,27 @@
+{
+ "ticker": "RENX",
+ "name": "RenX Enterprises Corp. Common Stock",
+ "sector": "Utilities",
+ "industry": "Environmental Services",
+ "country": "United States",
+ "mcap": 4062834.0,
+ "price": "$1.17",
+ "cik": 1959023,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RENX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/renx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:47+00:00"
+}

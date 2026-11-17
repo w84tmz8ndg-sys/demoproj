@@ -1,0 +1,27 @@
+{
+ "ticker": "THCH",
+ "name": "TH International Limited Ordinary shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "China",
+ "mcap": 35903069.0,
+ "price": "$1.08",
+ "cik": 1877333,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/THCH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/thch",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:59+00:00"
+}

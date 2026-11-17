@@ -1,0 +1,27 @@
+{
+ "ticker": "ODYS",
+ "name": "Odysight.ai Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Israel",
+ "mcap": 35022821.0,
+ "price": "$1.73",
+ "cik": 1577445,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ODYS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/odys",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:07+00:00"
+}

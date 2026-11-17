@@ -1,0 +1,27 @@
+{
+ "ticker": "FUND",
+ "name": "Sprott Focus Trust Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 289519852.0,
+ "price": "$9.77",
+ "cik": 825202,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FUND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fund",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:38+00:00"
+}

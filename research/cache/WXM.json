@@ -1,0 +1,27 @@
+{
+ "ticker": "WXM",
+ "name": "WF International Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Engineering & Construction",
+ "country": "China",
+ "mcap": 8074550.0,
+ "price": "$2.59",
+ "cik": 1979610,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WXM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wxm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:37+00:00"
+}

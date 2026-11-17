@@ -1,0 +1,27 @@
+{
+ "ticker": "FAC",
+ "name": "Factorial Energy Inc. Class A Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 401946529.0,
+ "price": "$3.74",
+ "cik": 2049662,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FAC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fac",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:10+00:00"
+}

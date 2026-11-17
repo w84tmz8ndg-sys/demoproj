@@ -1,0 +1,27 @@
+{
+ "ticker": "XELB",
+ "name": "Xcel Brands Inc. Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Multi-Sector Companies",
+ "country": "United States",
+ "mcap": 2317006.0,
+ "price": "$0.3043",
+ "cik": 1083220,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XELB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/xelb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:33+00:00"
+}

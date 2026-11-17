@@ -1,0 +1,27 @@
+{
+ "ticker": "CURX",
+ "name": "Curanex Pharmaceuticals Inc Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 7213794.0,
+ "price": "$4.60",
+ "cik": 2025942,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CURX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/curx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:05+00:00"
+}

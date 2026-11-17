@@ -1,0 +1,27 @@
+{
+ "ticker": "BGLC",
+ "name": "BioNexus Gene Lab Corp Common stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "Malaysia",
+ "mcap": 2244083.0,
+ "price": "$0.765",
+ "cik": 1737523,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BGLC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bglc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:39+00:00"
+}

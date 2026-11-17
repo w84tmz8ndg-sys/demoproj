@@ -1,0 +1,27 @@
+{
+ "ticker": "CDT",
+ "name": "CDT Equity Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 383735.0,
+ "price": "$0.377",
+ "cik": 1896212,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CDT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cdt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:59+00:00"
+}

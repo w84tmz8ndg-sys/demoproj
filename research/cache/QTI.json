@@ -1,0 +1,27 @@
+{
+ "ticker": "QTI",
+ "name": "QT Imaging Holdings Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+ "country": "United States",
+ "mcap": 26445989.0,
+ "price": "$1.80",
+ "cik": 1844505,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QTI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, QT Imaging Holdings Inc. (QTI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/qti",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:29+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ALLO",
+ "name": "Allogene Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 279599117.0,
+ "price": "$0.807",
+ "cik": 1737287,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ALLO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Allogene Therapeutics Inc (ALLO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/allo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:54+00:00"
+}

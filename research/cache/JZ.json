@@ -1,0 +1,27 @@
+{
+ "ticker": "JZ",
+ "name": "Jianzhi Education Technology Group Company Limited American Depositary Shs",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 3829218.0,
+ "price": "$1.59",
+ "cik": 1852440,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jz",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:56+00:00"
+}

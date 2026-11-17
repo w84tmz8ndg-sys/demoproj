@@ -1,0 +1,27 @@
+{
+ "ticker": "SLND",
+ "name": "Southland Holdings Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 42325559.0,
+ "price": "$0.7764",
+ "cik": 1883814,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Southland Holdings Inc (SLND) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/slnd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:12+00:00"
+}

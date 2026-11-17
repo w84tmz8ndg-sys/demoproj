@@ -1,0 +1,27 @@
+{
+ "ticker": "BWMX",
+ "name": "Betterware de Mexico S.A.P.I. de C.V. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "Mexico",
+ "mcap": 680722314.0,
+ "price": "$17.24",
+ "cik": 1788257,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BWMX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bwmx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:10+00:00"
+}

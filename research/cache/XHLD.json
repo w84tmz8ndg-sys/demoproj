@@ -1,0 +1,27 @@
+{
+ "ticker": "XHLD",
+ "name": "TEN Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 8667617.0,
+ "price": "$0.7183",
+ "cik": 2030954,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XHLD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/xhld",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:19+00:00"
+}

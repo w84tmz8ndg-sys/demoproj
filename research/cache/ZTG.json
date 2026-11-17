@@ -1,0 +1,27 @@
+{
+ "ticker": "ZTG",
+ "name": "Zenta Group Company Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "Macau",
+ "mcap": 8630436.0,
+ "price": "$0.3583",
+ "cik": 2011458,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZTG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ztg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:19+00:00"
+}

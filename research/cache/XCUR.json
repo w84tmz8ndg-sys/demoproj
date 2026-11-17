@@ -1,0 +1,27 @@
+{
+ "ticker": "XCUR",
+ "name": "Exicure Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 7004215.0,
+ "price": "$1.07",
+ "cik": 1698530,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XCUR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/xcur",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:05+00:00"
+}

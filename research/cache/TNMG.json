@@ -1,0 +1,27 @@
+{
+ "ticker": "TNMG",
+ "name": "TNL Mediagene Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Advertising",
+ "country": "Taiwan",
+ "mcap": 2007913.0,
+ "price": "$2.64",
+ "cik": 2013186,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TNMG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tnmg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:49+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PW",
+ "name": "Power REIT (MD) Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 2562498.0,
+ "price": "$6.98",
+ "cik": 1532619,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:19+00:00"
+}

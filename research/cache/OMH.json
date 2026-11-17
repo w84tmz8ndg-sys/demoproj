@@ -1,0 +1,27 @@
+{
+ "ticker": "OMH",
+ "name": "Ohmyhome Limited Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "Singapore",
+ "mcap": 19616322.0,
+ "price": "$3.98",
+ "cik": 1944902,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OMH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/omh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:11+00:00"
+}

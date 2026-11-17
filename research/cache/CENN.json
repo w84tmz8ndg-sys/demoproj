@@ -1,0 +1,27 @@
+{
+ "ticker": "CENN",
+ "name": "Cenntro Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "New Zealand",
+ "mcap": 5261963.0,
+ "price": "$0.14",
+ "cik": 1707919,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CENN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cenn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:00+00:00"
+}

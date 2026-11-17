@@ -1,0 +1,27 @@
+{
+ "ticker": "MOMO",
+ "name": "Hello Group Inc. American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 627926454.0,
+ "price": "$4.25",
+ "cik": 1610601,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MOMO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/momo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:56+00:00"
+}

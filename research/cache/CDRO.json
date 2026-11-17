@@ -1,0 +1,27 @@
+{
+ "ticker": "CDRO",
+ "name": "Codere Online Luxembourg S.A. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "Luxembourg",
+ "mcap": 372853303.0,
+ "price": "$8.20",
+ "cik": 1866782,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CDRO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cdro",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:49+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CWBC",
+ "name": "Community West Bancshares Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 681168971.0,
+ "price": "$25.10",
+ "cik": 1127371,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CWBC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Community West Bancshares. (CWBC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cwbc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:09+00:00"
+}

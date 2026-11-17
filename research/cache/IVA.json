@@ -1,0 +1,27 @@
+{
+ "ticker": "IVA",
+ "name": "Inventiva S.A. American Depository Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "France",
+ "mcap": 784450271.0,
+ "price": "$3.32",
+ "cik": 1756594,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IVA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/iva",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:02+00:00"
+}

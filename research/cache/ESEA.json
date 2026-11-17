@@ -1,0 +1,27 @@
+{
+ "ticker": "ESEA",
+ "name": "Euroseas Ltd. Common Stock (Marshall Islands)",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 461139702.0,
+ "price": "$65.36",
+ "cik": 1341170,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ESEA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/esea",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:13+00:00"
+}

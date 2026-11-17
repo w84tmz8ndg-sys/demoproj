@@ -1,0 +1,27 @@
+{
+ "ticker": "SPT",
+ "name": "Sprout Social Inc Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 673125779.0,
+ "price": "$11.44",
+ "cik": 1517375,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SPT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Sprout Social, Inc. (SPT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/spt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:14+00:00"
+}

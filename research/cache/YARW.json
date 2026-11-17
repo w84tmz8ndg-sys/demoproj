@@ -1,0 +1,27 @@
+{
+ "ticker": "YARW",
+ "name": "Yarrow Bioscience Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 212222770.0,
+ "price": "$13.93",
+ "cik": 1566044,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YARW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yarw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:39+00:00"
+}

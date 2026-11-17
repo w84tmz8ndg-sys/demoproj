@@ -1,0 +1,27 @@
+{
+ "ticker": "FOFO",
+ "name": "Hang Feng Technology Innovation Co. Ltd. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "Hong Kong",
+ "mcap": 12987150.0,
+ "price": "$1.65",
+ "cik": 2060083,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FOFO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fofo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:54+00:00"
+}

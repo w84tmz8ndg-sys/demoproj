@@ -1,0 +1,27 @@
+{
+ "ticker": "JMIA",
+ "name": "Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "",
+ "mcap": 669465463.0,
+ "price": "$5.01",
+ "cik": 1756708,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JMIA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jmia",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:16+00:00"
+}

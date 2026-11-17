@@ -1,0 +1,27 @@
+{
+ "ticker": "GLAS",
+ "name": "Glass House Brands Inc. Subordinate Voting Shares",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "",
+ "mcap": 119677258.0,
+ "price": "$1.36",
+ "cik": 1848731,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GLAS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/glas",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:49+00:00"
+}

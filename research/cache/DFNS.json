@@ -1,0 +1,27 @@
+{
+ "ticker": "DFNS",
+ "name": "T3 Defense Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "United States",
+ "mcap": 7728620.0,
+ "price": "$1.68",
+ "cik": 1787518,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DFNS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dfns",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:49+00:00"
+}

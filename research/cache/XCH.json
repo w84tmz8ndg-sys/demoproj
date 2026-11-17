@@ -1,0 +1,27 @@
+{
+ "ticker": "XCH",
+ "name": "XCHG Limited American Depositary Share",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "Germany",
+ "mcap": 17041771.0,
+ "price": "$3.85",
+ "cik": 1979887,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XCH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/xch",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:41+00:00"
+}

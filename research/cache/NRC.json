@@ -1,0 +1,27 @@
+{
+ "ticker": "NRC",
+ "name": "NRC Health Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+ "country": "United States",
+ "mcap": 558763096.0,
+ "price": "$26.33",
+ "cik": 70487,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NRC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, National Research (NRC) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nrc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:45+00:00"
+}

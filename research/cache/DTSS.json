@@ -1,0 +1,27 @@
+{
+ "ticker": "DTSS",
+ "name": "Datasea Intelligent Technology Ltd. Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 7395636.0,
+ "price": "$0.5127",
+ "cik": 2110423,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DTSS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dtss",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:58+00:00"
+}

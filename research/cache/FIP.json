@@ -1,0 +1,27 @@
+{
+ "ticker": "FIP",
+ "name": "FTAI Infrastructure Inc. Common Stock ",
+ "sector": "Industrials",
+ "industry": "Railroads",
+ "country": "United States",
+ "mcap": 444363331.0,
+ "price": "$3.76",
+ "cik": 1899883,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FIP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, FTAI Infrastructure (FIP) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fip",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:30+00:00"
+}

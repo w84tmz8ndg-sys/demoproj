@@ -1,0 +1,27 @@
+{
+ "ticker": "DAIO",
+ "name": "Data I/O Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Electrical Products",
+ "country": "United States",
+ "mcap": 31203981.0,
+ "price": "$2.54",
+ "cik": 351998,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DAIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Data I/O (DAIO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/daio",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:51+00:00"
+}

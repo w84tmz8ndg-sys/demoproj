@@ -1,0 +1,27 @@
+{
+ "ticker": "FNLC",
+ "name": "First Bancorp Inc  (ME) Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 414795923.0,
+ "price": "$36.74",
+ "cik": 765207,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FNLC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, The First Bancorp (FNLC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fnlc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:58+00:00"
+}

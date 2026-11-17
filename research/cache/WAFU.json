@@ -1,0 +1,27 @@
+{
+ "ticker": "WAFU",
+ "name": "Wah Fu Education & Technology Group Ltd. Ordinary Shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 6130677.0,
+ "price": "$1.39",
+ "cik": 1716770,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WAFU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wafu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:29+00:00"
+}

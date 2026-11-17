@@ -1,0 +1,27 @@
+{
+ "ticker": "CLWT",
+ "name": "Euro Tech Holdings Company Limited Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional and commerical equipment",
+ "country": "Hong Kong",
+ "mcap": 8449069.0,
+ "price": "$1.14",
+ "cik": 1026662,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLWT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/clwt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:25+00:00"
+}

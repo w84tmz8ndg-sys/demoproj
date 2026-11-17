@@ -1,0 +1,27 @@
+{
+ "ticker": "HOUR",
+ "name": "Hour Loop Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "United States",
+ "mcap": 51051644.0,
+ "price": "$1.45",
+ "cik": 1874875,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HOUR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Hour Loop Inc (HOUR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hour",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:23+00:00"
+}

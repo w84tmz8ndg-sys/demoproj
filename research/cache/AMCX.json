@@ -1,0 +1,27 @@
+{
+ "ticker": "AMCX",
+ "name": "AMC Global Media Inc. Class A Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Cable & Other Pay Television Services",
+ "country": "United States",
+ "mcap": 377431285.0,
+ "price": "$9.17",
+ "cik": 1514991,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMCX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, AMC Networks Inc. (AMCX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/amcx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:44+00:00"
+}

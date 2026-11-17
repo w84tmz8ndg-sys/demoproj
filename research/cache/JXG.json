@@ -1,0 +1,27 @@
+{
+ "ticker": "JXG",
+ "name": "JX Luxventure Group Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Office Equipment/Supplies/Services",
+ "country": "China",
+ "mcap": 213108845.0,
+ "price": "$12.64",
+ "cik": 1546383,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JXG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jxg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:36+00:00"
+}

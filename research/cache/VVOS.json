@@ -1,0 +1,27 @@
+{
+ "ticker": "VVOS",
+ "name": "Vivos Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 2780067.0,
+ "price": "$0.0822",
+ "cik": 1716166,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VVOS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vvos",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:09+00:00"
+}

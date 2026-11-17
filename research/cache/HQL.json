@@ -1,0 +1,27 @@
+{
+ "ticker": "HQL",
+ "name": "abrdn Life Sciences Investors Shares of Beneficial Interest",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 457354317.0,
+ "price": "$17.81",
+ "cik": 884121,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HQL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hql",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:18+00:00"
+}

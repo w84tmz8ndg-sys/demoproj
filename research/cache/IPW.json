@@ -1,0 +1,27 @@
+{
+ "ticker": "IPW",
+ "name": "iPower Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "RETAIL: Building Materials",
+ "country": "United States",
+ "mcap": 954767.0,
+ "price": "$1.19",
+ "cik": 1830072,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IPW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ipw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:41+00:00"
+}

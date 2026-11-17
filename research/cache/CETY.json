@@ -1,0 +1,27 @@
+{
+ "ticker": "CETY",
+ "name": "Clean Energy Technologies Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Oil/Gas Transmission",
+ "country": "United States",
+ "mcap": 11557801.0,
+ "price": "$0.95",
+ "cik": 1329606,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CETY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cety",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:19+00:00"
+}

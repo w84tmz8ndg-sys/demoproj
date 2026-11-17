@@ -1,0 +1,27 @@
+{
+ "ticker": "MGRX",
+ "name": "Mangoceuticals Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Misc Health and Biotechnology Services",
+ "country": "United States",
+ "mcap": 3562575.0,
+ "price": "$0.1603",
+ "cik": 1938046,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MGRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mgrx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:09+00:00"
+}

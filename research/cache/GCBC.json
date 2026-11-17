@@ -1,0 +1,27 @@
+{
+ "ticker": "GCBC",
+ "name": "Greene Bancorp Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Banks",
+ "country": "United States",
+ "mcap": 598956562.0,
+ "price": "$35.18",
+ "cik": 1070524,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GCBC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Greene County Bancorp (GCBC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gcbc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:10+00:00"
+}

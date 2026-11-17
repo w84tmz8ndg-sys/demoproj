@@ -1,0 +1,27 @@
+{
+ "ticker": "CGBD",
+ "name": "Carlyle Secured Lending Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 742676593.0,
+ "price": "$10.92",
+ "cik": 1544206,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CGBD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Carlyle Secured Lending Inc (CGBD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cgbd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:29+00:00"
+}

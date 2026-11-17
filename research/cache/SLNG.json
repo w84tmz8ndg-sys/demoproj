@@ -1,0 +1,27 @@
+{
+ "ticker": "SLNG",
+ "name": "Stabilis Solutions Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Oil/Gas Transmission",
+ "country": "United States",
+ "mcap": 73641352.0,
+ "price": "$3.96",
+ "cik": 1043186,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLNG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Stabilis Solutions (SLNG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/slng",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:32+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "EPOW",
+ "name": "E-Power Inc. Class A Ordinary Shares",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "China",
+ "mcap": 8120748.0,
+ "price": "$3.49",
+ "cik": 1780731,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EPOW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/epow",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:33+00:00"
+}

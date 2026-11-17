@@ -1,0 +1,27 @@
+{
+ "ticker": "GVH",
+ "name": "Globavend Holdings Limited Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Integrated Freight & Logistics",
+ "country": "Australia",
+ "mcap": 3537602.0,
+ "price": "$0.8219",
+ "cik": 1978527,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GVH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gvh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:08+00:00"
+}

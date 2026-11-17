@@ -1,0 +1,27 @@
+{
+ "ticker": "HTCO",
+ "name": "High-Trend International Group Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Singapore",
+ "mcap": 11281391.0,
+ "price": "$1.67",
+ "cik": 1928948,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HTCO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/htco",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:25+00:00"
+}

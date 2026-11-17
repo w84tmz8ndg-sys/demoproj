@@ -1,0 +1,27 @@
+{
+ "ticker": "OPAD",
+ "name": "Offerpad Solutions Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 9042482.0,
+ "price": "$1.76",
+ "cik": 1825024,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OPAD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Offerpad Solutions (OPAD) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/opad",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:07+00:00"
+}

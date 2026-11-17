@@ -1,0 +1,27 @@
+{
+ "ticker": "VHUB",
+ "name": "VenHub Global Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 20148081.0,
+ "price": "$0.2068",
+ "cik": 1972234,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VHUB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Vapor Hub International Inc. (VHUB) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vhub",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:05+00:00"
+}

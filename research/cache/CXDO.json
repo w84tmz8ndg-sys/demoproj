@@ -1,0 +1,27 @@
+{
+ "ticker": "CXDO",
+ "name": "Crexendo Inc. Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 158534034.0,
+ "price": "$4.75",
+ "cik": 1075736,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CXDO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Crexendo (CXDO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cxdo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:20+00:00"
+}

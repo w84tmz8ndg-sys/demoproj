@@ -1,0 +1,27 @@
+{
+ "ticker": "ALZN",
+ "name": "Alzamend Neuro Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 5694353.0,
+ "price": "$1.18",
+ "cik": 1677077,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ALZN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/alzn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:45+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "JHS",
+ "name": "John Hancock Income Securities Trust Common Stock",
+ "sector": "Finance",
+ "industry": "Finance Companies",
+ "country": "United States",
+ "mcap": 120076291.0,
+ "price": "$10.31",
+ "cik": 759866,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JHS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jhs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:47+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MMA",
+ "name": "Mixed Martial Arts Group Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "",
+ "mcap": 8236381.0,
+ "price": "$0.311",
+ "cik": 1981519,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MMA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mma",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:29+00:00"
+}

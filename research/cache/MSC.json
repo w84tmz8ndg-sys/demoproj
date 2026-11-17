@@ -1,0 +1,27 @@
+{
+ "ticker": "MSC",
+ "name": "Studio City International Holdings Limited American depositary shares each representing four  Class A ordinary shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Hotels/Resorts",
+ "country": "",
+ "mcap": 202350685.0,
+ "price": "$0.9603",
+ "cik": 1713334,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MSC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/msc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:57+00:00"
+}

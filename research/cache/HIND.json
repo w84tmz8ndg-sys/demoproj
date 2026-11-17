@@ -1,0 +1,27 @@
+{
+ "ticker": "HIND",
+ "name": "Vyome Holdings Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 10597977.0,
+ "price": "$1.51",
+ "cik": 1427570,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HIND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hind",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:35+00:00"
+}

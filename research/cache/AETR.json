@@ -1,0 +1,27 @@
+{
+ "ticker": "AETR",
+ "name": "Aetherion Technologies Inc. Common Shares",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "Canada",
+ "mcap": 31912833.0,
+ "price": "$1.68",
+ "cik": 1370416,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AETR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aetr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:41+00:00"
+}

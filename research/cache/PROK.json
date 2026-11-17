@@ -1,0 +1,27 @@
+{
+ "ticker": "PROK",
+ "name": "ProKidney Corp. Class A Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 314476980.0,
+ "price": "$1.04",
+ "cik": 1850270,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PROK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, ProKidney Corp. (PROK) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/prok",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:53+00:00"
+}

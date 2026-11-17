@@ -1,0 +1,27 @@
+{
+ "ticker": "MF",
+ "name": "MindForge Inc. Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "China",
+ "mcap": 130991118.0,
+ "price": "$20.57",
+ "cik": 1888525,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mf",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:22+00:00"
+}

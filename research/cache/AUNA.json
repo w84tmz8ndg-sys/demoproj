@@ -1,0 +1,27 @@
+{
+ "ticker": "AUNA",
+ "name": "Auna SA Class A Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Medical/Nursing Services",
+ "country": "Peru",
+ "mcap": 342309963.0,
+ "price": "$4.625",
+ "cik": 1799207,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AUNA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/auna",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:28+00:00"
+}

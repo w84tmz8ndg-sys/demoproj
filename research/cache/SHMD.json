@@ -1,0 +1,27 @@
+{
+ "ticker": "SHMD",
+ "name": "SCHMID Group N.V. Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "Germany",
+ "mcap": 128751615.0,
+ "price": "$2.05",
+ "cik": 1987240,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SHMD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/shmd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:29+00:00"
+}

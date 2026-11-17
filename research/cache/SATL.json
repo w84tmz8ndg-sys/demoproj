@@ -1,0 +1,27 @@
+{
+ "ticker": "SATL",
+ "name": "Satellogic Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Radio And Television Broadcasting And Communications Equipment",
+ "country": "Uruguay",
+ "mcap": 466901072.0,
+ "price": "$3.03",
+ "cik": 1874315,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SATL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Satellogic Inc - Ordinary Shares - Class A (SATL) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/satl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:05+00:00"
+}

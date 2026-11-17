@@ -1,0 +1,27 @@
+{
+ "ticker": "NMG",
+ "name": "Nouveau Monde Graphite Inc. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Other Metals and Minerals",
+ "country": "Canada",
+ "mcap": 248318427.0,
+ "price": "$0.7544",
+ "cik": 1649752,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NMG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nmg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:40+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "OBE",
+ "name": "Obsidian Energy Ltd. Common Shares",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Canada",
+ "mcap": 611235569.0,
+ "price": "$9.29",
+ "cik": 1334388,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OBE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/obe",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:05+00:00"
+}

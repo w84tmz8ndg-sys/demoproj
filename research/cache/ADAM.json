@@ -1,0 +1,27 @@
+{
+ "ticker": "ADAM",
+ "name": "Adamas Trust Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 458748110.0,
+ "price": "$5.08",
+ "cik": 1273685,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADAM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Adamas Trust, Inc. (ADAM) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/adam",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:15+00:00"
+}

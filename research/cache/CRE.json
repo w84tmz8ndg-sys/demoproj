@@ -1,0 +1,27 @@
+{
+ "ticker": "CRE",
+ "name": "Cre8 Enterprise Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Publishing",
+ "country": "Hong Kong",
+ "mcap": 5115522.0,
+ "price": "$2.54",
+ "cik": 2003977,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cre",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:05+00:00"
+}

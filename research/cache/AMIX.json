@@ -1,0 +1,27 @@
+{
+ "ticker": "AMIX",
+ "name": "Autonomix Medical Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 2249712.0,
+ "price": "$1.10",
+ "cik": 1617867,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMIX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/amix",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:38+00:00"
+}

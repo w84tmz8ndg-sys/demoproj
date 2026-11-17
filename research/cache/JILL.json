@@ -1,0 +1,27 @@
+{
+ "ticker": "JILL",
+ "name": "J. Jill Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Apparel",
+ "country": "United States",
+ "mcap": 320148525.0,
+ "price": "$21.54",
+ "cik": 1687932,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JILL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, J.Jill (JILL) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jill",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:51+00:00"
+}

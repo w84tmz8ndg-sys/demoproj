@@ -1,0 +1,27 @@
+{
+ "ticker": "YHGJ",
+ "name": "Yunhong Green CTI Ltd. Common Stock",
+ "sector": "Industrials",
+ "industry": "Specialty Chemicals",
+ "country": "United States",
+ "mcap": 8558320.0,
+ "price": "$3.28",
+ "cik": 1042187,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YHGJ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yhgj",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:22+00:00"
+}

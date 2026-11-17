@@ -1,0 +1,27 @@
+{
+ "ticker": "MYSE",
+ "name": "Myseum.AI Inc. Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 5612144.0,
+ "price": "$1.08",
+ "cik": 1648960,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MYSE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/myse",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:48+00:00"
+}

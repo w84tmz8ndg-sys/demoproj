@@ -1,0 +1,27 @@
+{
+ "ticker": "SOHU",
+ "name": "Sohu.com Limited American Depositary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "China",
+ "mcap": 291190976.0,
+ "price": "$11.17",
+ "cik": 1734107,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SOHU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sohu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:32+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ARBB",
+ "name": "ARB IOT Group Limited Ordinary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Malaysia",
+ "mcap": 5666472.0,
+ "price": "$3.21",
+ "cik": 1930179,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ARBB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/arbb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:46+00:00"
+}

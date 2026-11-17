@@ -1,0 +1,27 @@
+{
+ "ticker": "ROC",
+ "name": "Rank One Computing Corporation Common stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 70728770.0,
+ "price": "$3.61",
+ "cik": 2077709,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ROC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Rank One Computing Corporation (ROC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/roc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:40+00:00"
+}

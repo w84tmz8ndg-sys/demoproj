@@ -1,0 +1,27 @@
+{
+ "ticker": "PRLD",
+ "name": "Prelude Therapeutics Incorporated Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 272129884.0,
+ "price": "$3.41",
+ "cik": 1678660,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PRLD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Prelude Therapeutics (PRLD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/prld",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:08+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MNSBP",
+ "name": "MainStreet Bancshares Inc. Depositary Shares",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 170320387.0,
+ "price": "$23.93",
+ "cik": 1693577,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/MNSBP/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mnsbp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:56+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "NAAS",
+ "name": "NaaS Technology Inc. American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "China",
+ "mcap": 36107417.0,
+ "price": "$1.47",
+ "cik": 1712178,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NAAS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/naas",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:53+00:00"
+}

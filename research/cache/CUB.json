@@ -1,0 +1,27 @@
+{
+ "ticker": "CUB",
+ "name": "Lionheart Holdings Class A Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 348501279.0,
+ "price": "$10.97",
+ "cik": 2015955,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CUB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cub",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:18+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "UEIC",
+ "name": "Universal Electronics Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "United States",
+ "mcap": 77818748.0,
+ "price": "$6.03",
+ "cik": 101984,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UEIC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Universal Electronics (UEIC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ueic",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:11+00:00"
+}

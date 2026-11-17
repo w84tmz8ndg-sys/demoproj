@@ -1,0 +1,27 @@
+{
+ "ticker": "DSWL",
+ "name": "Deswell Industries Inc. Common Shares",
+ "sector": "Industrials",
+ "industry": "Plastic Products",
+ "country": "Macau",
+ "mcap": 47814569.0,
+ "price": "$3.01",
+ "cik": 946936,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DSWL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dswl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:37+00:00"
+}

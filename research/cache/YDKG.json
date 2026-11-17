@@ -1,0 +1,27 @@
+{
+ "ticker": "YDKG",
+ "name": "Yueda Digital Holding Class A Ordinary Share",
+ "sector": "Consumer Discretionary",
+ "industry": "Advertising",
+ "country": "China",
+ "mcap": 4728104.0,
+ "price": "$0.8531",
+ "cik": 1413745,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YDKG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ydkg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:20+00:00"
+}

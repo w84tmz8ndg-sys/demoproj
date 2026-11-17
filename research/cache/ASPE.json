@@ -1,0 +1,27 @@
+{
+ "ticker": "ASPE",
+ "name": "Aspen Neuroscience Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 355631278.0,
+ "price": "$12.23",
+ "cik": 2124080,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/ASPE/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aspe",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:12+00:00"
+}

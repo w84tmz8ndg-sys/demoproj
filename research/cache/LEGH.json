@@ -1,0 +1,27 @@
+{
+ "ticker": "LEGH",
+ "name": "Legacy Housing Corporation Common Stock (TX)",
+ "sector": "Consumer Discretionary",
+ "industry": "Homebuilding",
+ "country": "United States",
+ "mcap": 667589877.0,
+ "price": "$28.07",
+ "cik": 1436208,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LEGH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Legacy Housing Corporation (LEGH) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/legh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:18+00:00"
+}

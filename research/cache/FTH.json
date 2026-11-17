@@ -1,0 +1,27 @@
+{
+ "ticker": "FTH",
+ "name": "Faeth Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 239831810.0,
+ "price": "$9.28",
+ "cik": 1829802,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FTH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fth",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:54+00:00"
+}

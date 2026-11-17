@@ -1,0 +1,27 @@
+{
+ "ticker": "CIRC",
+ "name": "Circle8 Group Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Biotechnology: Laboratory Analytical Instruments",
+ "country": "United States",
+ "mcap": 19997578.0,
+ "price": "$0.1702",
+ "cik": 1605888,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CIRC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/circ",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:07+00:00"
+}

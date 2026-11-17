@@ -1,0 +1,27 @@
+{
+ "ticker": "HIT",
+ "name": "Health In Tech Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Specialty Insurers",
+ "country": "United States",
+ "mcap": 26280462.0,
+ "price": "$0.3298",
+ "cik": 2019505,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HIT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Health In Tech Inc. (HIT) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hit",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:27+00:00"
+}

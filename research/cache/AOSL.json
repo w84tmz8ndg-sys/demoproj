@@ -1,0 +1,27 @@
+{
+ "ticker": "AOSL",
+ "name": "Alpha and Omega Semiconductor Limited Common Shares",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Bermuda",
+ "mcap": 773926632.0,
+ "price": "$25.53",
+ "cik": 1387467,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AOSL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Alpha and Omega Semiconductor Limited (AOSL) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aosl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:10+00:00"
+}

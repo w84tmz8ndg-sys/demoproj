@@ -1,0 +1,27 @@
+{
+ "ticker": "OGG",
+ "name": "Osisko Gold Group Inc. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 696277580.0,
+ "price": "$2.14",
+ "cik": 1431852,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OGG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ogg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:58+00:00"
+}

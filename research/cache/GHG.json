@@ -1,0 +1,27 @@
+{
+ "ticker": "GHG",
+ "name": "GreenTree Hospitality Group Ltd. American depositary shares each representing one Class A ordinary share",
+ "sector": "Consumer Discretionary",
+ "industry": "Hotels/Resorts",
+ "country": "",
+ "mcap": 101906298.0,
+ "price": "$1.01",
+ "cik": 1724755,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GHG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ghg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:52+00:00"
+}

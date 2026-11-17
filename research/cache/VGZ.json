@@ -1,0 +1,27 @@
+{
+ "ticker": "VGZ",
+ "name": "Vista Gold Corp Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "United States",
+ "mcap": 378065786.0,
+ "price": "$2.59",
+ "cik": 783324,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VGZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Vista Gold Corp. (VGZ) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vgz",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:44+00:00"
+}

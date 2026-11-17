@@ -1,0 +1,27 @@
+{
+ "ticker": "MCRP",
+ "name": "Micropolis AI Robotics Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "",
+ "mcap": 10253715.0,
+ "price": "$0.2939",
+ "cik": 1993431,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MCRP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mcrp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:39+00:00"
+}

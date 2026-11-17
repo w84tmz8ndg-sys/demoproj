@@ -1,0 +1,27 @@
+{
+ "ticker": "MINE",
+ "name": "Mayfair Gold Corp. Common Shares",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "",
+ "mcap": 149453956.0,
+ "price": "$2.22",
+ "cik": 1823255,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MINE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mine",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:48+00:00"
+}

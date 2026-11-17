@@ -1,0 +1,27 @@
+{
+ "ticker": "VMAR",
+ "name": "Vision Marine Technologies Inc. Common Shares",
+ "sector": "Industrials",
+ "industry": "Marine Transportation",
+ "country": "Canada",
+ "mcap": 2004851.0,
+ "price": "$3.07",
+ "cik": 1813783,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VMAR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vmar",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:49+00:00"
+}

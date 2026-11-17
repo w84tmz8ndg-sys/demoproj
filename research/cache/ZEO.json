@@ -1,0 +1,27 @@
+{
+ "ticker": "ZEO",
+ "name": "Zeo Energy Corporation Class A Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 14605202.0,
+ "price": "$0.218",
+ "cik": 1865506,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZEO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Zeo Energy Corp. - Ordinary Shares - Class A (ZEO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/zeo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:23+00:00"
+}

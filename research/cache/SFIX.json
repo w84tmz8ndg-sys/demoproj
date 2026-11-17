@@ -1,0 +1,27 @@
+{
+ "ticker": "SFIX",
+ "name": "Stitch Fix Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "United States",
+ "mcap": 351548567.0,
+ "price": "$2.78",
+ "cik": 1576942,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SFIX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Stitch Fix (SFIX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sfix",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:16+00:00"
+}

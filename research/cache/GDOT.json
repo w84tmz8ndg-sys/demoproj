@@ -1,0 +1,27 @@
+{
+ "ticker": "GDOT",
+ "name": "Green Dot Corporation Class A Common Stock $0.001 par value",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 672135768.0,
+ "price": "$11.79",
+ "cik": 1386278,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GDOT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Green Dot Corp. - Ordinary Shares - Class A (GDOT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gdot",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:15+00:00"
+}

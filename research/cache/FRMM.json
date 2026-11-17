@@ -1,0 +1,27 @@
+{
+ "ticker": "FRMM",
+ "name": "Forum Markets Incorporated Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 32033310.0,
+ "price": "$2.29",
+ "cik": 1690080,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FRMM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Forum Markets, Incorporated (FRMM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/frmm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:42+00:00"
+}

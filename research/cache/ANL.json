@@ -1,0 +1,27 @@
+{
+ "ticker": "ANL",
+ "name": "Adlai Nortye Group Ltd. American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Cayman Islands",
+ "mcap": 645911318.0,
+ "price": "$10.03",
+ "cik": 1944552,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ANL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/anl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:39+00:00"
+}

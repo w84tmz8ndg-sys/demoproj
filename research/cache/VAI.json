@@ -1,0 +1,27 @@
+{
+ "ticker": "VAI",
+ "name": "Valor Energy Incorporated Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Rental/Leasing Companies",
+ "country": "China",
+ "mcap": 44091705.0,
+ "price": "$2.20",
+ "cik": 1711012,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:58+00:00"
+}

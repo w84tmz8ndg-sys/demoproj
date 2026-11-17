@@ -1,0 +1,27 @@
+{
+ "ticker": "GCL",
+ "name": "GCL Global Holdings Ltd Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Singapore",
+ "mcap": 150957101.0,
+ "price": "$1.16",
+ "cik": 2002045,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GCL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gcl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:41+00:00"
+}

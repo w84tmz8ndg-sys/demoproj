@@ -1,0 +1,27 @@
+{
+ "ticker": "SGRX",
+ "name": "SANGRIX INC. Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 1008574.0,
+ "price": "$2.77",
+ "cik": 1735556,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SGRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sgrx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:41+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ASBH",
+ "name": "American Savings Bank N.A. Common Stock",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "",
+ "mcap": 176614701.0,
+ "price": "$21.92",
+ "cik": null,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ASBH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/asbh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:42+00:00"
+}

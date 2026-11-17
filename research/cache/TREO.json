@@ -1,0 +1,27 @@
+{
+ "ticker": "TREO",
+ "name": "Tactical Resources Corp. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Canada",
+ "mcap": 41652824.0,
+ "price": "$3.06",
+ "cik": 2041208,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TREO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/treo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:16+00:00"
+}

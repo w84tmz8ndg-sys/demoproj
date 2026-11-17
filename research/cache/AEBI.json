@@ -1,0 +1,27 @@
+{
+ "ticker": "AEBI",
+ "name": "Aebi Schmidt Holding AG Common Stock ",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "Switzerland",
+ "mcap": 791263929.0,
+ "price": "$10.20",
+ "cik": 2048519,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AEBI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aebi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:58:57+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SLE",
+ "name": "Super League Enterprise Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 15600483.0,
+ "price": "$4.09",
+ "cik": 1621672,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sle",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:04+00:00"
+}

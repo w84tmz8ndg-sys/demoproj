@@ -1,0 +1,27 @@
+{
+ "ticker": "CMCM",
+ "name": "Cheetah Mobile Inc. American Depositary Shares each representing fifty (50) Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 62663434.0,
+ "price": "$2.01",
+ "cik": 1597835,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CMCM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cmcm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:18+00:00"
+}

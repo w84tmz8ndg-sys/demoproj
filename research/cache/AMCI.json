@@ -1,0 +1,27 @@
+{
+ "ticker": "AMCI",
+ "name": "AMC Robotics Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Home Furnishings",
+ "country": "United States",
+ "mcap": 21020513.0,
+ "price": "$0.8799",
+ "cik": 1937891,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/AMCI/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, AMC Robotics Corporation (AMCI) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/amci",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:56+00:00"
+}

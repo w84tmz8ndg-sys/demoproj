@@ -1,0 +1,27 @@
+{
+ "ticker": "WFF",
+ "name": "WF Holding Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Miscellaneous manufacturing industries",
+ "country": "Malaysia",
+ "mcap": 2690833.0,
+ "price": "$1.07",
+ "cik": 1980210,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WFF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wff",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:10+00:00"
+}

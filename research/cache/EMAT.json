@@ -1,0 +1,27 @@
+{
+ "ticker": "EMAT",
+ "name": "Evolution Metals & Technologies Corp. Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 440101428.0,
+ "price": "$0.6934",
+ "cik": 1866226,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EMAT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Evolution Metals & Technologies Corp. (EMAT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/emat",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:35+00:00"
+}

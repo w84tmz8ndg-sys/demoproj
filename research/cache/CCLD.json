@@ -1,0 +1,27 @@
+{
+ "ticker": "CCLD",
+ "name": "CareCloud Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 94883956.0,
+ "price": "$2.23",
+ "cik": 1582982,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CCLD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, CareCloud (CCLD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ccld",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:09+00:00"
+}

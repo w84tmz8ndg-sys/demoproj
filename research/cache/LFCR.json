@@ -1,0 +1,27 @@
+{
+ "ticker": "LFCR",
+ "name": "Lifecore Biomedical Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 243166002.0,
+ "price": "$6.415",
+ "cik": 1005286,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LFCR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lfcr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:49+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "NRGV",
+ "name": "Energy Vault Holdings Inc. Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 687926011.0,
+ "price": "$3.73",
+ "cik": 1828536,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NRGV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Energy Vault Holdings Inc (NRGV) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nrgv",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:02+00:00"
+}

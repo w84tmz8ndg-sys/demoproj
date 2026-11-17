@@ -1,0 +1,27 @@
+{
+ "ticker": "AIDX",
+ "name": "20/20 Biolabs Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Precision Instruments",
+ "country": "United States",
+ "mcap": 2472933.0,
+ "price": "$0.185",
+ "cik": 1139685,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIDX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aidx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:26+00:00"
+}

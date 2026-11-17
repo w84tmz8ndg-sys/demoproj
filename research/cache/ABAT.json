@@ -1,0 +1,27 @@
+{
+ "ticker": "ABAT",
+ "name": "American Battery Technology Company Common Stock",
+ "sector": "Industrials",
+ "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+ "country": "United States",
+ "mcap": 147221325.0,
+ "price": "$1.025",
+ "cik": 1576873,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ABAT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, American Battery Technology Company Common Stock (ABAT) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/abat",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:48+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MTEK",
+ "name": "Maris-Tech Ltd. Ordinary Shares",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "Israel",
+ "mcap": 3221658.0,
+ "price": "$0.2483",
+ "cik": 1872964,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MTEK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mtek",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:26+00:00"
+}

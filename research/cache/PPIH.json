@@ -1,0 +1,27 @@
+{
+ "ticker": "PPIH",
+ "name": "Perma-Pipe International Holdings Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Pollution Control Equipment",
+ "country": "United States",
+ "mcap": 221433737.0,
+ "price": "$27.02",
+ "cik": 914122,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PPIH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Perma-Pipe International Holdings (PPIH) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ppih",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:26+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "IH",
+ "name": "iHuman Inc. American depositary shares each representing five Class A ordinary shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "United States",
+ "mcap": 51623991.0,
+ "price": "$1.01",
+ "cik": 1814423,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ih",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:19+00:00"
+}

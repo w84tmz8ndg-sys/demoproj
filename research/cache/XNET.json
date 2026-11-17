@@ -1,0 +1,27 @@
+{
+ "ticker": "XNET",
+ "name": "Xunlei Limited American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 216422866.0,
+ "price": "$3.40",
+ "cik": 1510593,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XNET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/xnet",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:31+00:00"
+}

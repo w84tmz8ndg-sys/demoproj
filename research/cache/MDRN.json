@@ -1,0 +1,27 @@
+{
+ "ticker": "MDRN",
+ "name": "Modern Mining Technology Corp. Common Shares",
+ "sector": "Utilities",
+ "industry": "Environmental Services",
+ "country": "",
+ "mcap": 21237165.0,
+ "price": "$3.825",
+ "cik": 1898722,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/MDRN/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mdrn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:54+00:00"
+}

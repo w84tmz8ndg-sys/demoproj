@@ -1,0 +1,27 @@
+{
+ "ticker": "ACNB",
+ "name": "ACNB Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 681823391.0,
+ "price": "$67.08",
+ "cik": 715579,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACNB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, ACNB Corporation (ACNB) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/acnb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:07+00:00"
+}

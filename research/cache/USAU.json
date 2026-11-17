@@ -1,0 +1,27 @@
+{
+ "ticker": "USAU",
+ "name": "U.S. Gold Corp. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "United States",
+ "mcap": 163137904.0,
+ "price": "$9.87",
+ "cik": 27093,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/USAU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, U.S. Gold Corp. (USAU) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/usau",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:06+00:00"
+}

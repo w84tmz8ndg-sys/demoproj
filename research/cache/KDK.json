@@ -1,0 +1,27 @@
+{
+ "ticker": "KDK",
+ "name": "Kodiak AI Inc. Common Stock ",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 220410291.0,
+ "price": "$1.08",
+ "cik": 1853138,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KDK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kdk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:24+00:00"
+}

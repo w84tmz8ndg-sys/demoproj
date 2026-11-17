@@ -1,0 +1,27 @@
+{
+ "ticker": "MSAI",
+ "name": "MultiSensor AI Holdings Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Electronic Components",
+ "country": "United States",
+ "mcap": 6699200.0,
+ "price": "$3.02",
+ "cik": 1863990,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MSAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/msai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:12+00:00"
+}

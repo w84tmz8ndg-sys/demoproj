@@ -1,0 +1,27 @@
+{
+ "ticker": "AVAT",
+ "name": "Avalanche Treasury Corporation Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 45253069.0,
+ "price": "$1.05",
+ "cik": 2092446,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AVAT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/avat",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:47+00:00"
+}

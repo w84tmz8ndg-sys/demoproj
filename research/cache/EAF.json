@@ -1,0 +1,27 @@
+{
+ "ticker": "EAF",
+ "name": "GrafTech International Ltd. Common Stock",
+ "sector": "Energy",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 240866871.0,
+ "price": "$8.955",
+ "cik": 931148,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EAF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, GrafTech International Ltd. (EAF) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/eaf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:53+00:00"
+}

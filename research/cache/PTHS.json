@@ -1,0 +1,27 @@
+{
+ "ticker": "PTHS",
+ "name": "Pelthos Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "",
+ "mcap": 27947341.0,
+ "price": "$7.11",
+ "cik": 1919246,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PTHS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pths",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:17+00:00"
+}

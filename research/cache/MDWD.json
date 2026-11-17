@@ -1,0 +1,27 @@
+{
+ "ticker": "MDWD",
+ "name": "MediWound Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "Israel",
+ "mcap": 194987440.0,
+ "price": "$13.55",
+ "cik": 1593984,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MDWD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mdwd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:10+00:00"
+}

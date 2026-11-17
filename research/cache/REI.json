@@ -1,0 +1,27 @@
+{
+ "ticker": "REI",
+ "name": "Ring Energy Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 287896266.0,
+ "price": "$1.105",
+ "cik": 1384195,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/REI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Ring Energy (REI) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rei",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:43+00:00"
+}

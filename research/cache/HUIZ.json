@@ -1,0 +1,27 @@
+{
+ "ticker": "HUIZ",
+ "name": "Huize Holding Limited American Depositary Shares",
+ "sector": "Finance",
+ "industry": "Specialty Insurers",
+ "country": "China",
+ "mcap": 23850339.0,
+ "price": "$2.36",
+ "cik": 1778982,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HUIZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/huiz",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:32+00:00"
+}

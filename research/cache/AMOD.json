@@ -1,0 +1,27 @@
+{
+ "ticker": "AMOD",
+ "name": "Alpha Modus Holdings Inc. Class A Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Multi-Sector Companies",
+ "country": "United States",
+ "mcap": 53921630.0,
+ "price": "$0.8449",
+ "cik": 1862463,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMOD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/amod",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:03+00:00"
+}

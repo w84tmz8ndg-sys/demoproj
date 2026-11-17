@@ -1,0 +1,27 @@
+{
+ "ticker": "OIS",
+ "name": "Oil States International Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Oil and Gas Field Machinery",
+ "country": "United States",
+ "mcap": 483548974.0,
+ "price": "$8.085",
+ "cik": 1121484,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OIS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Oil States International (OIS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ois",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:45+00:00"
+}

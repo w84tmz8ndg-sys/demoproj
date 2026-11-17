@@ -1,0 +1,27 @@
+{
+ "ticker": "MOLN",
+ "name": "Molecular Partners AG American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Switzerland",
+ "mcap": 100154805.0,
+ "price": "$2.67",
+ "cik": 1745114,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MOLN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/moln",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:54+00:00"
+}

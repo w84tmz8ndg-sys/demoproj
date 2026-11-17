@@ -1,0 +1,27 @@
+{
+ "ticker": "ANGH",
+ "name": "Anghami Inc. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Telecommunications Equipment",
+ "country": "United Arab Emirates",
+ "mcap": 32361365.0,
+ "price": "$3.57",
+ "cik": 1871983,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ANGH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/angh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:37+00:00"
+}

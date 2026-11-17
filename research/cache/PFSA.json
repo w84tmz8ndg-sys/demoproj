@@ -1,0 +1,27 @@
+{
+ "ticker": "PFSA",
+ "name": "Profusa Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 2305166.0,
+ "price": "$0.4057",
+ "cik": 1859807,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PFSA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pfsa",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:34+00:00"
+}

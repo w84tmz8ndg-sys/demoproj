@@ -1,0 +1,27 @@
+{
+ "ticker": "NEXM",
+ "name": "NexMetals Mining Corp. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Canada",
+ "mcap": 34406268.0,
+ "price": "$0.965",
+ "cik": 795800,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NEXM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nexm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:15+00:00"
+}

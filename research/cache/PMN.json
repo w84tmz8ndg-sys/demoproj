@@ -1,0 +1,27 @@
+{
+ "ticker": "PMN",
+ "name": "ProMIS Neurosciences Inc. Common Shares (ON)",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Canada",
+ "mcap": 29779613.0,
+ "price": "$3.31",
+ "cik": 1374339,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PMN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pmn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:57+00:00"
+}

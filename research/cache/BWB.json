@@ -1,0 +1,27 @@
+{
+ "ticker": "BWB",
+ "name": "Bridgewater Bancshares Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 580455301.0,
+ "price": "$20.72",
+ "cik": 1341317,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BWB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Bridgewater Bancshares (BWB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bwb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:27+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SSM",
+ "name": "Sono Group N.V. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Germany",
+ "mcap": 3237226.0,
+ "price": "$0.7905",
+ "cik": 1840416,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SSM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ssm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:23+00:00"
+}

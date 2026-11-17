@@ -1,0 +1,27 @@
+{
+ "ticker": "AKTX",
+ "name": "Akari Therapeutics plc ADS",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United Kingdom",
+ "mcap": 14398862.0,
+ "price": "$6.19",
+ "cik": 1541157,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AKTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aktx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:29+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "FVRR",
+ "name": "Fiverr International Ltd. Ordinary Shares no par value",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "",
+ "mcap": 284190505.0,
+ "price": "$7.905",
+ "cik": 1762301,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FVRR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fvrr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:51+00:00"
+}

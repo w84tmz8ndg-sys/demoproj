@@ -1,0 +1,27 @@
+{
+ "ticker": "NGVC",
+ "name": "Natural Grocers by Vitamin Cottage Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Food Chains",
+ "country": "United States",
+ "mcap": 653818283.0,
+ "price": "$28.37",
+ "cik": 1547459,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NGVC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Natural Grocers by Vitamin Cottage Inc (NGVC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ngvc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:31+00:00"
+}

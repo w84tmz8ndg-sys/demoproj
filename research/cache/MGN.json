@@ -1,0 +1,27 @@
+{
+ "ticker": "MGN",
+ "name": "Megan Holdings Limited Class A Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "Malaysia",
+ "mcap": 56329783.0,
+ "price": "$3.47",
+ "cik": 1995075,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MGN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mgn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:47+00:00"
+}

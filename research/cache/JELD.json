@@ -1,0 +1,27 @@
+{
+ "ticker": "JELD",
+ "name": "JELD-WEN Holding Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Forest Products",
+ "country": "United States",
+ "mcap": 67901391.0,
+ "price": "$0.7825",
+ "cik": 1674335,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JELD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, JELD-WEN Holding (JELD) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jeld",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:52+00:00"
+}

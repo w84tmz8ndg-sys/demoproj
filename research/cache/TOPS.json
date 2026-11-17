@@ -1,0 +1,27 @@
+{
+ "ticker": "TOPS",
+ "name": "TOP Ships Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 3218020.0,
+ "price": "$2.41",
+ "cik": 1296484,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TOPS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tops",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:27+00:00"
+}

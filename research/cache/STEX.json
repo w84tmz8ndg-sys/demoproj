@@ -1,0 +1,27 @@
+{
+ "ticker": "STEX",
+ "name": "Streamex Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 35304999.0,
+ "price": "$0.2997",
+ "cik": 1530766,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/STEX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, BioSig Technologies, Inc. (STEX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/stex",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:04+00:00"
+}

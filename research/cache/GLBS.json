@@ -1,0 +1,27 @@
+{
+ "ticker": "GLBS",
+ "name": "Globus Maritime Limited Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 58919682.0,
+ "price": "$2.73",
+ "cik": 1499780,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GLBS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/glbs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:32+00:00"
+}

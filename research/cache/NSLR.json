@@ -1,0 +1,27 @@
+{
+ "ticker": "NSLR",
+ "name": "Neostellar Capital Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 142955399.0,
+ "price": "$5.40",
+ "cik": 1509470,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NSLR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nslr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:00+00:00"
+}

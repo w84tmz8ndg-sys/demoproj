@@ -1,0 +1,27 @@
+{
+ "ticker": "SFWL",
+ "name": "Shengfeng Development Limited Class A Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Trucking Freight/Courier Services",
+ "country": "China",
+ "mcap": 25024245.0,
+ "price": "$4.55",
+ "cik": 1863218,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SFWL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sfwl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:19+00:00"
+}

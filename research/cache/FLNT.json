@@ -1,0 +1,27 @@
+{
+ "ticker": "FLNT",
+ "name": "Fluent Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Advertising",
+ "country": "United States",
+ "mcap": 108456528.0,
+ "price": "$3.42",
+ "cik": 1460329,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FLNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Fluent (FLNT) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/flnt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:31+00:00"
+}

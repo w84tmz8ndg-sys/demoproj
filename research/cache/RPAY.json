@@ -1,0 +1,27 @@
+{
+ "ticker": "RPAY",
+ "name": "Repay Holdings Corporation Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 363418808.0,
+ "price": "$4.05",
+ "cik": 1720592,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RPAY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Repay Holdings Corporation - Ordinary Shares - Class A (RPAY) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rpay",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:03+00:00"
+}

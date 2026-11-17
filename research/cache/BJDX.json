@@ -1,0 +1,27 @@
+{
+ "ticker": "BJDX",
+ "name": "Bluejay Diagnostics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 2557951.0,
+ "price": "$2.29",
+ "cik": 1704287,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BJDX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bjdx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:20+00:00"
+}

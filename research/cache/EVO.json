@@ -1,0 +1,27 @@
+{
+ "ticker": "EVO",
+ "name": "Evotec SE American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Germany",
+ "mcap": 554978680.0,
+ "price": "$1.56",
+ "cik": 1412558,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EVO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/evo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:49+00:00"
+}

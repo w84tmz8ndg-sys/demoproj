@@ -1,0 +1,27 @@
+{
+ "ticker": "FEBO",
+ "name": "Fenbo Holdings Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Home Furnishings",
+ "country": "Hong Kong",
+ "mcap": 7633125.0,
+ "price": "$0.69",
+ "cik": 1957001,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FEBO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/febo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:53+00:00"
+}

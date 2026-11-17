@@ -1,0 +1,27 @@
+{
+ "ticker": "PESI",
+ "name": "Perma-Fix Environmental Services Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Environmental Services",
+ "country": "United States",
+ "mcap": 303278740.0,
+ "price": "$14.28",
+ "cik": 891532,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PESI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Perma-Fix Environmental Services (PESI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pesi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:06+00:00"
+}

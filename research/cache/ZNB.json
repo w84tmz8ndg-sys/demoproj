@@ -1,0 +1,27 @@
+{
+ "ticker": "ZNB",
+ "name": "Zeta Network Group Class A Ordinary Shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "United States",
+ "mcap": 3085275.0,
+ "price": "$0.6168",
+ "cik": 1747661,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZNB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/znb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:44+00:00"
+}

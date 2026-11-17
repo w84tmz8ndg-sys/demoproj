@@ -1,0 +1,27 @@
+{
+ "ticker": "HKD",
+ "name": "AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares)",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "",
+ "mcap": 165905622.0,
+ "price": "$1.315",
+ "cik": 1809691,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HKD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hkd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:06+00:00"
+}

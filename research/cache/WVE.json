@@ -1,0 +1,27 @@
+{
+ "ticker": "WVE",
+ "name": "Wave Life Sciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Singapore",
+ "mcap": 566047138.0,
+ "price": "$2.87",
+ "cik": 1631574,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WVE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wve",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:38+00:00"
+}

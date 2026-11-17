@@ -1,0 +1,27 @@
+{
+ "ticker": "NIKI",
+ "name": "Niki BioSolutions Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "Hong Kong",
+ "mcap": 4863424.0,
+ "price": "$1.655",
+ "cik": 1734005,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NIKI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/niki",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:12+00:00"
+}

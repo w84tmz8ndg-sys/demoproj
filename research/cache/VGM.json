@@ -1,0 +1,27 @@
+{
+ "ticker": "VGM",
+ "name": "Invesco Trust for Investment Grade Municipals Common Stock (DE)",
+ "sector": "Finance",
+ "industry": "Trusts Except Educational Religious and Charitable",
+ "country": "United States",
+ "mcap": 484291474.0,
+ "price": "$8.93",
+ "cik": 880892,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VGM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vgm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:44+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "BATL",
+ "name": "Battalion Oil Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 37024951.0,
+ "price": "$0.6222",
+ "cik": 1282648,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BATL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Battalion Oil Corporation (BATL) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/batl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:43+00:00"
+}

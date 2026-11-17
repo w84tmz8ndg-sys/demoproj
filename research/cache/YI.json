@@ -1,0 +1,27 @@
+{
+ "ticker": "YI",
+ "name": "111 Inc. American Depositary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Retail-Drug Stores and Proprietary Stores",
+ "country": "China",
+ "mcap": 24455560.0,
+ "price": "$2.78",
+ "cik": 1738906,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:22+00:00"
+}

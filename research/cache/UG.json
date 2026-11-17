@@ -1,0 +1,27 @@
+{
+ "ticker": "UG",
+ "name": "United-Guardian Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "United States",
+ "mcap": 37122098.0,
+ "price": "$8.08",
+ "cik": 101295,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, United-Guardian (UG) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ug",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:39+00:00"
+}

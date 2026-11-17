@@ -1,0 +1,27 @@
+{
+ "ticker": "PLBC",
+ "name": "Plumas Bancorp",
+ "sector": "Finance",
+ "industry": "Finance Companies",
+ "country": "United States",
+ "mcap": 431861180.0,
+ "price": "$62.22",
+ "cik": 1168455,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLBC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Plumas Bancorp (PLBC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/plbc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:43+00:00"
+}

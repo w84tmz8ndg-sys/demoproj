@@ -1,0 +1,27 @@
+{
+ "ticker": "CATO",
+ "name": "Cato Corporation (The) Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Clothing/Shoe/Accessory Stores",
+ "country": "United States",
+ "mcap": 44104967.0,
+ "price": "$2.215",
+ "cik": 18255,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CATO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, The Cato Corporation (CATO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cato",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:57+00:00"
+}

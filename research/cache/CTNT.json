@@ -1,0 +1,27 @@
+{
+ "ticker": "CTNT",
+ "name": "Cheetah Net Supply Chain Service Inc Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Motor Vehicles",
+ "country": "United States",
+ "mcap": 2279178.0,
+ "price": "$1.59",
+ "cik": 1951667,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CTNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ctnt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:36+00:00"
+}

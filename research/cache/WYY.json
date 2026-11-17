@@ -1,0 +1,27 @@
+{
+ "ticker": "WYY",
+ "name": "WidePoint Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 53894753.0,
+ "price": "$5.38",
+ "cik": 1034760,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WYY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, WidePoint Corporation (WYY) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wyy",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:04+00:00"
+}

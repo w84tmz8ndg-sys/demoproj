@@ -1,0 +1,27 @@
+{
+ "ticker": "MRNO",
+ "name": "Murano Global Investments PLC Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Hotels/Resorts",
+ "country": "Mexico",
+ "mcap": 13732790.0,
+ "price": "$0.1733",
+ "cik": 1988776,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MRNO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mrno",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:38+00:00"
+}

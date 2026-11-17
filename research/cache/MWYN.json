@@ -1,0 +1,27 @@
+{
+ "ticker": "MWYN",
+ "name": "Marwynn Holdings Inc. Common stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Food Distributors",
+ "country": "United States",
+ "mcap": 34598570.0,
+ "price": "$1.43",
+ "cik": 2030522,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MWYN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mwyn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:13+00:00"
+}

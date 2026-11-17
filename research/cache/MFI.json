@@ -1,0 +1,27 @@
+{
+ "ticker": "MFI",
+ "name": "mF International Limited Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Hong Kong",
+ "mcap": 424994828.0,
+ "price": "$8.47",
+ "cik": 1940941,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MFI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mfi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:51+00:00"
+}

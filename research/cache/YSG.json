@@ -1,0 +1,27 @@
+{
+ "ticker": "YSG",
+ "name": "Yatsen Holding Limited American Depositary Shares each representing twenty (20) Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "China",
+ "mcap": 185853496.0,
+ "price": "$1.98",
+ "cik": 1819580,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YSG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ysg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:22+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MBUU",
+ "name": "Malibu Boats Inc. Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Marine Transportation",
+ "country": "United States",
+ "mcap": 385794770.0,
+ "price": "$19.63",
+ "cik": 1590976,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MBUU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Malibu Boats Inc - Ordinary Shares - Class A (MBUU) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mbuu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:29+00:00"
+}

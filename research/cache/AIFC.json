@@ -1,0 +1,27 @@
+{
+ "ticker": "AIFC",
+ "name": "AI Financial Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "United States",
+ "mcap": 21702627.0,
+ "price": "$0.1552",
+ "cik": 862861,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIFC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aifc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:48+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "HIHO",
+ "name": "Highway Holdings Limited Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "Hong Kong",
+ "mcap": 5552011.0,
+ "price": "$1.20",
+ "cik": 1026785,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HIHO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hiho",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:49+00:00"
+}

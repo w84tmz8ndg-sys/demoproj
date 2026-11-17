@@ -1,0 +1,27 @@
+{
+ "ticker": "UPB",
+ "name": "Upstream Bio Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 117844491.0,
+ "price": "$2.15",
+ "cik": 2022626,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UPB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/upb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:56+00:00"
+}

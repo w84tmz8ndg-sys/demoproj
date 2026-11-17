@@ -1,0 +1,27 @@
+{
+ "ticker": "ETX",
+ "name": "Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "",
+ "mcap": 192881420.0,
+ "price": "$17.72",
+ "cik": 1563696,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ETX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/etx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:12+00:00"
+}

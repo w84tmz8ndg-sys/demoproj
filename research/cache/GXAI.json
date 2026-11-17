@@ -1,0 +1,27 @@
+{
+ "ticker": "GXAI",
+ "name": "Gaxos.ai Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 5960242.0,
+ "price": "$0.4334",
+ "cik": 1895618,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GXAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gxai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:37+00:00"
+}

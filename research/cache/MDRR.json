@@ -1,0 +1,27 @@
+{
+ "ticker": "MDRR",
+ "name": "Medalist Diversified Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 16122150.0,
+ "price": "$9.90",
+ "cik": 1654595,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MDRR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mdrr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:54+00:00"
+}

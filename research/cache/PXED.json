@@ -1,0 +1,27 @@
+{
+ "ticker": "PXED",
+ "name": "Phoenix Education Partners Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "United States",
+ "mcap": 721796354.0,
+ "price": "$19.68",
+ "cik": 1600222,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PXED/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Phoenix Education Partners, Inc. (PXED) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pxed",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:34+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ZVRA",
+ "name": "Zevra Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 550417744.0,
+ "price": "$9.25",
+ "cik": 1434647,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZVRA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Zevra Therapeutics Inc (ZVRA) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/zvra",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:52+00:00"
+}

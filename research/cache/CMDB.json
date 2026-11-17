@@ -1,0 +1,27 @@
+{
+ "ticker": "CMDB",
+ "name": "Costamare Bulkers Holdings Limited Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "",
+ "mcap": 457736335.0,
+ "price": "$18.93",
+ "cik": 2033535,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CMDB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Costamare Bulkers Holdings Limited (CMDB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cmdb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:17+00:00"
+}

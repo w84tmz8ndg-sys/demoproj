@@ -1,0 +1,27 @@
+{
+ "ticker": "VFF",
+ "name": "Village Farms International Inc. Common Shares",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "Canada",
+ "mcap": 282557703.0,
+ "price": "$2.31",
+ "cik": 1584549,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VFF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vff",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:50+00:00"
+}

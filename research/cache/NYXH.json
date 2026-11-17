@@ -1,0 +1,27 @@
+{
+ "ticker": "NYXH",
+ "name": "Nyxoah SA Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "Belgium",
+ "mcap": 89435075.0,
+ "price": "$0.8937",
+ "cik": 1857190,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NYXH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nyxh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:28+00:00"
+}

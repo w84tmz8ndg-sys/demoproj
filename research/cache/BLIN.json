@@ -1,0 +1,27 @@
+{
+ "ticker": "BLIN",
+ "name": "Bridgeline Digital Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 7309190.0,
+ "price": "$0.5801",
+ "cik": 1378590,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BLIN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/blin",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:59+00:00"
+}

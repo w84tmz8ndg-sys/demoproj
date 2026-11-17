@@ -1,0 +1,27 @@
+{
+ "ticker": "KPLT",
+ "name": "Katapult Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "United States",
+ "mcap": 760247533.0,
+ "price": "$8.96",
+ "cik": 1785424,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KPLT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Katapult Holdings (KPLT) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/kplt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:18+00:00"
+}

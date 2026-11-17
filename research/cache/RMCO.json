@@ -1,0 +1,27 @@
+{
+ "ticker": "RMCO",
+ "name": "Royalty Management Holding Corporation Class A Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Multi-Sector Companies",
+ "country": "United States",
+ "mcap": 35993586.0,
+ "price": "$2.37",
+ "cik": 1843656,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RMCO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Royalty Management Holding Corp. - Ordinary Shares - Class A (RMCO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rmco",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:55+00:00"
+}

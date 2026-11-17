@@ -1,0 +1,27 @@
+{
+ "ticker": "SHIP",
+ "name": "Seanergy Maritime Holdings Corp. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 339316151.0,
+ "price": "$15.66",
+ "cik": 1448397,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SHIP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ship",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:32+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MRLN",
+ "name": "Merlin Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 97328709.0,
+ "price": "$0.9503",
+ "cik": 2028707,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MRLN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mrln",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:04+00:00"
+}

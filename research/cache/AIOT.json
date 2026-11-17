@@ -1,0 +1,27 @@
+{
+ "ticker": "AIOT",
+ "name": "PowerFleet Inc. Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 299603896.0,
+ "price": "$2.22",
+ "cik": 1774170,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIOT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, PowerFleet Inc (AIOT) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aiot",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:16+00:00"
+}

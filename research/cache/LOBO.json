@@ -1,0 +1,27 @@
+{
+ "ticker": "LOBO",
+ "name": "LOBO TECHNOLOGIES LTD. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Motor Vehicles",
+ "country": "China",
+ "mcap": 4609365.0,
+ "price": "$0.333",
+ "cik": 1932072,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LOBO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lobo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:26+00:00"
+}

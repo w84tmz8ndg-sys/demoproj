@@ -1,0 +1,27 @@
+{
+ "ticker": "NPCE",
+ "name": "Neuropace Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 274579013.0,
+ "price": "$7.97",
+ "cik": 1528287,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NPCE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, NeuroPace (NPCE) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/npce",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:01+00:00"
+}

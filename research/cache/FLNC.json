@@ -1,0 +1,27 @@
+{
+ "ticker": "FLNC",
+ "name": "Fluence Energy Inc. Class A Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 791918423.0,
+ "price": "$4.29",
+ "cik": 1868941,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FLNC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Fluence Energy (FLNC) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/flnc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:58:57+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "AIMD",
+ "name": "Ainos Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer peripheral equipment",
+ "country": "United States",
+ "mcap": 9937523.0,
+ "price": "$1.14",
+ "cik": 1014763,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIMD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aimd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:49+00:00"
+}

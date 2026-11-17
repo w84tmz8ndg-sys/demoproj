@@ -1,0 +1,27 @@
+{
+ "ticker": "NC",
+ "name": "NACCO Industries Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Coal Mining",
+ "country": "United States",
+ "mcap": 259228973.0,
+ "price": "$34.35",
+ "cik": 789933,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, NACCO Industries (NC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:27+00:00"
+}

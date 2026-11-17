@@ -1,0 +1,27 @@
+{
+ "ticker": "TRXB",
+ "name": "TRex Bio Inc. Common stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 310053804.0,
+ "price": "$10.77",
+ "cik": 2139097,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRXB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/trxb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:00+00:00"
+}

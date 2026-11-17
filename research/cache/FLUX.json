@@ -1,0 +1,27 @@
+{
+ "ticker": "FLUX",
+ "name": "Flux Power Holdings Inc. Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 6303582.0,
+ "price": "$0.287",
+ "cik": 1083743,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FLUX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Flux Power Holdings (FLUX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/flux",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:25+00:00"
+}

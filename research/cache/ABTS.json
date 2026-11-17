@@ -1,0 +1,27 @@
+{
+ "ticker": "ABTS",
+ "name": "Abits Group Inc Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "China",
+ "mcap": 1159813.0,
+ "price": "$0.3263",
+ "cik": 1864055,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ABTS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/abts",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:31+00:00"
+}

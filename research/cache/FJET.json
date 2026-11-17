@@ -1,0 +1,27 @@
+{
+ "ticker": "FJET",
+ "name": "Starfighters Space Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Air Freight/Delivery Services",
+ "country": "United States",
+ "mcap": 45102235.0,
+ "price": "$0.8201",
+ "cik": 1947016,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FJET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fjet",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:50+00:00"
+}

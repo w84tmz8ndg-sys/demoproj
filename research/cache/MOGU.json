@@ -1,0 +1,27 @@
+{
+ "ticker": "MOGU",
+ "name": "MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares)",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "",
+ "mcap": 15548257.0,
+ "price": "$1.90",
+ "cik": 1743971,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MOGU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mogu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:05+00:00"
+}

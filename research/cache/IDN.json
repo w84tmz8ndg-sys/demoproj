@@ -1,0 +1,27 @@
+{
+ "ticker": "IDN",
+ "name": "Intellicheck Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 33996553.0,
+ "price": "$1.665",
+ "cik": 1040896,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IDN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Intellicheck (IDN) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/idn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:21+00:00"
+}

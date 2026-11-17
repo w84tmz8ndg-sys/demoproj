@@ -1,0 +1,27 @@
+{
+ "ticker": "MOB",
+ "name": "Mobilicom Limited Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "Israel",
+ "mcap": 23033099.0,
+ "price": "$1.79",
+ "cik": 1898643,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MOB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mob",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:45+00:00"
+}

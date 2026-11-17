@@ -1,0 +1,27 @@
+{
+ "ticker": "ARQ",
+ "name": "Arq Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 136987016.0,
+ "price": "$3.10",
+ "cik": 1515156,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ARQ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Arq (ARQ) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/arq",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:08+00:00"
+}

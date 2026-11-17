@@ -1,0 +1,27 @@
+{
+ "ticker": "DGNX",
+ "name": "Diginex Limited Ordinary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Hong Kong",
+ "mcap": 57649650.0,
+ "price": "$1.15",
+ "cik": 2010499,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DGNX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dgnx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:39+00:00"
+}

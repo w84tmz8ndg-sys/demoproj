@@ -1,0 +1,27 @@
+{
+ "ticker": "CIM",
+ "name": "Chimera Investment Corporation Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 534085712.0,
+ "price": "$6.38",
+ "cik": 1409493,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CIM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Chimera Investment Corporation (CIM) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cim",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:06+00:00"
+}

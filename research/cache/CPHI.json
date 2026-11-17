@@ -1,0 +1,27 @@
+{
+ "ticker": "CPHI",
+ "name": "China Pharma Holdings Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "China",
+ "mcap": 20672072.0,
+ "price": "$0.4805",
+ "cik": 1106644,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CPHI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cphi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:59+00:00"
+}

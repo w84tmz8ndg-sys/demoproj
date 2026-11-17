@@ -1,0 +1,27 @@
+{
+ "ticker": "SRTM",
+ "name": "Stratum Holdings Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 553787.0,
+ "price": "$0.122",
+ "cik": 1879403,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/SRTM/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/srtm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:57+00:00"
+}

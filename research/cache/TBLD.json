@@ -1,0 +1,27 @@
+{
+ "ticker": "TBLD",
+ "name": "Thornburg Income Builder Opportunities Trust Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 650620587.0,
+ "price": "$20.28",
+ "cik": 1820378,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TBLD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tbld",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:34+00:00"
+}

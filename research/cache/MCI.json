@@ -1,0 +1,27 @@
+{
+ "ticker": "MCI",
+ "name": "Barings Corporate Investors Common Stock",
+ "sector": "Finance",
+ "industry": "Trusts Except Educational Religious and Charitable",
+ "country": "United States",
+ "mcap": 368763286.0,
+ "price": "$18.20",
+ "cik": 275694,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MCI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mci",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:58+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "VWAV",
+ "name": "VisionWave Holdings Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 1287878.0,
+ "price": "$0.3968",
+ "cik": 2038439,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VWAV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, VisionWave Holdings Inc. (VWAV) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vwav",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:28+00:00"
+}

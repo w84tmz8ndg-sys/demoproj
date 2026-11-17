@@ -1,0 +1,27 @@
+{
+ "ticker": "CTM",
+ "name": "Castellum Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "",
+ "mcap": 40261584.0,
+ "price": "$0.4237",
+ "cik": 1877939,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CTM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Castellum Inc (CTM) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ctm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:29+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "NXAT",
+ "name": "Nexus Advanced Technologies Inc. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Movies/Entertainment",
+ "country": "Cayman Islands",
+ "mcap": 943710.0,
+ "price": "$0.3482",
+ "cik": 2000756,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NXAT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nxat",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:44+00:00"
+}

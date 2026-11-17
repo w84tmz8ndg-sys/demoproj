@@ -1,0 +1,27 @@
+{
+ "ticker": "ACXP",
+ "name": "Acurx Pharmaceuticals Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 5664356.0,
+ "price": "$0.935",
+ "cik": 1736243,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACXP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Acurx Pharmaceuticals (ACXP) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/acxp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:46+00:00"
+}

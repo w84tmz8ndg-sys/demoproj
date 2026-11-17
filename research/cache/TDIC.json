@@ -1,0 +1,27 @@
+{
+ "ticker": "TDIC",
+ "name": "Dreamland Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "Hong Kong",
+ "mcap": 5451240.0,
+ "price": "$1.44",
+ "cik": 2041338,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TDIC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tdic",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:51+00:00"
+}

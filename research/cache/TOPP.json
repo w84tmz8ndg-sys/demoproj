@@ -1,0 +1,27 @@
+{
+ "ticker": "TOPP",
+ "name": "Toppoint Holdings Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Trucking Freight/Courier Services",
+ "country": "",
+ "mcap": 2667600.0,
+ "price": "$0.108",
+ "cik": 1960847,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TOPP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Toppoint Holdings Inc. (TOPP) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/topp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:14+00:00"
+}

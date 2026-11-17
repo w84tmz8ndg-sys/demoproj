@@ -1,0 +1,27 @@
+{
+ "ticker": "MREO",
+ "name": "Mereo BioPharma Group plc American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United Kingdom",
+ "mcap": 48708694.0,
+ "price": "$0.305",
+ "cik": 1719714,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MREO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mreo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:32+00:00"
+}

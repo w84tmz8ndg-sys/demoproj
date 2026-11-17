@@ -1,0 +1,27 @@
+{
+ "ticker": "INUV",
+ "name": "Inuvo Inc.",
+ "sector": "Consumer Discretionary",
+ "industry": "Advertising",
+ "country": "United States",
+ "mcap": 4760428.0,
+ "price": "$0.2665",
+ "cik": 829323,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INUV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Inuvo (INUV) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/inuv",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:20+00:00"
+}

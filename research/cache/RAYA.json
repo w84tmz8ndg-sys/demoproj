@@ -1,0 +1,27 @@
+{
+ "ticker": "RAYA",
+ "name": "Erayak Power Solution Group Inc. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Metal Fabrications",
+ "country": "China",
+ "mcap": 513011.0,
+ "price": "$0.4864",
+ "cik": 1825875,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RAYA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/raya",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:55+00:00"
+}

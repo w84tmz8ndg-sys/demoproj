@@ -1,0 +1,27 @@
+{
+ "ticker": "OOMA",
+ "name": "Ooma Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 496524000.0,
+ "price": "$17.99",
+ "cik": 1327688,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OOMA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Ooma (OOMA) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ooma",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:30+00:00"
+}

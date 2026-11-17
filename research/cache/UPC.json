@@ -1,0 +1,27 @@
+{
+ "ticker": "UPC",
+ "name": "Universe Pharmaceuticals Inc. Class A Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "China",
+ "mcap": 7184878.0,
+ "price": "$1.43",
+ "cik": 1809616,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UPC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/upc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:03+00:00"
+}

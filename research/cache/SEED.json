@@ -1,0 +1,27 @@
+{
+ "ticker": "SEED",
+ "name": "Origin Agritech Limited Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "China",
+ "mcap": 9199639.0,
+ "price": "$0.6504",
+ "cik": 1321851,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SEED/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/seed",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:00+00:00"
+}

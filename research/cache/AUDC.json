@@ -1,0 +1,27 @@
+{
+ "ticker": "AUDC",
+ "name": "AudioCodes Ltd. Common Stock",
+ "sector": "Utilities",
+ "industry": "Telecommunications Equipment",
+ "country": "Israel",
+ "mcap": 216153563.0,
+ "price": "$8.79",
+ "cik": 1086434,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AUDC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/audc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:31+00:00"
+}

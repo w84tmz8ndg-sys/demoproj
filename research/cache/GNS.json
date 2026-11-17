@@ -1,0 +1,27 @@
+{
+ "ticker": "GNS",
+ "name": "Genius Group Limited Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Singapore",
+ "mcap": 19501867.0,
+ "price": "$0.1016",
+ "cik": 1847806,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GNS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gns",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:12+00:00"
+}

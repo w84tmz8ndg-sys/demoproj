@@ -1,0 +1,27 @@
+{
+ "ticker": "DXST",
+ "name": "Decent Holding Inc Class A Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Miscellaneous",
+ "country": "China",
+ "mcap": 1466582.0,
+ "price": "$0.701",
+ "cik": 1958133,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DXST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dxst",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:23+00:00"
+}

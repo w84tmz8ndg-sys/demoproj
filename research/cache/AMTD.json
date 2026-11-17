@@ -1,0 +1,27 @@
+{
+ "ticker": "AMTD",
+ "name": "AMTD IDEA Group American Depositary Shares each representing three hundred sixty (360) Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "",
+ "mcap": 20496945.0,
+ "price": "$12.85",
+ "cik": 1769731,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMTD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/amtd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:02+00:00"
+}

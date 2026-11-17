@@ -1,0 +1,27 @@
+{
+ "ticker": "WCT",
+ "name": "Wellchange Holdings Company Limited Class A Ordinary shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Hong Kong",
+ "mcap": 3936801.0,
+ "price": "$3.19",
+ "cik": 1990251,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WCT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wct",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:51+00:00"
+}

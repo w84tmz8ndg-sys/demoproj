@@ -1,0 +1,27 @@
+{
+ "ticker": "OFRM",
+ "name": "Once Upon a Farm PBC Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 494991025.0,
+ "price": "$11.715",
+ "cik": 1696556,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OFRM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Once Upon a Farm PBC (OFRM) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ofrm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:34+00:00"
+}

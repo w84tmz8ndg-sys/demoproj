@@ -1,0 +1,27 @@
+{
+ "ticker": "JAKK",
+ "name": "JAKKS Pacific Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Recreational Games/Products/Toys",
+ "country": "United States",
+ "mcap": 410313619.0,
+ "price": "$35.62",
+ "cik": 1009829,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JAKK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, JAKKS Pacific (JAKK) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jakk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:00+00:00"
+}

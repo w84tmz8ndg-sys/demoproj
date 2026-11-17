@@ -1,0 +1,27 @@
+{
+ "ticker": "IPST",
+ "name": "IP Strategy Holdings Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "United States",
+ "mcap": 1922151.0,
+ "price": "$1.93",
+ "cik": 1788230,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IPST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ipst",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:58+00:00"
+}

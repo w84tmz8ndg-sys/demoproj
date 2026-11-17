@@ -1,0 +1,27 @@
+{
+ "ticker": "IDAI",
+ "name": "T Stamp Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 12563689.0,
+ "price": "$2.21",
+ "cik": 1718939,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IDAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/idai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:03+00:00"
+}

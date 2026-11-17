@@ -1,0 +1,27 @@
+{
+ "ticker": "GOW",
+ "name": "GOWell Energy Technology Ordinary shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Oil and Gas Field Machinery",
+ "country": "Singapore",
+ "mcap": 116850450.0,
+ "price": "$2.50",
+ "cik": 2097702,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GOW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gow",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:17+00:00"
+}

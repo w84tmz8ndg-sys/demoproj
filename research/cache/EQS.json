@@ -1,0 +1,27 @@
+{
+ "ticker": "EQS",
+ "name": "Equus Total Return Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance/Investors Services",
+ "country": "United States",
+ "mcap": 8715218.0,
+ "price": "$0.624",
+ "cik": 878932,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EQS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eqs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:16+00:00"
+}

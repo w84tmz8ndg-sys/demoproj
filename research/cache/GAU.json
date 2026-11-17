@@ -1,0 +1,27 @@
+{
+ "ticker": "GAU",
+ "name": "Galiano Gold Inc.",
+ "sector": "Industrials",
+ "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+ "country": "Canada",
+ "mcap": 577830018.0,
+ "price": "$2.205",
+ "cik": 1377757,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GAU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gau",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:28+00:00"
+}

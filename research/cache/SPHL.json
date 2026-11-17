@@ -1,0 +1,27 @@
+{
+ "ticker": "SPHL",
+ "name": "Springview Holdings Ltd Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Homebuilding",
+ "country": "Singapore",
+ "mcap": 28815653.0,
+ "price": "$2.35",
+ "cik": 2002236,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SPHL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sphl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:07+00:00"
+}

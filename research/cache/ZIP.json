@@ -1,0 +1,27 @@
+{
+ "ticker": "ZIP",
+ "name": "ZipRecruiter Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 498183218.0,
+ "price": "$6.10",
+ "cik": 1617553,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZIP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, ZipRecruiter Inc - Ordinary Shares - Class A (ZIP) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/zip",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:31+00:00"
+}

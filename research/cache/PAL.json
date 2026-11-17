@@ -1,0 +1,27 @@
+{
+ "ticker": "PAL",
+ "name": "Proficient Auto Logistics Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Transportation Services",
+ "country": "United States",
+ "mcap": 72937600.0,
+ "price": "$2.60",
+ "cik": 1998768,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PAL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Proficient Auto Logistics Common Stock (PAL) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pal",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:34+00:00"
+}

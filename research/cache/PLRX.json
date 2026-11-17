@@ -1,0 +1,27 @@
+{
+ "ticker": "PLRX",
+ "name": "Pliant Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 42971908.0,
+ "price": "$0.6932",
+ "cik": 1746473,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Pliant Therapeutics (PLRX) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/plrx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:08+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PYXS",
+ "name": "Pyxis Oncology Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 168647076.0,
+ "price": "$1.41",
+ "cik": 1782223,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PYXS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Pyxis Oncology (PYXS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pyxs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:03+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "NFE",
+ "name": "New Fortress Energy Inc. Class A Common Stock",
+ "sector": "Utilities",
+ "industry": "Oil/Gas Transmission",
+ "country": "United States",
+ "mcap": 49780743.0,
+ "price": "$3.05",
+ "cik": 1749723,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NFE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, New Fortress Energy (NFE) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nfe",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:27+00:00"
+}

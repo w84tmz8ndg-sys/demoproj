@@ -1,0 +1,27 @@
+{
+ "ticker": "VEEA",
+ "name": "Veea Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 19461842.0,
+ "price": "$4.78",
+ "cik": 1840317,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VEEA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/veea",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:13+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "IRIX",
+ "name": "IRIDEX Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+ "country": "United States",
+ "mcap": 12081146.0,
+ "price": "$0.6878",
+ "cik": 1006045,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IRIX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, IRIDEX (IRIX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/irix",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:09+00:00"
+}

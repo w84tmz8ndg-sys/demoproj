@@ -1,0 +1,27 @@
+{
+ "ticker": "DLXY",
+ "name": "Delixy Holdings Limited Class A Ordinary Shares",
+ "sector": "Energy",
+ "industry": "Oil Refining/Marketing",
+ "country": "Singapore",
+ "mcap": 4643400.0,
+ "price": "$1.42",
+ "cik": 2025218,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DLXY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dlxy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:21+00:00"
+}

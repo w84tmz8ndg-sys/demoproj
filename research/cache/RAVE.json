@@ -1,0 +1,27 @@
+{
+ "ticker": "RAVE",
+ "name": "Rave Restaurant Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Food Distributors",
+ "country": "United States",
+ "mcap": 29646053.0,
+ "price": "$2.08",
+ "cik": 718332,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RAVE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Rave Restaurant Group Inc (RAVE) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rave",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:59+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "LFS",
+ "name": "LEIFRAS Co. Ltd. American Depositary Shares  ",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "Japan",
+ "mcap": 53918140.0,
+ "price": "$2.03",
+ "cik": 2030277,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LFS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lfs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:01+00:00"
+}

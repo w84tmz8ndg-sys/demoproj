@@ -1,0 +1,27 @@
+{
+ "ticker": "SAEN",
+ "name": "Genenta Science S.p.A. American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Italy",
+ "mcap": 28447946.0,
+ "price": "$0.59",
+ "cik": 1838716,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/SAEN/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/saen",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:14+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MDCX",
+ "name": "Medicus Pharma Ltd. Common Stock  ",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Canada",
+ "mcap": 3209881.0,
+ "price": "$1.69",
+ "cik": 1997296,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MDCX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mdcx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:30+00:00"
+}

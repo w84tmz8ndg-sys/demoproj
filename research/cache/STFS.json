@@ -1,0 +1,27 @@
+{
+ "ticker": "STFS",
+ "name": "Star Fashion Culture Holdings Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Advertising",
+ "country": "China",
+ "mcap": 74601440.0,
+ "price": "$4.91",
+ "cik": 2003061,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/STFS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/stfs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:29+00:00"
+}

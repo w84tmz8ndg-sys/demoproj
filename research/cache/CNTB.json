@@ -1,0 +1,27 @@
+{
+ "ticker": "CNTB",
+ "name": "Connect Biopharma Holdings Limited Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "China",
+ "mcap": 40492481.0,
+ "price": "$0.643",
+ "cik": 1835268,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNTB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cntb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:26+00:00"
+}

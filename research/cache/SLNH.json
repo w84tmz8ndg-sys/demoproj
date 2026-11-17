@@ -1,0 +1,27 @@
+{
+ "ticker": "SLNH",
+ "name": "Soluna Holdings Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 112767506.0,
+ "price": "$0.4571",
+ "cik": 64463,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLNH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Soluna Holdings Inc (SLNH) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/slnh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:14+00:00"
+}

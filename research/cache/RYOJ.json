@@ -1,0 +1,27 @@
+{
+ "ticker": "RYOJ",
+ "name": "rYojbaba Co. Ltd. Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "Japan",
+ "mcap": 27951000.0,
+ "price": "$2.42",
+ "cik": 2012600,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RYOJ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ryoj",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:18+00:00"
+}

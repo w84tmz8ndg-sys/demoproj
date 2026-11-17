@@ -1,0 +1,27 @@
+{
+ "ticker": "GTEC",
+ "name": "Greenland Technologies Holding Corporation Class A Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "China",
+ "mcap": 11785635.0,
+ "price": "$0.444",
+ "cik": 1735041,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GTEC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gtec",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:15+00:00"
+}

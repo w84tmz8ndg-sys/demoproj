@@ -1,0 +1,27 @@
+{
+ "ticker": "CLIK",
+ "name": "Click Holdings Limited Class A Ordinary Share",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "Hong Kong",
+ "mcap": 6009537.0,
+ "price": "$0.7018",
+ "cik": 2020027,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLIK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/clik",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:35+00:00"
+}

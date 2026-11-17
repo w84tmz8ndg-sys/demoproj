@@ -1,0 +1,27 @@
+{
+ "ticker": "CHAI",
+ "name": "Core AI Holdings Inc. Common Shares",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "Canada",
+ "mcap": 4314590.0,
+ "price": "$0.1668",
+ "cik": 1649009,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CHAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/chai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:37+00:00"
+}

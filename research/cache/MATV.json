@@ -1,0 +1,27 @@
+{
+ "ticker": "MATV",
+ "name": "Mativ Holdings Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Paper",
+ "country": "United States",
+ "mcap": 641331005.0,
+ "price": "$11.62",
+ "cik": 1000623,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MATV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Mativ Holdings (MATV) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/matv",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:43+00:00"
+}

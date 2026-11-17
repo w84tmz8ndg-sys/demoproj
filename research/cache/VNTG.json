@@ -1,0 +1,27 @@
+{
+ "ticker": "VNTG",
+ "name": "Vantage Corp Class A Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Integrated Freight & Logistics",
+ "country": "Singapore",
+ "mcap": 14104009.0,
+ "price": "$0.46",
+ "cik": 2027160,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VNTG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vntg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:33+00:00"
+}

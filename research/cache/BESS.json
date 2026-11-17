@@ -1,0 +1,27 @@
+{
+ "ticker": "BESS",
+ "name": "Bimergen Energy Corporation Common Stock",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "",
+ "mcap": 19660277.0,
+ "price": "$2.77",
+ "cik": 1066764,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BESS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bess",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:10+00:00"
+}

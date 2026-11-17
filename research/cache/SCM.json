@@ -1,0 +1,27 @@
+{
+ "ticker": "SCM",
+ "name": "Stellus Capital Investment Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Finance/Investors Services",
+ "country": "United States",
+ "mcap": 186829250.0,
+ "price": "$6.63",
+ "cik": 1551901,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SCM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Stellus Capital Investment Corp (SCM) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/scm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:19+00:00"
+}

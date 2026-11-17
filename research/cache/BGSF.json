@@ -1,0 +1,27 @@
+{
+ "ticker": "BGSF",
+ "name": "BGSF Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "United States",
+ "mcap": 41577763.0,
+ "price": "$3.91",
+ "cik": 1474903,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BGSF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, BGSF (BGSF) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bgsf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:16+00:00"
+}

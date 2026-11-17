@@ -1,0 +1,27 @@
+{
+ "ticker": "AMRO",
+ "name": "Amaero Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 162402288.0,
+ "price": "$5.63",
+ "cik": 2141616,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/AMRO/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/amro",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:09+00:00"
+}

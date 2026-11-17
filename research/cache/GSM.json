@@ -1,0 +1,27 @@
+{
+ "ticker": "GSM",
+ "name": "Ferroglobe PLC Ordinary Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "United Kingdom",
+ "mcap": 510129211.0,
+ "price": "$2.73",
+ "cik": 1639877,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GSM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gsm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:21+00:00"
+}

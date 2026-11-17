@@ -1,0 +1,27 @@
+{
+ "ticker": "DAVA",
+ "name": "Endava plc American Depositary Shares (each representing one Class A Ordinary Share)",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United Kingdom",
+ "mcap": 76873558.0,
+ "price": "$1.415",
+ "cik": 1656081,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DAVA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dava",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:19+00:00"
+}

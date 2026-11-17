@@ -1,0 +1,27 @@
+{
+ "ticker": "WCCB",
+ "name": "West Coast Community Bancorp Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 665135208.0,
+ "price": "$63.175",
+ "cik": 2105965,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WCCB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wccb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:27+00:00"
+}

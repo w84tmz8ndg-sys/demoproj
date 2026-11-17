@@ -1,0 +1,27 @@
+{
+ "ticker": "CLLS",
+ "name": "Cellectis S.A. American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "France",
+ "mcap": 104548367.0,
+ "price": "$1.04",
+ "cik": 1627281,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLLS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/clls",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:41+00:00"
+}

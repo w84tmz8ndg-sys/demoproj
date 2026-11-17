@@ -1,0 +1,27 @@
+{
+ "ticker": "PRE",
+ "name": "Prenetics Global Limited Class A Ordinary Share",
+ "sector": "Finance",
+ "industry": "Blank Checks",
+ "country": "Hong Kong",
+ "mcap": 262195906.0,
+ "price": "$15.48",
+ "cik": 1876431,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PRE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pre",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:18+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "OWLT",
+ "name": "Owlet Inc. Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 97588587.0,
+ "price": "$3.265",
+ "cik": 1816708,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OWLT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Owlet Inc - Ordinary Shares - Class A (OWLT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/owlt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:03+00:00"
+}

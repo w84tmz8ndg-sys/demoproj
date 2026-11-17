@@ -1,0 +1,27 @@
+{
+ "ticker": "MBRX",
+ "name": "Moleculin Biotech Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 7579346.0,
+ "price": "$7.14",
+ "cik": 1659617,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MBRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mbrx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:54+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "RDZN",
+ "name": "Roadzen Inc. Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Specialty Insurers",
+ "country": "United States",
+ "mcap": 90274967.0,
+ "price": "$1.06",
+ "cik": 1868640,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RDZN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rdzn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:25+00:00"
+}

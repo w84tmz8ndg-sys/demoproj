@@ -1,0 +1,27 @@
+{
+ "ticker": "LIVE",
+ "name": "Live Ventures Incorporated Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "United States",
+ "mcap": 21993057.0,
+ "price": "$7.16",
+ "cik": 1045742,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LIVE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Live Ventures Incorporated (LIVE) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/live",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:53+00:00"
+}

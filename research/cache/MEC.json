@@ -1,0 +1,27 @@
+{
+ "ticker": "MEC",
+ "name": "Mayville Engineering Company Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 310347779.0,
+ "price": "$12.17",
+ "cik": 1766368,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MEC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Mayville Engineering Company (MEC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mec",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:59+00:00"
+}

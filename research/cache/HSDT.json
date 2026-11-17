@@ -1,0 +1,27 @@
+{
+ "ticker": "HSDT",
+ "name": "Solana Company Class A Common Stock (DE)",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+ "country": "United States",
+ "mcap": 103133981.0,
+ "price": "$1.64",
+ "cik": 1610853,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HSDT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Helius Medical Technologies Inc - Ordinary Shares - Class A (HSDT) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hsdt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:46+00:00"
+}

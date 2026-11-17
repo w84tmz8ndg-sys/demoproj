@@ -1,0 +1,27 @@
+{
+ "ticker": "NDRA",
+ "name": "ENDRA Life Sciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+ "country": "United States",
+ "mcap": 6479620.0,
+ "price": "$4.32",
+ "cik": 1681682,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NDRA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ndra",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:19+00:00"
+}

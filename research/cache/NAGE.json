@@ -1,0 +1,27 @@
+{
+ "ticker": "NAGE",
+ "name": "Niagen Bioscience Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "United States",
+ "mcap": 159185775.0,
+ "price": "$2.01",
+ "cik": 1386570,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NAGE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Niagen Bioscience Inc. (NAGE) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nage",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:16+00:00"
+}

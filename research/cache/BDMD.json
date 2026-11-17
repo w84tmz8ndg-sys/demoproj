@@ -1,0 +1,27 @@
+{
+ "ticker": "BDMD",
+ "name": "Baird Medical Investment Holdings Ltd Ordinary Share",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "China",
+ "mcap": 4506956.0,
+ "price": "$0.1065",
+ "cik": 1982444,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BDMD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bdmd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:27+00:00"
+}

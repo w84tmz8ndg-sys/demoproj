@@ -1,0 +1,27 @@
+{
+ "ticker": "AISP",
+ "name": "Airship AI Holdings Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 55447695.0,
+ "price": "$1.61",
+ "cik": 1842566,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AISP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Airship AI Holdings Inc - Ordinary Shares - Class A (AISP) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aisp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:50+00:00"
+}

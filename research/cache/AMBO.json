@@ -1,0 +1,27 @@
+{
+ "ticker": "AMBO",
+ "name": "Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares)",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 75512493.0,
+ "price": "$1.32",
+ "cik": 1494558,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMBO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ambo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:25+00:00"
+}

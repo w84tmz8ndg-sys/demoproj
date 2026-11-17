@@ -1,0 +1,27 @@
+{
+ "ticker": "NXTS",
+ "name": "Nexentis Technologies Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Agricultural Chemicals",
+ "country": "Israel",
+ "mcap": 1326594.0,
+ "price": "$1.99",
+ "cik": 1789192,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NXTS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nxts",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:27+00:00"
+}

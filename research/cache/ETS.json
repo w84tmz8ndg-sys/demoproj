@@ -1,0 +1,27 @@
+{
+ "ticker": "ETS",
+ "name": "Elite Express Holding Inc. Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Trucking Freight/Courier Services",
+ "country": "United States",
+ "mcap": 95971844.0,
+ "price": "$1.97",
+ "cik": 2053641,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ETS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ets",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:07+00:00"
+}

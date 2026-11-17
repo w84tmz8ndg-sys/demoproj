@@ -1,0 +1,27 @@
+{
+ "ticker": "XBIO",
+ "name": "Xenetic Biosciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 3467908.0,
+ "price": "$1.48",
+ "cik": 1534525,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XBIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/xbio",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:11+00:00"
+}

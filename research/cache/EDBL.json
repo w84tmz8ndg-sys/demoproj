@@ -1,0 +1,27 @@
+{
+ "ticker": "EDBL",
+ "name": "Edible Garden AG Incorporated Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "United States",
+ "mcap": 1077220.0,
+ "price": "$0.51",
+ "cik": 1809750,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EDBL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/edbl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:36+00:00"
+}

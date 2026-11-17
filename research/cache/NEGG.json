@@ -1,0 +1,27 @@
+{
+ "ticker": "NEGG",
+ "name": "Newegg Commerce Inc. Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "China",
+ "mcap": 180790906.0,
+ "price": "$8.62",
+ "cik": 1474627,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NEGG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Newegg Commerce Inc (NEGG) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/negg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:34+00:00"
+}

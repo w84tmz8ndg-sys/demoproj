@@ -1,0 +1,27 @@
+{
+ "ticker": "BMMX",
+ "name": "Black Mammoth Metals Corporation Common Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "Canada",
+ "mcap": 136113695.0,
+ "price": "$2.52",
+ "cik": 1929908,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BMMX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bmmx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:13+00:00"
+}

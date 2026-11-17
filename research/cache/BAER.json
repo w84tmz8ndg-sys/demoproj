@@ -1,0 +1,27 @@
+{
+ "ticker": "BAER",
+ "name": "Bridger Aerospace Group Holdings Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "United States",
+ "mcap": 14141804.0,
+ "price": "$0.2404",
+ "cik": 1941536,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BAER/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Bridger Aerospace Group Holdings Inc - Ordinary Shares - Class A (BAER) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/baer",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:31+00:00"
+}

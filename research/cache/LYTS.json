@@ -1,0 +1,27 @@
+{
+ "ticker": "LYTS",
+ "name": "LSI Industries Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Building Products",
+ "country": "United States",
+ "mcap": 573263508.0,
+ "price": "$15.36",
+ "cik": 763532,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LYTS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, LSI Industries Inc. (LYTS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lyts",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:33+00:00"
+}

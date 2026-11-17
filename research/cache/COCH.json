@@ -1,0 +1,27 @@
+{
+ "ticker": "COCH",
+ "name": "Envoy Medical Inc. Class A Common Stock",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 53591857.0,
+ "price": "$6.92",
+ "cik": 1840877,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COCH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/coch",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:03+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "AIFA",
+ "name": "All In FutureTech Alliance Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 22021684.0,
+ "price": "$3.43",
+ "cik": 1708341,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIFA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aifa",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:47+00:00"
+}

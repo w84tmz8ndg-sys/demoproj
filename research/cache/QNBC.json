@@ -1,0 +1,27 @@
+{
+ "ticker": "QNBC",
+ "name": "QNB Corp. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 290330139.0,
+ "price": "$46.69",
+ "cik": 750558,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QNBC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/qnbc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:36+00:00"
+}

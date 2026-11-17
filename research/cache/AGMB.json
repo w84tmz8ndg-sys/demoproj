@@ -1,0 +1,27 @@
+{
+ "ticker": "AGMB",
+ "name": "AgomAb Therapeutics NV American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Belgium",
+ "mcap": 294010411.0,
+ "price": "$5.97",
+ "cik": 2020932,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AGMB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/agmb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:27+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "TAYD",
+ "name": "Taylor Devices Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 183617825.0,
+ "price": "$56.85",
+ "cik": 96536,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TAYD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Taylor Devices (TAYD) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tayd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:29+00:00"
+}

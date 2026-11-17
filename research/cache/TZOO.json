@@ -1,0 +1,27 @@
+{
+ "ticker": "TZOO",
+ "name": "Travelzoo Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Advertising",
+ "country": "United States",
+ "mcap": 51728678.0,
+ "price": "$5.19",
+ "cik": 1133311,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TZOO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Travelzoo (TZOO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tzoo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:16+00:00"
+}

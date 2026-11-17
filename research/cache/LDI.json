@@ -1,0 +1,27 @@
+{
+ "ticker": "LDI",
+ "name": "loanDepot Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 145378904.0,
+ "price": "$0.4293",
+ "cik": 1831631,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LDI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, loanDepot (LDI) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ldi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:57+00:00"
+}

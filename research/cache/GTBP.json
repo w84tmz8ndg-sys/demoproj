@@ -1,0 +1,27 @@
+{
+ "ticker": "GTBP",
+ "name": "GT Biopharma Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 7555143.0,
+ "price": "$3.535",
+ "cik": 109657,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GTBP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gtbp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:56+00:00"
+}

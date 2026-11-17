@@ -1,0 +1,27 @@
+{
+ "ticker": "IFBD",
+ "name": "Infobird Co. Ltd Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 11300232.0,
+ "price": "$1.38",
+ "cik": 1815566,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IFBD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ifbd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:26+00:00"
+}

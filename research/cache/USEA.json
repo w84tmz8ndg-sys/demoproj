@@ -1,0 +1,27 @@
+{
+ "ticker": "USEA",
+ "name": "United Maritime Corporation Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 28724848.0,
+ "price": "$3.01",
+ "cik": 1912847,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/USEA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/usea",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:08+00:00"
+}

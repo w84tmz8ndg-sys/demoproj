@@ -1,0 +1,27 @@
+{
+ "ticker": "VNRX",
+ "name": "VolitionRX Limited Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+ "country": "Singapore",
+ "mcap": 7032558.0,
+ "price": "$0.1949",
+ "cik": 93314,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VNRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vnrx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:05+00:00"
+}

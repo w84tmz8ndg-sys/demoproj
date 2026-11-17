@@ -1,0 +1,27 @@
+{
+ "ticker": "FTHM",
+ "name": "Fathom Holdings Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 3044058.0,
+ "price": "$0.088",
+ "cik": 1753162,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FTHM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Fathom Holdings (FTHM) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fthm",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:42+00:00"
+}

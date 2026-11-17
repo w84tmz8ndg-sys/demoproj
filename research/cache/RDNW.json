@@ -1,0 +1,27 @@
+{
+ "ticker": "RDNW",
+ "name": "RideNow Group Inc. Class B Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 170589147.0,
+ "price": "$4.37",
+ "cik": 1596961,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RDNW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rdnw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:55+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "INLF",
+ "name": "INLIF LIMITED Class A Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "China",
+ "mcap": 1339279.0,
+ "price": "$0.39",
+ "cik": 1991592,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INLF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/inlf",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:26+00:00"
+}

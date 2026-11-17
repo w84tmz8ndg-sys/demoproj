@@ -1,0 +1,27 @@
+{
+ "ticker": "FDSB",
+ "name": "Fifth District Bancorp Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Savings Institutions",
+ "country": "United States",
+ "mcap": 90234034.0,
+ "price": "$17.36",
+ "cik": 2012726,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FDSB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Fifth District Bancorp Inc. (FDSB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fdsb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:25+00:00"
+}

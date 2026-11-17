@@ -1,0 +1,27 @@
+{
+ "ticker": "BRUN",
+ "name": "Boost Run Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 400702231.0,
+ "price": "$4.76",
+ "cik": 2090646,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BRUN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/brun",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:13+00:00"
+}

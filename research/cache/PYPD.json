@@ -1,0 +1,27 @@
+{
+ "ticker": "PYPD",
+ "name": "PolyPid Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "Israel",
+ "mcap": 124917361.0,
+ "price": "$6.15",
+ "cik": 1611842,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PYPD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pypd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:39+00:00"
+}

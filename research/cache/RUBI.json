@@ -1,0 +1,27 @@
+{
+ "ticker": "RUBI",
+ "name": "Rubico Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 1266025.0,
+ "price": "$0.8051",
+ "cik": 1943421,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RUBI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rubi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:29+00:00"
+}

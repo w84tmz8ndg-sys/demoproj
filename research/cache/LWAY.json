@@ -1,0 +1,27 @@
+{
+ "ticker": "LWAY",
+ "name": "Lifeway Foods Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "United States",
+ "mcap": 272855844.0,
+ "price": "$18.06",
+ "cik": 814586,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LWAY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Lifeway Foods (LWAY) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lway",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:03+00:00"
+}

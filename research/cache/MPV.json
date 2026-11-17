@@ -1,0 +1,27 @@
+{
+ "ticker": "MPV",
+ "name": "Barings Participation Investors Common Stock",
+ "sector": "Finance",
+ "industry": "Finance Companies",
+ "country": "United States",
+ "mcap": 174503982.0,
+ "price": "$16.46",
+ "cik": 831655,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MPV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mpv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:46+00:00"
+}

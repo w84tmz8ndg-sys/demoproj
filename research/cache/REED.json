@@ -1,0 +1,27 @@
+{
+ "ticker": "REED",
+ "name": "Reed's Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "",
+ "mcap": 50652130.0,
+ "price": "$1.73",
+ "cik": 1140215,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/REED/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/reed",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:26+00:00"
+}

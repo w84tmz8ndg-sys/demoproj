@@ -1,0 +1,27 @@
+{
+ "ticker": "NUS",
+ "name": "Nu Skin Enterprises Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Other Pharmaceuticals",
+ "country": "United States",
+ "mcap": 192034935.0,
+ "price": "$3.945",
+ "cik": 1021561,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NUS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Nu Skin Enterprises, Inc. - Ordinary Shares - Class A (NUS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nus",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:11+00:00"
+}

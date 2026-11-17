@@ -1,0 +1,27 @@
+{
+ "ticker": "GIXI",
+ "name": "Gix Internet Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Israel",
+ "mcap": 7925676.0,
+ "price": "$3.18",
+ "cik": 1782265,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GIXI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gixi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:45+00:00"
+}

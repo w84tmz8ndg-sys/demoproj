@@ -1,0 +1,27 @@
+{
+ "ticker": "GNT",
+ "name": "GAMCO Natural Resources Gold & Income Trust",
+ "sector": "Finance",
+ "industry": "Finance/Investors Services",
+ "country": "United States",
+ "mcap": 147618758.0,
+ "price": "$7.99",
+ "cik": 1438893,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gnt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:50+00:00"
+}

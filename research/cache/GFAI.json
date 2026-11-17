@@ -1,0 +1,27 @@
+{
+ "ticker": "GFAI",
+ "name": "Guardforce AI Co. Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "Singapore",
+ "mcap": 4438967.0,
+ "price": "$0.1389",
+ "cik": 1804469,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GFAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gfai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:34+00:00"
+}

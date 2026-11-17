@@ -1,0 +1,27 @@
+{
+ "ticker": "FORR",
+ "name": "Forrester Research Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Diversified Commercial Services",
+ "country": "United States",
+ "mcap": 160065360.0,
+ "price": "$8.82",
+ "cik": 1023313,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FORR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Forrester Research (FORR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/forr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:17+00:00"
+}

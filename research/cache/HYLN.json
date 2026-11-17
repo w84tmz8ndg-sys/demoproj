@@ -1,0 +1,27 @@
+{
+ "ticker": "HYLN",
+ "name": "Hyliion Holdings Corp. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Construction/Ag Equipment/Trucks",
+ "country": "United States",
+ "mcap": 395421644.0,
+ "price": "$2.21",
+ "cik": 1759631,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HYLN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Hyliion Holdings Corp. (HYLN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hyln",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:20+00:00"
+}

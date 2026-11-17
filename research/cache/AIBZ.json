@@ -1,0 +1,27 @@
+{
+ "ticker": "AIBZ",
+ "name": "Bitzero Holdings Inc. Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "Canada",
+ "mcap": 152414480.0,
+ "price": "$2.45",
+ "cik": 2100457,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/AIBZ/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aibz",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:37+00:00"
+}

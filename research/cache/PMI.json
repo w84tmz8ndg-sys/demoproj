@@ -1,0 +1,27 @@
+{
+ "ticker": "PMI",
+ "name": "Picard Medical Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "",
+ "mcap": 18586819.0,
+ "price": "$7.56",
+ "cik": 2030617,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PMI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pmi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:24+00:00"
+}

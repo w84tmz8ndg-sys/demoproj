@@ -1,0 +1,27 @@
+{
+ "ticker": "PSIG",
+ "name": "PS International Group Ltd. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Integrated Freight & Logistics",
+ "country": "Hong Kong",
+ "mcap": 76596494.0,
+ "price": "$4.98",
+ "cik": 1997201,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PSIG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/psig",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:20+00:00"
+}

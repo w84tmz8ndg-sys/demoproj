@@ -1,0 +1,27 @@
+{
+ "ticker": "VTIX",
+ "name": "Virtuix Holdings Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer peripheral equipment",
+ "country": "United States",
+ "mcap": 16000505.0,
+ "price": "$0.471",
+ "cik": 1606242,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VTIX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vtix",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:57+00:00"
+}

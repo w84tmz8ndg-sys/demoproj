@@ -1,0 +1,27 @@
+{
+ "ticker": "FEMY",
+ "name": "Femasys Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 11080035.0,
+ "price": "$1.28",
+ "cik": 1339005,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FEMY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/femy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:30+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "EOT",
+ "name": "Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "United States",
+ "mcap": 241561279.0,
+ "price": "$15.46",
+ "cik": 1454741,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EOT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eot",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:51+00:00"
+}

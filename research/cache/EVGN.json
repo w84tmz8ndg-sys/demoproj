@@ -1,0 +1,27 @@
+{
+ "ticker": "EVGN",
+ "name": "Evogene Ltd Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Agricultural Chemicals",
+ "country": "Israel",
+ "mcap": 6189411.0,
+ "price": "$0.3917",
+ "cik": 1574565,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EVGN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/evgn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:29+00:00"
+}

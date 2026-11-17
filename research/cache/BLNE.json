@@ -1,0 +1,27 @@
+{
+ "ticker": "BLNE",
+ "name": "Beeline Holdings Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 14917945.0,
+ "price": "$0.4201",
+ "cik": 1534708,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BLNE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/blne",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:19+00:00"
+}

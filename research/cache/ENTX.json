@@ -1,0 +1,27 @@
+{
+ "ticker": "ENTX",
+ "name": "Entera Bio Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Israel",
+ "mcap": 525896068.0,
+ "price": "$3.02",
+ "cik": 1638097,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/entx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:12+00:00"
+}

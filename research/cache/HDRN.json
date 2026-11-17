@@ -1,0 +1,27 @@
+{
+ "ticker": "HDRN",
+ "name": "Hadron Energy Inc. Common Stock  ",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 35962535.0,
+ "price": "$0.5067",
+ "cik": 2023730,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HDRN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hdrn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:58+00:00"
+}

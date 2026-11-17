@@ -1,0 +1,27 @@
+{
+ "ticker": "VIVO",
+ "name": "VivoPower PLC Class A Ordinary Shares",
+ "sector": "Utilities",
+ "industry": "Power Generation",
+ "country": "United Kingdom",
+ "mcap": 64827817.0,
+ "price": "$2.11",
+ "cik": 1681348,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VIVO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vivo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:08+00:00"
+}

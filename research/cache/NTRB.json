@@ -1,0 +1,27 @@
+{
+ "ticker": "NTRB",
+ "name": "Nutriband Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 70624518.0,
+ "price": "$5.81",
+ "cik": 1676047,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NTRB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Nutriband (NTRB) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ntrb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:41+00:00"
+}

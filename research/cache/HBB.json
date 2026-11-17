@@ -1,0 +1,27 @@
+{
+ "ticker": "HBB",
+ "name": "Hamilton Beach Brands Holding Company Class A Common Stock ",
+ "sector": "Consumer Discretionary",
+ "industry": "Home Furnishings",
+ "country": "United States",
+ "mcap": 401695596.0,
+ "price": "$29.89",
+ "cik": 1709164,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HBB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Hamilton Beach Brands (HBB) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hbb",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:10+00:00"
+}

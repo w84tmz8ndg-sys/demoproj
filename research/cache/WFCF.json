@@ -1,0 +1,27 @@
+{
+ "ticker": "WFCF",
+ "name": "Where Food Comes From Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 82133692.0,
+ "price": "$16.56",
+ "cik": 1360565,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WFCF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Where Food Comes From (WFCF) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wfcf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:02+00:00"
+}

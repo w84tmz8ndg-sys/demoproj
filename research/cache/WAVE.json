@@ -1,0 +1,27 @@
+{
+ "ticker": "WAVE",
+ "name": "Eco Wave Power Global AB (publ) American Depositary Shares",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "Israel",
+ "mcap": 23523533.0,
+ "price": "$3.77",
+ "cik": 1846715,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WAVE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wave",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:37+00:00"
+}

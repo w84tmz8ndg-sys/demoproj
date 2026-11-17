@@ -1,0 +1,27 @@
+{
+ "ticker": "OPTH",
+ "name": "Optimi Health Corp. Common Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Canada",
+ "mcap": 12310614.0,
+ "price": "$2.15",
+ "cik": 2027329,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OPTH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/opth",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:09+00:00"
+}

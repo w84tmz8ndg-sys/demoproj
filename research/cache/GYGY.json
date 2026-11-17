@@ -1,0 +1,27 @@
+{
+ "ticker": "GYGY",
+ "name": "Game Your Game Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 5392682.0,
+ "price": "$0.3747",
+ "cik": 2111846,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GYGY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gygy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:54+00:00"
+}

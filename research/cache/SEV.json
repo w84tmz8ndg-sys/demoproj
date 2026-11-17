@@ -1,0 +1,27 @@
+{
+ "ticker": "SEV",
+ "name": "Aptera Motors Corp. Class B Common Stock",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "United States",
+ "mcap": 73052199.0,
+ "price": "$1.62",
+ "cik": 1786471,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SEV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sev",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:35+00:00"
+}

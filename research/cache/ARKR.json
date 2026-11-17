@@ -1,0 +1,27 @@
+{
+ "ticker": "ARKR",
+ "name": "Ark Restaurants Corp. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "United States",
+ "mcap": 15794968.0,
+ "price": "$4.38",
+ "cik": 779544,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ARKR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Ark Restaurants (ARKR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/arkr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:00+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GBR",
+ "name": "New Concept Energy Inc Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 3923277.0,
+ "price": "$0.5501",
+ "cik": 105744,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GBR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gbr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:53+00:00"
+}

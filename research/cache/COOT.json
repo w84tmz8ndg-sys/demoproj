@@ -1,0 +1,27 @@
+{
+ "ticker": "COOT",
+ "name": "Australian Oilseeds Holdings Limited Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "Australia",
+ "mcap": 19240037.0,
+ "price": "$0.2867",
+ "cik": 1959994,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COOT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/coot",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:16+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "BGM",
+ "name": "BGM Group Ltd. Class A Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "China",
+ "mcap": 99621676.0,
+ "price": "$7.46",
+ "cik": 1779578,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BGM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bgm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:57+00:00"
+}

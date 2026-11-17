@@ -1,0 +1,27 @@
+{
+ "ticker": "FNRN",
+ "name": "First Northern Community Bancorp Common stock",
+ "sector": "Finance",
+ "industry": "Savings Institutions",
+ "country": "United States",
+ "mcap": 281479225.0,
+ "price": "$17.28",
+ "cik": 1114927,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FNRN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fnrn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:53+00:00"
+}

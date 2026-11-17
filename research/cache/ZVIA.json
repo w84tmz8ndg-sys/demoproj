@@ -1,0 +1,27 @@
+{
+ "ticker": "ZVIA",
+ "name": "Zevia PBC Class A Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "United States",
+ "mcap": 77304068.0,
+ "price": "$0.9989",
+ "cik": 1854139,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZVIA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Zevia PBC - Ordinary Shares - Class A (ZVIA) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/zvia",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:14+00:00"
+}

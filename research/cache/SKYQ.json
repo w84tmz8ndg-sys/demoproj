@@ -1,0 +1,27 @@
+{
+ "ticker": "SKYQ",
+ "name": "Sky Quarry Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Environmental Services",
+ "country": "United States",
+ "mcap": 8619525.0,
+ "price": "$0.9786",
+ "cik": 1812447,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SKYQ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/skyq",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:21+00:00"
+}

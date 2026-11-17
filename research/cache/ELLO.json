@@ -1,0 +1,27 @@
+{
+ "ticker": "ELLO",
+ "name": "Ellomay Capital Ltd Ordinary Shares (Israel)",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "Israel",
+ "mcap": 246168488.0,
+ "price": "$17.86",
+ "cik": 946394,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ELLO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ello",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:43+00:00"
+}

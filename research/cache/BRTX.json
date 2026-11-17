@@ -1,0 +1,27 @@
+{
+ "ticker": "BRTX",
+ "name": "BioRestorative Therapies Inc. Common Stock (NV)",
+ "sector": "Health Care",
+ "industry": "Managed Health Care",
+ "country": "United States",
+ "mcap": 1961202.0,
+ "price": "$1.42",
+ "cik": 1505497,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BRTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/brtx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:55+00:00"
+}

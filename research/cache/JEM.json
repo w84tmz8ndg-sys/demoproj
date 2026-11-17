@@ -1,0 +1,27 @@
+{
+ "ticker": "JEM",
+ "name": "707 Cayman Holdings Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Clothing/Shoe/Accessory Stores",
+ "country": "China",
+ "mcap": 1995629.0,
+ "price": "$2.87",
+ "cik": 2018222,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JEM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jem",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:52+00:00"
+}

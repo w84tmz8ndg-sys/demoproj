@@ -1,0 +1,27 @@
+{
+ "ticker": "VTSI",
+ "name": "VirTra Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Miscellaneous manufacturing industries",
+ "country": "United States",
+ "mcap": 44777253.0,
+ "price": "$3.94",
+ "cik": 1085243,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VTSI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, VirTra (VTSI) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vtsi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:51+00:00"
+}

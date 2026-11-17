@@ -1,0 +1,27 @@
+{
+ "ticker": "AAME",
+ "name": "Atlantic American Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Life Insurance",
+ "country": "United States",
+ "mcap": 24068800.0,
+ "price": "$1.18",
+ "cik": 8177,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AAME/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Atlantic American Corp. (AAME) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aame",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:27+00:00"
+}

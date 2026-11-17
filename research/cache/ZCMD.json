@@ -1,0 +1,27 @@
+{
+ "ticker": "ZCMD",
+ "name": "Zhongchao Inc. Class A Ordinary Shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 3978423.0,
+ "price": "$0.8967",
+ "cik": 1785566,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZCMD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zcmd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:47+00:00"
+}

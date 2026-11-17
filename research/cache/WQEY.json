@@ -1,0 +1,27 @@
+{
+ "ticker": "WQEY",
+ "name": "WISeQey Corp Ordinary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Switzerland",
+ "mcap": 74417509.0,
+ "price": "$6.20",
+ "cik": 2107968,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/WQEY/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wqey",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:29+00:00"
+}

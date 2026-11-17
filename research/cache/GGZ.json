@@ -1,0 +1,27 @@
+{
+ "ticker": "GGZ",
+ "name": "Gabelli Global Small and Mid Cap Value Trust (The) Common Shares of Beneficial Interest",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "",
+ "mcap": 132369748.0,
+ "price": "$14.92",
+ "cik": 1585855,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GGZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ggz",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:18+00:00"
+}

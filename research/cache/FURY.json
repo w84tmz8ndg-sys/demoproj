@@ -1,0 +1,27 @@
+{
+ "ticker": "FURY",
+ "name": "Fury Gold Mines Limited Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "",
+ "mcap": 80787170.0,
+ "price": "$0.4249",
+ "cik": 1514597,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FURY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fury",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:09+00:00"
+}

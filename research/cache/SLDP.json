@@ -1,0 +1,27 @@
+{
+ "ticker": "SLDP",
+ "name": "Solid Power Inc. Class A Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 371285098.0,
+ "price": "$1.62",
+ "cik": 1844862,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLDP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Solid Power (SLDP) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sldp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:55+00:00"
+}

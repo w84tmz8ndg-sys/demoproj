@@ -1,0 +1,27 @@
+{
+ "ticker": "BBLG",
+ "name": "Bone Biologics Corp Common Stock",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 997061.0,
+ "price": "$0.2942",
+ "cik": 1419554,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BBLG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bblg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:42+00:00"
+}

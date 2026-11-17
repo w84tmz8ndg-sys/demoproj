@@ -1,0 +1,27 @@
+{
+ "ticker": "RDHL",
+ "name": "Redhill Biopharma Ltd. American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Israel",
+ "mcap": 3204010.0,
+ "price": "$0.3605",
+ "cik": 1553846,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RDHL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rdhl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:31+00:00"
+}

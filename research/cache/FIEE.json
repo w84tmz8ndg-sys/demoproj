@@ -1,0 +1,27 @@
+{
+ "ticker": "FIEE",
+ "name": "FiEE Inc Common Stock",
+ "sector": "Utilities",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 24562362.0,
+ "price": "$2.88",
+ "cik": 1467761,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FIEE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fiee",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:21+00:00"
+}

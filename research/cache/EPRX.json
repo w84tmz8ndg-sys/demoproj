@@ -1,0 +1,27 @@
+{
+ "ticker": "EPRX",
+ "name": "Eupraxia Pharmaceuticals Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Pharmaceuticals and Biotechnology",
+ "country": "Canada",
+ "mcap": 493555370.0,
+ "price": "$7.34",
+ "cik": 1581178,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EPRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eprx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:38+00:00"
+}

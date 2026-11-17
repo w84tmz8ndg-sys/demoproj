@@ -1,0 +1,27 @@
+{
+ "ticker": "TWAV",
+ "name": "TaoWeave Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 4516960.0,
+ "price": "$1.165",
+ "cik": 746210,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TWAV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/twav",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:27+00:00"
+}

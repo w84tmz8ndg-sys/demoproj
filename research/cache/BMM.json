@@ -1,0 +1,27 @@
+{
+ "ticker": "BMM",
+ "name": "Blue Moon Metals Inc. Common Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "Canada",
+ "mcap": 323865867.0,
+ "price": "$3.085",
+ "cik": 1732379,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BMM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bmm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:47+00:00"
+}

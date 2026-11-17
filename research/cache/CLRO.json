@@ -1,0 +1,27 @@
+{
+ "ticker": "CLRO",
+ "name": "ClearOne Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 12788469.0,
+ "price": "$4.78",
+ "cik": 840715,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLRO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/clro",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:59+00:00"
+}

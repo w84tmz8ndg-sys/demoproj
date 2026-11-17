@@ -1,0 +1,27 @@
+{
+ "ticker": "LICN",
+ "name": "Lichen International Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "China",
+ "mcap": 440824.0,
+ "price": "$0.027",
+ "cik": 1876766,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LICN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Lichen China Limited (LICN) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/licn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:59+00:00"
+}

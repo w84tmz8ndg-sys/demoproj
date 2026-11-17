@@ -1,0 +1,27 @@
+{
+ "ticker": "SMJF",
+ "name": "SMJ International Holdings Inc. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "RETAIL: Building Materials",
+ "country": "",
+ "mcap": 39341100.0,
+ "price": "$1.42",
+ "cik": 2070954,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SMJF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/smjf",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:32+00:00"
+}

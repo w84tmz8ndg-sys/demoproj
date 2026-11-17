@@ -1,0 +1,27 @@
+{
+ "ticker": "ACIU",
+ "name": "AC Immune SA Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Switzerland",
+ "mcap": 212706768.0,
+ "price": "$2.09",
+ "cik": 1651625,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACIU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aciu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:40+00:00"
+}

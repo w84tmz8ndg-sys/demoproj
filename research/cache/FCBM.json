@@ -1,0 +1,27 @@
+{
+ "ticker": "FCBM",
+ "name": "First Carolina Financial Services Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "",
+ "mcap": 413837109.0,
+ "price": "$13.32",
+ "cik": 1531193,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FCBM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fcbm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:58+00:00"
+}

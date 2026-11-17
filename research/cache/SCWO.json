@@ -1,0 +1,27 @@
+{
+ "ticker": "SCWO",
+ "name": "374Water Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 37030956.0,
+ "price": "$2.09",
+ "cik": 933972,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SCWO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, 374Water (SCWO) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/scwo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:44+00:00"
+}

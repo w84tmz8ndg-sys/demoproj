@@ -1,0 +1,27 @@
+{
+ "ticker": "BOXL",
+ "name": "Boxlight Corporation Class A Common Stock",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "United States",
+ "mcap": 1528646.0,
+ "price": "$1.81",
+ "cik": 1624512,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BOXL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/boxl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:19+00:00"
+}

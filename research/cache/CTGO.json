@@ -1,0 +1,27 @@
+{
+ "ticker": "CTGO",
+ "name": "Contango Silver & Gold Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "United States",
+ "mcap": 355978904.0,
+ "price": "$10.535",
+ "cik": 1502377,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CTGO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Contango Ore (CTGO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ctgo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:12+00:00"
+}

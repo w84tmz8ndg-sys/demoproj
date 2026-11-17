@@ -1,0 +1,27 @@
+{
+ "ticker": "MDXH",
+ "name": "MDxHealth SA Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "Belgium",
+ "mcap": 14217190.0,
+ "price": "$0.149",
+ "cik": 1872529,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MDXH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mdxh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:30+00:00"
+}

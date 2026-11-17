@@ -1,0 +1,27 @@
+{
+ "ticker": "NHTC",
+ "name": "Natural Health Trends Corp. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Consumer Specialties",
+ "country": "United States",
+ "mcap": 6046701.0,
+ "price": "$0.712",
+ "cik": 912061,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NHTC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nhtc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:34+00:00"
+}

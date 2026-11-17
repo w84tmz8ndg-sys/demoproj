@@ -1,0 +1,27 @@
+{
+ "ticker": "PNBK",
+ "name": "Patriot National Bancorp Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 107038507.0,
+ "price": "$0.8626",
+ "cik": 1098146,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PNBK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Patriot National Bancorp Inc (PNBK) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pnbk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:33+00:00"
+}

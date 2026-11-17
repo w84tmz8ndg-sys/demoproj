@@ -1,0 +1,27 @@
+{
+ "ticker": "FXHO",
+ "name": "UTime Limited Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "China",
+ "mcap": 152692187.0,
+ "price": "$5.40",
+ "cik": 1789299,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FXHO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fxho",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:34+00:00"
+}

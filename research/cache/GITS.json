@@ -1,0 +1,27 @@
+{
+ "ticker": "GITS",
+ "name": "Global Interactive Technologies Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "South Korea",
+ "mcap": 5674190.0,
+ "price": "$1.35",
+ "cik": 1911545,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GITS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gits",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:44+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "NCT",
+ "name": "Intercont (Cayman) Limited Class A Ordinary shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "China",
+ "mcap": 34652477.0,
+ "price": "$8.96",
+ "cik": 2018529,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NCT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nct",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:10+00:00"
+}

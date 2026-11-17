@@ -1,0 +1,27 @@
+{
+ "ticker": "MAGN",
+ "name": "Magnera Corporation Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Paper",
+ "country": "United States",
+ "mcap": 446605000.0,
+ "price": "$12.475",
+ "cik": 41719,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MAGN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Magnera Corporation (MAGN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/magn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:28+00:00"
+}

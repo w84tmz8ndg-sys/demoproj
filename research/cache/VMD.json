@@ -1,0 +1,27 @@
+{
+ "ticker": "VMD",
+ "name": "Viemed Healthcare Inc. Common Shares",
+ "sector": "Health Care",
+ "industry": "Misc Health and Biotechnology Services",
+ "country": "United States",
+ "mcap": 346721810.0,
+ "price": "$9.15",
+ "cik": 1729149,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VMD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Viemed Healthcare (VMD) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/vmd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:23+00:00"
+}

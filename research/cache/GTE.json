@@ -1,0 +1,27 @@
+{
+ "ticker": "GTE",
+ "name": "Gran Tierra Energy Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "Canada",
+ "mcap": 325335752.0,
+ "price": "$9.195",
+ "cik": 1273441,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GTE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gte",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:45+00:00"
+}

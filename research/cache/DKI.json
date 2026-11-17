@@ -1,0 +1,27 @@
+{
+ "ticker": "DKI",
+ "name": "DarkIris Inc. Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Hong Kong",
+ "mcap": 73715.0,
+ "price": "$1.23",
+ "cik": 2058584,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DKI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dki",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:30:03+00:00"
+}

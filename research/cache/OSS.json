@@ -1,0 +1,27 @@
+{
+ "ticker": "OSS",
+ "name": "One Stop Systems Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Manufacturing",
+ "country": "United States",
+ "mcap": 105157269.0,
+ "price": "$4.20",
+ "cik": 1394056,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OSS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, One Stop Systems (OSS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/oss",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:37+00:00"
+}

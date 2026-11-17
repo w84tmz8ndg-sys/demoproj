@@ -1,0 +1,27 @@
+{
+ "ticker": "GNSS",
+ "name": "Genasys Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "United States",
+ "mcap": 61937132.0,
+ "price": "$1.36",
+ "cik": 924383,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GNSS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Genasys (GNSS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gnss",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:21+00:00"
+}

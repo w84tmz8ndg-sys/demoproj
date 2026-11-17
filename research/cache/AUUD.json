@@ -1,0 +1,27 @@
+{
+ "ticker": "AUUD",
+ "name": "Auddia Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 2296013.0,
+ "price": "$0.3321",
+ "cik": 1554818,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AUUD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/auud",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:33+00:00"
+}

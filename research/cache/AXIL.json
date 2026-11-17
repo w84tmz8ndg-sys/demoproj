@@ -1,0 +1,27 @@
+{
+ "ticker": "AXIL",
+ "name": "AXIL Brands Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "",
+ "mcap": 34113405.0,
+ "price": "$5.00",
+ "cik": 1718500,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AXIL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, AXIL Brands Inc. (AXIL) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/axil",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:19+00:00"
+}

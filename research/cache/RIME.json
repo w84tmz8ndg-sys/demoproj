@@ -1,0 +1,27 @@
+{
+ "ticker": "RIME",
+ "name": "Algorhythm Holdings Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 3607290.0,
+ "price": "$0.0882",
+ "cik": 923601,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RIME/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rime",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:08+00:00"
+}

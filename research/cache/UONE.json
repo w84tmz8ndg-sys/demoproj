@@ -1,0 +1,27 @@
+{
+ "ticker": "UONE",
+ "name": "Urban One Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Broadcasting",
+ "country": "United States",
+ "mcap": 12741362.0,
+ "price": "$2.74",
+ "cik": 1041657,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UONE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/uone",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:59+00:00"
+}

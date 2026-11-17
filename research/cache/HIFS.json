@@ -1,0 +1,27 @@
+{
+ "ticker": "HIFS",
+ "name": "Hingham Institution for Savings Common Stock",
+ "sector": "Finance",
+ "industry": "Banks",
+ "country": "United States",
+ "mcap": 627062274.0,
+ "price": "$292.01",
+ "cik": null,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HIFS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Hingham Institution For Savings (HIFS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hifs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:57+00:00"
+}

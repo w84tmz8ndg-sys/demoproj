@@ -1,0 +1,27 @@
+{
+ "ticker": "WATT",
+ "name": "Energous Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "Radio And Television Broadcasting And Communications Equipment",
+ "country": "United States",
+ "mcap": 40902494.0,
+ "price": "$7.40",
+ "cik": 1575793,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WATT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Energous Corp (WATT) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/watt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:21+00:00"
+}

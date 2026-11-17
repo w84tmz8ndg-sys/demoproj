@@ -1,0 +1,27 @@
+{
+ "ticker": "LIDR",
+ "name": "AEye Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "United States",
+ "mcap": 32541063.0,
+ "price": "$0.6952",
+ "cik": 1818644,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LIDR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, AEye Inc - Ordinary Shares - Class A (LIDR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lidr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:36+00:00"
+}

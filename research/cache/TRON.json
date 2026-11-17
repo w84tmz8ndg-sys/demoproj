@@ -1,0 +1,27 @@
+{
+ "ticker": "TRON",
+ "name": "Tron Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 659460569.0,
+ "price": "$1.39",
+ "cik": 1956744,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRON/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Tron Inc. (TRON) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tron",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:23+00:00"
+}

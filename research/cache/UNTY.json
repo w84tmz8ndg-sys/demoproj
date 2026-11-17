@@ -1,0 +1,27 @@
+{
+ "ticker": "UNTY",
+ "name": "Unity Bancorp Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 588043763.0,
+ "price": "$58.39",
+ "cik": 920427,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UNTY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Unity Bancorp (UNTY) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/unty",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:22+00:00"
+}

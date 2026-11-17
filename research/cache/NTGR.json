@@ -1,0 +1,27 @@
+{
+ "ticker": "NTGR",
+ "name": "NETGEAR Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 485423794.0,
+ "price": "$18.49",
+ "cik": 1122904,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NTGR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Netgear Inc (NTGR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ntgr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:41+00:00"
+}

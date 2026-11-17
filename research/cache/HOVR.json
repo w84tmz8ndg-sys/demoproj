@@ -1,0 +1,27 @@
+{
+ "ticker": "HOVR",
+ "name": "New Horizon Aircraft Ltd. Class A Ordinary Share",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "United States",
+ "mcap": 81891208.0,
+ "price": "$1.22",
+ "cik": 1930021,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HOVR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hovr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:03+00:00"
+}

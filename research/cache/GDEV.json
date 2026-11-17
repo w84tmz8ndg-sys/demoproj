@@ -1,0 +1,27 @@
+{
+ "ticker": "GDEV",
+ "name": "GDEV Inc. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Cyprus",
+ "mcap": 155731196.0,
+ "price": "$8.58",
+ "cik": 1848739,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GDEV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gdev",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:27+00:00"
+}

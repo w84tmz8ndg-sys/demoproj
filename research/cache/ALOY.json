@@ -1,0 +1,27 @@
+{
+ "ticker": "ALOY",
+ "name": "REalloys Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "United States",
+ "mcap": 343108355.0,
+ "price": "$4.925",
+ "cik": 1567900,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ALOY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aloy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:28+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CGTL",
+ "name": "Creative Global Technology Holdings Limited Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Retail: Computer Software & Peripheral Equipment",
+ "country": "China",
+ "mcap": 4143405.0,
+ "price": "$2.41",
+ "cik": 1967822,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CGTL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cgtl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:43+00:00"
+}

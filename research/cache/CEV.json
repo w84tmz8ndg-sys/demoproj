@@ -1,0 +1,27 @@
+{
+ "ticker": "CEV",
+ "name": "Eaton Vance California Municipal Income Trust Shares of Beneficial Interest",
+ "sector": "Finance",
+ "industry": "Finance/Investors Services",
+ "country": "United States",
+ "mcap": 74204216.0,
+ "price": "$10.55",
+ "cik": 1074692,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CEV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cev",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:31+00:00"
+}

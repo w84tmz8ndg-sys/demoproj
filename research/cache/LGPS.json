@@ -1,0 +1,27 @@
+{
+ "ticker": "LGPS",
+ "name": "LogProstyle Inc. Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Homebuilding",
+ "country": "",
+ "mcap": 14735544.0,
+ "price": "$0.6241",
+ "cik": 2040290,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LGPS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lgps",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:22+00:00"
+}

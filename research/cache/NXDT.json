@@ -1,0 +1,27 @@
+{
+ "ticker": "NXDT",
+ "name": "NexPoint Diversified Real Estate Trust Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 148397292.0,
+ "price": "$2.895",
+ "cik": 1356115,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NXDT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, NexPoint Diversified Real Estate Trust (NXDT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nxdt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:49+00:00"
+}

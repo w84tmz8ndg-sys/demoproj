@@ -1,0 +1,27 @@
+{
+ "ticker": "PHOE",
+ "name": "Phoenix Asia Holdings Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Engineering & Construction",
+ "country": "Hong Kong",
+ "mcap": 337392000.0,
+ "price": "$15.62",
+ "cik": 2035709,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PHOE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/phoe",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:33+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "TPCS",
+ "name": "TechPrecision Corporation Common stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 49754312.0,
+ "price": "$4.91",
+ "cik": 1328792,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TPCS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Techprecision Corp (TPCS) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tpcs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:29+00:00"
+}

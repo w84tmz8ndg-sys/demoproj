@@ -1,0 +1,27 @@
+{
+ "ticker": "HPAI",
+ "name": "Helport AI Limited Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Singapore",
+ "mcap": 9072905.0,
+ "price": "$0.241",
+ "cik": 2001699,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HPAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hpai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:07+00:00"
+}

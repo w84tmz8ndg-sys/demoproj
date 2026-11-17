@@ -1,0 +1,27 @@
+{
+ "ticker": "AAC",
+ "name": "Ares Acquisition Corporation III Class A Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "",
+ "mcap": 494187500.0,
+ "price": "$10.00",
+ "cik": 2128115,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/AAC/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aac",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:37+00:00"
+}

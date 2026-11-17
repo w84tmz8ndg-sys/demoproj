@@ -1,0 +1,27 @@
+{
+ "ticker": "NCEL",
+ "name": "NewcelX Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Switzerland",
+ "mcap": 15884352.0,
+ "price": "$2.75",
+ "cik": 1783036,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NCEL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ncel",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:58+00:00"
+}

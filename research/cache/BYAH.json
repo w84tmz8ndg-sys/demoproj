@@ -1,0 +1,27 @@
+{
+ "ticker": "BYAH",
+ "name": "Park Ha Biological Technology Co. Ltd. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "China",
+ "mcap": 5069780.0,
+ "price": "$1.48",
+ "cik": 1986247,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BYAH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/byah",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:04+00:00"
+}

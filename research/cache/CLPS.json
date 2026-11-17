@@ -1,0 +1,27 @@
+{
+ "ticker": "CLPS",
+ "name": "CLPS Incorporation Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 27024120.0,
+ "price": "$0.905",
+ "cik": 1724542,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLPS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/clps",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:23+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ARBK",
+ "name": "Argo Blockchain plc American Depositary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United Kingdom",
+ "mcap": 14562437.0,
+ "price": "$1.09",
+ "cik": 1841675,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ARBK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/arbk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:25+00:00"
+}

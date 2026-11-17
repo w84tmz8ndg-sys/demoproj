@@ -1,0 +1,27 @@
+{
+ "ticker": "TYG",
+ "name": "Tortoise Energy Infrastructure Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 445626456.0,
+ "price": "$37.36",
+ "cik": 1268533,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TYG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tyg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:30+00:00"
+}

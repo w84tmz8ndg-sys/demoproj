@@ -1,0 +1,27 @@
+{
+ "ticker": "NNE",
+ "name": "Nano Nuclear Energy Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 576718088.0,
+ "price": "$10.74",
+ "cik": 1923891,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NNE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Nano Nuclear Energy Inc. (NNE) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nne",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:27+00:00"
+}

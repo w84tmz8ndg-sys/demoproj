@@ -1,0 +1,27 @@
+{
+ "ticker": "XYF",
+ "name": "X Financial American Depositary Shares each representing six Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Cayman Islands",
+ "mcap": 295827336.0,
+ "price": "$5.40",
+ "cik": 1725033,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XYF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/xyf",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:22+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SILC",
+ "name": "Silicom Ltd Ordinary Shares",
+ "sector": "Telecommunications",
+ "industry": "Computer Communications Equipment",
+ "country": "Israel",
+ "mcap": 156564924.0,
+ "price": "$27.24",
+ "cik": 916793,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SILC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/silc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:23+00:00"
+}

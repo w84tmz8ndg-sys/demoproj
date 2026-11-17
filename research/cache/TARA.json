@@ -1,0 +1,27 @@
+{
+ "ticker": "TARA",
+ "name": "Protara Therapeutics Inc.  Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 146537435.0,
+ "price": "$2.38",
+ "cik": 1359931,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TARA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Protara Therapeutics (TARA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/tara",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:52+00:00"
+}

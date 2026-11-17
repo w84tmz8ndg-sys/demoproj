@@ -1,0 +1,27 @@
+{
+ "ticker": "CABR",
+ "name": "Caring Brands Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "United States",
+ "mcap": 8778657.0,
+ "price": "$0.7631",
+ "cik": 2020737,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CABR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cabr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:15+00:00"
+}

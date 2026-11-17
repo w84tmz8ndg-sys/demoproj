@@ -1,0 +1,27 @@
+{
+ "ticker": "SNWV",
+ "name": "SANUWAVE Health Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 15570179.0,
+ "price": "$1.81",
+ "cik": 1417663,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SNWV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Sanuwave Health Inc (SNWV) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/snwv",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:03+00:00"
+}

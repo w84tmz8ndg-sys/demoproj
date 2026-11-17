@@ -832,5 +832,747 @@
  "OMDA": {
   "hits": [],
   "sources": []
+ },
+ "MGTX": {
+  "hits": [],
+  "sources": []
+ },
+ "HSTM": {
+  "hits": [],
+  "sources": []
+ },
+ "OSPN": {
+  "hits": [],
+  "sources": []
+ },
+ "NWPX": {
+  "hits": [],
+  "sources": []
+ },
+ "RIGL": {
+  "hits": [],
+  "sources": []
+ },
+ "KIDS": {
+  "hits": [],
+  "sources": []
+ },
+ "HTLD": {
+  "hits": [],
+  "sources": []
+ },
+ "LZ": {
+  "hits": [],
+  "sources": []
+ },
+ "FLNC": {
+  "hits": [],
+  "sources": []
+ },
+ "CLMB": {
+  "hits": [],
+  "sources": []
+ },
+ "PSIX": {
+  "hits": [],
+  "sources": []
+ },
+ "MITK": {
+  "hits": [],
+  "sources": []
+ },
+ "AOSL": {
+  "hits": [],
+  "sources": []
+ },
+ "MLAB": {
+  "hits": [],
+  "sources": []
+ },
+ "IBEX": {
+  "hits": [],
+  "sources": []
+ },
+ "BBSI": {
+  "hits": [],
+  "sources": []
+ },
+ "PXED": {
+  "hits": [],
+  "sources": []
+ },
+ "LINC": {
+  "hits": [],
+  "sources": []
+ },
+ "JBSS": {
+  "hits": [],
+  "sources": []
+ },
+ "NPKI": {
+  "hits": [],
+  "sources": []
+ },
+ "SPT": {
+  "hits": [],
+  "sources": []
+ },
+ "KRT": {
+  "hits": [],
+  "sources": []
+ },
+ "VPG": {
+  "hits": [],
+  "sources": []
+ },
+ "VTS": {
+  "hits": [],
+  "sources": []
+ },
+ "TCMD": {
+  "hits": [],
+  "sources": []
+ },
+ "CIX": {
+  "hits": [],
+  "sources": []
+ },
+ "NRC": {
+  "hits": [],
+  "sources": []
+ },
+ "MLR": {
+  "hits": [],
+  "sources": []
+ },
+ "TLS": {
+  "hits": [],
+  "sources": []
+ },
+ "EBF": {
+  "hits": [],
+  "sources": []
+ },
+ "HNST": {
+  "hits": [],
+  "sources": []
+ },
+ "MCFT": {
+  "hits": [],
+  "sources": []
+ },
+ "IIIN": {
+  "hits": [],
+  "sources": []
+ },
+ "GYRE": {
+  "hits": [],
+  "sources": []
+ },
+ "OOMA": {
+  "hits": [],
+  "sources": []
+ },
+ "ANGO": {
+  "hits": [],
+  "sources": []
+ },
+ "OFRM": {
+  "hits": [],
+  "sources": []
+ },
+ "TKNO": {
+  "hits": [],
+  "sources": []
+ },
+ "SRTA": {
+  "hits": [],
+  "sources": []
+ },
+ "OIS": {
+  "hits": [],
+  "sources": []
+ },
+ "RCEL": {
+  "hits": [],
+  "sources": []
+ },
+ "HNRG": {
+  "hits": [],
+  "sources": []
+ },
+ "SD": {
+  "hits": [],
+  "sources": []
+ },
+ "LXFR": {
+  "hits": [],
+  "sources": []
+ },
+ "MDXG": {
+  "hits": [],
+  "sources": []
+ },
+ "RLGT": {
+  "hits": [],
+  "sources": []
+ },
+ "FENC": {
+  "hits": [],
+  "sources": []
+ },
+ "FSTR": {
+  "hits": [],
+  "sources": []
+ },
+ "ETD": {
+  "hits": [],
+  "sources": []
+ },
+ "XMAX": {
+  "hits": [],
+  "sources": []
+ },
+ "CERS": {
+  "hits": [],
+  "sources": []
+ },
+ "SPIR": {
+  "hits": [],
+  "sources": []
+ },
+ "VMD": {
+  "hits": [],
+  "sources": []
+ },
+ "TWIN": {
+  "hits": [],
+  "sources": []
+ },
+ "FLXS": {
+  "hits": [],
+  "sources": []
+ },
+ "PESI": {
+  "hits": [],
+  "sources": []
+ },
+ "SMTI": {
+  "hits": [],
+  "sources": []
+ },
+ "PNRG": {
+  "hits": [],
+  "sources": []
+ },
+ "INFU": {
+  "hits": [],
+  "sources": []
+ },
+ "ESCA": {
+  "hits": [],
+  "sources": []
+ },
+ "III": {
+  "hits": [],
+  "sources": []
+ },
+ "CDNL": {
+  "hits": [
+   "(a?) defense-related industry classification 'Military/Government/Technical' \u2014 verify"
+  ],
+  "sources": []
+ },
+ "TMCI": {
+  "hits": [],
+  "sources": []
+ },
+ "RNGR": {
+  "hits": [],
+  "sources": []
+ },
+ "MRAM": {
+  "hits": [],
+  "sources": []
+ },
+ "NPCE": {
+  "hits": [],
+  "sources": []
+ },
+ "LWAY": {
+  "hits": [],
+  "sources": []
+ },
+ "SSII": {
+  "hits": [],
+  "sources": []
+ },
+ "CLPT": {
+  "hits": [],
+  "sources": []
+ },
+ "ACU": {
+  "hits": [],
+  "sources": []
+ },
+ "RELL": {
+  "hits": [],
+  "sources": []
+ },
+ "LE": {
+  "hits": [],
+  "sources": []
+ },
+ "PLX": {
+  "hits": [],
+  "sources": []
+ },
+ "SPOK": {
+  "hits": [],
+  "sources": []
+ },
+ "OPTX": {
+  "hits": [],
+  "sources": []
+ },
+ "SVCO": {
+  "hits": [],
+  "sources": []
+ },
+ "OFLX": {
+  "hits": [],
+  "sources": []
+ },
+ "BKTI": {
+  "hits": [],
+  "sources": []
+ },
+ "PPIH": {
+  "hits": [],
+  "sources": []
+ },
+ "TDUP": {
+  "hits": [],
+  "sources": []
+ },
+ "KLTR": {
+  "hits": [],
+  "sources": []
+ },
+ "SND": {
+  "hits": [],
+  "sources": []
+ },
+ "TG": {
+  "hits": [],
+  "sources": []
+ },
+ "CMT": {
+  "hits": [],
+  "sources": []
+ },
+ "CLAR": {
+  "hits": [],
+  "sources": []
+ },
+ "ELMD": {
+  "hits": [],
+  "sources": []
+ },
+ "HQI": {
+  "hits": [],
+  "sources": []
+ },
+ "NEGG": {
+  "hits": [],
+  "sources": []
+ },
+ "DHX": {
+  "hits": [],
+  "sources": []
+ },
+ "HDSN": {
+  "hits": [],
+  "sources": []
+ },
+ "KGEI": {
+  "hits": [],
+  "sources": []
+ },
+ "ANIK": {
+  "hits": [],
+  "sources": []
+ },
+ "KRMD": {
+  "hits": [],
+  "sources": []
+ },
+ "QUIK": {
+  "hits": [],
+  "sources": []
+ },
+ "ESOA": {
+  "hits": [],
+  "sources": []
+ },
+ "AEYE": {
+  "hits": [],
+  "sources": []
+ },
+ "EPSN": {
+  "hits": [],
+  "sources": []
+ },
+ "CXDO": {
+  "hits": [],
+  "sources": []
+ },
+ "NEOV": {
+  "hits": [],
+  "sources": []
+ },
+ "HOFT": {
+  "hits": [],
+  "sources": []
+ },
+ "FF": {
+  "hits": [],
+  "sources": []
+ },
+ "ANNA": {
+  "hits": [],
+  "sources": []
+ },
+ "OPRX": {
+  "hits": [],
+  "sources": []
+ },
+ "ACNT": {
+  "hits": [],
+  "sources": []
+ },
+ "VELO": {
+  "hits": [],
+  "sources": []
+ },
+ "NLOP": {
+  "hits": [],
+  "sources": []
+ },
+ "SSTI": {
+  "hits": [],
+  "sources": []
+ },
+ "SMID": {
+  "hits": [],
+  "sources": []
+ },
+ "DERM": {
+  "hits": [],
+  "sources": []
+ },
+ "ORGO": {
+  "hits": [],
+  "sources": []
+ },
+ "ICCC": {
+  "hits": [],
+  "sources": []
+ },
+ "LGCY": {
+  "hits": [],
+  "sources": []
+ },
+ "EP": {
+  "hits": [],
+  "sources": []
+ },
+ "XGN": {
+  "hits": [],
+  "sources": []
+ },
+ "SKYX": {
+  "hits": [],
+  "sources": []
+ },
+ "JYNT": {
+  "hits": [
+   "(b) BDS guide mentions 'joint'"
+  ],
+  "sources": [
+   "https://bdsmovement.net/Guide-to-BDS-Boycott"
+  ]
+ },
+ "LFMD": {
+  "hits": [],
+  "sources": []
+ },
+ "OCC": {
+  "hits": [],
+  "sources": []
+ },
+ "OWLS": {
+  "hits": [],
+  "sources": []
+ },
+ "WRAP": {
+  "hits": [
+   "(a?) defense-related industry classification 'Ordnance And Accessories' \u2014 verify"
+  ],
+  "sources": []
+ },
+ "BYRN": {
+  "hits": [],
+  "sources": []
+ },
+ "WFCF": {
+  "hits": [],
+  "sources": []
+ },
+ "STXS": {
+  "hits": [],
+  "sources": []
+ },
+ "FSI": {
+  "hits": [],
+  "sources": []
+ },
+ "BUDA": {
+  "hits": [],
+  "sources": []
+ },
+ "RFIL": {
+  "hits": [],
+  "sources": []
+ },
+ "SLNG": {
+  "hits": [],
+  "sources": []
+ },
+ "NTIC": {
+  "hits": [],
+  "sources": []
+ },
+ "ROC": {
+  "hits": [],
+  "sources": []
+ },
+ "NRXS": {
+  "hits": [],
+  "sources": []
+ },
+ "SOTK": {
+  "hits": [],
+  "sources": []
+ },
+ "FATN": {
+  "hits": [],
+  "sources": []
+ },
+ "NRT": {
+  "hits": [],
+  "sources": []
+ },
+ "RSSS": {
+  "hits": [],
+  "sources": []
+ },
+ "CSBR": {
+  "hits": [],
+  "sources": []
+ },
+ "AMPG": {
+  "hits": [],
+  "sources": []
+ },
+ "GNSS": {
+  "hits": [
+   "(a) AFSC Investigate: Weapons and Military Equipment"
+  ],
+  "sources": [
+   "https://investigate.afsc.org/company/genasys"
+  ]
+ },
+ "LFVN": {
+  "hits": [],
+  "sources": []
+ },
+ "TGEN": {
+  "hits": [],
+  "sources": []
+ },
+ "VRCA": {
+  "hits": [],
+  "sources": []
+ },
+ "POCI": {
+  "hits": [],
+  "sources": []
+ },
+ "WYY": {
+  "hits": [],
+  "sources": []
+ },
+ "AIRG": {
+  "hits": [],
+  "sources": []
+ },
+ "BWEN": {
+  "hits": [],
+  "sources": []
+ },
+ "TZOO": {
+  "hits": [],
+  "sources": []
+ },
+ "DWSN": {
+  "hits": [],
+  "sources": []
+ },
+ "OESX": {
+  "hits": [],
+  "sources": []
+ },
+ "ECOR": {
+  "hits": [],
+  "sources": []
+ },
+ "GEOS": {
+  "hits": [],
+  "sources": []
+ },
+ "LINK": {
+  "hits": [],
+  "sources": []
+ },
+ "TYGO": {
+  "hits": [],
+  "sources": []
+ },
+ "MAMO": {
+  "hits": [],
+  "sources": []
+ },
+ "UG": {
+  "hits": [],
+  "sources": []
+ },
+ "RPID": {
+  "hits": [],
+  "sources": []
+ },
+ "CCEL": {
+  "hits": [],
+  "sources": []
+ },
+ "RMCO": {
+  "hits": [],
+  "sources": []
+ },
+ "PRPO": {
+  "hits": [],
+  "sources": []
+ },
+ "ACFN": {
+  "hits": [
+   "(a?) defense-related industry classification 'Military/Government/Technical' \u2014 verify"
+  ],
+  "sources": []
+ },
+ "AXIL": {
+  "hits": [],
+  "sources": []
+ },
+ "IDN": {
+  "hits": [],
+  "sources": []
+ },
+ "NEPH": {
+  "hits": [],
+  "sources": []
+ },
+ "BCHT": {
+  "hits": [],
+  "sources": []
+ },
+ "REKR": {
+  "hits": [],
+  "sources": []
+ },
+ "LASE": {
+  "hits": [],
+  "sources": []
+ },
+ "MLSS": {
+  "hits": [],
+  "sources": []
+ },
+ "AERT": {
+  "hits": [],
+  "sources": []
+ },
+ "PPSI": {
+  "hits": [],
+  "sources": []
+ },
+ "GIFT": {
+  "hits": [],
+  "sources": []
+ },
+ "MXC": {
+  "hits": [],
+  "sources": []
+ },
+ "ELWT": {
+  "hits": [],
+  "sources": []
+ },
+ "INLX": {
+  "hits": [],
+  "sources": []
+ },
+ "SNWV": {
+  "hits": [],
+  "sources": []
+ },
+ "BEEM": {
+  "hits": [],
+  "sources": []
+ },
+ "KSCP": {
+  "hits": [],
+  "sources": []
+ },
+ "ZEO": {
+  "hits": [],
+  "sources": []
+ },
+ "ACCS": {
+  "hits": [],
+  "sources": []
+ },
+ "IRIX": {
+  "hits": [],
+  "sources": []
+ },
+ "CVR": {
+  "hits": [],
+  "sources": []
+ },
+ "BRFH": {
+  "hits": [],
+  "sources": []
+ },
+ "AXNX": {
+  "hits": [],
+  "sources": []
+ },
+ "NIXX": {
+  "hits": [],
+  "sources": []
+ },
+ "SCAG": {
+  "hits": [],
+  "sources": []
  }
 }

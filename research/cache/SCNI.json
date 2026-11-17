@@ -1,0 +1,27 @@
+{
+ "ticker": "SCNI",
+ "name": "Scinai Immunotherapeutics Ltd. American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Israel",
+ "mcap": 1029808.0,
+ "price": "$0.3915",
+ "cik": 1611747,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SCNI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/scni",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:40+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ZONE",
+ "name": "Zone Frontier Inc. Class B Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Specialty Chemicals",
+ "country": "",
+ "mcap": 26514431.0,
+ "price": "$3.12",
+ "cik": 1956741,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZONE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, CleanCore Solutions Inc. - Ordinary Shares - Class B (ZONE) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/zone",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:29+00:00"
+}

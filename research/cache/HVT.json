@@ -1,0 +1,27 @@
+{
+ "ticker": "HVT",
+ "name": "Haverty Furniture Companies Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "United States",
+ "mcap": 394362802.0,
+ "price": "$25.29",
+ "cik": 216085,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HVT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Haverty Furniture Cos., Inc. (HVT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hvt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:18+00:00"
+}

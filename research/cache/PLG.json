@@ -1,0 +1,27 @@
+{
+ "ticker": "PLG",
+ "name": "Platinum Group Metals Ltd. Ordinary Shares (Canada)",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 123332402.0,
+ "price": "$0.9644",
+ "cik": 1095052,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/plg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:42+00:00"
+}

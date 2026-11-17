@@ -1,0 +1,27 @@
+{
+ "ticker": "CRGO",
+ "name": "Freightos Limited Ordinary shares",
+ "sector": "Industrials",
+ "industry": "Integrated Freight & Logistics",
+ "country": "Israel",
+ "mcap": 41788972.0,
+ "price": "$0.8025",
+ "cik": 1927719,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRGO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/crgo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:16+00:00"
+}

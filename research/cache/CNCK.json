@@ -1,0 +1,27 @@
+{
+ "ticker": "CNCK",
+ "name": "Coincheck Group N.V. Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Netherlands",
+ "mcap": 186044034.0,
+ "price": "$0.97",
+ "cik": 1913847,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNCK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cnck",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:21+00:00"
+}

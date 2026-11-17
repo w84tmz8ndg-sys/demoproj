@@ -1,0 +1,27 @@
+{
+ "ticker": "ZBAO",
+ "name": "Zhibao Technology Inc. Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Specialty Insurers",
+ "country": "China",
+ "mcap": 2009028.0,
+ "price": "$0.2025",
+ "cik": 1966750,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZBAO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zbao",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:51+00:00"
+}

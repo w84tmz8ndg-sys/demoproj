@@ -1,0 +1,27 @@
+{
+ "ticker": "BLND",
+ "name": "Blend Labs Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 243035890.0,
+ "price": "$1.02",
+ "cik": 1855747,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BLND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Blend Labs (BLND) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/blnd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:49+00:00"
+}

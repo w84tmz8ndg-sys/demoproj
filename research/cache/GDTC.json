@@ -1,0 +1,27 @@
+{
+ "ticker": "GDTC",
+ "name": "CytoMed Therapeutics Limited Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Singapore",
+ "mcap": 9154026.0,
+ "price": "$0.7739",
+ "cik": 1873093,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GDTC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gdtc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:00+00:00"
+}

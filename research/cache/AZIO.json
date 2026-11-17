@@ -1,0 +1,27 @@
+{
+ "ticker": "AZIO",
+ "name": "Azio AI Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "United States",
+ "mcap": 8170286.0,
+ "price": "$0.4748",
+ "cik": 1563568,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AZIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/azio",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:30+00:00"
+}

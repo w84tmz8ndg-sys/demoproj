@@ -1,0 +1,27 @@
+{
+ "ticker": "VIP",
+ "name": "Vulcan Infrastructure and Power Inc. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 32872021.0,
+ "price": "$0.8587",
+ "cik": 1844971,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VIP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vip",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:31+00:00"
+}

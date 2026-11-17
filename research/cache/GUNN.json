@@ -1,0 +1,27 @@
+{
+ "ticker": "GUNN",
+ "name": "Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares)",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "",
+ "mcap": 116058796.0,
+ "price": "$6.76",
+ "cik": 1514860,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/GUNN/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gunn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:02+00:00"
+}

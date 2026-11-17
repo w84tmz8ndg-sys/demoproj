@@ -1,0 +1,27 @@
+{
+ "ticker": "RGP",
+ "name": "Resources Connection Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United States",
+ "mcap": 93346502.0,
+ "price": "$2.69",
+ "cik": 1084765,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RGP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Resources Connection Inc (RGP) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rgp",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:14+00:00"
+}

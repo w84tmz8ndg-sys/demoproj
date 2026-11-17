@@ -1,0 +1,27 @@
+{
+ "ticker": "BAK",
+ "name": "Braskem SA ADR",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "Brazil",
+ "mcap": 388280076.0,
+ "price": "$0.9741",
+ "cik": 1071438,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BAK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bak",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:24+00:00"
+}

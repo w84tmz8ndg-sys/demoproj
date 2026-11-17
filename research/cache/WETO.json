@@ -1,0 +1,27 @@
+{
+ "ticker": "WETO",
+ "name": "Wetour Robotics Limited Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Other Transportation",
+ "country": "China",
+ "mcap": 8424818.0,
+ "price": "$0.5655",
+ "cik": 1941158,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WETO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/weto",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:23+00:00"
+}

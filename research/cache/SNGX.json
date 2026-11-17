@@ -1,0 +1,27 @@
+{
+ "ticker": "SNGX",
+ "name": "Soligenix Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 6734875.0,
+ "price": "$0.2882",
+ "cik": 812796,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SNGX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sngx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:10+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "JFIN",
+ "name": "Jiayin Group Inc. American Depositary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "China",
+ "mcap": 70644887.0,
+ "price": "$1.35",
+ "cik": 1743102,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JFIN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jfin",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:40+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CSAI",
+ "name": "Cloudastructure Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 1133719.0,
+ "price": "$1.28",
+ "cik": 1709628,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CSAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/csai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:32+00:00"
+}

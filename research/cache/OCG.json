@@ -1,0 +1,27 @@
+{
+ "ticker": "OCG",
+ "name": "Oriental Culture Holding LTD Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 3130374.0,
+ "price": "$1.615",
+ "cik": 1776067,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OCG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ocg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:39+00:00"
+}

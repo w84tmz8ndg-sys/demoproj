@@ -1,0 +1,27 @@
+{
+ "ticker": "AIAI",
+ "name": "AIAI Holdings Corporation Class A Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 70845688.0,
+ "price": "$1.00",
+ "cik": 2096362,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aiai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:39+00:00"
+}

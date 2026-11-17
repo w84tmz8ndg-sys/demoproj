@@ -1,0 +1,27 @@
+{
+ "ticker": "VRXA",
+ "name": "Veraxa Biotech AG Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Switzerland",
+ "mcap": 147771165.0,
+ "price": "$1.045",
+ "cik": 2079109,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VRXA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vrxa",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:49+00:00"
+}

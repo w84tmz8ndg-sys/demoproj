@@ -1,0 +1,27 @@
+{
+ "ticker": "JZXN",
+ "name": "Jiuzi Holdings Inc. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Retail-Auto Dealers and Gas Stations",
+ "country": "China",
+ "mcap": 49709812.0,
+ "price": "$0.965",
+ "cik": 1816172,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JZXN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jzxn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:29+00:00"
+}

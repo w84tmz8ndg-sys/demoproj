@@ -1,0 +1,27 @@
+{
+ "ticker": "LAC",
+ "name": "Lithium Americas Corp. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Canada",
+ "mcap": 535815344.0,
+ "price": "$1.42",
+ "cik": 1966983,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LAC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lac",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:04+00:00"
+}

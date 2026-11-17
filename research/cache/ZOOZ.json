@@ -1,0 +1,27 @@
+{
+ "ticker": "ZOOZ",
+ "name": "ZOOZ Strategy Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "Israel",
+ "mcap": 39647560.0,
+ "price": "$4.95",
+ "cik": 1992818,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZOOZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zooz",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:32+00:00"
+}

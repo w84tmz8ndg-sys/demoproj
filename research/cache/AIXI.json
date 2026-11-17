@@ -1,0 +1,27 @@
+{
+ "ticker": "AIXI",
+ "name": "XIAO-I Corporation American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 236723.0,
+ "price": "$1.80",
+ "cik": 1935172,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIXI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aixi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:30:00+00:00"
+}

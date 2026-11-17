@@ -1,0 +1,27 @@
+{
+ "ticker": "TIL",
+ "name": "Instil Bio Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 38996362.0,
+ "price": "$5.75",
+ "cik": 1789769,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TIL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Instil Bio (TIL) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/til",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:34+00:00"
+}

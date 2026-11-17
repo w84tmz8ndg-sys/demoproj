@@ -1,0 +1,27 @@
+{
+ "ticker": "LEGO",
+ "name": "Legato Merger Corp. IV Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "",
+ "mcap": 303221895.0,
+ "price": "$10.005",
+ "cik": 2087450,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LEGO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lego",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:08+00:00"
+}

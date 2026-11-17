@@ -1,0 +1,27 @@
+{
+ "ticker": "SLMT",
+ "name": "Solmate Infrastructure Public Limited Company Class B Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "Ireland",
+ "mcap": 32257231.0,
+ "price": "$2.93",
+ "cik": 1939965,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLMT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/slmt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:39+00:00"
+}

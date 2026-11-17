@@ -1,0 +1,27 @@
+{
+ "ticker": "USIO",
+ "name": "Usio Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "United States",
+ "mcap": 61312234.0,
+ "price": "$2.15",
+ "cik": 1088034,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/USIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Usio (USIO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/usio",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:24+00:00"
+}

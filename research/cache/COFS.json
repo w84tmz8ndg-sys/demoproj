@@ -1,0 +1,27 @@
+{
+ "ticker": "COFS",
+ "name": "ChoiceOne Financial Services Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 548306731.0,
+ "price": "$36.74",
+ "cik": 803164,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COFS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, ChoiceOne Financial Services (COFS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cofs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:54+00:00"
+}

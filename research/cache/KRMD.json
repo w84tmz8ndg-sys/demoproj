@@ -1,0 +1,27 @@
+{
+ "ticker": "KRMD",
+ "name": "KORU Medical Systems Inc. Common Stock (DE)",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 171124399.0,
+ "price": "$3.69",
+ "cik": 704440,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KRMD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, KORU Medical Systems (KRMD) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/krmd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:54+00:00"
+}

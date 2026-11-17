@@ -1,0 +1,27 @@
+{
+ "ticker": "ETO",
+ "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 475419883.0,
+ "price": "$29.01",
+ "cik": 1281926,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ETO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eto",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:56+00:00"
+}

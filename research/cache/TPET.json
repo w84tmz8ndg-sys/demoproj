@@ -1,0 +1,27 @@
+{
+ "ticker": "TPET",
+ "name": "Trio Petroleum Corp. Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "",
+ "mcap": 7985861.0,
+ "price": "$1.50",
+ "cik": 1898766,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TPET/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tpet",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:42+00:00"
+}

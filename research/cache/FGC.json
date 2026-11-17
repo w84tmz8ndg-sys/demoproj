@@ -1,0 +1,27 @@
+{
+ "ticker": "FGC",
+ "name": "FG Communities Holdings Inc. Common Stock ",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "United States",
+ "mcap": 25713186.0,
+ "price": "$5.62",
+ "cik": 1591890,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FGC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fgc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:32+00:00"
+}

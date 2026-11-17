@@ -1,0 +1,27 @@
+{
+ "ticker": "CYPH",
+ "name": "Cypherpunk Technologies Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 286905067.0,
+ "price": "$1.925",
+ "cik": 1509745,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CYPH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Cypherpunk Technologies Inc. (CYPH) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cyph",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:45+00:00"
+}

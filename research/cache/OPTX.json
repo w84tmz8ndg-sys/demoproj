@@ -1,0 +1,27 @@
+{
+ "ticker": "OPTX",
+ "name": "Syntec Optics Holdings Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Electronic Components",
+ "country": "United States",
+ "mcap": 240873670.0,
+ "price": "$5.98",
+ "cik": 1866816,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OPTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Syntec Optics Holdings Inc. - Ordinary Shares - Class A (OPTX) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/optx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:51+00:00"
+}

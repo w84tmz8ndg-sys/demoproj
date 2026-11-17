@@ -1,0 +1,27 @@
+{
+ "ticker": "WNW",
+ "name": "Meiwu Technology Company Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "China",
+ "mcap": 56347208.0,
+ "price": "$2.14",
+ "cik": 1787803,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WNW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wnw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:46+00:00"
+}

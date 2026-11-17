@@ -1,0 +1,27 @@
+{
+ "ticker": "GBC",
+ "name": "Georgia Banking Company Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 356554129.0,
+ "price": "$34.48",
+ "cik": 1070965,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/GBC/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gbc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:11+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PSQL",
+ "name": "Pasqal Holding SA Ordinary Share",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "France",
+ "mcap": 692077433.0,
+ "price": "$3.26",
+ "cik": 2119292,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PSQL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/psql",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:00+00:00"
+}

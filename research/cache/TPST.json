@@ -1,0 +1,27 @@
+{
+ "ticker": "TPST",
+ "name": "Tempest Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 6834413.0,
+ "price": "$0.3418",
+ "cik": 1544227,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TPST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tpst",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:08+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ENGN",
+ "name": "enGene Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Canada",
+ "mcap": 126660837.0,
+ "price": "$1.89",
+ "cik": 1980845,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENGN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/engn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:35+00:00"
+}

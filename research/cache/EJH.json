@@ -1,0 +1,27 @@
+{
+ "ticker": "EJH",
+ "name": "E-Home Household Service Holdings Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 86250242.0,
+ "price": "$1.15",
+ "cik": 1769768,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EJH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ejh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:41+00:00"
+}

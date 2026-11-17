@@ -1,0 +1,27 @@
+{
+ "ticker": "AMST",
+ "name": "Amesite Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 3581459.0,
+ "price": "$0.5468",
+ "cik": 1807166,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/amst",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:09+00:00"
+}

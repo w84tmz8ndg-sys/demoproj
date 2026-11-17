@@ -1,0 +1,27 @@
+{
+ "ticker": "TORO",
+ "name": "Toro Corp. Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Cyprus",
+ "mcap": 127523928.0,
+ "price": "$3.69",
+ "cik": 1941131,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TORO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/toro",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:32+00:00"
+}

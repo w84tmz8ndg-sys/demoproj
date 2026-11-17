@@ -1,0 +1,27 @@
+{
+ "ticker": "SRBK",
+ "name": "SR Bancorp Inc. Common stock",
+ "sector": "Finance",
+ "industry": "Banks",
+ "country": "United States",
+ "mcap": 146525433.0,
+ "price": "$18.80",
+ "cik": 1951276,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SRBK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, SR Bancorp Common stock (SRBK) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/srbk",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:53+00:00"
+}

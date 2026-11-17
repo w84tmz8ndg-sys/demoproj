@@ -1,0 +1,27 @@
+{
+ "ticker": "NUCL",
+ "name": "Eagle Nuclear Energy Corp. Common stock",
+ "sector": "Basic Materials",
+ "industry": "Other Metals and Minerals",
+ "country": "United States",
+ "mcap": 93504493.0,
+ "price": "$3.15",
+ "cik": 2089283,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NUCL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nucl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:13+00:00"
+}

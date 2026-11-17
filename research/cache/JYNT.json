@@ -1,0 +1,27 @@
+{
+ "ticker": "JYNT",
+ "name": "The Joint Corp. Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Multi-Sector Companies",
+ "country": "United States",
+ "mcap": 91170145.0,
+ "price": "$6.66",
+ "cik": 1612630,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JYNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, The Joint Corp. (JYNT) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jynt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:23+00:00"
+}

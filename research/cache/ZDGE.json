@@ -1,0 +1,27 @@
+{
+ "ticker": "ZDGE",
+ "name": "Zedge Inc. Class B Common Stock ",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "",
+ "mcap": 43463809.0,
+ "price": "$2.80",
+ "cik": 1667313,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZDGE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Zedge (ZDGE) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/zdge",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:03+00:00"
+}

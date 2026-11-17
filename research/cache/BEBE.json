@@ -1,0 +1,27 @@
+{
+ "ticker": "BEBE",
+ "name": "TGE Value Creative Solutions Corp Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Diversified Commercial Services",
+ "country": "",
+ "mcap": 129858300.0,
+ "price": "$10.09",
+ "cik": 2079933,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/BEBE/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bebe",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:26+00:00"
+}

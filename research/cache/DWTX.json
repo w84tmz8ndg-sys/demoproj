@@ -1,0 +1,27 @@
+{
+ "ticker": "DWTX",
+ "name": "Dogwood Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 40521588.0,
+ "price": "$1.06",
+ "cik": 1818844,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DWTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dwtx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:24+00:00"
+}

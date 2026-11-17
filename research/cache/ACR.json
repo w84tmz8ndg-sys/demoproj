@@ -1,0 +1,27 @@
+{
+ "ticker": "ACR",
+ "name": "ACRES Commercial Realty Corp. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 116296767.0,
+ "price": "$8.645",
+ "cik": 1332551,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, ACRES Commercial Realty (ACR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/acr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:59+00:00"
+}

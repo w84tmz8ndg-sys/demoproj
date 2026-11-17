@@ -1,0 +1,27 @@
+{
+ "ticker": "IXHL",
+ "name": "Incannex Healthcare Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Australia",
+ "mcap": 24213838.0,
+ "price": "$1.93",
+ "cik": 1873875,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IXHL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ixhl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:27+00:00"
+}

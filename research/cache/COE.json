@@ -1,0 +1,27 @@
+{
+ "ticker": "COE",
+ "name": "51Talk Online Education Group American depositary shares each representing 60 Class A ordinary shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 66020392.0,
+ "price": "$10.99",
+ "cik": 1659494,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/COE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/coe",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:00+00:00"
+}

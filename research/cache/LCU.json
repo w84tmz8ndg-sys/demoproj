@@ -1,0 +1,27 @@
+{
+ "ticker": "LCU",
+ "name": "Lion Copper Corp. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "United States",
+ "mcap": 70038946.0,
+ "price": "$4.38",
+ "cik": 1339688,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LCU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lcu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:44+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "LIQT",
+ "name": "LiqTech International Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "Denmark",
+ "mcap": 8072221.0,
+ "price": "$0.245",
+ "cik": 1307579,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LIQT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/liqt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:38+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "INHD",
+ "name": "Inno Holdings Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Steel/Iron Ore",
+ "country": "United States",
+ "mcap": 6049394.0,
+ "price": "$2.40",
+ "cik": 1961847,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INHD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/inhd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:31+00:00"
+}

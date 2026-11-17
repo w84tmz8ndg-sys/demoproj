@@ -1,0 +1,27 @@
+{
+ "ticker": "ELVA",
+ "name": "Electrovaya Inc. Common Shares",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "Canada",
+ "mcap": 200495577.0,
+ "price": "$4.01",
+ "cik": 1844450,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ELVA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/elva",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:00+00:00"
+}

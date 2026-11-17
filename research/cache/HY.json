@@ -1,0 +1,27 @@
+{
+ "ticker": "HY",
+ "name": "Hyster-Yale Inc. Class A common stock",
+ "sector": "Industrials",
+ "industry": "Construction/Ag Equipment/Trucks",
+ "country": "United States",
+ "mcap": 478242885.0,
+ "price": "$26.65",
+ "cik": 1173514,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Hyster Yale Inc - Ordinary Shares - Class A (HY) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hy",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:52+00:00"
+}

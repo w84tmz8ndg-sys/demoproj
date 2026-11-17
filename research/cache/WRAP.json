@@ -1,0 +1,27 @@
+{
+ "ticker": "WRAP",
+ "name": "Wrap Technologies Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Ordnance And Accessories",
+ "country": "United States",
+ "mcap": 84520689.0,
+ "price": "$1.27",
+ "cik": 1702924,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WRAP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Wrap Technologies (WRAP) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wrap",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:46+00:00"
+}

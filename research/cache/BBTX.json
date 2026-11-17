@@ -1,0 +1,27 @@
+{
+ "ticker": "BBTX",
+ "name": "Bambusa Therapeutics Inc. Common stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 645382263.0,
+ "price": "$15.98",
+ "cik": 2044950,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/BBTX/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bbtx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:39+00:00"
+}

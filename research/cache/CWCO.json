@@ -1,0 +1,27 @@
+{
+ "ticker": "CWCO",
+ "name": "Consolidated Water Co. Ltd. Ordinary Shares",
+ "sector": "Utilities",
+ "industry": "Water Supply",
+ "country": "Cayman Islands",
+ "mcap": 397506522.0,
+ "price": "$24.82",
+ "cik": 928340,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CWCO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cwco",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:15+00:00"
+}

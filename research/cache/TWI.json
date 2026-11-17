@@ -1,0 +1,27 @@
+{
+ "ticker": "TWI",
+ "name": "Titan International Inc. (DE) Common Stock",
+ "sector": "Industrials",
+ "industry": "Steel/Iron Ore",
+ "country": "United States",
+ "mcap": 314633991.0,
+ "price": "$4.87",
+ "cik": 899751,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TWI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Titan International, Inc. (TWI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/twi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:54+00:00"
+}

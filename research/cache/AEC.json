@@ -1,0 +1,27 @@
+{
+ "ticker": "AEC",
+ "name": "Anfield Energy Inc. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Canada",
+ "mcap": 53066936.0,
+ "price": "$2.66",
+ "cik": 1519469,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AEC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aec",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:06+00:00"
+}

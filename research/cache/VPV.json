@@ -1,0 +1,27 @@
+{
+ "ticker": "VPV",
+ "name": "Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE)",
+ "sector": "Finance",
+ "industry": "Trusts Except Educational Religious and Charitable",
+ "country": "United States",
+ "mcap": 257120780.0,
+ "price": "$10.79",
+ "cik": 895528,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VPV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vpv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:31+00:00"
+}

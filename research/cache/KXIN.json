@@ -1,0 +1,27 @@
+{
+ "ticker": "KXIN",
+ "name": "Kaixin Holdings Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Retail-Auto Dealers and Gas Stations",
+ "country": "China",
+ "mcap": 128591088.0,
+ "price": "$2.84",
+ "cik": 1713539,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KXIN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kxin",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:30+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PFAI",
+ "name": "Pinnacle Food Group Limited Class A Common Shares",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "Canada",
+ "mcap": 31512717.0,
+ "price": "$2.685",
+ "cik": 2032755,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PFAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pfai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:45+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "AP",
+ "name": "Ampco-Pittsburgh Corporation Common Stock",
+ "sector": "Industrials",
+ "industry": "Fluid Controls",
+ "country": "United States",
+ "mcap": 128497133.0,
+ "price": "$6.22",
+ "cik": 6176,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Ampco-Pittsburgh Corporation (AP) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ap",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:29+00:00"
+}

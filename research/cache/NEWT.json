@@ -1,0 +1,27 @@
+{
+ "ticker": "NEWT",
+ "name": "NewtekOne Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 302940720.0,
+ "price": "$10.49",
+ "cik": 1587987,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NEWT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Newtek Business Services Corp. (NEWT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/newt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:10+00:00"
+}

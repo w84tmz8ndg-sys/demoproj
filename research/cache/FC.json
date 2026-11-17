@@ -1,0 +1,27 @@
+{
+ "ticker": "FC",
+ "name": "Franklin Covey Company Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "United States",
+ "mcap": 156089436.0,
+ "price": "$13.77",
+ "cik": 886206,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Franklin Covey Co. (FC) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:25+00:00"
+}

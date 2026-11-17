@@ -1,0 +1,27 @@
+{
+ "ticker": "GROV",
+ "name": "Grove Collaborative Holdings Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "",
+ "mcap": 36732071.0,
+ "price": "$0.8548",
+ "cik": 1841761,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GROV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Grove Collaborative Holdings (GROV) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/grov",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:50+00:00"
+}

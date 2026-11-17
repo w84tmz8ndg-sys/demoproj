@@ -1,0 +1,27 @@
+{
+ "ticker": "JUNS",
+ "name": "Jupiter Neurosciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 2241486.0,
+ "price": "$1.70",
+ "cik": 1679628,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JUNS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/juns",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:40+00:00"
+}

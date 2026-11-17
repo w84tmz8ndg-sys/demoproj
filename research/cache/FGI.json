@@ -1,0 +1,27 @@
+{
+ "ticker": "FGI",
+ "name": "FGI Industries Ltd. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 10100547.0,
+ "price": "$5.23",
+ "cik": 1864943,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FGI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fgi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:47+00:00"
+}

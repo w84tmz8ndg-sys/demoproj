@@ -1,0 +1,27 @@
+{
+ "ticker": "BRAI",
+ "name": "Braiin Limited Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Australia",
+ "mcap": 346228223.0,
+ "price": "$1.68",
+ "cik": 2076975,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BRAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/brai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:25+00:00"
+}

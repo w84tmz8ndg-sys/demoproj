@@ -1,0 +1,27 @@
+{
+ "ticker": "XPOF",
+ "name": "Xponential Fitness Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 229672800.0,
+ "price": "$4.65",
+ "cik": 1802156,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XPOF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Xponential Fitness (XPOF) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/xpof",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:11+00:00"
+}

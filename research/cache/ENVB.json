@@ -1,0 +1,27 @@
+{
+ "ticker": "ENVB",
+ "name": "Enveric Biosciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 6445273.0,
+ "price": "$1.44",
+ "cik": 890821,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENVB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/envb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:23+00:00"
+}

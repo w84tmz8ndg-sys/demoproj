@@ -1,0 +1,27 @@
+{
+ "ticker": "BOOM",
+ "name": "DMC Global Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 152413842.0,
+ "price": "$7.42",
+ "cik": 34067,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BOOM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, DMC Global (BOOM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/boom",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:37+00:00"
+}

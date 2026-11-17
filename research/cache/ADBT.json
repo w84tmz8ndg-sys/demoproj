@@ -1,0 +1,27 @@
+{
+ "ticker": "ADBT",
+ "name": "Advasa Holdings Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Japan",
+ "mcap": 48816221.0,
+ "price": "$0.1001",
+ "cik": 2084227,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADBT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/adbt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:32+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SCKT",
+ "name": "Socket Mobile Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Manufacturing",
+ "country": "United States",
+ "mcap": 3402773.0,
+ "price": "$0.4074",
+ "cik": 944075,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SCKT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sckt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:14+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "HCWB",
+ "name": "HCW Biologics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 2464851.0,
+ "price": "$0.785",
+ "cik": 1828673,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HCWB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hcwb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:28+00:00"
+}

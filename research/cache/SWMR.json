@@ -1,0 +1,27 @@
+{
+ "ticker": "SWMR",
+ "name": "Swarmer Inc Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 153115039.0,
+ "price": "$8.97",
+ "cik": 2092574,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SWMR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Swarmer, Inc. (SWMR) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/swmr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:33+00:00"
+}

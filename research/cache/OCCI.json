@@ -1,0 +1,27 @@
+{
+ "ticker": "OCCI",
+ "name": "OFS Credit Company Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Trusts Except Educational Religious and Charitable",
+ "country": "United States",
+ "mcap": 14985298.0,
+ "price": "$1.29",
+ "cik": 1716951,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OCCI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/occi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:15+00:00"
+}

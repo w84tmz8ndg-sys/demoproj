@@ -1,0 +1,27 @@
+{
+ "ticker": "GBAB",
+ "name": "Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 278393529.0,
+ "price": "$12.43",
+ "cik": 1495825,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GBAB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gbab",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:59+00:00"
+}

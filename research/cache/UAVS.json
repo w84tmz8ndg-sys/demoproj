@@ -1,0 +1,27 @@
+{
+ "ticker": "UAVS",
+ "name": "AgEagle Aerial Systems Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "United States",
+ "mcap": 21255838.0,
+ "price": "$0.3379",
+ "cik": 8504,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/UAVS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, AgEagle Aerial Systems, Inc. (UAVS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/uavs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:53+00:00"
+}

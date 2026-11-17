@@ -1,0 +1,27 @@
+{
+ "ticker": "GWAV",
+ "name": "Greenwave Technology Solutions Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 5964968.0,
+ "price": "$2.00",
+ "cik": 1589149,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GWAV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Greenwave Technology Solutions, Inc. (GWAV) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gwav",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:36+00:00"
+}

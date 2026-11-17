@@ -1,0 +1,27 @@
+{
+ "ticker": "FLYE",
+ "name": "Fly-E Group Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "United States",
+ "mcap": 3150505.0,
+ "price": "$1.93",
+ "cik": 1975940,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FLYE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/flye",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:36+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "EFT",
+ "name": "Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest",
+ "sector": "Finance",
+ "industry": "Finance Companies",
+ "country": "United States",
+ "mcap": 308067495.0,
+ "price": "$10.59",
+ "cik": 1288992,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EFT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eft",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:02+00:00"
+}

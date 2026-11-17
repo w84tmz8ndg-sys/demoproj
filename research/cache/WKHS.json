@@ -1,0 +1,27 @@
+{
+ "ticker": "WKHS",
+ "name": "Workhorse Group Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "United States",
+ "mcap": 28960750.0,
+ "price": "$2.65",
+ "cik": 1425287,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WKHS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Workhorse Group (WKHS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/wkhs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:06+00:00"
+}

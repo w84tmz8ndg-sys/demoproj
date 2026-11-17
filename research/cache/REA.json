@@ -1,0 +1,27 @@
+{
+ "ticker": "REA",
+ "name": "Rare Earths Americas Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "",
+ "mcap": 95791861.0,
+ "price": "$4.57",
+ "cik": 2095743,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/REA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rea",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:06+00:00"
+}

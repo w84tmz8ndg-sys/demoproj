@@ -1,0 +1,27 @@
+{
+ "ticker": "DCOY",
+ "name": "Decoy Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 2156772.0,
+ "price": "$0.9042",
+ "cik": 1615219,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DCOY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dcoy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:42+00:00"
+}

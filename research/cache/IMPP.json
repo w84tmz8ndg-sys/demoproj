@@ -1,0 +1,27 @@
+{
+ "ticker": "IMPP",
+ "name": "Imperial Petroleum Inc. Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "Greece",
+ "mcap": 191705910.0,
+ "price": "$4.24",
+ "cik": 1876581,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IMPP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/impp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:13+00:00"
+}

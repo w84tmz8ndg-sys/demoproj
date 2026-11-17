@@ -1,0 +1,27 @@
+{
+ "ticker": "NA",
+ "name": "Nano Labs Ltd Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "China",
+ "mcap": 31339022.0,
+ "price": "$1.35",
+ "cik": 1872302,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/na",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:49+00:00"
+}

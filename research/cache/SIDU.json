@@ -1,0 +1,27 @@
+{
+ "ticker": "SIDU",
+ "name": "Sidus Space Inc. Class A Common Stock",
+ "sector": "Telecommunications",
+ "industry": "Telecommunications Equipment",
+ "country": "United States",
+ "mcap": 91376102.0,
+ "price": "$0.9027",
+ "cik": 1879726,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SIDU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Sidus Space, Inc. (SIDU) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sidu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:21+00:00"
+}

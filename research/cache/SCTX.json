@@ -1,0 +1,27 @@
+{
+ "ticker": "SCTX",
+ "name": "Scribe Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 291069667.0,
+ "price": "$15.37",
+ "cik": 1853921,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SCTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sctx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:33+00:00"
+}

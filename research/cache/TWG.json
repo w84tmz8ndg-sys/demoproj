@@ -1,0 +1,27 @@
+{
+ "ticker": "TWG",
+ "name": "Top Wealth Group Holding Limited Class A Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "France",
+ "mcap": 1411799.0,
+ "price": "$2.25",
+ "cik": 1978057,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TWG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/twg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:27+00:00"
+}

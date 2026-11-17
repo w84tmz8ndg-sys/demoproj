@@ -1,0 +1,27 @@
+{
+ "ticker": "ADSE",
+ "name": "ADS-TEC ENERGY PLC Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Specialties",
+ "country": "Ireland",
+ "mcap": 703965570.0,
+ "price": "$9.37",
+ "cik": 1879248,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADSE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/adse",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:53+00:00"
+}

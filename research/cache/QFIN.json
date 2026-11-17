@@ -1,0 +1,27 @@
+{
+ "ticker": "QFIN",
+ "name": "Qfin Holdings Inc. American Depositary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "China",
+ "mcap": 609976939.0,
+ "price": "$5.01",
+ "cik": 1741530,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QFIN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Qifu Technology (QFIN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/qfin",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:05+00:00"
+}

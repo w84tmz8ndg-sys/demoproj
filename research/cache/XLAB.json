@@ -1,0 +1,27 @@
+{
+ "ticker": "XLAB",
+ "name": "Exascale Labs Holdings Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 126096186.0,
+ "price": "$1.96",
+ "cik": 2109869,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XLAB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/xlab",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:36+00:00"
+}

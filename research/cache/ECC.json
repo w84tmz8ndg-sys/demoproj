@@ -1,0 +1,27 @@
+{
+ "ticker": "ECC",
+ "name": "Eagle Point Credit Company Common Share of Beneficial Interest",
+ "sector": "Finance",
+ "industry": "Trusts Except Educational Religious and Charitable",
+ "country": "United States",
+ "mcap": 159542438.0,
+ "price": "$2.63",
+ "cik": 1604174,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ECC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ecc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:19+00:00"
+}

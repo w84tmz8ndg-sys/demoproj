@@ -1,0 +1,27 @@
+{
+ "ticker": "QMLS",
+ "name": "QumulusAI Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 84329244.0,
+ "price": "$2.42",
+ "cik": 2084026,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QMLS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/qmls",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:49+00:00"
+}

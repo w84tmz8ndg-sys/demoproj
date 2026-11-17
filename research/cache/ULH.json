@@ -1,0 +1,27 @@
+{
+ "ticker": "ULH",
+ "name": "Universal Logistics Holdings Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Trucking Freight/Courier Services",
+ "country": "United States",
+ "mcap": 766954417.0,
+ "price": "$29.09",
+ "cik": 1308208,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ULH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Universal Logistics Holdings (ULH) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ulh",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:13+00:00"
+}

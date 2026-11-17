@@ -1,0 +1,27 @@
+{
+ "ticker": "CANG",
+ "name": "Cango Inc. Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "China",
+ "mcap": 60302291.0,
+ "price": "$1.47",
+ "cik": 1725123,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CANG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cang",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:29+00:00"
+}

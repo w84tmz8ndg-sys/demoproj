@@ -1,0 +1,27 @@
+{
+ "ticker": "CAPR",
+ "name": "Capricor Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 482579546.0,
+ "price": "$8.30",
+ "cik": 1133869,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CAPR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Capricor Therapeutics (CAPR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/capr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:49+00:00"
+}

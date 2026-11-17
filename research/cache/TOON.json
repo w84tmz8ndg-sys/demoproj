@@ -1,0 +1,27 @@
+{
+ "ticker": "TOON",
+ "name": "Kartoon Studios Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Movies/Entertainment",
+ "country": "United States",
+ "mcap": 30113007.0,
+ "price": "$0.4841",
+ "cik": 1355848,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TOON/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Kartoon Studios (TOON) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/toon",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:55+00:00"
+}

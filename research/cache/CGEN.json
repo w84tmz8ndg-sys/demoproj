@@ -1,0 +1,27 @@
+{
+ "ticker": "CGEN",
+ "name": "Compugen Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Israel",
+ "mcap": 192952657.0,
+ "price": "$2.04",
+ "cik": 1119774,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CGEN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cgen",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:10+00:00"
+}

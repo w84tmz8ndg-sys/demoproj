@@ -1,0 +1,27 @@
+{
+ "ticker": "AMS",
+ "name": "American Shared Hospital Services Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 7242375.0,
+ "price": "$1.085",
+ "cik": 744825,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, American Shared Hospital Services (AMS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ams",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:01+00:00"
+}

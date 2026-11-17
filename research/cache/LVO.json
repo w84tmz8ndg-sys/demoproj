@@ -1,0 +1,27 @@
+{
+ "ticker": "LVO",
+ "name": "LiveOne Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "United States",
+ "mcap": 37296066.0,
+ "price": "$2.72",
+ "cik": 1491419,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LVO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, LiveOne (LVO) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lvo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:41+00:00"
+}

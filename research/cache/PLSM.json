@@ -1,0 +1,27 @@
+{
+ "ticker": "PLSM",
+ "name": "Pulsenmore Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "Israel",
+ "mcap": 9169010.0,
+ "price": "$1.41",
+ "cik": 2064764,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLSM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/plsm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:58+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "NARA",
+ "name": "Narragansett Bancorp Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Banks",
+ "country": "United States",
+ "mcap": 221756800.0,
+ "price": "$10.48",
+ "cik": 2138186,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/NARA/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nara",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:22+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "BNR",
+ "name": "Burning Rock Biotech Limited American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "China",
+ "mcap": 134360410.0,
+ "price": "$12.74",
+ "cik": 1792267,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BNR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bnr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:15+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "KRT",
+ "name": "Karat Packaging Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Plastic Products",
+ "country": "United States",
+ "mcap": 647936945.0,
+ "price": "$32.39",
+ "cik": 1758021,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KRT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Karat Packaging Inc. (KRT) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/krt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:37+00:00"
+}

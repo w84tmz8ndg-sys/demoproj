@@ -1,0 +1,27 @@
+{
+ "ticker": "ITRG",
+ "name": "Integra Resources Corp. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "",
+ "mcap": 350398239.0,
+ "price": "$1.725",
+ "cik": 1722387,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ITRG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/itrg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:16+00:00"
+}

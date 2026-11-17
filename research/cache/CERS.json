@@ -1,0 +1,27 @@
+{
+ "ticker": "CERS",
+ "name": "Cerus Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 375634782.0,
+ "price": "$1.86",
+ "cik": 1020214,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CERS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Cerus Corp. (CERS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cers",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:48+00:00"
+}

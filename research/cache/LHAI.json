@@ -1,0 +1,27 @@
+{
+ "ticker": "LHAI",
+ "name": "Linkhome Holdings Inc. Common stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 13670310.0,
+ "price": "$0.827",
+ "cik": 2017758,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LHAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lhai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:38+00:00"
+}

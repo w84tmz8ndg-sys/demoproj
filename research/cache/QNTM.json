@@ -1,0 +1,27 @@
+{
+ "ticker": "QNTM",
+ "name": "Quantum Biopharma Ltd. Class B Subordinate Voting Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Canada",
+ "mcap": 12618092.0,
+ "price": "$1.44",
+ "cik": 1771885,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/QNTM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/qntm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:02+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "LITB",
+ "name": "LightInTheBox Holding Co. Ltd. American Depositary Shares each representing twelve ordinary shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "China",
+ "mcap": 52965873.0,
+ "price": "$2.685",
+ "cik": 1523836,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LITB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/litb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:07+00:00"
+}

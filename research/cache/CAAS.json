@@ -1,0 +1,27 @@
+{
+ "ticker": "CAAS",
+ "name": "China Automotive Systems Inc. Ordinary Share",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "China",
+ "mcap": 130639140.0,
+ "price": "$4.33",
+ "cik": 2037400,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CAAS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/caas",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:24+00:00"
+}

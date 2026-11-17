@@ -1,0 +1,27 @@
+{
+ "ticker": "PBK",
+ "name": "PowerBank Corporation Common Stock",
+ "sector": "Utilities",
+ "industry": "Power Generation",
+ "country": "Canada",
+ "mcap": 7833808.0,
+ "price": "$0.1266",
+ "cik": 2011053,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PBK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pbk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:48+00:00"
+}

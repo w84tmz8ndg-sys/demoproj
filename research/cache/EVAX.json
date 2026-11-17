@@ -1,0 +1,27 @@
+{
+ "ticker": "EVAX",
+ "name": "Evaxion A/S American Depositary Share",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Denmark",
+ "mcap": 25546826.0,
+ "price": "$2.77",
+ "cik": 1828253,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EVAX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/evax",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:34+00:00"
+}

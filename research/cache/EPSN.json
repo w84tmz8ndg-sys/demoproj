@@ -1,0 +1,27 @@
+{
+ "ticker": "EPSN",
+ "name": "Epsilon Energy Ltd. Common Share",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 160504029.0,
+ "price": "$5.30",
+ "cik": 1726126,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EPSN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Epsilon Energy Ltd. (EPSN) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/epsn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:15+00:00"
+}

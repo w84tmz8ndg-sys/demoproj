@@ -1,0 +1,27 @@
+{
+ "ticker": "EH",
+ "name": "EHang Holdings Limited ADS",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "China",
+ "mcap": 257874231.0,
+ "price": "$3.40",
+ "cik": 1759783,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/eh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:28+00:00"
+}

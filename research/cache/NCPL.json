@@ -1,0 +1,27 @@
+{
+ "ticker": "NCPL",
+ "name": "Netcapital Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 15956672.0,
+ "price": "$1.99",
+ "cik": 1414767,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NCPL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ncpl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:57+00:00"
+}

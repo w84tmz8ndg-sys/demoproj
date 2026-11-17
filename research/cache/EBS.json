@@ -1,0 +1,27 @@
+{
+ "ticker": "EBS",
+ "name": "Emergent BioSolutions Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 298465132.0,
+ "price": "$5.805",
+ "cik": 1367644,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EBS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Emergent Biosolutions Inc (EBS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/ebs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:18+00:00"
+}

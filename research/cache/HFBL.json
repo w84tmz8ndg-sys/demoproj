@@ -1,0 +1,27 @@
+{
+ "ticker": "HFBL",
+ "name": "Home Federal Bancorp Inc. of Louisiana Common Stock",
+ "sector": "Finance",
+ "industry": "Savings Institutions",
+ "country": "United States",
+ "mcap": 72509960.0,
+ "price": "$24.19",
+ "cik": 1500375,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HFBL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Home Federal Bancorp Inc (Louisiana) (HFBL) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/hfbl",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:36+00:00"
+}

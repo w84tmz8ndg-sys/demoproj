@@ -1,0 +1,27 @@
+{
+ "ticker": "KNDI",
+ "name": "Kandi Technologies Group Inc. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "China",
+ "mcap": 35484361.0,
+ "price": "$3.445",
+ "cik": 1720250,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KNDI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kndi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:01+00:00"
+}

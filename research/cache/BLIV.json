@@ -1,0 +1,27 @@
+{
+ "ticker": "BLIV",
+ "name": "BeLive Holdings Ordinary Share",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Singapore",
+ "mcap": 23902564.0,
+ "price": "$2.20",
+ "cik": 1982448,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BLIV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bliv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:28+00:00"
+}

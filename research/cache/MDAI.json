@@ -1,0 +1,27 @@
+{
+ "ticker": "MDAI",
+ "name": "Spectral AI Inc. Class A Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 42162256.0,
+ "price": "$1.31",
+ "cik": 1833498,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MDAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Spectral AI Inc - Ordinary Shares - Class A (MDAI) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mdai",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:13+00:00"
+}

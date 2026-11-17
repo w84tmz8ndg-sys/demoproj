@@ -1,0 +1,27 @@
+{
+ "ticker": "SIF",
+ "name": "SIFCO Industries Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "United States",
+ "mcap": 92029494.0,
+ "price": "$14.715",
+ "cik": 90168,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SIF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, SIFCO Industries Inc. (SIF) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sif",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:17+00:00"
+}

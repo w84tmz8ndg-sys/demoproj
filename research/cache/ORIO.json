@@ -1,0 +1,27 @@
+{
+ "ticker": "ORIO",
+ "name": "Orion Digital Corp. Common Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Canada",
+ "mcap": 25356860.0,
+ "price": "$1.07",
+ "cik": 1602842,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ORIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/orio",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:39+00:00"
+}

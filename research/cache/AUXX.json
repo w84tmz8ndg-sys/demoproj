@@ -1,0 +1,27 @@
+{
+ "ticker": "AUXX",
+ "name": "Gold X2 Mining Inc. Common Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "",
+ "mcap": 323791386.0,
+ "price": "$3.20",
+ "cik": 1961592,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AUXX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/auxx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:48+00:00"
+}

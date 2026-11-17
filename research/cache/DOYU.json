@@ -1,0 +1,27 @@
+{
+ "ticker": "DOYU",
+ "name": "DouYu International Holdings Limited ADS",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "China",
+ "mcap": 110756413.0,
+ "price": "$3.67",
+ "cik": 1762417,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DOYU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/doyu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:23+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "WRN",
+ "name": "Western Copper and Gold Corporation Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Canada",
+ "mcap": 302078688.0,
+ "price": "$1.335",
+ "cik": 1364125,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WRN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wrn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:10+00:00"
+}

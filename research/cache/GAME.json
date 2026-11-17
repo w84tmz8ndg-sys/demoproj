@@ -1,0 +1,27 @@
+{
+ "ticker": "GAME",
+ "name": "GameSquare Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United States",
+ "mcap": 32678180.0,
+ "price": "$1.81",
+ "cik": 1714562,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GAME/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, GameSquare Holdings Inc (GAME) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/game",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:30+00:00"
+}

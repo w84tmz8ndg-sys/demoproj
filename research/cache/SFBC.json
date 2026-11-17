@@ -1,0 +1,27 @@
+{
+ "ticker": "SFBC",
+ "name": "Sound Financial Bancorp Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Savings Institutions",
+ "country": "United States",
+ "mcap": 117869800.0,
+ "price": "$45.87",
+ "cik": 1541119,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SFBC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Sound Financial Bancorp Inc (SFBC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sfbc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:54+00:00"
+}

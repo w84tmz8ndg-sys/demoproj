@@ -1,0 +1,27 @@
+{
+ "ticker": "LXFR",
+ "name": "Luxfer Holdings PLC Ordinary Shares",
+ "sector": "Basic Materials",
+ "industry": "Major Chemicals",
+ "country": "United Kingdom",
+ "mcap": 464548583.0,
+ "price": "$17.36",
+ "cik": 1096056,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LXFR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Luxfer Holdings PLC (LXFR) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lxfr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:08+00:00"
+}

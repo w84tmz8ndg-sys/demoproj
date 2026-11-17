@@ -1,0 +1,27 @@
+{
+ "ticker": "FIRY",
+ "name": "Firy Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 173037695.0,
+ "price": "$10.41",
+ "cik": 1801661,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FIRY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/firy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:53+00:00"
+}

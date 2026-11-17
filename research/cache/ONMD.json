@@ -1,0 +1,27 @@
+{
+ "ticker": "ONMD",
+ "name": "OneMedNet Corp Class A Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+ "country": "United Kingdom",
+ "mcap": 29221192.0,
+ "price": "$4.86",
+ "cik": 1849380,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ONMD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, OneMedNet Corp. - Ordinary Shares - Class A (ONMD) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/onmd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:06+00:00"
+}

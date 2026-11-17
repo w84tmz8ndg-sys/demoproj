@@ -1,0 +1,27 @@
+{
+ "ticker": "BME",
+ "name": "Blackrock Health Sciences Trust",
+ "sector": "Finance",
+ "industry": "Trusts Except Educational Religious and Charitable",
+ "country": "United States",
+ "mcap": 626651846.0,
+ "price": "$47.00",
+ "cik": 1314966,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BME/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bme",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:58+00:00"
+}

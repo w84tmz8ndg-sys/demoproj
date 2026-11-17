@@ -1,0 +1,27 @@
+{
+ "ticker": "GELS",
+ "name": "Gelteq Limited Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Australia",
+ "mcap": 3844199.0,
+ "price": "$0.3589",
+ "cik": 1920092,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GELS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gels",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:57+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CSIQ",
+ "name": "Canadian Solar Inc. Common Shares (ON)",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Canada",
+ "mcap": 621201192.0,
+ "price": "$9.16",
+ "cik": 1375877,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CSIQ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/csiq",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:58+00:00"
+}

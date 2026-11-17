@@ -1,0 +1,27 @@
+{
+ "ticker": "GRDX",
+ "name": "GridAI Technologies Corp. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 33874797.0,
+ "price": "$3.30",
+ "cik": 1604191,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GRDX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/grdx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:23+00:00"
+}

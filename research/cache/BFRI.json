@@ -1,0 +1,27 @@
+{
+ "ticker": "BFRI",
+ "name": "Biofrontera Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 10230930.0,
+ "price": "$0.57",
+ "cik": 1858685,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BFRI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bfri",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:42+00:00"
+}

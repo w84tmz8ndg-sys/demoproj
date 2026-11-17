@@ -1,0 +1,27 @@
+{
+ "ticker": "PWCM",
+ "name": "PowerCompute Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 1096414.0,
+ "price": "$0.4325",
+ "cik": 1640384,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PWCM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pwcm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:34+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GPRO",
+ "name": "GoPro Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 131370597.0,
+ "price": "$0.6119",
+ "cik": 1500435,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GPRO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, GoPro (GPRO) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gpro",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:20+00:00"
+}

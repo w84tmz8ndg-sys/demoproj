@@ -1,0 +1,27 @@
+{
+ "ticker": "NXB",
+ "name": "NextBoat Inc. Common Stcok",
+ "sector": "Industrials",
+ "industry": "Marine Transportation",
+ "country": "",
+ "mcap": 35954340.0,
+ "price": "$1.43",
+ "cik": 2067767,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NXB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nxb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:57+00:00"
+}

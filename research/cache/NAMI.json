@@ -1,0 +1,27 @@
+{
+ "ticker": "NAMI",
+ "name": "Jinxin Technology Holding Company American Depositary Shares",
+ "sector": "Real Estate",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 5957827.0,
+ "price": "$1.57",
+ "cik": 1967631,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NAMI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nami",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:38+00:00"
+}

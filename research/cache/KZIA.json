@@ -1,0 +1,27 @@
+{
+ "ticker": "KZIA",
+ "name": "Kazia Therapeutics Limited American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Australia",
+ "mcap": 87073717.0,
+ "price": "$5.60",
+ "cik": 1075880,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KZIA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kzia",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:36+00:00"
+}

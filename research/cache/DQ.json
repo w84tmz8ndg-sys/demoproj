@@ -1,0 +1,27 @@
+{
+ "ticker": "DQ",
+ "name": "DAQO New Energy Corp. American Depositary Shares each representing five ordinary shares",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "China",
+ "mcap": 711171100.0,
+ "price": "$10.51",
+ "cik": 1477641,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DQ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dq",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:45+00:00"
+}

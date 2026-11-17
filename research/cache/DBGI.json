@@ -1,0 +1,27 @@
+{
+ "ticker": "DBGI",
+ "name": "Digital Brands Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Clothing/Shoe/Accessory Stores",
+ "country": "United States",
+ "mcap": 146374.0,
+ "price": "$0.1568",
+ "cik": 1668010,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DBGI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dbgi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:30:02+00:00"
+}

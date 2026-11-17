@@ -1,0 +1,27 @@
+{
+ "ticker": "BAOS",
+ "name": "Baosheng Media Group Holdings Limited Ordinary shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "China",
+ "mcap": 4908700.0,
+ "price": "$0.1471",
+ "cik": 1811216,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BAOS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/baos",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:13+00:00"
+}

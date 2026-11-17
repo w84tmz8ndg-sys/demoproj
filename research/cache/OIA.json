@@ -1,0 +1,27 @@
+{
+ "ticker": "OIA",
+ "name": "Invesco Municipal Income Opportunities Trust Common Stock",
+ "sector": "Finance",
+ "industry": "Finance Companies",
+ "country": "United States",
+ "mcap": 260402572.0,
+ "price": "$5.47",
+ "cik": 835333,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OIA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/oia",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:26+00:00"
+}

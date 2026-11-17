@@ -1,0 +1,27 @@
+{
+ "ticker": "RR",
+ "name": "Richtech Robotics Inc. Class B Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 166462887.0,
+ "price": "$0.7395",
+ "cik": 1963685,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Richtech Robotics (RR) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:03+00:00"
+}

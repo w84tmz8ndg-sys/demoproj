@@ -1,0 +1,27 @@
+{
+ "ticker": "IA",
+ "name": "Innovative Solutions and Support Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 358341443.0,
+ "price": "$20.02",
+ "cik": 836690,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ia",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:09+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "USAS",
+ "name": "Americas Gold and Silver Corporation Common Shares no par value",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Canada",
+ "mcap": 772690148.0,
+ "price": "$2.285",
+ "cik": 1286973,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/USAS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/usas",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:11+00:00"
+}

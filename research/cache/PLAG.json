@@ -1,0 +1,27 @@
+{
+ "ticker": "PLAG",
+ "name": "Planet Green Holdings Corp. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "China",
+ "mcap": 5101780.0,
+ "price": "$0.3576",
+ "cik": 1117057,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLAG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/plag",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:06+00:00"
+}

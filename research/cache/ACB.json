@@ -1,0 +1,27 @@
+{
+ "ticker": "ACB",
+ "name": "Aurora Cannabis Inc. Common Shares",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "Canada",
+ "mcap": 303084920.0,
+ "price": "$4.61",
+ "cik": 1683541,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/acb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:08+00:00"
+}

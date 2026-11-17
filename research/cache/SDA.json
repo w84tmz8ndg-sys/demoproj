@@ -1,0 +1,27 @@
+{
+ "ticker": "SDA",
+ "name": "SunCar Technology Group Inc. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Automotive Aftermarket",
+ "country": "Hong Kong",
+ "mcap": 25165334.0,
+ "price": "$0.2382",
+ "cik": 1936804,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SDA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sda",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:16+00:00"
+}

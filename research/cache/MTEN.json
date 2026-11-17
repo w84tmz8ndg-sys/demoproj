@@ -1,0 +1,27 @@
+{
+ "ticker": "MTEN",
+ "name": "Mingteng International Corporation Inc. Class A Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Building Products",
+ "country": "China",
+ "mcap": 2414297.0,
+ "price": "$0.3156",
+ "cik": 1948099,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MTEN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mten",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:28+00:00"
+}

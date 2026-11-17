@@ -1,0 +1,27 @@
+{
+ "ticker": "SAFE",
+ "name": "Safehold Inc. New Common Stock ",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 673969552.0,
+ "price": "$9.63",
+ "cik": 1095651,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SAFE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Safehold Inc. (SAFE) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/safe",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:12+00:00"
+}

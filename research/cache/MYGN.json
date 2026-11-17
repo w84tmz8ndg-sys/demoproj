@@ -1,0 +1,27 @@
+{
+ "ticker": "MYGN",
+ "name": "Myriad Genetics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+ "country": "United States",
+ "mcap": 534286632.0,
+ "price": "$5.57",
+ "cik": 899923,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MYGN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Myriad Genetics (MYGN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mygn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:06+00:00"
+}

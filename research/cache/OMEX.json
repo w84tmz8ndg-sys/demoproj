@@ -1,0 +1,27 @@
+{
+ "ticker": "OMEX",
+ "name": "Odyssey Marine Exploration Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Marine Transportation",
+ "country": "United States",
+ "mcap": 20963782.0,
+ "price": "$8.93",
+ "cik": 798528,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OMEX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Odyssey Marine Exploration (OMEX) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/omex",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:57+00:00"
+}

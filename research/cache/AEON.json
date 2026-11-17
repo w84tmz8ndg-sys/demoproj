@@ -1,0 +1,27 @@
+{
+ "ticker": "AEON",
+ "name": "AEON Biopharma Inc. Class A Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 10126810.0,
+ "price": "$0.1416",
+ "cik": 1837607,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AEON/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aeon",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:45+00:00"
+}

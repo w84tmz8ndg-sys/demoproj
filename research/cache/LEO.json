@@ -1,0 +1,27 @@
+{
+ "ticker": "LEO",
+ "name": "BNY Mellon Strategic Municipals Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Trusts Except Educational Religious and Charitable",
+ "country": "United States",
+ "mcap": 361286953.0,
+ "price": "$5.80",
+ "cik": 818972,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LEO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/leo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:07+00:00"
+}

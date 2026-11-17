@@ -1,0 +1,27 @@
+{
+ "ticker": "ACNT",
+ "name": "Ascent Industries Co. Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 115292815.0,
+ "price": "$12.78",
+ "cik": 95953,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Ascent Industries Co. (ACNT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/acnt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:01+00:00"
+}

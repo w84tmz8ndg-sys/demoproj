@@ -1,0 +1,27 @@
+{
+ "ticker": "PHIO",
+ "name": "Phio Pharmaceuticals Corp. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 8990018.0,
+ "price": "$0.7522",
+ "cik": 1533040,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PHIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/phio",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:09+00:00"
+}

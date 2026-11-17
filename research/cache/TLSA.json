@@ -1,0 +1,27 @@
+{
+ "ticker": "TLSA",
+ "name": "Tiziana Life Sciences Ltd. Common Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United Kingdom",
+ "mcap": 73326711.0,
+ "price": "$0.5762",
+ "cik": 1723069,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TLSA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tlsa",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:31+00:00"
+}

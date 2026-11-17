@@ -1,0 +1,27 @@
+{
+ "ticker": "RYDE",
+ "name": "Ryde Group Ltd. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "",
+ "mcap": 200051200.0,
+ "price": "$1.11",
+ "cik": 1971115,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RYDE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ryde",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:59+00:00"
+}

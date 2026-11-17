@@ -1,0 +1,27 @@
+{
+ "ticker": "RGNT",
+ "name": "Regentis Biomaterials Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "Israel",
+ "mcap": 8358466.0,
+ "price": "$1.19",
+ "cik": 1912966,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RGNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rgnt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:26+00:00"
+}

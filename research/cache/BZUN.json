@@ -1,0 +1,27 @@
+{
+ "ticker": "BZUN",
+ "name": "Baozun Inc. American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Catalog/Specialty Distribution",
+ "country": "China",
+ "mcap": 202286794.0,
+ "price": "$3.48",
+ "cik": 1625414,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BZUN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bzun",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:57+00:00"
+}

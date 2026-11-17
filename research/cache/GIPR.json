@@ -1,0 +1,27 @@
+{
+ "ticker": "GIPR",
+ "name": "Generation Income Properties Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 1889962.0,
+ "price": "$0.2598",
+ "cik": 1651721,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GIPR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gipr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:03+00:00"
+}

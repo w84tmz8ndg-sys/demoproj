@@ -1,0 +1,27 @@
+{
+ "ticker": "HCMA",
+ "name": "HCM III Acquisition Corp. Class A Ordinary Share",
+ "sector": "Consumer Discretionary",
+ "industry": "Hotels/Resorts",
+ "country": "United States",
+ "mcap": 401321250.0,
+ "price": "$10.34",
+ "cik": 2069856,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HCMA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hcma",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:14+00:00"
+}

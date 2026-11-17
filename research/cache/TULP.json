@@ -1,0 +1,27 @@
+{
+ "ticker": "TULP",
+ "name": "Bloomia Holdings Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "United States",
+ "mcap": 11835864.0,
+ "price": "$2.45",
+ "cik": 875355,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TULP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tulp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:14+00:00"
+}

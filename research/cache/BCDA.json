@@ -1,0 +1,27 @@
+{
+ "ticker": "BCDA",
+ "name": "BioCardia Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 11961152.0,
+ "price": "$0.7901",
+ "cik": 925741,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BCDA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bcda",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:13+00:00"
+}

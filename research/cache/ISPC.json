@@ -1,0 +1,27 @@
+{
+ "ticker": "ISPC",
+ "name": "iSpecimen Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Commercial Physical & Biological Resarch",
+ "country": "United States",
+ "mcap": 3282530.0,
+ "price": "$0.6049",
+ "cik": 1558569,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ISPC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ispc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:19+00:00"
+}

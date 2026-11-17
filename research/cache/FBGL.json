@@ -1,0 +1,27 @@
+{
+ "ticker": "FBGL",
+ "name": "FBS Global Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Homebuilding",
+ "country": "Singapore",
+ "mcap": 2484000.0,
+ "price": "$1.84",
+ "cik": 1938534,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FBGL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fbgl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:25+00:00"
+}

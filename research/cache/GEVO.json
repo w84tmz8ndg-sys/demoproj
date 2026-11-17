@@ -1,0 +1,27 @@
+{
+ "ticker": "GEVO",
+ "name": "Gevo Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "United States",
+ "mcap": 430434658.0,
+ "price": "$1.74",
+ "cik": 1392380,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GEVO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Gevo (GEVO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gevo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:45+00:00"
+}

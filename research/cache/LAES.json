@@ -1,0 +1,27 @@
+{
+ "ticker": "LAES",
+ "name": "SEALSQ Corp Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "Switzerland",
+ "mcap": 255076229.0,
+ "price": "$1.145",
+ "cik": 1951222,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LAES/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, SEALSQ Corp (LAES) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/laes",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:30+00:00"
+}

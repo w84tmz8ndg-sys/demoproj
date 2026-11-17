@@ -1,0 +1,27 @@
+{
+ "ticker": "TRC",
+ "name": "Tejon Ranch Co Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 460663671.0,
+ "price": "$17.04",
+ "cik": 96869,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Tejon Ranch Co. (TRC) is questionable based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/trc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:15+00:00"
+}

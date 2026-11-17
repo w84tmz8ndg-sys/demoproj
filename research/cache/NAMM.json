@@ -1,0 +1,27 @@
+{
+ "ticker": "NAMM",
+ "name": "Namib Minerals Ordinary Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Cayman Islands",
+ "mcap": 40492994.0,
+ "price": "$0.725",
+ "cik": 2026514,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NAMM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/namm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:26+00:00"
+}

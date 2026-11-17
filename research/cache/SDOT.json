@@ -1,0 +1,27 @@
+{
+ "ticker": "SDOT",
+ "name": "Sadot Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "United States",
+ "mcap": 14053390.0,
+ "price": "$4.44",
+ "cik": 1701756,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SDOT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sdot",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:34+00:00"
+}

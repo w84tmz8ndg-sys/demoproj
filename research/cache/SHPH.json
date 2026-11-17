@@ -1,0 +1,27 @@
+{
+ "ticker": "SHPH",
+ "name": "Shuttle Pharmaceuticals Holdings Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 20202311.0,
+ "price": "$4.24",
+ "cik": 1757499,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SHPH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/shph",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:05+00:00"
+}

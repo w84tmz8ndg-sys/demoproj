@@ -1,0 +1,27 @@
+{
+ "ticker": "IPHA",
+ "name": "Innate Pharma S.A. ADS",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "France",
+ "mcap": 155263482.0,
+ "price": "$1.39",
+ "cik": 1598599,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IPHA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ipha",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:28+00:00"
+}

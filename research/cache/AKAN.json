@@ -1,0 +1,27 @@
+{
+ "ticker": "AKAN",
+ "name": "Akanda Corp. Common Shares",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "United Kingdom",
+ "mcap": 5277949.0,
+ "price": "$2.21",
+ "cik": 1888014,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AKAN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/akan",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:59+00:00"
+}

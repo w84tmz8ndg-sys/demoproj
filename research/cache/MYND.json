@@ -1,0 +1,27 @@
+{
+ "ticker": "MYND",
+ "name": "Mynd.ai Inc. American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Computer peripheral equipment",
+ "country": "",
+ "mcap": 10376528.0,
+ "price": "$0.2201",
+ "cik": 1708441,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MYND/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mynd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:39+00:00"
+}

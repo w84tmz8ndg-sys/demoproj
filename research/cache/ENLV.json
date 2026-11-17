@@ -1,0 +1,27 @@
+{
+ "ticker": "ENLV",
+ "name": "Enlivex Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Israel",
+ "mcap": 1685195.0,
+ "price": "$1.10",
+ "cik": 1596812,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENLV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/enlv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:10+00:00"
+}

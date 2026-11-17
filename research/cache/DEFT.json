@@ -1,0 +1,27 @@
+{
+ "ticker": "DEFT",
+ "name": "Defi Technologies Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Canada",
+ "mcap": 118542093.0,
+ "price": "$0.3051",
+ "cik": 1888274,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DEFT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/deft",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:53+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "HTT",
+ "name": "High Templar Tech Limited American depositary shares each representing one Class A ordinary share",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "China",
+ "mcap": 247677189.0,
+ "price": "$1.595",
+ "cik": 1692705,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HTT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/htt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:43+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "RADX",
+ "name": "Radiopharm Theranostics Limited American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Australia",
+ "mcap": 11098343.0,
+ "price": "$0.7676",
+ "cik": 1949257,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RADX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/radx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:27+00:00"
+}

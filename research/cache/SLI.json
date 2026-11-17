@@ -1,0 +1,27 @@
+{
+ "ticker": "SLI",
+ "name": "Standard Lithium Ltd. Common Shares",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "Canada",
+ "mcap": 325755094.0,
+ "price": "$1.32",
+ "cik": 1537137,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sli",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:42+00:00"
+}

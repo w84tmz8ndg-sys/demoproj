@@ -1,0 +1,27 @@
+{
+ "ticker": "XNDU",
+ "name": "Xanadu Quantum Technologies Limited Class B Subordinate Voting Shares",
+ "sector": "Technology",
+ "industry": "Computer Manufacturing",
+ "country": "Canada",
+ "mcap": 631827234.0,
+ "price": "$2.03",
+ "cik": 2097163,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XNDU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/xndu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:51+00:00"
+}

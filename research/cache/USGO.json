@@ -1,0 +1,27 @@
+{
+ "ticker": "USGO",
+ "name": "U.S. GoldMining Inc. Common stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "United States",
+ "mcap": 66078790.0,
+ "price": "$4.55",
+ "cik": 1947244,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/USGO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, U.S. GoldMining Inc (USGO) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/usgo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:58+00:00"
+}

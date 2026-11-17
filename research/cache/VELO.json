@@ -1,0 +1,27 @@
+{
+ "ticker": "VELO",
+ "name": "Velo3D Inc. Common stock",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 114364784.0,
+ "price": "$3.545",
+ "cik": 1825079,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VELO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Velo3D, Inc. (VELO) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/velo",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:03+00:00"
+}

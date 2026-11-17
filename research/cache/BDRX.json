@@ -1,0 +1,27 @@
+{
+ "ticker": "BDRX",
+ "name": "Biodexa Pharmaceuticals plc American Depositary Shs",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United Kingdom",
+ "mcap": 1197888.0,
+ "price": "$2.285",
+ "cik": 1643918,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BDRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bdrx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:31+00:00"
+}

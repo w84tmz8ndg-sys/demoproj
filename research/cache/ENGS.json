@@ -1,0 +1,27 @@
+{
+ "ticker": "ENGS",
+ "name": "Energys Group Limited Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Engineering & Construction",
+ "country": "United Kingdom",
+ "mcap": 16518426.0,
+ "price": "$0.3049",
+ "cik": 1971828,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENGS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/engs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:50+00:00"
+}

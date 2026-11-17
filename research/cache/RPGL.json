@@ -1,0 +1,27 @@
+{
+ "ticker": "RPGL",
+ "name": "Republic Power Group Limited Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Singapore",
+ "mcap": 9628178.0,
+ "price": "$9.54",
+ "cik": 1912884,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RPGL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rpgl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:53+00:00"
+}

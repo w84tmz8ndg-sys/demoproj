@@ -1,0 +1,27 @@
+{
+ "ticker": "TP",
+ "name": "Ticketplus Ltd. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "",
+ "mcap": 107973052.0,
+ "price": "$8.45",
+ "cik": 2104296,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:30+00:00"
+}

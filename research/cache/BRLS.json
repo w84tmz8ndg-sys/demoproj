@@ -1,0 +1,27 @@
+{
+ "ticker": "BRLS",
+ "name": "Borealis Foods Inc. Class A Common Shares",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "Canada",
+ "mcap": 20819407.0,
+ "price": "$0.97",
+ "cik": 1852973,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BRLS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/brls",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:59+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "FISN",
+ "name": "Deep Fission Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Electric Utilities: Central",
+ "country": "United States",
+ "mcap": 134313861.0,
+ "price": "$2.28",
+ "cik": 1918102,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FISN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/fisn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:15+00:00"
+}

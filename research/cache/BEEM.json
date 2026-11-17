@@ -1,0 +1,27 @@
+{
+ "ticker": "BEEM",
+ "name": "Beam Global Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 15168191.0,
+ "price": "$0.6334",
+ "cik": 1398805,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BEEM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Beam Global (BEEM) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/beem",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:11+00:00"
+}

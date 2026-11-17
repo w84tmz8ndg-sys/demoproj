@@ -1,0 +1,27 @@
+{
+ "ticker": "FSTR",
+ "name": "L.B. Foster Company Common Stock",
+ "sector": "Industrials",
+ "industry": "Metal Fabrications",
+ "country": "United States",
+ "mcap": 441115802.0,
+ "price": "$41.93",
+ "cik": 352825,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FSTR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, L.B. Foster Company (FSTR) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fstr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:30+00:00"
+}

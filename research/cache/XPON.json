@@ -1,0 +1,27 @@
+{
+ "ticker": "XPON",
+ "name": "Expion Energy Inc. Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 2262933.0,
+ "price": "$2.235",
+ "cik": 1894954,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/XPON/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/xpon",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:37+00:00"
+}

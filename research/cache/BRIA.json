@@ -1,0 +1,27 @@
+{
+ "ticker": "BRIA",
+ "name": "BrilliA Inc Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Apparel",
+ "country": "",
+ "mcap": 45631250.0,
+ "price": "$1.49",
+ "cik": 2000230,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BRIA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bria",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:46+00:00"
+}

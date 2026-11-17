@@ -1,0 +1,27 @@
+{
+ "ticker": "MKTW",
+ "name": "MarketWise Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 323906855.0,
+ "price": "$20.65",
+ "cik": 1805651,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MKTW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, MarketWise (MKTW) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mktw",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:44+00:00"
+}

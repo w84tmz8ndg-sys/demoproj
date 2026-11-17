@@ -1,0 +1,27 @@
+{
+ "ticker": "RCON",
+ "name": "Recon Technology Ltd. Class A Ordinary Shares",
+ "sector": "Energy",
+ "industry": "Oilfield Services/Equipment",
+ "country": "China",
+ "mcap": 23527694.0,
+ "price": "$1.06",
+ "cik": 1442620,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RCON/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rcon",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:35+00:00"
+}

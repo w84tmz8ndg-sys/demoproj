@@ -1,0 +1,27 @@
+{
+ "ticker": "LGHL",
+ "name": "Lion Group Holding Ltd. American Depositary Share",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "China",
+ "mcap": 73830.0,
+ "price": "$1.60",
+ "cik": 1806524,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LGHL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lghl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:30:04+00:00"
+}

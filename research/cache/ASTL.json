@@ -1,0 +1,27 @@
+{
+ "ticker": "ASTL",
+ "name": "Algoma Steel Group Inc. Common Shares",
+ "sector": "Industrials",
+ "industry": "Steel/Iron Ore",
+ "country": "Canada",
+ "mcap": 566345468.0,
+ "price": "$5.36",
+ "cik": 1860805,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ASTL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/astl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:37+00:00"
+}

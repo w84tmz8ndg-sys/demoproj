@@ -1,0 +1,27 @@
+{
+ "ticker": "ENHA",
+ "name": "Enhanced Group Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "Singapore",
+ "mcap": 233384967.0,
+ "price": "$5.88",
+ "cik": 1956439,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ENHA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/enha",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:06+00:00"
+}

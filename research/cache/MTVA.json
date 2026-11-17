@@ -1,0 +1,27 @@
+{
+ "ticker": "MTVA",
+ "name": "MetaVia Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 8125181.0,
+ "price": "$1.205",
+ "cik": 1638287,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MTVA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mtva",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:33+00:00"
+}

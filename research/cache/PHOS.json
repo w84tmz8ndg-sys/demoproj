@@ -1,0 +1,27 @@
+{
+ "ticker": "PHOS",
+ "name": "First Phosphate Corp. American Depositary Shares",
+ "sector": "Industrials",
+ "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+ "country": "Canada",
+ "mcap": 204510715.0,
+ "price": "$10.74",
+ "cik": 1490078,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PHOS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/phos",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:51+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MENS",
+ "name": "Jyong Biotech Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Taiwan",
+ "mcap": 134568971.0,
+ "price": "$1.77",
+ "cik": 1954488,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MENS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mens",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:16+00:00"
+}

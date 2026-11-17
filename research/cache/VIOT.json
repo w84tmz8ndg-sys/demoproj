@@ -1,0 +1,27 @@
+{
+ "ticker": "VIOT",
+ "name": "Viomi Technology Co. Ltd American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "China",
+ "mcap": 87518249.0,
+ "price": "$1.30",
+ "cik": 1742770,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VIOT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/viot",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:32+00:00"
+}

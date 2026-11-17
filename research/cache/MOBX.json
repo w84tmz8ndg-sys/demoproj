@@ -1,0 +1,27 @@
+{
+ "ticker": "MOBX",
+ "name": "Mobix Labs Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 9430628.0,
+ "price": "$0.40",
+ "cik": 1855467,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MOBX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mobx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:58+00:00"
+}

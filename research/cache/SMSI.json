@@ -1,0 +1,27 @@
+{
+ "ticker": "SMSI",
+ "name": "Smith Micro Software Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 14912850.0,
+ "price": "$2.67",
+ "cik": 948708,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SMSI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/smsi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:18+00:00"
+}

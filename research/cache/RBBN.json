@@ -1,0 +1,27 @@
+{
+ "ticker": "RBBN",
+ "name": "Ribbon Communications Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 261593472.0,
+ "price": "$1.46",
+ "cik": 1708055,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RBBN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Ribbon Communications Inc - Ordinary Shares - New (RBBN) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rbbn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:22+00:00"
+}

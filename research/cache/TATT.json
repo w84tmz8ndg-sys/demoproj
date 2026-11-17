@@ -1,0 +1,27 @@
+{
+ "ticker": "TATT",
+ "name": "TAT Technologies Ltd. Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "Israel",
+ "mcap": 485439492.0,
+ "price": "$37.39",
+ "cik": 808439,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TATT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tatt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:42+00:00"
+}

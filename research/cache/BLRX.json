@@ -1,0 +1,27 @@
+{
+ "ticker": "BLRX",
+ "name": "BioLineRx Ltd. American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Israel",
+ "mcap": 5724948.0,
+ "price": "$1.15",
+ "cik": 1498403,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BLRX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/blrx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:42+00:00"
+}

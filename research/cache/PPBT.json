@@ -1,0 +1,27 @@
+{
+ "ticker": "PPBT",
+ "name": "Purple Biotech Ltd. American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Israel",
+ "mcap": 2733137.0,
+ "price": "$1.68",
+ "cik": 1614744,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PPBT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ppbt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:09+00:00"
+}

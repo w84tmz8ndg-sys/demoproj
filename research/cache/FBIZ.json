@@ -1,0 +1,27 @@
+{
+ "ticker": "FBIZ",
+ "name": "First Business Financial Services Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 620489864.0,
+ "price": "$74.50",
+ "cik": 1521951,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/FBIZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, First Business Financial Services (FBIZ) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/fbiz",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:00+00:00"
+}

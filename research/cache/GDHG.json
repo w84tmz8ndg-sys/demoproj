@@ -1,0 +1,27 @@
+{
+ "ticker": "GDHG",
+ "name": "Golden Heaven Group Holdings Ltd. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "China",
+ "mcap": 103475622.0,
+ "price": "$1.58",
+ "cik": 1928340,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GDHG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gdhg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:45+00:00"
+}

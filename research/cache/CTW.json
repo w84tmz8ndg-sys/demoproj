@@ -1,0 +1,27 @@
+{
+ "ticker": "CTW",
+ "name": "CTW Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Japan",
+ "mcap": 93168282.0,
+ "price": "$1.49",
+ "cik": 2047148,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CTW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ctw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:15+00:00"
+}

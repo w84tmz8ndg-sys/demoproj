@@ -1,0 +1,27 @@
+{
+ "ticker": "DRK",
+ "name": "DarkHorse Technologies Inc. Common Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Canada",
+ "mcap": 15141352.0,
+ "price": "$1.43",
+ "cik": 1591956,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DRK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/drk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:12+00:00"
+}

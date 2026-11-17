@@ -1,0 +1,27 @@
+{
+ "ticker": "KBSX",
+ "name": "FST Corp. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Recreational Games/Products/Toys",
+ "country": "Taiwan",
+ "mcap": 58195804.0,
+ "price": "$1.30",
+ "cik": 2014254,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KBSX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kbsx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:35+00:00"
+}

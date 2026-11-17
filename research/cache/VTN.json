@@ -1,0 +1,27 @@
+{
+ "ticker": "VTN",
+ "name": "Invesco Trust for Investment Grade New York Municipals Common Stock",
+ "sector": "Finance",
+ "industry": "Finance Companies",
+ "country": "United States",
+ "mcap": 195054650.0,
+ "price": "$10.01",
+ "cik": 883265,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VTN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vtn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:10+00:00"
+}

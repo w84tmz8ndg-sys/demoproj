@@ -1,0 +1,27 @@
+{
+ "ticker": "PBHC",
+ "name": "Pathfinder Bancorp Inc. Common Stock (MD)",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 84349759.0,
+ "price": "$17.22",
+ "cik": 1609065,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PBHC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Pathfinder Bancorp, Inc. (PBHC) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pbhc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:47+00:00"
+}

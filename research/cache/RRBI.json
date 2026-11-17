@@ -1,0 +1,27 @@
+{
+ "ticker": "RRBI",
+ "name": "Red River Bancshares Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 689290057.0,
+ "price": "$104.69",
+ "cik": 1071236,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RRBI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Red River Bancshares (RRBI) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/rrbi",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:59+00:00"
+}

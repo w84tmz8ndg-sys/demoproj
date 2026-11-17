@@ -1,0 +1,27 @@
+{
+ "ticker": "IDXG",
+ "name": "Interpace Biosciences Inc.",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "United States",
+ "mcap": 23197992.0,
+ "price": "$5.72",
+ "cik": 1054102,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IDXG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/idxg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:41+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "INVZ",
+ "name": "Innoviz Technologies Ltd. Ordinary shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Auto Parts:O.E.M.",
+ "country": "Israel",
+ "mcap": 44472578.0,
+ "price": "$0.1489",
+ "cik": 1835654,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INVZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/invz",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:53+00:00"
+}

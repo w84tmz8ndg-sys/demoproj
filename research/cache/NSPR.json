@@ -1,0 +1,27 @@
+{
+ "ticker": "NSPR",
+ "name": "InspireMD Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "Israel",
+ "mcap": 28071079.0,
+ "price": "$0.60",
+ "cik": 1433607,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NSPR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nspr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:15+00:00"
+}

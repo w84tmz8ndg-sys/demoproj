@@ -1,0 +1,27 @@
+{
+ "ticker": "INFU",
+ "name": "InfuSystems Holdings Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 296695957.0,
+ "price": "$14.81",
+ "cik": 1337013,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INFU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, InfuSystem Holdings (INFU) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/infu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:20+00:00"
+}

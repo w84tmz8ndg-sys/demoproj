@@ -1,0 +1,27 @@
+{
+ "ticker": "HSLV",
+ "name": "Highlander Silver Corp. Common Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "",
+ "mcap": 741370273.0,
+ "price": "$3.62",
+ "cik": 2013223,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HSLV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hslv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:29+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CCM",
+ "name": "Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares)",
+ "sector": "Health Care",
+ "industry": "Medical/Nursing Services",
+ "country": "China",
+ "mcap": 15760454.0,
+ "price": "$3.63",
+ "cik": 1472072,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CCM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ccm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:00+00:00"
+}

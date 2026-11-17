@@ -1,0 +1,27 @@
+{
+ "ticker": "MLCI",
+ "name": "Mount Logan Capital Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "United States",
+ "mcap": 36541008.0,
+ "price": "$3.18",
+ "cik": 2051820,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MLCI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mlci",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:51+00:00"
+}

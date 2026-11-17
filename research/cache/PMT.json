@@ -1,0 +1,27 @@
+{
+ "ticker": "PMT",
+ "name": "PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 656197774.0,
+ "price": "$7.525",
+ "cik": 1464423,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PMT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, PennyMac Mortgage Investment Trust (PMT) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pmt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:28+00:00"
+}

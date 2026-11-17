@@ -1,0 +1,27 @@
+{
+ "ticker": "AMSF",
+ "name": "AMERISAFE Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "United States",
+ "mcap": 365100474.0,
+ "price": "$19.70",
+ "cik": 1018979,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AMSF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, AMERISAFE (AMSF) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/amsf",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:58+00:00"
+}

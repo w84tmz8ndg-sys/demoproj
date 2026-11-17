@@ -1,0 +1,27 @@
+{
+ "ticker": "BYRN",
+ "name": "Byrna Technologies Inc. Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 82618782.0,
+ "price": "$3.53",
+ "cik": 1354866,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BYRN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Byrna Technologies Inc. (BYRN) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/byrn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:54+00:00"
+}

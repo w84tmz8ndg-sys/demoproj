@@ -1,0 +1,27 @@
+{
+ "ticker": "MKZR",
+ "name": "MacKenzie Realty Capital Inc. Common Stock",
+ "sector": "Real Estate",
+ "industry": "Real Estate Investment Trusts",
+ "country": "United States",
+ "mcap": 3274132.0,
+ "price": "$1.18",
+ "cik": 1550913,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MKZR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mkzr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:51+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "DCBO",
+ "name": "Docebo Inc. Common Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Canada",
+ "mcap": 746253887.0,
+ "price": "$30.05",
+ "cik": 1829959,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DCBO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dcbo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:28+00:00"
+}

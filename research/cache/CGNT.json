@@ -1,0 +1,27 @@
+{
+ "ticker": "CGNT",
+ "name": "Cognyte Software Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Israel",
+ "mcap": 594159063.0,
+ "price": "$8.04",
+ "cik": 1824814,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CGNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cgnt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:15+00:00"
+}

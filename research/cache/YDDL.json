@@ -1,0 +1,27 @@
+{
+ "ticker": "YDDL",
+ "name": "One and One Green Technologies. Inc Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Industrial Specialties",
+ "country": "Philippines",
+ "mcap": 56033333.0,
+ "price": "$1.00",
+ "cik": 2034723,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YDDL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yddl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:47+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "MBIO",
+ "name": "Mustang Bio Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 2941864.0,
+ "price": "$0.3879",
+ "cik": 1680048,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MBIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mbio",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:56+00:00"
+}

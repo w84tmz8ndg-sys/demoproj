@@ -1,0 +1,27 @@
+{
+ "ticker": "REAX",
+ "name": "Real REMAX Group Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "Canada",
+ "mcap": 399463911.0,
+ "price": "$10.53",
+ "cik": 2136387,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/REAX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/reax",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:15+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PROP",
+ "name": "Prairie Operating Co. Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 42798642.0,
+ "price": "$0.36",
+ "cik": 1162896,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PROP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Prairie Operating Co (PROP) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/prop",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:10+00:00"
+}

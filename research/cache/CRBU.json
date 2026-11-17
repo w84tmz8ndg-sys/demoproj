@@ -1,0 +1,27 @@
+{
+ "ticker": "CRBU",
+ "name": "Caribou Biosciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 38115358.0,
+ "price": "$0.3528",
+ "cik": 1619856,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRBU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Caribou Biosciences (CRBU) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/crbu",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:38+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PKE",
+ "name": "Park Aerospace Corp. Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 523351987.0,
+ "price": "$23.755",
+ "cik": 76267,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PKE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Park Aerospace Corp. (PKE) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pke",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:16+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SORA",
+ "name": "AsiaStrategy Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Other Specialty Stores",
+ "country": "Hong Kong",
+ "mcap": 56441280.0,
+ "price": "$2.27",
+ "cik": 2033515,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SORA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sora",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:44+00:00"
+}

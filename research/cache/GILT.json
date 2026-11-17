@@ -1,0 +1,27 @@
+{
+ "ticker": "GILT",
+ "name": "Gilat Satellite Networks Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Radio And Television Broadcasting And Communications Equipment",
+ "country": "Israel",
+ "mcap": 395467768.0,
+ "price": "$5.24",
+ "cik": 897322,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GILT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gilt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:16+00:00"
+}

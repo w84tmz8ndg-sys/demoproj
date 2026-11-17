@@ -1,0 +1,27 @@
+{
+ "ticker": "CAST",
+ "name": "FreeCast Inc. Class A Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 52818911.0,
+ "price": "$1.04",
+ "cik": 1633369,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CAST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cast",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:07+00:00"
+}

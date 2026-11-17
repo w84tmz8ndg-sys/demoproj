@@ -1,0 +1,27 @@
+{
+ "ticker": "BSIN",
+ "name": "Big Sky Industrial Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 58958304.0,
+ "price": "$1.12",
+ "cik": 101594,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BSIN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bsin",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:33+00:00"
+}

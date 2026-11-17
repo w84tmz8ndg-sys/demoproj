@@ -1,0 +1,27 @@
+{
+ "ticker": "CHWM",
+ "name": "Chilwa Minerals Limited American Depository Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "Australia",
+ "mcap": 33073900.0,
+ "price": "$3.12",
+ "cik": 2113605,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/CHWM/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/chwm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:27+00:00"
+}

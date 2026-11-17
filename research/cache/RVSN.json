@@ -1,0 +1,27 @@
+{
+ "ticker": "RVSN",
+ "name": "Rail Vision Ltd. Ordinary Share",
+ "sector": "Industrials",
+ "industry": "Railroads",
+ "country": "Israel",
+ "mcap": 4450138.0,
+ "price": "$2.03",
+ "cik": 1743905,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RVSN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rvsn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:30+00:00"
+}

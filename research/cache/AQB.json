@@ -1,0 +1,27 @@
+{
+ "ticker": "AQB",
+ "name": "AquaBounty Technologies Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Meat/Poultry/Fish",
+ "country": "United States",
+ "mcap": 10648184.0,
+ "price": "$0.8011",
+ "cik": 1603978,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AQB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aqb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:33+00:00"
+}

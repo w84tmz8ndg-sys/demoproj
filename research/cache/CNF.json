@@ -1,0 +1,27 @@
+{
+ "ticker": "CNF",
+ "name": "CNFinance Holdings Limited American Depositary Shares each representing two hundred (200) Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "",
+ "mcap": 33104066.0,
+ "price": "$1.86",
+ "cik": 1733868,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cnf",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:27+00:00"
+}

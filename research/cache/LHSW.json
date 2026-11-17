@@ -1,0 +1,27 @@
+{
+ "ticker": "LHSW",
+ "name": "Lianhe Sowell International Group Ltd Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 6684789.0,
+ "price": "$2.10",
+ "cik": 2004024,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LHSW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lhsw",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:13+00:00"
+}

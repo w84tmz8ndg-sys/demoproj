@@ -1,0 +1,27 @@
+{
+ "ticker": "IRLA",
+ "name": "IRulya Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 405037319.0,
+ "price": "$37.36",
+ "cik": 1662774,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IRLA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/irla",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:10+00:00"
+}

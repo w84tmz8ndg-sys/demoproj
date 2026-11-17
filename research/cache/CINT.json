@@ -1,0 +1,27 @@
+{
+ "ticker": "CINT",
+ "name": "CI&T Inc Class A Common Shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "",
+ "mcap": 385380361.0,
+ "price": "$2.99",
+ "cik": 1868995,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CINT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cint",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:31+00:00"
+}

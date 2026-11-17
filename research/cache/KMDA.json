@@ -1,0 +1,27 @@
+{
+ "ticker": "KMDA",
+ "name": "Kamada Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Israel",
+ "mcap": 468030574.0,
+ "price": "$8.11",
+ "cik": 1567529,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KMDA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kmda",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:03+00:00"
+}

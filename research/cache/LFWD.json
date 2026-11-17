@@ -1,0 +1,27 @@
+{
+ "ticker": "LFWD",
+ "name": "Lifeward Ltd. Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "Israel",
+ "mcap": 10276148.0,
+ "price": "$3.62",
+ "cik": 1607962,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LFWD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lfwd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:42+00:00"
+}

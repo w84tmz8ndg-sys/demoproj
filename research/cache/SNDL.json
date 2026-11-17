@@ -1,0 +1,27 @@
+{
+ "ticker": "SNDL",
+ "name": "SNDL Inc. Common Shares",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "Canada",
+ "mcap": 326022000.0,
+ "price": "$1.34",
+ "cik": 1766600,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SNDL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sndl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:44+00:00"
+}

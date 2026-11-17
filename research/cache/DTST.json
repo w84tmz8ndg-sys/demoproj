@@ -1,0 +1,27 @@
+{
+ "ticker": "DTST",
+ "name": "Data Storage Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 6215009.0,
+ "price": "$2.56",
+ "cik": 1419951,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DTST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Data Storage (DTST) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/dtst",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:28+00:00"
+}

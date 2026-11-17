@@ -1,0 +1,27 @@
+{
+ "ticker": "YCBD",
+ "name": "cbdMD Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Package Goods/Cosmetics",
+ "country": "United States",
+ "mcap": 4809676.0,
+ "price": "$0.358",
+ "cik": 1644903,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YCBD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ycbd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:16+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "AIRI",
+ "name": "Air Industries Group Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 12019048.0,
+ "price": "$2.475",
+ "cik": 1009891,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIRI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/airi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:11+00:00"
+}

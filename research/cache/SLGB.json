@@ -1,0 +1,27 @@
+{
+ "ticker": "SLGB",
+ "name": "Smart Logistics Global Limited Class A Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Integrated Freight & Logistics",
+ "country": "Hong Kong",
+ "mcap": 8100000.0,
+ "price": "$0.18",
+ "cik": 1987189,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SLGB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/slgb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:36+00:00"
+}

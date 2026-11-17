@@ -1,0 +1,27 @@
+{
+ "ticker": "SANA",
+ "name": "Sana Biotechnology Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 563313708.0,
+ "price": "$1.88",
+ "cik": 1770121,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SANA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Sana Biotechnology (SANA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sana",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:37+00:00"
+}

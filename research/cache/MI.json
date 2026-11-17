@@ -1,0 +1,27 @@
+{
+ "ticker": "MI",
+ "name": "NFT Limited Class A Ordinary Share",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "",
+ "mcap": 28692575.0,
+ "price": "$0.3456",
+ "cik": 1958713,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/mi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:11+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "TC",
+ "name": "Token Cat Limited American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "China",
+ "mcap": 20829151.0,
+ "price": "$0.7886",
+ "cik": 1743340,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:59+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "HTOO",
+ "name": "Fusion Fuel Green PLC Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "Ireland",
+ "mcap": 7441096.0,
+ "price": "$0.99",
+ "cik": 1819794,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HTOO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/htoo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:55+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "TLRY",
+ "name": "Tilray Brands Inc. Common Stock ",
+ "sector": "Health Care",
+ "industry": " Medicinal Chemicals and Botanical Products ",
+ "country": "United States",
+ "mcap": 345822804.0,
+ "price": "$2.34",
+ "cik": 1731348,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TLRY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tlry",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:25+00:00"
+}

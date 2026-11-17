@@ -1,0 +1,27 @@
+{
+ "ticker": "PROF",
+ "name": "Profound Medical Corp. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "Canada",
+ "mcap": 268841035.0,
+ "price": "$7.34",
+ "cik": 1628808,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PROF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/prof",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:11+00:00"
+}

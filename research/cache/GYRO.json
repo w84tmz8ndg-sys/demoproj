@@ -1,0 +1,27 @@
+{
+ "ticker": "GYRO",
+ "name": "Gyrodyne LLC Common Stock",
+ "sector": "Real Estate",
+ "industry": "Building operators",
+ "country": "United States",
+ "mcap": 11216471.0,
+ "price": "$5.10",
+ "cik": 1589061,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GYRO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gyro",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:25+00:00"
+}

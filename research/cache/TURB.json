@@ -1,0 +1,27 @@
+{
+ "ticker": "TURB",
+ "name": "Turbo Energy S.A. American Depositary Shares",
+ "sector": "Miscellaneous",
+ "industry": "Industrial Machinery/Components",
+ "country": "Spain",
+ "mcap": 9611309.0,
+ "price": "$0.7998",
+ "cik": 1963439,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TURB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/turb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:56+00:00"
+}

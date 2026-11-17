@@ -1,0 +1,27 @@
+{
+ "ticker": "CANF",
+ "name": "Can-Fite Biopharma Ltd American Depositary Shares each representing two (2) Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Israel",
+ "mcap": 4729213.0,
+ "price": "$1.56",
+ "cik": 1536196,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CANF/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/canf",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:19+00:00"
+}

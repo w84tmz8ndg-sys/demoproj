@@ -1,0 +1,27 @@
+{
+ "ticker": "BMHL",
+ "name": "Bluemount Holdings Limited Class B Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "Hong Kong",
+ "mcap": 77326045.0,
+ "price": "$3.03",
+ "cik": 2027815,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BMHL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bmhl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:14+00:00"
+}

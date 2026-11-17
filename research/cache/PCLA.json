@@ -1,0 +1,27 @@
+{
+ "ticker": "PCLA",
+ "name": "PicoCELA Inc. American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Building Products",
+ "country": "Japan",
+ "mcap": 58644211.0,
+ "price": "$6.10",
+ "cik": 2018462,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PCLA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pcla",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:33+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SDHC",
+ "name": "Smith Douglas Homes Corp. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Homebuilding",
+ "country": "United States",
+ "mcap": 456765340.0,
+ "price": "$8.99",
+ "cik": 1982518,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SDHC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Smith Douglas Homes Corp. (SDHC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sdhc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:18+00:00"
+}

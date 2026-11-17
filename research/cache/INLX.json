@@ -1,0 +1,27 @@
+{
+ "ticker": "INLX",
+ "name": "Intellinetics Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "",
+ "mcap": 16647972.0,
+ "price": "$3.71",
+ "cik": 1081745,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INLX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Intellinetics Inc (INLX) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/inlx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:46+00:00"
+}

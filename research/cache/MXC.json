@@ -1,0 +1,27 @@
+{
+ "ticker": "MXC",
+ "name": "Mexco Energy Corporation Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "United States",
+ "mcap": 19375620.0,
+ "price": "$9.47",
+ "cik": 66418,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MXC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Mexco Energy (MXC) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mxc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:21:14+00:00"
+}

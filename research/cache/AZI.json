@@ -1,0 +1,27 @@
+{
+ "ticker": "AZI",
+ "name": "Autozi Internet Technology (Global) Ltd. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Automotive Aftermarket",
+ "country": "China",
+ "mcap": 34667908.0,
+ "price": "$0.5225",
+ "cik": 1959726,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AZI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/azi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:08+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "IMRN",
+ "name": "Immuron Limited American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Australia",
+ "mcap": 7260853.0,
+ "price": "$0.8996",
+ "cik": 1660046,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IMRN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/imrn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:01+00:00"
+}

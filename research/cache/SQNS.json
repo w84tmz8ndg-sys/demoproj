@@ -1,0 +1,27 @@
+{
+ "ticker": "SQNS",
+ "name": "Sequans Communications S.A. American Depositary Shares (each representing one hundred (100) Ordinary Shares)",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "France",
+ "mcap": 34448630.0,
+ "price": "$2.30",
+ "cik": 1383395,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SQNS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sqns",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:19+00:00"
+}

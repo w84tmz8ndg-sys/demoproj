@@ -1,0 +1,27 @@
+{
+ "ticker": "NOAH",
+ "name": "Noah Holdings Limited American Depositary Shares",
+ "sector": "Finance",
+ "industry": "Investment Managers",
+ "country": "China",
+ "mcap": 427789572.0,
+ "price": "$6.38",
+ "cik": 1499543,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NOAH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/noah",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:49+00:00"
+}

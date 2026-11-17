@@ -1,0 +1,27 @@
+{
+ "ticker": "WYHG",
+ "name": "Wing Yip Food Holdings Group Limited American Depositary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Specialty Foods",
+ "country": "China",
+ "mcap": 110662297.0,
+ "price": "$3.11",
+ "cik": 1999860,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/WYHG/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/wyhg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:24+00:00"
+}

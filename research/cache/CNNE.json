@@ -1,0 +1,27 @@
+{
+ "ticker": "CNNE",
+ "name": "Cannae Holdings Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "United States",
+ "mcap": 684911766.0,
+ "price": "$17.46",
+ "cik": 1704720,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNNE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Cannae Holdings (CNNE) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/cnne",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:07+00:00"
+}

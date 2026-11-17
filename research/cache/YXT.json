@@ -1,0 +1,27 @@
+{
+ "ticker": "YXT",
+ "name": "YXT.COM GROUP HOLDING LIMITED American Depository Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 6610266.0,
+ "price": "$1.00",
+ "cik": 1872090,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YXT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yxt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:16+00:00"
+}

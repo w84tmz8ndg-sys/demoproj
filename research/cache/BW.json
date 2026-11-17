@@ -1,0 +1,27 @@
+{
+ "ticker": "BW",
+ "name": "Babcock & Wilcox Enterprises Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Building Products",
+ "country": "United States",
+ "mcap": 630508419.0,
+ "price": "$4.335",
+ "cik": 1630805,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BW/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Babcock & Wilcox Enterprises (BW) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bw",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:53+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "DAIC",
+ "name": "CID HoldCo Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 2689116.0,
+ "price": "$0.8547",
+ "cik": 2033770,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DAIC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/daic",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:12+00:00"
+}

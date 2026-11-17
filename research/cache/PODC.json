@@ -1,0 +1,27 @@
+{
+ "ticker": "PODC",
+ "name": "PodcastOne Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 58992757.0,
+ "price": "$1.95",
+ "cik": 1940177,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PODC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, PodcastOne Inc (PODC) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/podc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:30+00:00"
+}

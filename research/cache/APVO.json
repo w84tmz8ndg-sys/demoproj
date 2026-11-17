@@ -1,0 +1,27 @@
+{
+ "ticker": "APVO",
+ "name": "Aptevo Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 1900857.0,
+ "price": "$0.5486",
+ "cik": 1671584,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/APVO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/apvo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:02+00:00"
+}

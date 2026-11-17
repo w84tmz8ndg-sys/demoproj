@@ -1,0 +1,27 @@
+{
+ "ticker": "GLDG",
+ "name": "GoldMining Inc. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "",
+ "mcap": 150860411.0,
+ "price": "$0.7001",
+ "cik": 1538847,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GLDG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gldg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:43+00:00"
+}

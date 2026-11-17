@@ -1,0 +1,27 @@
+{
+ "ticker": "JBSS",
+ "name": "John B. Sanfilippo & Son Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Specialty Foods",
+ "country": "United States",
+ "mcap": 708975753.0,
+ "price": "$60.63",
+ "cik": 880117,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JBSS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, John B. Sanfilippo & Son (JBSS) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jbss",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:44+00:00"
+}

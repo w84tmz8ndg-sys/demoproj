@@ -1,0 +1,27 @@
+{
+ "ticker": "BUDA",
+ "name": "Buda Juice Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Beverages (Production/Distribution)",
+ "country": "",
+ "mcap": 76041196.0,
+ "price": "$6.04",
+ "cik": 2079720,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BUDA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Buda Juice, Inc. (BUDA) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/buda",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:20+00:00"
+}

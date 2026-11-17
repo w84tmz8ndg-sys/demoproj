@@ -1,0 +1,27 @@
+{
+ "ticker": "ZEPP",
+ "name": "Zepp Health Corporation American depositary shares each representing sixteen Class A ordinary shares",
+ "sector": "Technology",
+ "industry": "Computer Manufacturing",
+ "country": "China",
+ "mcap": 36955752.0,
+ "price": "$2.52",
+ "cik": 1720446,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZEPP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zepp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:46+00:00"
+}

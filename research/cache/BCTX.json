@@ -1,0 +1,27 @@
+{
+ "ticker": "BCTX",
+ "name": "BriaCell Therapeutics Corp. Common Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "Canada",
+ "mcap": 28816857.0,
+ "price": "$3.30",
+ "cik": 1610820,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BCTX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bctx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:07+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "WHK",
+ "name": "WhiteHawk Minerals Corp Class A Common Stock",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "",
+ "mcap": 785723106.0,
+ "price": "$25.83",
+ "cik": 1921603,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/WHK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/whk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:04+00:00"
+}

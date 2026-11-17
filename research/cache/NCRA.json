@@ -1,0 +1,27 @@
+{
+ "ticker": "NCRA",
+ "name": "Nocera Inc. Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "Taiwan",
+ "mcap": 3313844.0,
+ "price": "$1.33",
+ "cik": 1756180,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NCRA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ncra",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:18+00:00"
+}

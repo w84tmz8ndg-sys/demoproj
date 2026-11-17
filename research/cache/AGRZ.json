@@ -1,0 +1,27 @@
+{
+ "ticker": "AGRZ",
+ "name": "Agroz Inc. Class A Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "Malaysia",
+ "mcap": 3217546.0,
+ "price": "$1.70",
+ "cik": 2009233,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AGRZ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/agrz",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:28+00:00"
+}

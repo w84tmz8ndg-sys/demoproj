@@ -1,0 +1,27 @@
+{
+ "ticker": "NNNN",
+ "name": "Anbio Biotechnology Class A Ordinary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+ "country": "Germany",
+ "mcap": 558297856.0,
+ "price": "$3.88",
+ "cik": 1982708,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NNNN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nnnn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:44+00:00"
+}

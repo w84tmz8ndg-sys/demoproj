@@ -1,0 +1,27 @@
+{
+ "ticker": "VS",
+ "name": "Versus Systems Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "Canada",
+ "mcap": 4455088.0,
+ "price": "$0.7171",
+ "cik": 1701963,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:30+00:00"
+}

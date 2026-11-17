@@ -1,0 +1,27 @@
+{
+ "ticker": "SWVL",
+ "name": "Swvl Holdings Corp Class A Common Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "United Arab Emirates",
+ "mcap": 150898853.0,
+ "price": "$5.03",
+ "cik": 1875609,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SWVL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/swvl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:43+00:00"
+}

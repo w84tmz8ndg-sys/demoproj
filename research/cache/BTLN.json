@@ -1,0 +1,27 @@
+{
+ "ticker": "BTLN",
+ "name": "Brightline Interactive Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 9863757.0,
+ "price": "$3.36",
+ "cik": 1854445,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BTLN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/btln",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:51+00:00"
+}

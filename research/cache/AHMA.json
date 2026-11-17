@@ -1,0 +1,27 @@
+{
+ "ticker": "AHMA",
+ "name": "Ambitions Enterprise Management Co. L.L.C Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "United Arab Emirates",
+ "mcap": 33292000.0,
+ "price": "$1.12",
+ "cik": 2010959,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AHMA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ahma",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:25+00:00"
+}

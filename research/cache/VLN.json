@@ -1,0 +1,27 @@
+{
+ "ticker": "VLN",
+ "name": "Valens Semiconductor Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "",
+ "mcap": 152674415.0,
+ "price": "$1.45",
+ "cik": 1863006,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/VLN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/vln",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:34+00:00"
+}

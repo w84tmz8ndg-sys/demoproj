@@ -1,0 +1,27 @@
+{
+ "ticker": "BIVI",
+ "name": "BioVie Inc. Class A Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 11582702.0,
+ "price": "$1.08",
+ "cik": 1580149,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BIVI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bivi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:18+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ADUR",
+ "name": "Aduro Clean Technologies Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Major Chemicals",
+ "country": "Canada",
+ "mcap": 339169050.0,
+ "price": "$9.48",
+ "cik": 1863934,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADUR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/adur",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:32+00:00"
+}

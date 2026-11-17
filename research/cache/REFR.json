@@ -1,0 +1,27 @@
+{
+ "ticker": "REFR",
+ "name": "Research Frontiers Incorporated Common Stock",
+ "sector": "Miscellaneous",
+ "industry": "Multi-Sector Companies",
+ "country": "United States",
+ "mcap": 11750444.0,
+ "price": "$0.337",
+ "cik": 793524,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/REFR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Research Frontiers Inc. (REFR) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/refr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:17+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "OSUR",
+ "name": "OraSure Technologies Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical/Dental Instruments",
+ "country": "United States",
+ "mcap": 248570158.0,
+ "price": "$3.60",
+ "cik": 1116463,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OSUR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, OraSure Technologies (OSUR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/osur",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:39+00:00"
+}

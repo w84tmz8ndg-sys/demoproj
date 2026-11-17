@@ -1,0 +1,27 @@
+{
+ "ticker": "EBON",
+ "name": "Ebang International Holdings Inc. Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "China",
+ "mcap": 10404861.0,
+ "price": "$1.59",
+ "cik": 1799290,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EBON/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ebon",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:38+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "YRD",
+ "name": "Yiren Digital Ltd. American Depositary Shares each representing two ordinary shares",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "China",
+ "mcap": 26666483.0,
+ "price": "$0.3048",
+ "cik": 1631761,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YRD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yrd",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:26+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "PASG",
+ "name": "Passage Bio Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 13289555.0,
+ "price": "$4.13",
+ "cik": 1787297,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PASG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Passage Bio (PASG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/pasg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:45+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "IMTE",
+ "name": "Integrated Media Technology Limited Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Consumer Electronics/Appliances",
+ "country": "Australia",
+ "mcap": 1296893.0,
+ "price": "$0.3763",
+ "cik": 1668438,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IMTE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/imte",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:26+00:00"
+}

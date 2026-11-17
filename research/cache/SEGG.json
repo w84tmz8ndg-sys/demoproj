@@ -1,0 +1,27 @@
+{
+ "ticker": "SEGG",
+ "name": "Sports Entertainment Gaming Global Corporation Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 3827212.0,
+ "price": "$0.91",
+ "cik": 1673481,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SEGG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/segg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:01+00:00"
+}

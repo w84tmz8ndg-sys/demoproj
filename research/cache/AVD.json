@@ -1,0 +1,27 @@
+{
+ "ticker": "AVD",
+ "name": "American Vanguard Corporation Common Stock ($0.10 Par Value)",
+ "sector": "Industrials",
+ "industry": "Agricultural Chemicals",
+ "country": "United States",
+ "mcap": 22504670.0,
+ "price": "$0.7615",
+ "cik": 5981,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AVD/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, American Vanguard Corporation (AVD) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/avd",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:44+00:00"
+}

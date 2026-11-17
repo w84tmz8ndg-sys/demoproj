@@ -1,0 +1,27 @@
+{
+ "ticker": "BXBL",
+ "name": "BOXABL Inc. Common stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Homebuilding",
+ "country": "United States",
+ "mcap": 52587671.0,
+ "price": "$1.52",
+ "cik": 1906364,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BXBL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bxbl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:09+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "OPAL",
+ "name": "OPAL Fuels Inc. Class A Common Stock",
+ "sector": "Utilities",
+ "industry": "Natural Gas Distribution",
+ "country": "United States",
+ "mcap": 211489561.0,
+ "price": "$1.21",
+ "cik": 1842279,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OPAL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, OPAL Fuels (OPAL) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/opal",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:40+00:00"
+}

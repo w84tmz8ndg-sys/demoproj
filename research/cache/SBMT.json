@@ -1,0 +1,27 @@
+{
+ "ticker": "SBMT",
+ "name": "Silver Bow Mining Corp. Common Shares",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "",
+ "mcap": 175529370.0,
+ "price": "$5.94",
+ "cik": 2067674,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SBMT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sbmt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:45+00:00"
+}

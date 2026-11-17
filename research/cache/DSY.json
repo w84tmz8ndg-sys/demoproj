@@ -1,0 +1,27 @@
+{
+ "ticker": "DSY",
+ "name": "Big Tree Cloud Holdings Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Containers/Packaging",
+ "country": "China",
+ "mcap": 13447801.0,
+ "price": "$2.83",
+ "cik": 1999297,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DSY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dsy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:41+00:00"
+}

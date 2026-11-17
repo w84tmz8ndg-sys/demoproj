@@ -1,0 +1,27 @@
+{
+ "ticker": "ETRA",
+ "name": "Electra Therapeutics Inc. Common stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 522423042.0,
+ "price": "$8.31",
+ "cik": 2088082,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ETRA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/etra",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:16+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "AVR",
+ "name": "Anteris Technologies Global Corp. Common Stock",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 555712545.0,
+ "price": "$5.70",
+ "cik": 2011514,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AVR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/avr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:47+00:00"
+}

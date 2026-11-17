@@ -1,0 +1,27 @@
+{
+ "ticker": "LGVN",
+ "name": "Longeveron Inc. Class A Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 7218948.0,
+ "price": "$2.14",
+ "cik": 1721484,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LGVN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lgvn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:02+00:00"
+}

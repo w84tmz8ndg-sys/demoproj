@@ -1,0 +1,27 @@
+{
+ "ticker": "BOC",
+ "name": "Boston Omaha Corporation Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 412342733.0,
+ "price": "$13.94",
+ "cik": 1494582,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BOC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Boston Omaha Corp - Ordinary Shares - Class A (BOC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/boc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:04:00+00:00"
+}

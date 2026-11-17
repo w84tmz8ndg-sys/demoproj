@@ -1,0 +1,27 @@
+{
+ "ticker": "SGLY",
+ "name": "Singularity Future Technology Ltd. Common Stock",
+ "sector": "Industrials",
+ "industry": "Integrated Freight & Logistics",
+ "country": "United States",
+ "mcap": 3074327.0,
+ "price": "$0.549",
+ "cik": 1422892,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SGLY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sgly",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:41+00:00"
+}

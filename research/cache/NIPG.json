@@ -1,0 +1,27 @@
+{
+ "ticker": "NIPG",
+ "name": "NIP Group Inc. American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Services-Misc. Amusement & Recreation",
+ "country": "Sweden",
+ "mcap": 29246523.0,
+ "price": "$3.41",
+ "cik": 1966233,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NIPG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nipg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:19:04+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "EDHL",
+ "name": "Everbright Digital Holding Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Advertising",
+ "country": "Hong Kong",
+ "mcap": 40999812.0,
+ "price": "$6.88",
+ "cik": 2024876,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EDHL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/edhl",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:21+00:00"
+}

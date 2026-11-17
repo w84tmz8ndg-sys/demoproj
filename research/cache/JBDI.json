@@ -1,0 +1,27 @@
+{
+ "ticker": "JBDI",
+ "name": "JBDI Holdings Limited Class A Ordinary Shares",
+ "sector": "n/a",
+ "industry": "n/a",
+ "country": "Singapore",
+ "mcap": 22168860.0,
+ "price": "$2.33",
+ "cik": 1964314,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JBDI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jbdi",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:46+00:00"
+}

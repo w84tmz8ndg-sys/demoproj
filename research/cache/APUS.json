@@ -1,0 +1,27 @@
+{
+ "ticker": "APUS",
+ "name": "Apimeds Pharmaceuticals US Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "",
+ "mcap": 3239510.0,
+ "price": "$2.10",
+ "cik": 1894525,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/APUS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/apus",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:27:23+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "GTIM",
+ "name": "Good Times Restaurants Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "United States",
+ "mcap": 13091791.0,
+ "price": "$1.24",
+ "cik": 825324,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GTIM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Good Times Restaurants (GTIM) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gtim",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:52+00:00"
+}

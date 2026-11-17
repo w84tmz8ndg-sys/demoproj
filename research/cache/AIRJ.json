@@ -1,0 +1,27 @@
+{
+ "ticker": "AIRJ",
+ "name": "AirJoule Technologies Corporation Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Industrial Machinery/Components",
+ "country": "United States",
+ "mcap": 153422072.0,
+ "price": "$2.04",
+ "cik": 1855474,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIRJ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Montana Technologies Corp. - Ordinary Shares - Class A (AIRJ) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/airj",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:30+00:00"
+}

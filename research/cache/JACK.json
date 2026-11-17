@@ -1,0 +1,27 @@
+{
+ "ticker": "JACK",
+ "name": "Jack In The Box Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Restaurants",
+ "country": "United States",
+ "mcap": 272538279.0,
+ "price": "$14.21",
+ "cik": 807882,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JACK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Jack in the Box (JACK) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/jack",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:04+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CNXU",
+ "name": "Conexeu Sciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 67033053.0,
+ "price": "$2.21",
+ "cik": 2066836,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CNXU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cnxu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:55+00:00"
+}

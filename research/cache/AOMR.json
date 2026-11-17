@@ -1,0 +1,27 @@
+{
+ "ticker": "AOMR",
+ "name": "Angel Oak Mortgage REIT Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Real Estate",
+ "country": "United States",
+ "mcap": 130782936.0,
+ "price": "$5.59",
+ "cik": 1766478,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AOMR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Angel Oak Mortgage (AOMR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aomr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:23+00:00"
+}

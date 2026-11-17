@@ -1,0 +1,27 @@
+{
+ "ticker": "ILLU",
+ "name": "Illumination Acquisition Corp I Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Blank Checks",
+ "country": "United States",
+ "mcap": 102647440.0,
+ "price": "$10.00",
+ "cik": 2101135,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/ILLU/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/illu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:49+00:00"
+}

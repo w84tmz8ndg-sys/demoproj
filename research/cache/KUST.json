@@ -1,0 +1,27 @@
+{
+ "ticker": "KUST",
+ "name": "Kustom Entertainment Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Radio And Television Broadcasting And Communications Equipment",
+ "country": "United States",
+ "mcap": 1881295.0,
+ "price": "$2.89",
+ "cik": 1342958,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KUST/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kust",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:05+00:00"
+}

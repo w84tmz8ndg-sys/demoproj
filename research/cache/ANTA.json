@@ -1,0 +1,27 @@
+{
+ "ticker": "ANTA",
+ "name": "Antalpha Platform Holding Company Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Investment Bankers/Brokers/Service",
+ "country": "Singapore",
+ "mcap": 84976000.0,
+ "price": "$2.26",
+ "cik": 2044255,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ANTA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/anta",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:13:47+00:00"
+}

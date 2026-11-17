@@ -1,0 +1,27 @@
+{
+ "ticker": "TRT",
+ "name": "Trio-Tech International Common Stock",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "Singapore",
+ "mcap": 51092742.0,
+ "price": "$4.95",
+ "cik": 732026,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TRT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, Trio-Tech International (TRT) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/trt",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:22+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "NICM",
+ "name": "Nicola Mining Inc. American Depositary Shares",
+ "sector": "Basic Materials",
+ "industry": "Metal Mining",
+ "country": "Canada",
+ "mcap": 81917668.0,
+ "price": "$4.28",
+ "cik": 1526475,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/NICM/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/nicm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:02+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "CRMN",
+ "name": "Skyline Builders Group Holding Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Engineering & Construction",
+ "country": "Hong Kong",
+ "mcap": 14748401.0,
+ "price": "$0.822",
+ "cik": 2031009,
+ "musaffa": {
+  "status": "NOT LISTED",
+  "raw": null,
+  "asof": null,
+  "url": "https://musaffa.com/stock/CRMN/",
+  "http": 404
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/crmn",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:21+00:00"
+}

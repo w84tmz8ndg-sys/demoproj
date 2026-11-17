@@ -1,0 +1,27 @@
+{
+ "ticker": "GMRS",
+ "name": "GMR Solutions Inc. Class A Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Transportation Services",
+ "country": "",
+ "mcap": 781372553.0,
+ "price": "$11.715",
+ "cik": 1898718,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GMRS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gmrs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:06+00:00"
+}

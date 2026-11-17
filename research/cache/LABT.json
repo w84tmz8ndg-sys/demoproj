@@ -1,0 +1,27 @@
+{
+ "ticker": "LABT",
+ "name": "Lakewood-Amedex Biotherapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 519910.0,
+ "price": "$0.2194",
+ "cik": 2079272,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LABT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/labt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:57+00:00"
+}

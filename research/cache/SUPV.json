@@ -1,0 +1,27 @@
+{
+ "ticker": "SUPV",
+ "name": "Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares",
+ "sector": "Finance",
+ "industry": "Commercial Banks",
+ "country": "",
+ "mcap": 500567663.0,
+ "price": "$5.48",
+ "cik": 1517399,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SUPV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/supv",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:29+00:00"
+}

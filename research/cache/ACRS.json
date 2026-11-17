@@ -1,0 +1,27 @@
+{
+ "ticker": "ACRS",
+ "name": "Aclaris Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 571796797.0,
+ "price": "$3.605",
+ "cik": 1557746,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ACRS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Aclaris Therapeutics (ACRS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/acrs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:34+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SERA",
+ "name": "Sera Prognostics Inc. Class A Common Stock",
+ "sector": "Health Care",
+ "industry": "Medical Specialities",
+ "country": "United States",
+ "mcap": 77153488.0,
+ "price": "$1.94",
+ "cik": 1534969,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SERA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Sera Prognostics (SERA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sera",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:15+00:00"
+}

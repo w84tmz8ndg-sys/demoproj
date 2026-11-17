@@ -1,0 +1,27 @@
+{
+ "ticker": "LAB",
+ "name": "Standard BioTools Inc. Common Stock",
+ "sector": "Industrials",
+ "industry": "Biotechnology: Laboratory Analytical Instruments",
+ "country": "United States",
+ "mcap": 245164864.0,
+ "price": "$0.621",
+ "cik": 1162194,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LAB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Standard BioTools Inc (LAB) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lab",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:46+00:00"
+}

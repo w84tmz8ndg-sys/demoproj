@@ -1,0 +1,27 @@
+{
+ "ticker": "BNC",
+ "name": "BNB Standard Corporation Common Stock",
+ "sector": "Consumer Staples",
+ "industry": "Farming/Seeds/Milling",
+ "country": "United States",
+ "mcap": 172656824.0,
+ "price": "$3.54",
+ "cik": 1482541,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BNC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/bnc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:54+00:00"
+}

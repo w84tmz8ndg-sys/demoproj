@@ -1,0 +1,27 @@
+{
+ "ticker": "CRNT",
+ "name": "Ceragon Networks Ltd. Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Radio And Television Broadcasting And Communications Equipment",
+ "country": "Israel",
+ "mcap": 218160424.0,
+ "price": "$2.39",
+ "cik": 1119769,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CRNT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/crnt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:27+00:00"
+}

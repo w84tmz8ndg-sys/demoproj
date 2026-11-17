@@ -1,0 +1,27 @@
+{
+ "ticker": "OFAL",
+ "name": "OFA Group Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Military/Government/Technical",
+ "country": "Hong Kong",
+ "mcap": 57684257.0,
+ "price": "$2.76",
+ "cik": 2036307,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OFAL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ofal",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:37+00:00"
+}

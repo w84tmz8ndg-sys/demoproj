@@ -1,0 +1,27 @@
+{
+ "ticker": "ERNA",
+ "name": "Ernexa Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 2792708.0,
+ "price": "$1.65",
+ "cik": 748592,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ERNA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/erna",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:06+00:00"
+}

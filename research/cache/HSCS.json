@@ -1,0 +1,27 @@
+{
+ "ticker": "HSCS",
+ "name": "HeartSciences Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Industrial Specialties",
+ "country": "United States",
+ "mcap": 10075333.0,
+ "price": "$2.08",
+ "cik": 1468492,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HSCS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/hscs",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:48+00:00"
+}

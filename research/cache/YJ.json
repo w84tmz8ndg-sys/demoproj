@@ -1,0 +1,27 @@
+{
+ "ticker": "YJ",
+ "name": "Yunji Inc. American Depository Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Specialty Stores",
+ "country": "China",
+ "mcap": 6304691.0,
+ "price": "$1.28",
+ "cik": 1759614,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YJ/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yj",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:26+00:00"
+}

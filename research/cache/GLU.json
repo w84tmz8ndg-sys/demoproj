@@ -1,0 +1,27 @@
+{
+ "ticker": "GLU",
+ "name": "Gabelli Global Utility Common Shares of Beneficial Ownership",
+ "sector": "Finance",
+ "industry": "Finance/Investors Services",
+ "country": "United States",
+ "mcap": 109887652.0,
+ "price": "$18.41",
+ "cik": 1282957,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GLU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/glu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:24+00:00"
+}

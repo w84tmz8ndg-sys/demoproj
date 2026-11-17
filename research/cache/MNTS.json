@@ -1,0 +1,27 @@
+{
+ "ticker": "MNTS",
+ "name": "Momentus Inc. Class A Common Stock",
+ "sector": "Industrials",
+ "industry": "Military/Government/Technical",
+ "country": "United States",
+ "mcap": 42828632.0,
+ "price": "$1.95",
+ "cik": 1781162,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MNTS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Momentus Inc - Ordinary Shares - Class A (MNTS) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mnts",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:10+00:00"
+}

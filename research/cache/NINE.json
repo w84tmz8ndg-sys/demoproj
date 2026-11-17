@@ -1,0 +1,27 @@
+{
+ "ticker": "NINE",
+ "name": "Nine Energy Service Inc. Common Stock",
+ "sector": "Energy",
+ "industry": "Oilfield Services/Equipment",
+ "country": "",
+ "mcap": 99114679.0,
+ "price": "$7.105",
+ "cik": 1532286,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NINE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Nine Energy Service (NINE) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nine",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:58+00:00"
+}

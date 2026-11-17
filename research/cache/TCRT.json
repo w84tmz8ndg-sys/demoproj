@@ -1,0 +1,27 @@
+{
+ "ticker": "TCRT",
+ "name": "Alaunos Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 6733374.0,
+ "price": "$1.60",
+ "cik": 1107421,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TCRT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tcrt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:11+00:00"
+}

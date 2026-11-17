@@ -1,0 +1,27 @@
+{
+ "ticker": "AEYE",
+ "name": "AudioEye Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "United States",
+ "mcap": 161347819.0,
+ "price": "$12.72",
+ "cik": 1362190,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AEYE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "As of November 17, 2026, AudioEye (AEYE) is Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/aeye",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:10:12+00:00"
+}

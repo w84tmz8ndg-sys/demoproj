@@ -1,0 +1,27 @@
+{
+ "ticker": "MOV",
+ "name": "Movado Group Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Consumer Specialties",
+ "country": "United States",
+ "mcap": 698596391.0,
+ "price": "$31.31",
+ "cik": 72573,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/MOV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Movado Group, Inc. (MOV) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/mov",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T20:59:56+00:00"
+}

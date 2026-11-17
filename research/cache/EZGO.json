@@ -1,0 +1,27 @@
+{
+ "ticker": "EZGO",
+ "name": "EZGO Technologies Ltd. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Motor Vehicles",
+ "country": "China",
+ "mcap": 2847499.0,
+ "price": "$1.61",
+ "cik": 1806904,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/EZGO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ezgo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:04+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SOGP",
+ "name": "Sound Group Inc. American Depositary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "China",
+ "mcap": 43118928.0,
+ "price": "$10.33",
+ "cik": 1783407,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SOGP/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sogp",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:08+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "SMTK",
+ "name": "SmartKem Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Semiconductors",
+ "country": "United States",
+ "mcap": 796451.0,
+ "price": "$0.1639",
+ "cik": 1817760,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SMTK/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/smtk",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:51+00:00"
+}

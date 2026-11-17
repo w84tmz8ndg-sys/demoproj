@@ -1,0 +1,27 @@
+{
+ "ticker": "NMFC",
+ "name": "New Mountain Finance Corporation Common Stock",
+ "sector": "Finance",
+ "industry": "Finance/Investors Services",
+ "country": "United States",
+ "mcap": 627163870.0,
+ "price": "$6.64",
+ "cik": 1496099,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NMFC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, New Mountain Finance Corp (NMFC) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/nmfc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:55+00:00"
+}

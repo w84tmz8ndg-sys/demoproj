@@ -1,0 +1,27 @@
+{
+ "ticker": "INDO",
+ "name": "Indonesia Energy Corporation Limited Ordinary Shares",
+ "sector": "Energy",
+ "industry": "Oil & Gas Production",
+ "country": "",
+ "mcap": 33620245.0,
+ "price": "$2.185",
+ "cik": 1757840,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/INDO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/indo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:18:20+00:00"
+}

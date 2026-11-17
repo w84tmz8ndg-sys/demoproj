@@ -1,0 +1,27 @@
+{
+ "ticker": "LONA",
+ "name": "LeonaBio Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "United States",
+ "mcap": 42236604.0,
+ "price": "$3.23",
+ "cik": 1620463,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LONA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Athira Pharma Inc. (LONA) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/lona",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:17:13+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "RMSG",
+ "name": "Real Messenger Corporation Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "United States",
+ "mcap": 2635493.0,
+ "price": "$0.163",
+ "cik": 1983324,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RMSG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rmsg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:16+00:00"
+}

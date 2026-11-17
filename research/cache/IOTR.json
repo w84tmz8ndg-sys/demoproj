@@ -1,0 +1,27 @@
+{
+ "ticker": "IOTR",
+ "name": "iOThree Limited Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Telecommunications Equipment",
+ "country": "Singapore",
+ "mcap": 10855272.0,
+ "price": "$1.79",
+ "cik": 1997637,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IOTR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/iotr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:34+00:00"
+}

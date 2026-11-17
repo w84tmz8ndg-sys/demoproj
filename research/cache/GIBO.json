@@ -1,0 +1,27 @@
+{
+ "ticker": "GIBO",
+ "name": "GIBO Holdings Limited Class A Ordinary Shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "Hong Kong",
+ "mcap": 208350353.0,
+ "price": "$79.99",
+ "cik": 2034520,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GIBO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/gibo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:45+00:00"
+}

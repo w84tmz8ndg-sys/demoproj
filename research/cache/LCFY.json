@@ -1,0 +1,27 @@
+{
+ "ticker": "LCFY",
+ "name": "Locafy Limited Ordinary Share",
+ "sector": "Technology",
+ "industry": "Computer Software: Programming Data Processing",
+ "country": "Australia",
+ "mcap": 1555246.0,
+ "price": "$0.85",
+ "cik": 1875547,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/LCFY/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/lcfy",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:29:18+00:00"
+}

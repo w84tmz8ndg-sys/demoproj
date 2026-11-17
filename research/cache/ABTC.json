@@ -1,0 +1,27 @@
+{
+ "ticker": "ABTC",
+ "name": "American Bitcoin Corp. Class A Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 342993061.0,
+ "price": "$4.71",
+ "cik": 1755953,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ABTC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Gryphon Digital Mining, Inc (ABTC) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/abtc",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:05:28+00:00"
+}

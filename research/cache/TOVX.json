@@ -1,0 +1,27 @@
+{
+ "ticker": "TOVX",
+ "name": "Theriva Biologics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 6457098.0,
+ "price": "$0.1407",
+ "cik": 894158,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TOVX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tovx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:22+00:00"
+}

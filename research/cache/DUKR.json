@@ -1,0 +1,27 @@
+{
+ "ticker": "DUKR",
+ "name": "DUKE Robotics Corp. Common Stock",
+ "sector": "Industrials",
+ "industry": "Aerospace",
+ "country": "Israel",
+ "mcap": 6303800.0,
+ "price": "$1.84",
+ "cik": 1638911,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DUKR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dukr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:26+00:00"
+}

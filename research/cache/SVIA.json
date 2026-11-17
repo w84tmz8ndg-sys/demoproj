@@ -1,0 +1,27 @@
+{
+ "ticker": "SVIA",
+ "name": "Silvia Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 175310568.0,
+ "price": "$2.325",
+ "cik": 2076163,
+ "musaffa": {
+  "status": "NOT COVERED",
+  "raw": "NOT COVERED",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SVIA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/svia",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:44+00:00"
+}

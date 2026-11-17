@@ -1,0 +1,27 @@
+{
+ "ticker": "DDC",
+ "name": "DDC Enterprise Limited Class A Ordinary Shares",
+ "sector": "Consumer Staples",
+ "industry": "Packaged Foods",
+ "country": "",
+ "mcap": 5050567.0,
+ "price": "$0.0862",
+ "cik": 1808110,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DDC/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ddc",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:26:08+00:00"
+}

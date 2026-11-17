@@ -1,0 +1,27 @@
+{
+ "ticker": "CYCU",
+ "name": "Cycurion Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 8070681.0,
+ "price": "$2.13",
+ "cik": 1868419,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CYCU/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/cycu",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:40+00:00"
+}

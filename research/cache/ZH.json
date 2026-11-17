@@ -1,0 +1,27 @@
+{
+ "ticker": "ZH",
+ "name": "Zhihu Inc. American Depositary Shares each representing three (3) Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Business Services",
+ "country": "China",
+ "mcap": 221569797.0,
+ "price": "$2.56",
+ "cik": 1835724,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZH/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zh",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:08:25+00:00"
+}

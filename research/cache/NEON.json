@@ -1,0 +1,27 @@
+{
+ "ticker": "NEON",
+ "name": "Neonode Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "Industrial Machinery/Components",
+ "country": "Sweden",
+ "mcap": 9618293.0,
+ "price": "$0.5731",
+ "cik": 87050,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NEON/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/neon",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:55+00:00"
+}

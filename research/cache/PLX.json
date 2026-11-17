@@ -1,0 +1,27 @@
+{
+ "ticker": "PLX",
+ "name": "Protalix BioTherapeutics Inc. (DE) Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Israel",
+ "mcap": 254643147.0,
+ "price": "$3.02",
+ "cik": 1006281,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "PASS",
+  "label": "Shariah-compliant",
+  "raw": "Yes. As of November 17, 2026, Protalix BioTherapeutics Inc. (PLX) is Shariah-compliant under AAOIFI standards. It passes both the business and financial screens. See the full report on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/plx",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:07:34+00:00"
+}

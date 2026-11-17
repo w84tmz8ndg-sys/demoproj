@@ -1,0 +1,27 @@
+{
+ "ticker": "IZM",
+ "name": "ICZOOM Group Inc. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Consumer Electronics/Video Chains",
+ "country": "China",
+ "mcap": 1920254.0,
+ "price": "$0.7989",
+ "cik": 1854572,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/IZM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/izm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:59+00:00"
+}

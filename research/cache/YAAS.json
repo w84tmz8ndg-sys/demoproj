@@ -1,0 +1,27 @@
+{
+ "ticker": "YAAS",
+ "name": "Youxin Technology Ltd Class A Ordinary shares",
+ "sector": "Technology",
+ "industry": "Computer Software: Prepackaged Software",
+ "country": "China",
+ "mcap": 13264725.0,
+ "price": "$0.8441",
+ "cik": 1964946,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/YAAS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/yaas",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:45+00:00"
+}

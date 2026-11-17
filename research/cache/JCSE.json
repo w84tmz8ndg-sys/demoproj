@@ -1,0 +1,27 @@
+{
+ "ticker": "JCSE",
+ "name": "JE Cleantech Holdings Limited Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Miscellaneous manufacturing industries",
+ "country": "Singapore",
+ "mcap": 8802466.0,
+ "price": "$1.57",
+ "cik": 1905511,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JCSE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jcse",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:24:13+00:00"
+}

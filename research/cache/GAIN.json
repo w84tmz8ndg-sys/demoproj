@@ -1,0 +1,27 @@
+{
+ "ticker": "GAIN",
+ "name": "Gladstone Investment Corporation Business Development Company",
+ "sector": "Finance",
+ "industry": "Finance: Consumer Services",
+ "country": "United States",
+ "mcap": 581798938.0,
+ "price": "$14.61",
+ "cik": 1321741,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GAIN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Gladstone Investment Corporation (GAIN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gain",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:27+00:00"
+}

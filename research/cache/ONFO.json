@@ -1,0 +1,27 @@
+{
+ "ticker": "ONFO",
+ "name": "Onfolio Holdings Inc. Common Stock",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "United States",
+ "mcap": 2021892.0,
+ "price": "$0.809",
+ "cik": 1825452,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ONFO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/onfo",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:49+00:00"
+}

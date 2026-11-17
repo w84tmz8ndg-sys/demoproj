@@ -1,0 +1,27 @@
+{
+ "ticker": "JWEL",
+ "name": "Jowell Global Ltd. Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Other Consumer Services",
+ "country": "China",
+ "mcap": 5349604.0,
+ "price": "$1.86",
+ "cik": 1805594,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/JWEL/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/jwel",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:56+00:00"
+}

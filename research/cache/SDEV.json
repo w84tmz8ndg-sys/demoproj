@@ -1,0 +1,27 @@
+{
+ "ticker": "SDEV",
+ "name": "Stablecoin Development Corporation Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 51664484.0,
+ "price": "$0.7066",
+ "cik": 1389545,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SDEV/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "DOUBTFUL",
+  "label": "questionable",
+  "raw": "As of November 17, 2026, Security Devices International, Inc. (SDEV) is rated questionable under AAOIFI standards. See why Zoya cannot yet confirm it is Shariah-compliant.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/sdev",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:17+00:00"
+}

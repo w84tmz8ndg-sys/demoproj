@@ -1,0 +1,27 @@
+{
+ "ticker": "KAPA",
+ "name": "Kairos Pharma Ltd. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "",
+ "mcap": 1937726.0,
+ "price": "$0.4136",
+ "cik": 1962011,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/KAPA/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/kapa",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:28:59+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ADAG",
+ "name": "Adagene Inc. American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "China",
+ "mcap": 105682550.0,
+ "price": "$1.60",
+ "cik": 1818838,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ADAG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/adag",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:12:36+00:00"
+}

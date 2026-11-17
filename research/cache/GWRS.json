@@ -1,0 +1,27 @@
+{
+ "ticker": "GWRS",
+ "name": "Global Water Resources Inc. Common Stock",
+ "sector": "Utilities",
+ "industry": "Water Supply",
+ "country": "United States",
+ "mcap": 193382348.0,
+ "price": "$6.46",
+ "cik": 1434728,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/GWRS/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Global Water Resources (GWRS) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/gwrs",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:09+00:00"
+}

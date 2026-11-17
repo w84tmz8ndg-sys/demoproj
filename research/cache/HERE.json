@@ -1,0 +1,27 @@
+{
+ "ticker": "HERE",
+ "name": "Here Group Limited American Depositary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "Recreational Games/Products/Toys",
+ "country": "China",
+ "mcap": 82212003.0,
+ "price": "$1.575",
+ "cik": 1932770,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/HERE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/here",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:14:00+00:00"
+}

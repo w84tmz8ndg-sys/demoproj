@@ -1,0 +1,27 @@
+{
+ "ticker": "ECX",
+ "name": "ECARX Holdings Inc. Class A Ordinary shares",
+ "sector": "Technology",
+ "industry": "EDP Services",
+ "country": "China",
+ "mcap": 294025884.0,
+ "price": "$0.7716",
+ "cik": 1861974,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ECX/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ecx",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:06:26+00:00"
+}

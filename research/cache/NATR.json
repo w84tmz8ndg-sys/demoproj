@@ -1,0 +1,27 @@
+{
+ "ticker": "NATR",
+ "name": "Nature's Sunshine Products Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 182991875.0,
+ "price": "$10.56",
+ "cik": 275053,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/NATR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Nature's Sunshine Products (NATR) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/natr",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:09:30+00:00"
+}

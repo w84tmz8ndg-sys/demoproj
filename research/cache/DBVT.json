@@ -1,0 +1,27 @@
+{
+ "ticker": "DBVT",
+ "name": "DBV Technologies S.A. American Depositary Shares",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "France",
+ "mcap": 645754605.0,
+ "price": "$10.27",
+ "cik": 1613780,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/DBVT/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/dbvt",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:00:37+00:00"
+}

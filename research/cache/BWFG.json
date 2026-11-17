@@ -1,0 +1,27 @@
+{
+ "ticker": "BWFG",
+ "name": "Bankwell Financial Group Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 567126088.0,
+ "price": "$71.14",
+ "cik": 1505732,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BWFG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "As of November 17, 2026, Bankwell Financial Group (BWFG) is not Shariah-compliant based on the company's latest financial reports.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/bwfg",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:01:36+00:00"
+}

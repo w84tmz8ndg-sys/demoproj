@@ -1,0 +1,27 @@
+{
+ "ticker": "BLSM",
+ "name": "BlossomHill Therapeutics Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 433864008.0,
+ "price": "$13.65",
+ "cik": 1839970,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/BLSM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/blsm",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:42+00:00"
+}

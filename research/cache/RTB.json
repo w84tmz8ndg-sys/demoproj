@@ -1,0 +1,27 @@
+{
+ "ticker": "RTB",
+ "name": "RTB Digital Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Professional Services",
+ "country": "United States",
+ "mcap": 64027435.0,
+ "price": "$4.42",
+ "cik": 1419275,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/RTB/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/rtb",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:15:13+00:00"
+}

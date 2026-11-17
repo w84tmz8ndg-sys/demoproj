@@ -1,0 +1,27 @@
+{
+ "ticker": "CLNN",
+ "name": "Clene Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Pharmaceutical Preparations",
+ "country": "United States",
+ "mcap": 52704641.0,
+ "price": "$3.66",
+ "cik": 1822791,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CLNN/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "FAIL",
+  "label": "not Shariah-compliant",
+  "raw": "No. As of November 17, 2026, Clene (CLNN) is not Shariah-compliant under AAOIFI standards. See which screen it fails and find halal alternatives on Zoya.",
+  "asof": "November 17, 2026",
+  "url": "https://zoya.finance/stocks/clnn",
+  "http": 200
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:08+00:00"
+}

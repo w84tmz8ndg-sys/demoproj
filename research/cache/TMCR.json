@@ -1,0 +1,27 @@
+{
+ "ticker": "TMCR",
+ "name": "The Metals Royalty Company Inc. Common Stock",
+ "sector": "Basic Materials",
+ "industry": "Precious Metals",
+ "country": "Canada",
+ "mcap": 125053011.0,
+ "price": "$1.855",
+ "cik": 2087398,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/TMCR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/tmcr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:11:39+00:00"
+}

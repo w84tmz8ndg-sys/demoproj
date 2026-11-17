@@ -1,0 +1,27 @@
+{
+ "ticker": "OXBR",
+ "name": "Oxbridge Re Holdings Limited Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Property-Casualty Insurers",
+ "country": "Cayman Islands",
+ "mcap": 6600929.0,
+ "price": "$0.8071",
+ "cik": 1584831,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/OXBR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/oxbr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:25:15+00:00"
+}

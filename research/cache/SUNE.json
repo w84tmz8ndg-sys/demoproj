@@ -1,0 +1,27 @@
+{
+ "ticker": "SUNE",
+ "name": "SUNation Energy Inc. Common Stock",
+ "sector": "Consumer Discretionary",
+ "industry": "Engineering & Construction",
+ "country": "United States",
+ "mcap": 12440036.0,
+ "price": "$1.91",
+ "cik": 22701,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/SUNE/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/sune",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:07+00:00"
+}

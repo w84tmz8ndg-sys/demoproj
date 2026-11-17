@@ -1,0 +1,27 @@
+{
+ "ticker": "PBAM",
+ "name": "Private Bancorp of America Inc. Common Stock",
+ "sector": "Finance",
+ "industry": "Major Banks",
+ "country": "United States",
+ "mcap": 474451783.0,
+ "price": "$82.80",
+ "cik": 1705284,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PBAM/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/pbam",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:02:57+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "ticker": "ZDAI",
+ "name": "DirectBooking Technology Co. Ltd. Class A Ordinary Shares",
+ "sector": "Consumer Discretionary",
+ "industry": "General Bldg Contractors - Nonresidential Bldgs",
+ "country": "Hong Kong",
+ "mcap": 10988900.0,
+ "price": "$1.31",
+ "cik": 1966678,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ZDAI/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/zdai",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:23:31+00:00"
+}

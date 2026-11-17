@@ -1,0 +1,27 @@
+{
+ "ticker": "AIIO",
+ "name": "Robo.ai Inc. Class B Ordinary Shares",
+ "sector": "Industrials",
+ "industry": "Auto Manufacturing",
+ "country": "United Arab Emirates",
+ "mcap": 44213738.0,
+ "price": "$4.68",
+ "cik": 1932737,
+ "musaffa": {
+  "status": "DOUBTFUL",
+  "raw": "DOUBTFUL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/AIIO/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/aiio",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:16:56+00:00"
+}

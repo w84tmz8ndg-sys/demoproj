@@ -1,0 +1,27 @@
+{
+ "ticker": "ELVR",
+ "name": "Elevra Lithium Limited American Depository Shares",
+ "sector": "Industrials",
+ "industry": "Mining & Quarrying of Nonmetallic Minerals (No Fuels)",
+ "country": "Australia",
+ "mcap": 456325703.0,
+ "price": "$23.52",
+ "cik": 1739016,
+ "musaffa": {
+  "status": "PASS",
+  "raw": "HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/ELVR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/elvr",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:03:19+00:00"
+}

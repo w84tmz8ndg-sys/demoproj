@@ -1,0 +1,27 @@
+{
+ "ticker": "CCG",
+ "name": "Cheche Group Inc. Class A Ordinary Shares",
+ "sector": "Finance",
+ "industry": "Specialty Insurers",
+ "country": "China",
+ "mcap": 24377795.0,
+ "price": "$9.73",
+ "cik": 1965473,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/CCG/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/ccg",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:20:22+00:00"
+}

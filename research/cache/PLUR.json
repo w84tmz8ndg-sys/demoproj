@@ -1,0 +1,27 @@
+{
+ "ticker": "PLUR",
+ "name": "Pluri Inc. Common Stock",
+ "sector": "Health Care",
+ "industry": "Biotechnology: Biological Products (No Diagnostic Substances)",
+ "country": "Israel",
+ "mcap": 14950959.0,
+ "price": "$1.04",
+ "cik": 1158780,
+ "musaffa": {
+  "status": "FAIL",
+  "raw": "NOT HALAL",
+  "asof": "November 2026",
+  "url": "https://musaffa.com/stock/PLUR/",
+  "http": 200
+ },
+ "zoya": {
+  "status": "NOT LISTED",
+  "label": null,
+  "raw": null,
+  "asof": null,
+  "url": "https://zoya.finance/stocks/plur",
+  "http": 404
+ },
+ "sic": null,
+ "fetched": "2026-11-17T21:22:18+00:00"
+}
