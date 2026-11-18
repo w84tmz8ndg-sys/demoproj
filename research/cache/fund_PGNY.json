@@ -1,0 +1,70 @@
+{
+ "ticker": "PGNY",
+ "src_stats": "https://stockanalysis.com/stocks/pgny/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/pgny/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/pgny/financials/ratios/",
+ "Market Cap": "2.70B",
+ "Enterprise Value": "2.53B",
+ "PE Ratio": "34.03",
+ "Forward PE": "15.68",
+ "PS Ratio": "2.02",
+ "EV / EBITDA": "18.09",
+ "Gross Margin": "24.87%",
+ "Operating Margin": "9.97%",
+ "Profit Margin": "6.80%",
+ "FCF Margin": "13.42%",
+ "Debt / Equity": "0.06",
+ "Debt / EBITDA": "0.18",
+ "Net Cash": "169.73M",
+ "Total Debt": "25.86M",
+ "Cash & Cash Equivalents": "195.59M",
+ "Return on Invested Capital (ROIC)": "37.67%",
+ "Return on Equity (ROE)": "18.69%",
+ "Revenue": "1.34B",
+ "Net Income": "91.02M",
+ "Free Cash Flow": "179.64M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.95",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,339",
+  "1,289",
+  "1,167",
+  "1,089",
+  "786.91",
+  "500.62"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "91.02",
+  "58.52",
+  "54.34",
+  "62.04",
+  "30.36",
+  "65.77"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "34.03",
+  "37.83",
+  "27.03",
+  "57.44",
+  "95.31",
+  "69.23"
+ ]
+}

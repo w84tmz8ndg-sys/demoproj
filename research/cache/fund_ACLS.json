@@ -1,0 +1,70 @@
+{
+ "ticker": "ACLS",
+ "src_stats": "https://stockanalysis.com/stocks/acls/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/acls/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/acls/financials/ratios/",
+ "Market Cap": "3.03B",
+ "Enterprise Value": "2.62B",
+ "PE Ratio": "29.13",
+ "Forward PE": "16.19",
+ "PS Ratio": "3.39",
+ "EV / EBITDA": "25.63",
+ "Gross Margin": "42.81%",
+ "Operating Margin": "10.31%",
+ "Profit Margin": "11.75%",
+ "FCF Margin": "6.73%",
+ "Debt / Equity": "0.06",
+ "Debt / EBITDA": "0.61",
+ "Net Cash": "402.50M",
+ "Total Debt": "69.86M",
+ "Cash & Cash Equivalents": "472.36M",
+ "Return on Invested Capital (ROIC)": "11.86%",
+ "Return on Equity (ROE)": "9.80%",
+ "Revenue": "890.24M",
+ "Net Income": "104.56M",
+ "Free Cash Flow": "59.93M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.89",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "890.24",
+  "839.05",
+  "1,018",
+  "1,131",
+  "920",
+  "662.43"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "104.56",
+  "120.24",
+  "200.99",
+  "246.26",
+  "183.08",
+  "98.65"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "29.13",
+  "20.51",
+  "11.30",
+  "17.25",
+  "14.24",
+  "25.18"
+ ]
+}

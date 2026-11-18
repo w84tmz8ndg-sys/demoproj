@@ -1,0 +1,70 @@
+{
+ "ticker": "TDW",
+ "src_stats": "https://stockanalysis.com/stocks/tdw/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/tdw/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/tdw/financials/ratios/",
+ "Market Cap": "3.58B",
+ "Enterprise Value": "4.05B",
+ "PE Ratio": "13.57",
+ "Forward PE": "13.60",
+ "PS Ratio": "2.62",
+ "EV / EBITDA": "9.85",
+ "Gross Margin": "47.79%",
+ "Operating Margin": "18.30%",
+ "Profit Margin": "19.42%",
+ "FCF Margin": "19.77%",
+ "Debt / Equity": "0.62",
+ "Debt / EBITDA": "2.07",
+ "Net Cash": "-471.42M",
+ "Total Debt": "862.26M",
+ "Cash & Cash Equivalents": "390.84M",
+ "Return on Invested Capital (ROIC)": "15.14%",
+ "Return on Equity (ROE)": "20.77%",
+ "Revenue": "1.37B",
+ "Net Income": "265.20M",
+ "Free Cash Flow": "270.07M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.61",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,366",
+  "1,353",
+  "1,346",
+  "1,010",
+  "647.68",
+  "371.03"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "265.2",
+  "334.66",
+  "180.66",
+  "97.19",
+  "-21.75",
+  "-128.97"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "13.57",
+  "7.48",
+  "15.85",
+  "39.21",
+  "-",
+  "-"
+ ]
+}

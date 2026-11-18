@@ -1,0 +1,70 @@
+{
+ "ticker": "FELE",
+ "src_stats": "https://stockanalysis.com/stocks/fele/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/fele/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/fele/financials/ratios/",
+ "Market Cap": "4.27B",
+ "Enterprise Value": "4.75B",
+ "PE Ratio": "21.75",
+ "Forward PE": "18.37",
+ "PS Ratio": "1.89",
+ "EV / EBITDA": "13.10",
+ "Gross Margin": "35.39%",
+ "Operating Margin": "12.93%",
+ "Profit Margin": "8.83%",
+ "FCF Margin": "8.55%",
+ "Debt / Equity": "0.44",
+ "Debt / EBITDA": "1.60",
+ "Net Cash": "-475.02M",
+ "Total Debt": "634.13M",
+ "Cash & Cash Equivalents": "159.11M",
+ "Return on Invested Capital (ROIC)": "12.58%",
+ "Return on Equity (ROE)": "14.52%",
+ "Revenue": "2.26B",
+ "Net Income": "198.97M",
+ "Free Cash Flow": "193.49M",
+ "Dividend Yield": "1.16%",
+ "Beta (5Y)": "1.02",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,264",
+  "2,131",
+  "2,021",
+  "2,065",
+  "2,044",
+  "1,662"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "198.97",
+  "146.49",
+  "179.61",
+  "192.57",
+  "186.63",
+  "152.96"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "21.75",
+  "29.03",
+  "24.79",
+  "23.15",
+  "19.79",
+  "28.70"
+ ]
+}

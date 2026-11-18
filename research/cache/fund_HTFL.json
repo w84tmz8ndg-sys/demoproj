@@ -1,0 +1,55 @@
+{
+ "ticker": "HTFL",
+ "src_stats": "https://stockanalysis.com/stocks/htfl/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/htfl/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/htfl/financials/ratios/",
+ "Market Cap": "4.11B",
+ "Enterprise Value": "3.97B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "17.26",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "81.85%",
+ "Operating Margin": "-29.97%",
+ "Profit Margin": "-33.11%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.09",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "141.80M",
+ "Total Debt": "25.93M",
+ "Cash & Cash Equivalents": "167.74M",
+ "Return on Invested Capital (ROIC)": "-15.29%",
+ "Return on Equity (ROE)": "-29.43%",
+ "Revenue": "238.66M",
+ "Net Income": "-79.02M",
+ "Free Cash Flow": "-56.07M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "n/a",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023"
+ ],
+ "rev_hist": [
+  "238.66",
+  "176.03",
+  "125.81",
+  "87.17"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-79.02",
+  "-116.79",
+  "-96.43",
+  "-123.69"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023"
+ ],
+ "pe_hist": null
+}

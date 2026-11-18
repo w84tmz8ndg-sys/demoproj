@@ -1,0 +1,55 @@
+{
+ "ticker": "VIA",
+ "src_stats": "https://stockanalysis.com/stocks/via/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/via/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/via/financials/ratios/",
+ "Market Cap": "3.60B",
+ "Enterprise Value": "3.30B",
+ "PE Ratio": "n/a",
+ "Forward PE": "192.09",
+ "PS Ratio": "6.85",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "39.96%",
+ "Operating Margin": "-17.31%",
+ "Profit Margin": "-15.30%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.04",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "298.51M",
+ "Total Debt": "24.29M",
+ "Cash & Cash Equivalents": "322.80M",
+ "Return on Invested Capital (ROIC)": "-9.03%",
+ "Return on Equity (ROE)": "-13.47%",
+ "Revenue": "525.58M",
+ "Net Income": "-80.40M",
+ "Free Cash Flow": "-48.45M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "n/a",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023"
+ ],
+ "rev_hist": [
+  "525.58",
+  "434.34",
+  "337.63",
+  "248.85"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-80.4",
+  "-96.36",
+  "-90.28",
+  "-116.69"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023"
+ ],
+ "pe_hist": null
+}

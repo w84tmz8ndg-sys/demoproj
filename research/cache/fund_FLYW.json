@@ -1,0 +1,70 @@
+{
+ "ticker": "FLYW",
+ "src_stats": "https://stockanalysis.com/stocks/flyw/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/flyw/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/flyw/financials/ratios/",
+ "Market Cap": "2.61B",
+ "Enterprise Value": "2.20B",
+ "PE Ratio": "34.91",
+ "Forward PE": "16.35",
+ "PS Ratio": "3.42",
+ "EV / EBITDA": "25.06",
+ "Gross Margin": "59.44%",
+ "Operating Margin": "8.37%",
+ "Profit Margin": "10.34%",
+ "FCF Margin": "17.58%",
+ "Debt / Equity": "0.00",
+ "Debt / EBITDA": "0.02",
+ "Net Cash": "408.80M",
+ "Total Debt": "1.41M",
+ "Cash & Cash Equivalents": "410.22M",
+ "Return on Invested Capital (ROIC)": "12.48%",
+ "Return on Equity (ROE)": "9.08%",
+ "Revenue": "763.70M",
+ "Net Income": "78.95M",
+ "Free Cash Flow": "134.29M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.30",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "763.7",
+  "623.03",
+  "492.14",
+  "403.09",
+  "289.38",
+  "201.15"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "78.95",
+  "13.5",
+  "2.9",
+  "-8.57",
+  "-39.35",
+  "-28.1"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "34.91",
+  "128.13",
+  "884.65",
+  "-",
+  "-",
+  "-"
+ ]
+}

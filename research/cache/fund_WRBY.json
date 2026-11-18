@@ -1,0 +1,70 @@
+{
+ "ticker": "WRBY",
+ "src_stats": "https://stockanalysis.com/stocks/wrby/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/wrby/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/wrby/financials/ratios/",
+ "Market Cap": "3.22B",
+ "Enterprise Value": "3.20B",
+ "PE Ratio": "429.59",
+ "Forward PE": "44.95",
+ "PS Ratio": "3.47",
+ "EV / EBITDA": "68.07",
+ "Gross Margin": "53.49%",
+ "Operating Margin": "-0.87%",
+ "Profit Margin": "0.80%",
+ "FCF Margin": "2.28%",
+ "Debt / Equity": "0.66",
+ "Debt / EBITDA": "2.91",
+ "Net Cash": "23.11M",
+ "Total Debt": "264.80M",
+ "Cash & Cash Equivalents": "287.91M",
+ "Return on Invested Capital (ROIC)": "-1.61%",
+ "Return on Equity (ROE)": "1.93%",
+ "Revenue": "934.66M",
+ "Net Income": "7.47M",
+ "Free Cash Flow": "21.29M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.95",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "934.66",
+  "871.91",
+  "771.32",
+  "669.77",
+  "598.11",
+  "540.8"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "7.47",
+  "1.64",
+  "-20.39",
+  "-63.2",
+  "-110.39",
+  "-157.41"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "429.59",
+  "1622.16",
+  "-",
+  "-",
+  "-",
+  "-"
+ ]
+}

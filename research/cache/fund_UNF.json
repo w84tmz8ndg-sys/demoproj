@@ -1,0 +1,70 @@
+{
+ "ticker": "UNF",
+ "src_stats": "https://stockanalysis.com/stocks/unf/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/unf/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/unf/financials/ratios/",
+ "Market Cap": "4.08B",
+ "Enterprise Value": "3.97B",
+ "PE Ratio": "37.44",
+ "Forward PE": "26.76",
+ "PS Ratio": "1.63",
+ "EV / EBITDA": "12.16",
+ "Gross Margin": "36.58%",
+ "Operating Margin": "7.35%",
+ "Profit Margin": "4.34%",
+ "FCF Margin": "2.80%",
+ "Debt / Equity": "0.04",
+ "Debt / EBITDA": "0.23",
+ "Net Cash": "110.98M",
+ "Total Debt": "81.15M",
+ "Cash & Cash Equivalents": "192.12M",
+ "Return on Invested Capital (ROIC)": "6.76%",
+ "Return on Equity (ROE)": "4.98%",
+ "Revenue": "2.52B",
+ "Net Income": "109.49M",
+ "Free Cash Flow": "70.77M",
+ "Dividend Yield": "0.66%",
+ "Beta (5Y)": "0.65",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "2,523",
+  "2,523",
+  "2,432",
+  "2,427",
+  "2,233",
+  "2,001"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "109.49",
+  "109.49",
+  "148.27",
+  "145.47",
+  "103.67",
+  "103.4"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "37.59",
+  "46.56",
+  "22.24",
+  "24.27",
+  "31.36",
+  "33.15"
+ ]
+}

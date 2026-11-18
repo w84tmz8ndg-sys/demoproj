@@ -1,0 +1,63 @@
+{
+ "ticker": "AAOI",
+ "src_stats": "https://stockanalysis.com/stocks/aaoi/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/aaoi/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/aaoi/financials/ratios/",
+ "Market Cap": "4.07B",
+ "Enterprise Value": "3.81B",
+ "PE Ratio": "n/a",
+ "Forward PE": "15.02",
+ "PS Ratio": "5.37",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "28.80%",
+ "Operating Margin": "-6.78%",
+ "Profit Margin": "-4.39%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.16",
+ "Debt / EBITDA": "367.86",
+ "Net Cash": "255.21M",
+ "Total Debt": "350.21M",
+ "Cash & Cash Equivalents": "605.41M",
+ "Return on Invested Capital (ROIC)": "-2.93%",
+ "Return on Equity (ROE)": "-2.34%",
+ "Revenue": "747.22M",
+ "Net Income": "-32.78M",
+ "Free Cash Flow": "-1.30B",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "3.99",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "747.22",
+  "455.72",
+  "249.37",
+  "217.65",
+  "222.82",
+  "211.57"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-32.78",
+  "-38.23",
+  "-186.73",
+  "-56.05",
+  "-66.4",
+  "-54.16"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

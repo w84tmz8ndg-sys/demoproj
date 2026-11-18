@@ -1,0 +1,63 @@
+{
+ "ticker": "FSLY",
+ "src_stats": "https://stockanalysis.com/stocks/fsly/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/fsly/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/fsly/financials/ratios/",
+ "Market Cap": "2.56B",
+ "Enterprise Value": "2.61B",
+ "PE Ratio": "n/a",
+ "Forward PE": "23.15",
+ "PS Ratio": "3.60",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "62.64%",
+ "Operating Margin": "-8.85%",
+ "Profit Margin": "-8.74%",
+ "FCF Margin": "7.90%",
+ "Debt / Equity": "0.41",
+ "Debt / EBITDA": "13.95",
+ "Net Cash": "-45.32M",
+ "Total Debt": "410.54M",
+ "Cash & Cash Equivalents": "365.22M",
+ "Return on Invested Capital (ROIC)": "-2.88%",
+ "Return on Equity (ROE)": "-6.48%",
+ "Revenue": "719.14M",
+ "Net Income": "-62.88M",
+ "Free Cash Flow": "56.82M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.19",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "719.14",
+  "624.02",
+  "543.68",
+  "505.99",
+  "432.73",
+  "354.33"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-62.88",
+  "-121.68",
+  "-158.06",
+  "-133.09",
+  "-190.77",
+  "-222.7"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

@@ -12,3 +12,4 @@ class Batch:
         for t, v in s.R.items(): v["batch"] = s.n; v["review"] = "manual"; db[t] = v
         json.dump(db, open("ethics.json", "w"), indent=1)
         print(f"batch {s.n}: {len(s.R)} reviewed, {sum(v['verdict']=='PASS' for v in s.R.values())} pass")
+LIGHT_NOTE = "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review)."

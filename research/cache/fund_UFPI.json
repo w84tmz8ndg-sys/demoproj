@@ -1,0 +1,70 @@
+{
+ "ticker": "UFPI",
+ "src_stats": "https://stockanalysis.com/stocks/ufpi/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ufpi/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ufpi/financials/ratios/",
+ "Market Cap": "4.28B",
+ "Enterprise Value": "3.96B",
+ "PE Ratio": "19.02",
+ "Forward PE": "18.15",
+ "PS Ratio": "0.67",
+ "EV / EBITDA": "8.64",
+ "Gross Margin": "15.41%",
+ "Operating Margin": "4.48%",
+ "Profit Margin": "3.61%",
+ "FCF Margin": "3.04%",
+ "Debt / Equity": "0.13",
+ "Debt / EBITDA": "0.81",
+ "Net Cash": "313.54M",
+ "Total Debt": "411.44M",
+ "Cash & Cash Equivalents": "724.97M",
+ "Return on Invested Capital (ROIC)": "7.58%",
+ "Return on Equity (ROE)": "7.44%",
+ "Revenue": "6.41B",
+ "Net Income": "222.37M",
+ "Free Cash Flow": "194.54M",
+ "Dividend Yield": "1.84%",
+ "Beta (5Y)": "1.15",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,407",
+  "6,320",
+  "6,652",
+  "7,218",
+  "9,627",
+  "8,636"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "222.37",
+  "283.7",
+  "398.46",
+  "489.17",
+  "665.16",
+  "518.3"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "19.02",
+  "18.77",
+  "17.10",
+  "15.87",
+  "7.34",
+  "10.48"
+ ]
+}

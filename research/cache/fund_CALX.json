@@ -1,0 +1,70 @@
+{
+ "ticker": "CALX",
+ "src_stats": "https://stockanalysis.com/stocks/calx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/calx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/calx/financials/ratios/",
+ "Market Cap": "1.98B",
+ "Enterprise Value": "1.85B",
+ "PE Ratio": "46.83",
+ "Forward PE": "14.61",
+ "PS Ratio": "1.73",
+ "EV / EBITDA": "23.66",
+ "Gross Margin": "55.56%",
+ "Operating Margin": "5.26%",
+ "Profit Margin": "3.99%",
+ "FCF Margin": "5.42%",
+ "Debt / Equity": "0.03",
+ "Debt / EBITDA": "0.21",
+ "Net Cash": "137.18M",
+ "Total Debt": "17.58M",
+ "Cash & Cash Equivalents": "154.76M",
+ "Return on Invested Capital (ROIC)": "7.21%",
+ "Return on Equity (ROE)": "6.02%",
+ "Revenue": "1.15B",
+ "Net Income": "45.75M",
+ "Free Cash Flow": "62.16M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.22",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,147",
+  "1,000",
+  "831.52",
+  "1,040",
+  "867.83",
+  "679.39"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "45.75",
+  "17.88",
+  "-29.75",
+  "29.33",
+  "41.01",
+  "238.38"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "46.83",
+  "196.15",
+  "-",
+  "98.13",
+  "109.20",
+  "21.39"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "BCC",
+ "src_stats": "https://stockanalysis.com/stocks/bcc/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/bcc/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/bcc/financials/ratios/",
+ "Market Cap": "2.27B",
+ "Enterprise Value": "2.44B",
+ "PE Ratio": "19.40",
+ "Forward PE": "21.13",
+ "PS Ratio": "0.35",
+ "EV / EBITDA": "7.24",
+ "Gross Margin": "16.66%",
+ "Operating Margin": "2.73%",
+ "Profit Margin": "1.82%",
+ "FCF Margin": "2.02%",
+ "Debt / Equity": "0.27",
+ "Debt / EBITDA": "1.51",
+ "Net Cash": "-177.32M",
+ "Total Debt": "562.47M",
+ "Cash & Cash Equivalents": "385.15M",
+ "Return on Invested Capital (ROIC)": "5.72%",
+ "Return on Equity (ROE)": "5.73%",
+ "Revenue": "6.59B",
+ "Net Income": "120.31M",
+ "Free Cash Flow": "133.00M",
+ "Dividend Yield": "1.41%",
+ "Beta (5Y)": "1.07",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "6,592",
+  "6,405",
+  "6,724",
+  "6,838",
+  "8,387",
+  "7,926"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "120.31",
+  "132.84",
+  "376.35",
+  "483.66",
+  "857.66",
+  "712.49"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "19.40",
+  "20.52",
+  "12.13",
+  "10.59",
+  "3.16",
+  "3.93"
+ ]
+}

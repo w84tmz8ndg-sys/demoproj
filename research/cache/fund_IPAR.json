@@ -1,0 +1,70 @@
+{
+ "ticker": "IPAR",
+ "src_stats": "https://stockanalysis.com/stocks/ipar/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ipar/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ipar/financials/ratios/",
+ "Market Cap": "4.24B",
+ "Enterprise Value": "4.21B",
+ "PE Ratio": "24.95",
+ "Forward PE": "26.37",
+ "PS Ratio": "2.83",
+ "EV / EBITDA": "14.40",
+ "Gross Margin": "59.78%",
+ "Operating Margin": "17.88%",
+ "Profit Margin": "11.33%",
+ "FCF Margin": "16.21%",
+ "Debt / Equity": "0.19",
+ "Debt / EBITDA": "0.71",
+ "Net Cash": "28.11M",
+ "Total Debt": "212.14M",
+ "Cash & Cash Equivalents": "240.25M",
+ "Return on Invested Capital (ROIC)": "19.20%",
+ "Return on Equity (ROE)": "19.03%",
+ "Revenue": "1.50B",
+ "Net Income": "170.15M",
+ "Free Cash Flow": "243.41M",
+ "Dividend Yield": "2.42%",
+ "Beta (5Y)": "1.09",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,502",
+  "1,489",
+  "1,452",
+  "1,318",
+  "1,087",
+  "879.52"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "170.15",
+  "168.39",
+  "164.36",
+  "152.65",
+  "120.94",
+  "87.41"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "24.95",
+  "16.15",
+  "25.63",
+  "30.17",
+  "25.44",
+  "38.81"
+ ]
+}

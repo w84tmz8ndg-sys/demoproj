@@ -1,0 +1,70 @@
+{
+ "ticker": "KAI",
+ "src_stats": "https://stockanalysis.com/stocks/kai/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/kai/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/kai/financials/ratios/",
+ "Market Cap": "3.39B",
+ "Enterprise Value": "3.71B",
+ "PE Ratio": "28.94",
+ "Forward PE": "22.32",
+ "PS Ratio": "2.84",
+ "EV / EBITDA": "14.64",
+ "Gross Margin": "44.76%",
+ "Operating Margin": "16.15%",
+ "Profit Margin": "9.81%",
+ "FCF Margin": "14.58%",
+ "Debt / Equity": "0.43",
+ "Debt / EBITDA": "1.72",
+ "Net Cash": "-321.30M",
+ "Total Debt": "455.21M",
+ "Cash & Cash Equivalents": "133.91M",
+ "Return on Invested Capital (ROIC)": "9.91%",
+ "Return on Equity (ROE)": "11.74%",
+ "Revenue": "1.19B",
+ "Net Income": "117.07M",
+ "Free Cash Flow": "174.06M",
+ "Dividend Yield": "0.50%",
+ "Beta (5Y)": "1.20",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,194",
+  "1,052",
+  "1,053",
+  "957.67",
+  "904.74",
+  "786.58"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "117.07",
+  "101.97",
+  "111.6",
+  "116.07",
+  "120.93",
+  "84.04"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "28.94",
+  "33.08",
+  "36.92",
+  "28.27",
+  "17.13",
+  "31.82"
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "ticker": "ASAN",
+ "src_stats": "https://stockanalysis.com/stocks/asan/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/asan/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/asan/financials/ratios/",
+ "Market Cap": "2.11B",
+ "Enterprise Value": "2.03B",
+ "PE Ratio": "n/a",
+ "Forward PE": "23.83",
+ "PS Ratio": "2.62",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "87.59%",
+ "Operating Margin": "-15.20%",
+ "Profit Margin": "-18.63%",
+ "FCF Margin": "14.96%",
+ "Debt / Equity": "2.48",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "81.53M",
+ "Total Debt": "258.33M",
+ "Cash & Cash Equivalents": "339.85M",
+ "Return on Invested Capital (ROIC)": "-18.62%",
+ "Return on Equity (ROE)": "-93.80%",
+ "Revenue": "828.13M",
+ "Net Income": "-154.24M",
+ "Free Cash Flow": "123.89M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.96",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "828.13",
+  "790.81",
+  "723.88",
+  "652.5",
+  "547.21",
+  "378.44"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-154.24",
+  "-189.02",
+  "-255.54",
+  "-257.03",
+  "-407.77",
+  "-288.34"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": null
+}

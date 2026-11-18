@@ -1,0 +1,70 @@
+{
+ "ticker": "MZTI",
+ "src_stats": "https://stockanalysis.com/stocks/mzti/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/mzti/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/mzti/financials/ratios/",
+ "Market Cap": "2.95B",
+ "Enterprise Value": "3.16B",
+ "PE Ratio": "17.09",
+ "Forward PE": "16.15",
+ "PS Ratio": "1.55",
+ "EV / EBITDA": "10.96",
+ "Gross Margin": "24.47%",
+ "Operating Margin": "11.38%",
+ "Profit Margin": "9.06%",
+ "FCF Margin": "9.67%",
+ "Debt / Equity": "0.22",
+ "Debt / EBITDA": "0.75",
+ "Net Cash": "-212.69M",
+ "Total Debt": "230.22M",
+ "Cash & Cash Equivalents": "17.52M",
+ "Return on Invested Capital (ROIC)": "13.54%",
+ "Return on Equity (ROE)": "16.78%",
+ "Revenue": "1.92B",
+ "Net Income": "173.42M",
+ "Free Cash Flow": "185.37M",
+ "Dividend Yield": "3.88%",
+ "Beta (5Y)": "0.33",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,918",
+  "1,930",
+  "1,909",
+  "1,872",
+  "1,823",
+  "1,676"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "173.42",
+  "191.23",
+  "166.89",
+  "158.2",
+  "111.03",
+  "89.36"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "17.09",
+  "16.37",
+  "28.54",
+  "32.88",
+  "49.85",
+  "39.66"
+ ]
+}

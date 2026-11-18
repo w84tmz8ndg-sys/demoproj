@@ -1,0 +1,70 @@
+{
+ "ticker": "HCC",
+ "src_stats": "https://stockanalysis.com/stocks/hcc/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/hcc/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/hcc/financials/ratios/",
+ "Market Cap": "4.17B",
+ "Enterprise Value": "3.96B",
+ "PE Ratio": "17.99",
+ "Forward PE": "13.05",
+ "PS Ratio": "2.24",
+ "EV / EBITDA": "7.93",
+ "Gross Margin": "30.45%",
+ "Operating Margin": "13.92%",
+ "Profit Margin": "12.45%",
+ "FCF Margin": "7.10%",
+ "Debt / Equity": "0.10",
+ "Debt / EBITDA": "0.47",
+ "Net Cash": "214.89M",
+ "Total Debt": "232.37M",
+ "Cash & Cash Equivalents": "447.26M",
+ "Return on Invested Capital (ROIC)": "10.92%",
+ "Return on Equity (ROE)": "10.41%",
+ "Revenue": "1.86B",
+ "Net Income": "232.04M",
+ "Free Cash Flow": "132.27M",
+ "Dividend Yield": "0.41%",
+ "Beta (5Y)": "0.75",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,863",
+  "1,312",
+  "1,525",
+  "1,677",
+  "1,739",
+  "1,059"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "232.04",
+  "57",
+  "250.6",
+  "478.63",
+  "641.3",
+  "150.88"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "17.99",
+  "81.32",
+  "11.32",
+  "6.63",
+  "2.79",
+  "8.76"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "DHT",
+ "src_stats": "https://stockanalysis.com/stocks/dht/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/dht/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/dht/financials/ratios/",
+ "Market Cap": "3.46B",
+ "Enterprise Value": "3.81B",
+ "PE Ratio": "4.94",
+ "Forward PE": "3.45",
+ "PS Ratio": "3.32",
+ "EV / EBITDA": "4.69",
+ "Gross Margin": "80.77%",
+ "Operating Margin": "68.35%",
+ "Profit Margin": "67.07%",
+ "FCF Margin": "8.59%",
+ "Debt / Equity": "0.36",
+ "Debt / EBITDA": "0.62",
+ "Net Cash": "-348.86M",
+ "Total Debt": "505.61M",
+ "Cash & Cash Equivalents": "156.75M",
+ "Return on Invested Capital (ROIC)": "42.38%",
+ "Return on Equity (ROE)": "55.98%",
+ "Revenue": "1.04B",
+ "Net Income": "699.80M",
+ "Free Cash Flow": "89.66M",
+ "Dividend Yield": "8.70%",
+ "Beta (5Y)": "-0.09",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,043",
+  "551.34",
+  "571.77",
+  "560.56",
+  "473.66",
+  "311.01"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "699.8",
+  "211.09",
+  "181.38",
+  "161.35",
+  "61.52",
+  "-11.52"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "4.95",
+  "9.30",
+  "8.27",
+  "9.79",
+  "23.48",
+  "-"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "SHOO",
+ "src_stats": "https://stockanalysis.com/stocks/shoo/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/shoo/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/shoo/financials/ratios/",
+ "Market Cap": "2.94B",
+ "Enterprise Value": "3.25B",
+ "PE Ratio": "16.56",
+ "Forward PE": "16.15",
+ "PS Ratio": "1.04",
+ "EV / EBITDA": "9.87",
+ "Gross Margin": "47.87%",
+ "Operating Margin": "10.43%",
+ "Profit Margin": "6.16%",
+ "FCF Margin": "7.20%",
+ "Debt / Equity": "0.37",
+ "Debt / EBITDA": "0.88",
+ "Net Cash": "-300.87M",
+ "Total Debt": "372.21M",
+ "Cash & Cash Equivalents": "71.33M",
+ "Return on Invested Capital (ROIC)": "17.27%",
+ "Return on Equity (ROE)": "18.60%",
+ "Revenue": "2.85B",
+ "Net Income": "175.15M",
+ "Free Cash Flow": "204.72M",
+ "Dividend Yield": "2.09%",
+ "Beta (5Y)": "1.17",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,845",
+  "2,534",
+  "2,283",
+  "1,982",
+  "2,122",
+  "1,866"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "175.15",
+  "44.66",
+  "169.39",
+  "171.55",
+  "216.06",
+  "190.68"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "16.54",
+  "67.74",
+  "18.12",
+  "18.27",
+  "11.52",
+  "19.84"
+ ]
+}

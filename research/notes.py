@@ -179,3 +179,5 @@ POS.update({
 })
 
 POS.update({"QLYS":"Cloud vulnerability-management software; very high margins and net cash; slowing growth.","CRUS":"Audio/haptic chips, heavily dependent on Apple.","YOU":"Biometric identity (CLEAR) at airports; fast growth.","CGNX":"Machine-vision leader; cyclical.","SSD":"Structural connectors for construction (Simpson Strong-Tie).","FORM":"Probe cards for chip testing; cyclical."})
+
+POS.update({"USLM":"Regional lime/limestone producer with quarry moats; net cash, high margins.","LOPE":"Education-services provider to Grand Canyon University; high margins, buybacks.","CARG":"Online car-marketplace leader; asset-light.","LAUR":"Higher-education operator in Mexico and Peru.","DHT":"Crude-tanker owner; highly cyclical earnings.","EXPO":"Engineering/scientific consulting (failure analysis).","MWA":"Water-infrastructure valves/hydrants.","EPAC":"Industrial hydraulic tools.","CVSA":"Consumer services."})

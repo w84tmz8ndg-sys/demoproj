@@ -3879,5 +3879,2933 @@
   "findings": [],
   "batch": 14,
   "review": "manual"
+ },
+ "TENB": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Military software to defense ministries",
+    "text": "Tenable software underpins the DoD's Assured Compliance Assessment Solution (ACAS) run by DISA; Army ACAS licence support solicitation (2026).",
+    "sources": [
+     "https://www.tenable.com/blog/tenable-selected-for-disa-s-acas-vulnerability-management-solution",
+     "https://www.highergov.com/contract-opportunity/dliflc-dcsit-tenable-annual-license-support-w911s026ra099-o-8c82e/"
+    ]
+   }
+  ],
+  "batch": 15,
+  "review": "manual"
+ },
+ "MTRN": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Defense supply chain",
+    "text": "Defense sales >$100M for two consecutive years; $65M investment from a defense prime to expand beryllium capacity; aluminium-beryllium castings for F-35 targeting optics (Lockheed Martin).",
+    "sources": [
+     "https://quantisnow.com/insight/materion-corporation-reports-fourth-quarter-and-full-year-2025-results-provides-6388075",
+     "https://businesswire.com/news/home/20140610005135/en/Materion-Corporation-Announces-Supply-Contract-with-Lockheed-Martin-for-Proprietary-AlBeCast%C2%AE-Aluminum-Beryllium-Investment-Castings-for-F-35-Lightning-II-Airborne-Optical-Components"
+    ]
+   }
+  ],
+  "batch": 15,
+  "review": "manual"
+ },
+ "NOVT": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [
+   {
+    "label": "c",
+    "category": "Possible defense exposure",
+    "text": "A company profile lists defense/space manufacturing among capabilities; no defense contract found. Verify.",
+    "sources": [
+     "https://ghost.bitscale.ai/novanta-inc/"
+    ]
+   }
+  ],
+  "batch": 15,
+  "review": "manual"
+ },
+ "EXPO": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [
+   {
+    "label": "c",
+    "category": "Not fully researched",
+    "text": "Engineering/scientific consultancy that may serve government clients; not researched in depth. Verify.",
+    "sources": []
+   }
+  ],
+  "batch": 15,
+  "review": "manual"
+ },
+ "BMI": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "ADPT": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "CSW": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "CRVL": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "HIMS": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "RHI": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "UFPI": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "PAY": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "IPAR": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "FELE": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "STVN": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "ECG": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "HCC": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "MYRG": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "MGNI": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "HTFL": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "UNF": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "AAOI": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "CNR": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [],
+  "batch": 15,
+  "review": "manual"
+ },
+ "BOOT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "THO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "CVSA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "GNTX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "AZZ": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "DORM": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "TARS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "CDNA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "COLM": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "DIOD": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "MWA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "BRC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "TDW": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "WK": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "LGN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "COCO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "VIA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "FIGS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "INTA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "FIZZ": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 16,
+  "review": "manual"
+ },
+ "EXTR": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Military networking sold to DoD",
+    "text": "Switches on DoD JITC Unified Capabilities Approved Products List; US Navy ExtremeWorks/AirDefense licence renewals (2026).",
+    "sources": [
+     "https://samsearch.co/gov-explore/federal/extreme-networks-extremeworks-for-airdefense-license-renewals/N6449826Q5227",
+     "https://investor.extremenetworks.com/node/10166"
+    ]
+   }
+  ],
+  "batch": 17,
+  "review": "manual"
+ },
+ "TDC": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Military IT services to defense ministries",
+    "text": "Navy prime contractor for a DoD logistics data centre (2006); DISA IDIQ for Defense Commissary Agency analytics; DoD is its top federal agency.",
+    "sources": [
+     "https://washingtontechnology.com/articles/2011/12/20/teradata-disa-contract.aspx",
+     "https://investor.ncr.com/news-releases/news-release-details/naval-air-systems-command-selects-ncr-government-systems-llc",
+     "https://www.sweetspot.so/markets/federal/contractors/teradata-operations-inc-q51gsvbyxts9/"
+    ]
+   }
+  ],
+  "batch": 17,
+  "review": "manual"
+ },
+ "IOVA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "FRSH": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "DHT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "ARQT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "KAI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "CENX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "AXGN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "ENPH": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "WRBY": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "NHC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "ALRM": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "ACAD": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "LRN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "FRPT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "MHO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "CARG": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "BLSH": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "GRDN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "LEGN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "CALM": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "MGRC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "HWKN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "USLM": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "ACLS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "IRTC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 17,
+  "review": "manual"
+ },
+ "BELFB": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Weapons/defense supply chain",
+    "text": "Aerospace, Defense & Rugged Solutions unit = 55% of 2025 sales; power/networking products for missiles, anti-missile defence, EW, radar and military vehicles.",
+    "sources": [
+     "https://rallies.ai/news/bel-fuse-reorganizes-into-two-business-units-driving-676m-of-2025-sales",
+     "https://apctech.com/manufacturers/bel-aerospace-defense"
+    ]
+   }
+  ],
+  "batch": 18,
+  "review": "manual"
+ },
+ "SXI": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Weapons supply chain",
+    "text": "Renamed segment 'Standex Aerospace & Defense'; ~15% of it defense, 'most of that is missiles'.",
+    "sources": [
+     "https://www.marketbeat.com/instant-alerts/standex-international-q3-earnings-call-highlights-2026-05-02/",
+     "https://standex.com/businesses/aerospace-defense/"
+    ]
+   }
+  ],
+  "batch": 18,
+  "review": "manual"
+ },
+ "IPGP": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Weapons maker",
+    "text": "IPG Defense unit makes CROSSBOW counter-drone laser weapons; deliveries to Lockheed Martin (~$10M follow-on order).",
+    "sources": [
+     "https://optics.org/news/ipg-ships-counter-drone-laser-weapons-to-lockheed-martin",
+     "https://www.janes.com/osint-insights/defence-news/defence/dsei-2025-ipg-photonics-displays-c-uas-laser-system"
+    ]
+   }
+  ],
+  "batch": 18,
+  "review": "manual"
+ },
+ "KN": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Defense supply chain",
+    "text": "~21% of revenue from defense; Precision Devices RF filters (~90% defense) and capacitors for electronic warfare.",
+    "sources": [
+     "https://www.marketbeat.com/instant-alerts/knowles-q2-earnings-call-highlights-2026-07-23/",
+     "https://s29.q4cdn.com/538730168/files/doc_financials/2025/ar/Knowles-2025-Annual-Report.pdf"
+    ]
+   }
+  ],
+  "batch": 18,
+  "review": "manual"
+ },
+ "MZTI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "LOPE": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "WDFC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "SHOO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "ARCB": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "ADMA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "VERX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "VCEL": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "SPSC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "WOR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "BTE": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "ATRC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "TR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "YETI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "PGNY": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "FLYW": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 18,
+  "review": "manual"
+ },
+ "BELFA": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Weapons/defense supply chain",
+    "text": "Class A shares of Bel Fuse (see BELFB): Aerospace, Defense & Rugged Solutions = 55% of 2025 sales, incl. missiles and anti-missile systems.",
+    "sources": [
+     "https://rallies.ai/news/bel-fuse-reorganizes-into-two-business-units-driving-676m-of-2025-sales",
+     "https://apctech.com/manufacturers/bel-aerospace-defense"
+    ]
+   }
+  ],
+  "batch": 19,
+  "review": "manual"
+ },
+ "PLUS": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [
+   {
+    "label": "c",
+    "category": "IT reseller",
+    "text": "IT solutions reseller with government customers; possible DoD sales not researched. Verify.",
+    "sources": []
+   }
+  ],
+  "batch": 19,
+  "review": "manual"
+ },
+ "FSLY": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 19,
+  "review": "manual"
+ },
+ "GRBK": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 19,
+  "review": "manual"
+ },
+ "AMBA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 19,
+  "review": "manual"
+ },
+ "DNOW": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 19,
+  "review": "manual"
+ },
+ "POWI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 19,
+  "review": "manual"
+ },
+ "WTTR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 19,
+  "review": "manual"
+ },
+ "ADUS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 19,
+  "review": "manual"
+ },
+ "UFPT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 19,
+  "review": "manual"
+ },
+ "BCC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 19,
+  "review": "manual"
+ },
+ "VECO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 19,
+  "review": "manual"
+ },
+ "ASAN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 19,
+  "review": "manual"
+ },
+ "BHE": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Defense supply chain",
+    "text": "Supports most of the top-10 US defense primes; ruggedized air, ground, soldier-worn and naval platforms; 40+ years of defense manufacturing.",
+    "sources": [
+     "https://www.bench.com/defense",
+     "https://www.militaryaerospace.com/directory/platform-systems-subsystems/avionics/company/14117989/benchmark-electronics-inc"
+    ]
+   }
+  ],
+  "batch": 20,
+  "review": "manual"
+ },
+ "ROG": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Defense supply chain",
+    "text": "Dedicated aerospace & defense market line: radar/navigation laminates, radome materials; RT/duroid used in missile guidance and military radios.",
+    "sources": [
+     "https://rogerscorp.com/markets/aerospace-and-defense",
+     "https://iconnect007.com/article/135533/rogers-features-advanced-materials-technology-capabilities-for-defense-electronic-systems-at-gomactech-2023/135536/milaero"
+    ]
+   }
+  ],
+  "batch": 20,
+  "review": "manual"
+ },
+ "ATEN": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Military networking sold to DoD",
+    "text": "Products on the DoD Information Network Approved Products List (DISA memo); Army IA certification; DoD STIG.",
+    "sources": [
+     "https://www.a10networks.com:443/wp-content/uploads/JITC-UCAPL-Approval-Memo-DTR1.pdf"
+    ]
+   }
+  ],
+  "batch": 20,
+  "review": "manual"
+ },
+ "CNXN": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [
+   {
+    "label": "c",
+    "category": "IT reseller",
+    "text": "IT reseller with a public-sector segment; possible DoD sales not researched. Verify.",
+    "sources": []
+   }
+  ],
+  "batch": 20,
+  "review": "manual"
+ },
+ "DGII": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [
+   {
+    "label": "c",
+    "category": "Not fully researched",
+    "text": "IoT/networking products possibly sold to government/military; not researched. Verify.",
+    "sources": []
+   }
+  ],
+  "batch": 20,
+  "review": "manual"
+ },
+ "AMPL": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "BKE": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "DV": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "AZTA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "NESR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "BTU": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "SONO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "FIVN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "EPAC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "CALX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "NEO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "AGL": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "IOSP": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "VCYT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "VC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 20,
+  "review": "manual"
+ },
+ "ETON": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 21,
+  "review": "manual"
+ },
+ "GRC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 21,
+  "review": "manual"
+ },
+ "CRCT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 21,
+  "review": "manual"
+ },
+ "AMR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 21,
+  "review": "manual"
+ },
+ "TILE": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 21,
+  "review": "manual"
+ },
+ "LMAT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 21,
+  "review": "manual"
+ },
+ "CERT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 21,
+  "review": "manual"
+ },
+ "GIC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 21,
+  "review": "manual"
+ },
+ "BLBD": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 21,
+  "review": "manual"
+ },
+ "INSP": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 21,
+  "review": "manual"
+ },
+ "DFIN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 21,
+  "review": "manual"
+ },
+ "OMCL": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [
+   {
+    "label": "c",
+    "category": "Possible military health sales",
+    "text": "Pharmacy-automation vendor whose customers likely include military hospitals; not researched. Verify.",
+    "sources": []
+   }
+  ],
+  "batch": 22,
+  "review": "manual"
+ },
+ "INVX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 22,
+  "review": "manual"
+ },
+ "AEHR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 22,
+  "review": "manual"
+ },
+ "ALG": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 22,
+  "review": "manual"
+ },
+ "ADEA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 22,
+  "review": "manual"
+ },
+ "NRP": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 22,
+  "review": "manual"
+ },
+ "PRLB": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 22,
+  "review": "manual"
+ },
+ "WGS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 22,
+  "review": "manual"
+ },
+ "HUBG": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 22,
+  "review": "manual"
+ },
+ "HLIO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 22,
+  "review": "manual"
+ },
+ "PDFS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 22,
+  "review": "manual"
+ },
+ "LQDT": {
+  "verdict": "PASS",
+  "note": "No documented or campaign-targeted involvement found in AFSC Investigate, Who Profits, or the BDS target guide; targeted web search found none.",
+  "findings": [
+   {
+    "label": "c",
+    "category": "DoD surplus-sales contracts",
+    "text": "Historically ran surplus-property sales for the Defense Logistics Agency; current status not researched. Verify.",
+    "sources": []
+   }
+  ],
+  "batch": 23,
+  "review": "manual"
+ },
+ "XPRO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 23,
+  "review": "manual"
+ },
+ "PRCT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 23,
+  "review": "manual"
+ },
+ "SHLS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 23,
+  "review": "manual"
+ },
+ "PLPC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 23,
+  "review": "manual"
+ },
+ "ARLO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 23,
+  "review": "manual"
+ },
+ "INNV": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 23,
+  "review": "manual"
+ },
+ "STAA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 23,
+  "review": "manual"
+ },
+ "RVLV": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 23,
+  "review": "manual"
+ },
+ "RDVT": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Identity/investigations data platform (idiCORE) sold to law enforcement among others \u2014 possible surveillance use for state security. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 24,
+  "review": "manual"
+ },
+ "INOD": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "AI data-engineering services; possible US government/defense customers not researched. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 24,
+  "review": "manual"
+ },
+ "ICHR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 24,
+  "review": "manual"
+ },
+ "UTI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 24,
+  "review": "manual"
+ },
+ "CRSR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 24,
+  "review": "manual"
+ },
+ "RES": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 24,
+  "review": "manual"
+ },
+ "STRA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 24,
+  "review": "manual"
+ },
+ "AMPX": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Defense supply chain (military drones)",
+    "text": "US Army RCCTO prototyping award for UAS batteries; $10.5M Defense Innovation Unit contract (2025); up to $75M Department of War grant to make drone batteries.",
+    "sources": [
+     "https://ir.amprius.com/news-events/press-releases/detail/13/amprius-technologies-awarded-u-s-army-contract-to-develop",
+     "https://aviationweek.com/defense/supply-chain/pentagon-funds-amprius-produce-drone-batteries-us"
+    ]
+   }
+  ],
+  "batch": 25,
+  "review": "manual"
+ },
+ "WLDN": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Nasdaq classifies it as 'Military/Government/Technical'; energy-efficiency/engineering consultancy for governments. Verify defense work.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "TRNS": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Calibration services/distribution; possible defense-industry customers not researched. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "HROW": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "HLIT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "IRMD": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "SIBN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "LNN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "NSSC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "ODC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "CBLL": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "XPEL": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "KFRC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "MRTN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "WINA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 25,
+  "review": "manual"
+ },
+ "AIP": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 26,
+  "review": "manual"
+ },
+ "DAKT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 26,
+  "review": "manual"
+ },
+ "TTI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 26,
+  "review": "manual"
+ },
+ "FTK": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 26,
+  "review": "manual"
+ },
+ "SCSC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 26,
+  "review": "manual"
+ },
+ "OMDA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 26,
+  "review": "manual"
+ },
+ "MGTX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 26,
+  "review": "manual"
+ },
+ "HSTM": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 26,
+  "review": "manual"
+ },
+ "OSPN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 26,
+  "review": "manual"
+ },
+ "NWPX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 26,
+  "review": "manual"
+ },
+ "RIGL": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 27,
+  "review": "manual"
+ },
+ "KIDS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 27,
+  "review": "manual"
+ },
+ "HTLD": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 27,
+  "review": "manual"
+ },
+ "LZ": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 27,
+  "review": "manual"
+ },
+ "FLNC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 27,
+  "review": "manual"
+ },
+ "CLMB": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 27,
+  "review": "manual"
+ },
+ "PSIX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 27,
+  "review": "manual"
+ },
+ "MITK": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 27,
+  "review": "manual"
+ },
+ "AOSL": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 27,
+  "review": "manual"
+ },
+ "MLAB": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 27,
+  "review": "manual"
+ },
+ "IBEX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 27,
+  "review": "manual"
+ },
+ "BBSI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 27,
+  "review": "manual"
+ },
+ "PXED": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 27,
+  "review": "manual"
+ },
+ "VPG": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Precision sensors/foil resistors used in avionics and possibly military applications. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 28,
+  "review": "manual"
+ },
+ "LINC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 28,
+  "review": "manual"
+ },
+ "JBSS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 28,
+  "review": "manual"
+ },
+ "NPKI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 28,
+  "review": "manual"
+ },
+ "SPT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 28,
+  "review": "manual"
+ },
+ "KRT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 28,
+  "review": "manual"
+ },
+ "VTS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 28,
+  "review": "manual"
+ },
+ "TCMD": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 29,
+  "review": "manual"
+ },
+ "CIX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 29,
+  "review": "manual"
+ },
+ "NRC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 29,
+  "review": "manual"
+ },
+ "TLS": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Military IT services to defense ministries",
+    "text": "DISA $14M Automated Message Handling System contract (2025); DoD Microwave Line of Sight award; Defense Manpower Data Center program worth up to $485M.",
+    "sources": [
+     "https://ng.investing.com/news/company-news/telos-secures-14-million-disa-contract-for-messaging-system-93CH-1953260",
+     "https://www.tipranks.com/news/the-fly/telos-awarded-5-8m-contract-to-support-dods-mlos-program"
+    ]
+   }
+  ],
+  "batch": 30,
+  "review": "manual"
+ },
+ "MLR": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Towing/recovery vehicle maker; may sell military recovery vehicles. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "OIS": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Oilfield equipment maker that has historically made some military products. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "EBF": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "HNST": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "MCFT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "IIIN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "GYRE": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "OOMA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "ANGO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "OFRM": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "TKNO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "SRTA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "RCEL": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "HNRG": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "SD": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 30,
+  "review": "manual"
+ },
+ "LXFR": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Makes gas cylinders and magnesium/zirconium products incl. reported military uses (e.g. ration heaters, decontamination). Verify defense sales.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 31,
+  "review": "manual"
+ },
+ "MDXG": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 31,
+  "review": "manual"
+ },
+ "RLGT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 31,
+  "review": "manual"
+ },
+ "FENC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 31,
+  "review": "manual"
+ },
+ "FSTR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 31,
+  "review": "manual"
+ },
+ "ETD": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 31,
+  "review": "manual"
+ },
+ "XMAX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 32,
+  "review": "manual"
+ },
+ "CERS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 32,
+  "review": "manual"
+ },
+ "SPIR": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Satellite data company with government/defense customers. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 33,
+  "review": "manual"
+ },
+ "TWIN": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Marine/industrial transmissions; may supply military vehicles/vessels. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 33,
+  "review": "manual"
+ },
+ "PESI": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Nuclear/hazardous waste treatment incl. DOE/DoD sites. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 33,
+  "review": "manual"
+ },
+ "VMD": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 33,
+  "review": "manual"
+ },
+ "FLXS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 33,
+  "review": "manual"
+ },
+ "SMTI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 33,
+  "review": "manual"
+ },
+ "CDNL": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Nasdaq classifies it 'Military/Government/Technical'. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "MRAM": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "MRAM memory incl. radiation-hardened parts for aerospace/defense. Verify \u2014 likely defense exposure.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "RELL": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "RF/power components distributor with defense customers. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "PNRG": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "INFU": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "ESCA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "III": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "TMCI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "RNGR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "NPCE": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "LWAY": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "SSII": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "CLPT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "ACU": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 34,
+  "review": "manual"
+ },
+ "OPTX": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Precision optics incl. night-vision/defense optics. Verify \u2014 likely defense exposure.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 35,
+  "review": "manual"
+ },
+ "BKTI": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Land-mobile radios for public-safety and federal agencies, possibly military. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 35,
+  "review": "manual"
+ },
+ "LE": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 35,
+  "review": "manual"
+ },
+ "PLX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 35,
+  "review": "manual"
+ },
+ "SPOK": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 35,
+  "review": "manual"
+ },
+ "SVCO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 35,
+  "review": "manual"
+ },
+ "OFLX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 35,
+  "review": "manual"
+ },
+ "PPIH": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 35,
+  "review": "manual"
+ },
+ "TDUP": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 36,
+  "review": "manual"
+ },
+ "KLTR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 36,
+  "review": "manual"
+ },
+ "SND": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 36,
+  "review": "manual"
+ },
+ "TG": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 36,
+  "review": "manual"
+ },
+ "CMT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 36,
+  "review": "manual"
+ },
+ "CLAR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 36,
+  "review": "manual"
+ },
+ "ELMD": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 36,
+  "review": "manual"
+ },
+ "HQI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 36,
+  "review": "manual"
+ },
+ "QUIK": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "eFPGA IP incl. radiation-hardened FPGA work for US defense programs. Verify \u2014 likely defense exposure.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 37,
+  "review": "manual"
+ },
+ "NEGG": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 37,
+  "review": "manual"
+ },
+ "DHX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 37,
+  "review": "manual"
+ },
+ "HDSN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 37,
+  "review": "manual"
+ },
+ "KGEI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 37,
+  "review": "manual"
+ },
+ "ANIK": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 37,
+  "review": "manual"
+ },
+ "KRMD": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 37,
+  "review": "manual"
+ },
+ "ESOA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 37,
+  "review": "manual"
+ },
+ "AEYE": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 37,
+  "review": "manual"
+ },
+ "EPSN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 37,
+  "review": "manual"
+ },
+ "CXDO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 37,
+  "review": "manual"
+ },
+ "NEOV": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 37,
+  "review": "manual"
+ },
+ "HOFT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 38,
+  "review": "manual"
+ },
+ "FF": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 38,
+  "review": "manual"
+ },
+ "SSTI": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Surveillance technology sold to state security",
+    "text": "SoundThinking sells ShotSpotter acoustic gunshot surveillance and PlateRanger licence-plate recognition to police departments.",
+    "sources": [
+     "https://soundthinking.com/law-enforcement/leading-gunshot-detection-system",
+     "https://www.police1.com/police-products/traffic-enforcement/license-plate-readers/soundthinking-expands-into-license-plate-recognition-industry-with-launch-of-plateranger-solution"
+    ]
+   }
+  ],
+  "batch": 39,
+  "review": "manual"
+ },
+ "VELO": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Metal 3D printing with US Army/Navy and space customers. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 39,
+  "review": "manual"
+ },
+ "ANNA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 39,
+  "review": "manual"
+ },
+ "OPRX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 39,
+  "review": "manual"
+ },
+ "ACNT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 39,
+  "review": "manual"
+ },
+ "NLOP": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 39,
+  "review": "manual"
+ },
+ "SMID": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 39,
+  "review": "manual"
+ },
+ "DERM": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 39,
+  "review": "manual"
+ },
+ "ORGO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 39,
+  "review": "manual"
+ },
+ "ICCC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 39,
+  "review": "manual"
+ },
+ "LGCY": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 39,
+  "review": "manual"
+ },
+ "WRAP": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Weapons sold to state security",
+    "text": "Makes BolaWrap remote restraint device sold to police (230+ agencies); Nasdaq classifies it 'Ordnance and Accessories'.",
+    "sources": [
+     "https://www.vice.com/en/article/what-is-bolawrap-the-high-tech-lasso-all-cops-seem-to-want/",
+     "https://www.police1.com/police-products/less-lethal/press-releases/wrap-technologies-builds-momentum-as-us-law-enforcement-agencies-embrace-innovative-bolawrap-restraint-solution-7o8cLeuHrRzhaNI5"
+    ]
+   }
+  ],
+  "batch": 40,
+  "review": "manual"
+ },
+ "BYRN": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Weapons maker",
+    "text": "Makes less-lethal projectile launchers (.68 cal), incl. an LE line for law enforcement.",
+    "sources": [
+     "https://le.byrna.com/pages/products-1",
+     "https://seekingalpha.com/pr/20073666-byrna-technologies-announces-the-debut-of-the-byrna-cl-the-world-s-most-concealable-less"
+    ]
+   }
+  ],
+  "batch": 40,
+  "review": "manual"
+ },
+ "EP": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review). (JYNT's BDS-guide hit was a false match on the word 'joint'.)",
+  "findings": [],
+  "batch": 40,
+  "review": "manual"
+ },
+ "XGN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review). (JYNT's BDS-guide hit was a false match on the word 'joint'.)",
+  "findings": [],
+  "batch": 40,
+  "review": "manual"
+ },
+ "SKYX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review). (JYNT's BDS-guide hit was a false match on the word 'joint'.)",
+  "findings": [],
+  "batch": 40,
+  "review": "manual"
+ },
+ "JYNT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review). (JYNT's BDS-guide hit was a false match on the word 'joint'.)",
+  "findings": [],
+  "batch": 40,
+  "review": "manual"
+ },
+ "LFMD": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review). (JYNT's BDS-guide hit was a false match on the word 'joint'.)",
+  "findings": [],
+  "batch": 40,
+  "review": "manual"
+ },
+ "OCC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review). (JYNT's BDS-guide hit was a false match on the word 'joint'.)",
+  "findings": [],
+  "batch": 40,
+  "review": "manual"
+ },
+ "OWLS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review). (JYNT's BDS-guide hit was a false match on the word 'joint'.)",
+  "findings": [],
+  "batch": 40,
+  "review": "manual"
+ },
+ "ROC": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Surveillance technology sold to state security",
+    "text": "Rank One supplies facial-recognition for law-enforcement investigations, incl. a US Marshals Service face-biometrics SDK.",
+    "sources": [
+     "https://www.biometricupdate.com/202201/rank-one-to-supply-face-biometrics-sdk-to-us-marshals-service-for-prisoner-transfers",
+     "https://www.itpro.com/business/policy-legislation/356232/rank-one-computing-to-address-misuse-of-its-facial-recognition"
+    ]
+   }
+  ],
+  "batch": 41,
+  "review": "manual"
+ },
+ "WFCF": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 41,
+  "review": "manual"
+ },
+ "STXS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 41,
+  "review": "manual"
+ },
+ "FSI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 41,
+  "review": "manual"
+ },
+ "BUDA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 41,
+  "review": "manual"
+ },
+ "RFIL": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 41,
+  "review": "manual"
+ },
+ "SLNG": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 41,
+  "review": "manual"
+ },
+ "NTIC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 41,
+  "review": "manual"
+ },
+ "NRXS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 41,
+  "review": "manual"
+ },
+ "SOTK": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 41,
+  "review": "manual"
+ },
+ "GNSS": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Weapons/military equipment (Israel)",
+    "text": "AFSC Investigate (Weapons and Military Equipment; BDS divestment shortlist): Genasys, formerly LRAD, makes long-range acoustic devices.",
+    "sources": [
+     "https://investigate.afsc.org/company/genasys"
+    ]
+   }
+  ],
+  "batch": 42,
+  "review": "manual"
+ },
+ "AMPG": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "RF amplifiers/LNAs incl. defense/space applications. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 42,
+  "review": "manual"
+ },
+ "WYY": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Mobility/identity management for federal agencies incl. DHS and possibly DoD. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 42,
+  "review": "manual"
+ },
+ "FATN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 42,
+  "review": "manual"
+ },
+ "NRT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 42,
+  "review": "manual"
+ },
+ "RSSS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 42,
+  "review": "manual"
+ },
+ "CSBR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 42,
+  "review": "manual"
+ },
+ "LFVN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 42,
+  "review": "manual"
+ },
+ "TGEN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 42,
+  "review": "manual"
+ },
+ "VRCA": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 42,
+  "review": "manual"
+ },
+ "POCI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 42,
+  "review": "manual"
+ },
+ "AIRG": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 42,
+  "review": "manual"
+ },
+ "BWEN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 42,
+  "review": "manual"
+ },
+ "GEOS": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Seismic/sensor maker with border/perimeter-security products. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 43,
+  "review": "manual"
+ },
+ "TZOO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 43,
+  "review": "manual"
+ },
+ "DWSN": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 43,
+  "review": "manual"
+ },
+ "OESX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 43,
+  "review": "manual"
+ },
+ "ECOR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 43,
+  "review": "manual"
+ },
+ "LINK": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 43,
+  "review": "manual"
+ },
+ "TYGO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 43,
+  "review": "manual"
+ },
+ "ACFN": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Nasdaq classifies it 'Military/Government/Technical'. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 44,
+  "review": "manual"
+ },
+ "IDN": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Identity-verification tech used by retailers and possibly law enforcement. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 44,
+  "review": "manual"
+ },
+ "MAMO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 44,
+  "review": "manual"
+ },
+ "UG": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 44,
+  "review": "manual"
+ },
+ "RPID": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 44,
+  "review": "manual"
+ },
+ "CCEL": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 44,
+  "review": "manual"
+ },
+ "RMCO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 44,
+  "review": "manual"
+ },
+ "PRPO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 44,
+  "review": "manual"
+ },
+ "AXIL": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 44,
+  "review": "manual"
+ },
+ "REKR": {
+  "verdict": "EXCLUDE",
+  "findings": [
+   {
+    "label": "a",
+    "category": "Surveillance technology sold to state security",
+    "text": "Rekor sells automated licence-plate recognition to law-enforcement agencies and runs a public-safety ALPR data network.",
+    "sources": [
+     "https://www.traffictechnologytoday.com/news/machine-vision-alpr/rekor-launches-public-safety-network-of-alpr-data-for-law-enforcement-agencies.html",
+     "https://hubspot.brite.com/hubfs/Marketing%20Documents/Public%20Safety/Rekor%20-%20LPR%20for%20Law%20Enforcement%20Solutions%20Overview.pdf"
+    ]
+   }
+  ],
+  "batch": 45,
+  "review": "manual"
+ },
+ "LASE": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Laser cleaning systems with reported defense customers. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 45,
+  "review": "manual"
+ },
+ "NEPH": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 45,
+  "review": "manual"
+ },
+ "BCHT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 45,
+  "review": "manual"
+ },
+ "MLSS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 45,
+  "review": "manual"
+ },
+ "AERT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 46,
+  "review": "manual"
+ },
+ "PPSI": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 46,
+  "review": "manual"
+ },
+ "GIFT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 46,
+  "review": "manual"
+ },
+ "MXC": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 46,
+  "review": "manual"
+ },
+ "ELWT": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 46,
+  "review": "manual"
+ },
+ "KSCP": {
+  "verdict": "PASS",
+  "note": [
+   [
+    "Not fully researched",
+    "Autonomous security robots/emergency call boxes; possible law-enforcement surveillance use. Verify.",
+    []
+   ]
+  ],
+  "findings": [],
+  "batch": 47,
+  "review": "manual"
+ },
+ "INLX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 47,
+  "review": "manual"
+ },
+ "SNWV": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 47,
+  "review": "manual"
+ },
+ "BEEM": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 47,
+  "review": "manual"
+ },
+ "ZEO": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 47,
+  "review": "manual"
+ },
+ "ACCS": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 47,
+  "review": "manual"
+ },
+ "IRIX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 48,
+  "review": "manual"
+ },
+ "CVR": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 48,
+  "review": "manual"
+ },
+ "BRFH": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 49,
+  "review": "manual"
+ },
+ "AXNX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 50,
+  "review": "manual"
+ },
+ "NIXX": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 50,
+  "review": "manual"
+ },
+ "SCAG": {
+  "verdict": "PASS",
+  "note": "No match in AFSC Investigate, Who Profits, or the BDS guide. No company-specific web search run: business line judged low-risk for the exclusion categories (light review).",
+  "findings": [],
+  "batch": 51,
+  "review": "manual"
  }
 }

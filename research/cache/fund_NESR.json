@@ -1,0 +1,70 @@
+{
+ "ticker": "NESR",
+ "src_stats": "https://stockanalysis.com/stocks/nesr/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/nesr/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/nesr/financials/ratios/",
+ "Market Cap": "2.04B",
+ "Enterprise Value": "2.24B",
+ "PE Ratio": "18.64",
+ "Forward PE": "9.07",
+ "PS Ratio": "1.12",
+ "EV / EBITDA": "6.90",
+ "Gross Margin": "13.60%",
+ "Operating Margin": "9.99%",
+ "Profit Margin": "6.02%",
+ "FCF Margin": "7.90%",
+ "Debt / Equity": "0.28",
+ "Debt / EBITDA": "0.53",
+ "Net Cash": "-193.19M",
+ "Total Debt": "300.04M",
+ "Cash & Cash Equivalents": "106.84M",
+ "Return on Invested Capital (ROIC)": "11.11%",
+ "Return on Equity (ROE)": "10.80%",
+ "Revenue": "1.83B",
+ "Net Income": "109.98M",
+ "Free Cash Flow": "144.47M",
+ "Dividend Yield": "2.00%",
+ "Beta (5Y)": "0.55",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,828",
+  "1,324",
+  "1,302",
+  "1,146",
+  "909.52",
+  "876.73"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "109.98",
+  "51.13",
+  "76.31",
+  "12.58",
+  "-36.42",
+  "-64.57"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "18.68",
+  "30.87",
+  "11.21",
+  "46.06",
+  "-",
+  "-"
+ ]
+}

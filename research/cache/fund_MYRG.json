@@ -1,0 +1,70 @@
+{
+ "ticker": "MYRG",
+ "src_stats": "https://stockanalysis.com/stocks/myrg/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/myrg/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/myrg/financials/ratios/",
+ "Market Cap": "4.16B",
+ "Enterprise Value": "4.42B",
+ "PE Ratio": "21.72",
+ "Forward PE": "18.08",
+ "PS Ratio": "0.96",
+ "EV / EBITDA": "13.04",
+ "Gross Margin": "12.97%",
+ "Operating Margin": "6.06%",
+ "Profit Margin": "4.48%",
+ "FCF Margin": "3.18%",
+ "Debt / Equity": "0.34",
+ "Debt / EBITDA": "0.78",
+ "Net Cash": "-255.10M",
+ "Total Debt": "281.11M",
+ "Cash & Cash Equivalents": "26.01M",
+ "Return on Invested Capital (ROIC)": "22.11%",
+ "Return on Equity (ROE)": "26.90%",
+ "Revenue": "4.31B",
+ "Net Income": "193.20M",
+ "Free Cash Flow": "137.11M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.37",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,315",
+  "3,658",
+  "3,362",
+  "3,644",
+  "3,009",
+  "2,498"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "193.2",
+  "118.42",
+  "30.26",
+  "90.99",
+  "83.38",
+  "85.01"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "21.72",
+  "28.64",
+  "79.25",
+  "26.56",
+  "18.33",
+  "21.94"
+ ]
+}

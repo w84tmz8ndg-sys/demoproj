@@ -1,0 +1,70 @@
+{
+ "ticker": "FIVN",
+ "src_stats": "https://stockanalysis.com/stocks/fivn/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/fivn/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/fivn/financials/ratios/",
+ "Market Cap": "1.93B",
+ "Enterprise Value": "2.07B",
+ "PE Ratio": "36.04",
+ "Forward PE": "7.17",
+ "PS Ratio": "1.55",
+ "EV / EBITDA": "14.29",
+ "Gross Margin": "54.65%",
+ "Operating Margin": "5.70%",
+ "Profit Margin": "4.51%",
+ "FCF Margin": "17.22%",
+ "Debt / Equity": "1.01",
+ "Debt / EBITDA": "5.28",
+ "Net Cash": "-148.96M",
+ "Total Debt": "846.63M",
+ "Cash & Cash Equivalents": "697.67M",
+ "Return on Invested Capital (ROIC)": "6.36%",
+ "Return on Equity (ROE)": "6.94%",
+ "Revenue": "1.24B",
+ "Net Income": "55.99M",
+ "Free Cash Flow": "213.74M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.55",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,241",
+  "1,149",
+  "1,042",
+  "910.49",
+  "778.85",
+  "609.59"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "55.99",
+  "39.42",
+  "-12.8",
+  "-81.76",
+  "-94.65",
+  "-53"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "36.18",
+  "39.79",
+  "-",
+  "-",
+  "-",
+  "-"
+ ]
+}

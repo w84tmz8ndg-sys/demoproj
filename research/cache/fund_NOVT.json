@@ -1,0 +1,70 @@
+{
+ "ticker": "NOVT",
+ "src_stats": "https://stockanalysis.com/stocks/novt/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/novt/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/novt/financials/ratios/",
+ "Market Cap": "4.36B",
+ "Enterprise Value": "5.11B",
+ "PE Ratio": "88.37",
+ "Forward PE": "28.78",
+ "PS Ratio": "3.99",
+ "EV / EBITDA": "25.29",
+ "Gross Margin": "44.48%",
+ "Operating Margin": "11.76%",
+ "Profit Margin": "4.89%",
+ "FCF Margin": "12.92%",
+ "Debt / Equity": "0.55",
+ "Debt / EBITDA": "4.15",
+ "Net Cash": "-744.92M",
+ "Total Debt": "894.13M",
+ "Cash & Cash Equivalents": "149.22M",
+ "Return on Invested Capital (ROIC)": "5.44%",
+ "Return on Equity (ROE)": "4.38%",
+ "Revenue": "1.09B",
+ "Net Income": "53.13M",
+ "Free Cash Flow": "140.44M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.70",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,087",
+  "980.6",
+  "949.25",
+  "881.66",
+  "860.9",
+  "706.79"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "53.13",
+  "53.83",
+  "64.09",
+  "72.88",
+  "74.05",
+  "50.33"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "88.37",
+  "79.08",
+  "85.63",
+  "82.75",
+  "65.49",
+  "124.72"
+ ]
+}

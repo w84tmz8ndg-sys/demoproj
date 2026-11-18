@@ -1,0 +1,70 @@
+{
+ "ticker": "USLM",
+ "src_stats": "https://stockanalysis.com/stocks/uslm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/uslm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/uslm/financials/ratios/",
+ "Market Cap": "3.01B",
+ "Enterprise Value": "2.58B",
+ "PE Ratio": "22.68",
+ "Forward PE": "17.48",
+ "PS Ratio": "7.90",
+ "EV / EBITDA": "14.05",
+ "Gross Margin": "54.39%",
+ "Operating Margin": "41.24%",
+ "Profit Margin": "35.08%",
+ "FCF Margin": "25.91%",
+ "Debt / Equity": "0.01",
+ "Debt / EBITDA": "0.02",
+ "Net Cash": "434.94M",
+ "Total Debt": "4.31M",
+ "Cash & Cash Equivalents": "439.25M",
+ "Return on Invested Capital (ROIC)": "41.26%",
+ "Return on Equity (ROE)": "20.01%",
+ "Revenue": "381.09M",
+ "Net Income": "133.68M",
+ "Free Cash Flow": "98.73M",
+ "Dividend Yield": "0.23%",
+ "Beta (5Y)": "0.67",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "381.09",
+  "372.73",
+  "317.72",
+  "281.33",
+  "236.15",
+  "189.26"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "133.68",
+  "134.28",
+  "108.84",
+  "74.55",
+  "45.43",
+  "37.05"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "22.68",
+  "25.47",
+  "34.76",
+  "17.55",
+  "17.52",
+  "19.64"
+ ]
+}

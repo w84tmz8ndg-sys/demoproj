@@ -1,0 +1,13 @@
+from ethics_lib import *
+b = Batch(17)
+b.ex("EXTR","a","Military networking sold to DoD","Switches on DoD JITC Unified Capabilities Approved Products List; US Navy ExtremeWorks/AirDefense licence renewals (2026).", "https://samsearch.co/gov-explore/federal/extreme-networks-extremeworks-for-airdefense-license-renewals/N6449826Q5227","https://investor.extremenetworks.com/node/10166")
+b.ex("TDC","a","Military IT services to defense ministries","Navy prime contractor for a DoD logistics data centre (2006); DISA IDIQ for Defense Commissary Agency analytics; DoD is its top federal agency.", "https://washingtontechnology.com/articles/2011/12/20/teradata-disa-contract.aspx","https://investor.ncr.com/news-releases/news-release-details/naval-air-systems-command-selects-ncr-government-systems-llc","https://www.sweetspot.so/markets/federal/contractors/teradata-operations-inc-q51gsvbyxts9/")
+b.oks("IOVA FRSH DHT ARQT KAI CENX AXGN ENPH WRBY NHC ALRM ACAD LRN FRPT MHO CARG BLSH GRDN LEGN CALM MGRC HWKN USLM ACLS IRTC", LIGHT_NOTE)
+b.save()
+b = Batch(18)
+b.ex("BELFB","a","Weapons/defense supply chain","Aerospace, Defense & Rugged Solutions unit = 55% of 2025 sales; power/networking products for missiles, anti-missile defence, EW, radar and military vehicles.", "https://rallies.ai/news/bel-fuse-reorganizes-into-two-business-units-driving-676m-of-2025-sales","https://apctech.com/manufacturers/bel-aerospace-defense")
+b.ex("SXI","a","Weapons supply chain","Renamed segment 'Standex Aerospace & Defense'; ~15% of it defense, 'most of that is missiles'.", "https://www.marketbeat.com/instant-alerts/standex-international-q3-earnings-call-highlights-2026-05-02/","https://standex.com/businesses/aerospace-defense/")
+b.ex("IPGP","a","Weapons maker","IPG Defense unit makes CROSSBOW counter-drone laser weapons; deliveries to Lockheed Martin (~$10M follow-on order).", "https://optics.org/news/ipg-ships-counter-drone-laser-weapons-to-lockheed-martin","https://www.janes.com/osint-insights/defence-news/defence/dsei-2025-ipg-photonics-displays-c-uas-laser-system")
+b.ex("KN","a","Defense supply chain","~21% of revenue from defense; Precision Devices RF filters (~90% defense) and capacitors for electronic warfare.", "https://www.marketbeat.com/instant-alerts/knowles-q2-earnings-call-highlights-2026-07-23/","https://s29.q4cdn.com/538730168/files/doc_financials/2025/ar/Knowles-2025-Annual-Report.pdf")
+b.oks("MZTI LOPE WDFC SHOO ARCB ADMA VERX VCEL SPSC WOR BTE ATRC TR YETI PGNY FLYW", LIGHT_NOTE)
+b.save()

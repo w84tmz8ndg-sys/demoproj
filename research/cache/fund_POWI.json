@@ -1,0 +1,70 @@
+{
+ "ticker": "POWI",
+ "src_stats": "https://stockanalysis.com/stocks/powi/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/powi/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/powi/financials/ratios/",
+ "Market Cap": "2.38B",
+ "Enterprise Value": "2.09B",
+ "PE Ratio": "53.73",
+ "Forward PE": "24.12",
+ "PS Ratio": "5.25",
+ "EV / EBITDA": "29.87",
+ "Gross Margin": "54.01%",
+ "Operating Margin": "9.76%",
+ "Profit Margin": "9.81%",
+ "FCF Margin": "20.04%",
+ "Debt / Equity": "n/a",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "288.11M",
+ "Total Debt": "n/a",
+ "Cash & Cash Equivalents": "288.11M",
+ "Return on Invested Capital (ROIC)": "10.13%",
+ "Return on Equity (ROE)": "6.53%",
+ "Revenue": "455.93M",
+ "Net Income": "44.74M",
+ "Free Cash Flow": "91.38M",
+ "Dividend Yield": "2.02%",
+ "Beta (5Y)": "1.57",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "455.93",
+  "443.5",
+  "418.97",
+  "444.54",
+  "651.14",
+  "703.28"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "44.74",
+  "22.09",
+  "32.23",
+  "55.74",
+  "170.85",
+  "164.41"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "53.73",
+  "89.02",
+  "108.85",
+  "84.54",
+  "24.01",
+  "34.09"
+ ]
+}

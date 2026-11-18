@@ -1,0 +1,70 @@
+{
+ "ticker": "RHI",
+ "src_stats": "https://stockanalysis.com/stocks/rhi/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/rhi/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/rhi/financials/ratios/",
+ "Market Cap": "4.19B",
+ "Enterprise Value": "4.11B",
+ "PE Ratio": "34.16",
+ "Forward PE": "23.06",
+ "PS Ratio": "0.80",
+ "EV / EBITDA": "34.08",
+ "Gross Margin": "37.29%",
+ "Operating Margin": "1.36%",
+ "Profit Margin": "2.30%",
+ "FCF Margin": "3.95%",
+ "Debt / Equity": "0.20",
+ "Debt / EBITDA": "1.23",
+ "Net Cash": "77.32M",
+ "Total Debt": "243.97M",
+ "Cash & Cash Equivalents": "321.29M",
+ "Return on Invested Capital (ROIC)": "4.01%",
+ "Return on Equity (ROE)": "9.76%",
+ "Revenue": "5.30B",
+ "Net Income": "121.73M",
+ "Free Cash Flow": "209.23M",
+ "Dividend Yield": "5.66%",
+ "Beta (5Y)": "0.75",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "5,298",
+  "5,379",
+  "5,796",
+  "6,393",
+  "7,238",
+  "6,461"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "121.73",
+  "132.99",
+  "251.6",
+  "411.15",
+  "657.92",
+  "598.63"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "34.16",
+  "20.30",
+  "28.42",
+  "22.27",
+  "11.98",
+  "20.39"
+ ]
+}

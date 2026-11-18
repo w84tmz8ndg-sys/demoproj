@@ -1,0 +1,70 @@
+{
+ "ticker": "ACAD",
+ "src_stats": "https://stockanalysis.com/stocks/acad/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/acad/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/acad/financials/ratios/",
+ "Market Cap": "3.17B",
+ "Enterprise Value": "2.26B",
+ "PE Ratio": "8.76",
+ "Forward PE": "18.00",
+ "PS Ratio": "2.63",
+ "EV / EBITDA": "16.75",
+ "Gross Margin": "63.91%",
+ "Operating Margin": "10.17%",
+ "Profit Margin": "30.13%",
+ "FCF Margin": "6.82%",
+ "Debt / Equity": "0.05",
+ "Debt / EBITDA": "0.48",
+ "Net Cash": "904.59M",
+ "Total Debt": "71.85M",
+ "Cash & Cash Equivalents": "976.45M",
+ "Return on Invested Capital (ROIC)": "26.98%",
+ "Return on Equity (ROE)": "31.43%",
+ "Revenue": "1.20B",
+ "Net Income": "362.23M",
+ "Free Cash Flow": "81.99M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.89",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,202",
+  "1,072",
+  "957.8",
+  "726.44",
+  "517.24",
+  "484.15"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "362.23",
+  "391",
+  "226.45",
+  "-61.29",
+  "-215.98",
+  "-167.87"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "8.75",
+  "11.56",
+  "13.48",
+  "-",
+  "-",
+  "-"
+ ]
+}

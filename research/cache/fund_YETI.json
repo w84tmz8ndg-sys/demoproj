@@ -1,0 +1,70 @@
+{
+ "ticker": "YETI",
+ "src_stats": "https://stockanalysis.com/stocks/yeti/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/yeti/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/yeti/financials/ratios/",
+ "Market Cap": "2.77B",
+ "Enterprise Value": "2.92B",
+ "PE Ratio": "15.72",
+ "Forward PE": "12.33",
+ "PS Ratio": "1.41",
+ "EV / EBITDA": "11.53",
+ "Gross Margin": "57.22%",
+ "Operating Margin": "9.99%",
+ "Profit Margin": "9.39%",
+ "FCF Margin": "11.94%",
+ "Debt / Equity": "0.35",
+ "Debt / EBITDA": "0.77",
+ "Net Cash": "-150.45M",
+ "Total Debt": "224.27M",
+ "Cash & Cash Equivalents": "73.82M",
+ "Return on Invested Capital (ROIC)": "18.69%",
+ "Return on Equity (ROE)": "27.30%",
+ "Revenue": "1.96B",
+ "Net Income": "183.77M",
+ "Free Cash Flow": "233.72M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.63",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,957",
+  "1,868",
+  "1,830",
+  "1,659",
+  "1,595",
+  "1,411"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "183.77",
+  "165.39",
+  "175.69",
+  "169.89",
+  "89.69",
+  "212.6"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "15.72",
+  "21.10",
+  "19.00",
+  "26.47",
+  "39.72",
+  "34.15"
+ ]
+}

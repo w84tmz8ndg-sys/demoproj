@@ -1,0 +1,70 @@
+{
+ "ticker": "NHC",
+ "src_stats": "https://stockanalysis.com/stocks/nhc/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/nhc/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/nhc/financials/ratios/",
+ "Market Cap": "3.22B",
+ "Enterprise Value": "3.52B",
+ "PE Ratio": "28.44",
+ "Forward PE": "n/a",
+ "PS Ratio": "2.04",
+ "EV / EBITDA": "17.28",
+ "Gross Margin": "39.27%",
+ "Operating Margin": "9.78%",
+ "Profit Margin": "7.24%",
+ "FCF Margin": "11.09%",
+ "Debt / Equity": "0.46",
+ "Debt / EBITDA": "2.15",
+ "Net Cash": "-297.04M",
+ "Total Debt": "518.37M",
+ "Cash & Cash Equivalents": "221.33M",
+ "Return on Invested Capital (ROIC)": "10.04%",
+ "Return on Equity (ROE)": "10.60%",
+ "Revenue": "1.58B",
+ "Net Income": "114.66M",
+ "Free Cash Flow": "175.71M",
+ "Dividend Yield": "1.30%",
+ "Beta (5Y)": "0.64",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,584",
+  "1,518",
+  "1,298",
+  "1,135",
+  "1,074",
+  "1,011"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "114.66",
+  "120.02",
+  "101.93",
+  "66.8",
+  "22.45",
+  "138.59"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "28.44",
+  "17.72",
+  "16.29",
+  "21.20",
+  "40.68",
+  "7.56"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "ADUS",
+ "src_stats": "https://stockanalysis.com/stocks/adus/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/adus/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/adus/financials/ratios/",
+ "Market Cap": "2.22B",
+ "Enterprise Value": "2.19B",
+ "PE Ratio": "20.23",
+ "Forward PE": "16.32",
+ "PS Ratio": "1.48",
+ "EV / EBITDA": "12.66",
+ "Gross Margin": "32.32%",
+ "Operating Margin": "10.41%",
+ "Profit Margin": "7.39%",
+ "FCF Margin": "9.60%",
+ "Debt / Equity": "0.06",
+ "Debt / EBITDA": "0.36",
+ "Net Cash": "31.16M",
+ "Total Debt": "67.33M",
+ "Cash & Cash Equivalents": "98.48M",
+ "Return on Invested Capital (ROIC)": "10.07%",
+ "Return on Equity (ROE)": "9.96%",
+ "Revenue": "1.50B",
+ "Net Income": "111.05M",
+ "Free Cash Flow": "144.23M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.74",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,502",
+  "1,423",
+  "1,155",
+  "1,059",
+  "951.12",
+  "864.5"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "111.05",
+  "95.91",
+  "73.6",
+  "62.52",
+  "46.03",
+  "45.13"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "20.23",
+  "20.42",
+  "30.54",
+  "23.77",
+  "34.48",
+  "32.69"
+ ]
+}

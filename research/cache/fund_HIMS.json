@@ -1,0 +1,70 @@
+{
+ "ticker": "HIMS",
+ "src_stats": "https://stockanalysis.com/stocks/hims/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/hims/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/hims/financials/ratios/",
+ "Market Cap": "4.11B",
+ "Enterprise Value": "4.96B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "1.43",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "64.81%",
+ "Operating Margin": "-6.39%",
+ "Profit Margin": "-6.65%",
+ "FCF Margin": "1.10%",
+ "Debt / Equity": "4.39",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "-848.54M",
+ "Total Debt": "1.56B",
+ "Cash & Cash Equivalents": "712.22M",
+ "Return on Invested Capital (ROIC)": "-16.41%",
+ "Return on Equity (ROE)": "-40.77%",
+ "Revenue": "2.87B",
+ "Net Income": "-190.84M",
+ "Free Cash Flow": "31.68M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "2.50",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,870",
+  "2,348",
+  "1,477",
+  "872",
+  "526.92",
+  "271.88"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-190.84",
+  "128.37",
+  "126.04",
+  "-23.55",
+  "-65.68",
+  "-107.66"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "57.58",
+  "41.92",
+  "-",
+  "-",
+  "-"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "WDFC",
+ "src_stats": "https://stockanalysis.com/stocks/wdfc/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/wdfc/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/wdfc/financials/ratios/",
+ "Market Cap": "2.96B",
+ "Enterprise Value": "2.99B",
+ "PE Ratio": "36.38",
+ "Forward PE": "33.83",
+ "PS Ratio": "4.30",
+ "EV / EBITDA": "25.06",
+ "Gross Margin": "55.31%",
+ "Operating Margin": "15.83%",
+ "Profit Margin": "11.97%",
+ "FCF Margin": "14.18%",
+ "Debt / Equity": "0.37",
+ "Debt / EBITDA": "0.81",
+ "Net Cash": "-29.95M",
+ "Total Debt": "100.56M",
+ "Cash & Cash Equivalents": "70.61M",
+ "Return on Invested Capital (ROIC)": "26.45%",
+ "Return on Equity (ROE)": "30.44%",
+ "Revenue": "687.99M",
+ "Net Income": "82.12M",
+ "Free Cash Flow": "97.57M",
+ "Dividend Yield": "1.84%",
+ "Beta (5Y)": "0.26",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "687.99",
+  "687.99",
+  "619.99",
+  "590.56",
+  "537.26",
+  "518.82"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "82.12",
+  "82.12",
+  "90.73",
+  "69.4",
+  "65.72",
+  "67.08"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "36.38",
+  "35.00",
+  "32.22",
+  "51.31",
+  "44.34",
+  "38.43"
+ ]
+}

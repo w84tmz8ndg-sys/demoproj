@@ -1,0 +1,70 @@
+{
+ "ticker": "DORM",
+ "src_stats": "https://stockanalysis.com/stocks/dorm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/dorm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/dorm/financials/ratios/",
+ "Market Cap": "3.85B",
+ "Enterprise Value": "4.21B",
+ "PE Ratio": "19.55",
+ "Forward PE": "15.20",
+ "PS Ratio": "1.77",
+ "EV / EBITDA": "10.69",
+ "Gross Margin": "41.05%",
+ "Operating Margin": "15.57%",
+ "Profit Margin": "9.30%",
+ "FCF Margin": "12.39%",
+ "Debt / Equity": "0.33",
+ "Debt / EBITDA": "1.20",
+ "Net Cash": "-356.40M",
+ "Total Debt": "523.40M",
+ "Cash & Cash Equivalents": "167.01M",
+ "Return on Invested Capital (ROIC)": "13.03%",
+ "Return on Equity (ROE)": "13.26%",
+ "Revenue": "2.17B",
+ "Net Income": "202.06M",
+ "Free Cash Flow": "269.23M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.99",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,173",
+  "2,130",
+  "2,009",
+  "1,930",
+  "1,734",
+  "1,345"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "202.06",
+  "204.19",
+  "190",
+  "129.26",
+  "121.55",
+  "131.53"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "19.55",
+  "18.44",
+  "20.81",
+  "20.32",
+  "20.90",
+  "25.59"
+ ]
+}

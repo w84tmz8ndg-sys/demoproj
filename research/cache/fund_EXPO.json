@@ -1,0 +1,70 @@
+{
+ "ticker": "EXPO",
+ "src_stats": "https://stockanalysis.com/stocks/expo/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/expo/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/expo/financials/ratios/",
+ "Market Cap": "4.17B",
+ "Enterprise Value": "4.14B",
+ "PE Ratio": "37.85",
+ "Forward PE": "28.00",
+ "PS Ratio": "7.15",
+ "EV / EBITDA": "27.44",
+ "Gross Margin": "37.76%",
+ "Operating Margin": "24.08%",
+ "Profit Margin": "19.66%",
+ "FCF Margin": "24.12%",
+ "Debt / Equity": "0.26",
+ "Debt / EBITDA": "0.49",
+ "Net Cash": "33.55M",
+ "Total Debt": "81.14M",
+ "Cash & Cash Equivalents": "114.69M",
+ "Return on Invested Capital (ROIC)": "34.84%",
+ "Return on Equity (ROE)": "32.27%",
+ "Revenue": "583.12M",
+ "Net Income": "114.67M",
+ "Free Cash Flow": "140.64M",
+ "Dividend Yield": "1.41%",
+ "Beta (5Y)": "0.68",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "583.12",
+  "536.76",
+  "518.49",
+  "497.19",
+  "463.82",
+  "434.85"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "114.67",
+  "106.01",
+  "109",
+  "100.34",
+  "102.33",
+  "101.2"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "37.85",
+  "33.01",
+  "41.41",
+  "44.42",
+  "49.04",
+  "60.11"
+ ]
+}

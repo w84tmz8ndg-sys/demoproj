@@ -1,0 +1,70 @@
+{
+ "ticker": "MGNI",
+ "src_stats": "https://stockanalysis.com/stocks/mgni/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/mgni/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/mgni/financials/ratios/",
+ "Market Cap": "4.08B",
+ "Enterprise Value": "4.10B",
+ "PE Ratio": "23.72",
+ "Forward PE": "21.59",
+ "PS Ratio": "5.23",
+ "EV / EBITDA": "21.86",
+ "Gross Margin": "66.62%",
+ "Operating Margin": "18.47%",
+ "Profit Margin": "23.58%",
+ "FCF Margin": "31.35%",
+ "Debt / Equity": "0.43",
+ "Debt / EBITDA": "1.94",
+ "Net Cash": "-19.08M",
+ "Total Debt": "411.94M",
+ "Cash & Cash Equivalents": "392.86M",
+ "Return on Invested Capital (ROIC)": "14.15%",
+ "Return on Equity (ROE)": "20.44%",
+ "Revenue": "766.75M",
+ "Net Income": "180.84M",
+ "Free Cash Flow": "240.36M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "2.39",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "766.75",
+  "713.95",
+  "668.17",
+  "619.71",
+  "577.07",
+  "468.41"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "180.84",
+  "144.61",
+  "22.79",
+  "-159.18",
+  "-130.32",
+  "0.07"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "23.83",
+  "16.12",
+  "98.30",
+  "-",
+  "-",
+  "35488.08"
+ ]
+}

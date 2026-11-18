@@ -1,0 +1,59 @@
+{
+ "ticker": "LGN",
+ "src_stats": "https://stockanalysis.com/stocks/lgn/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/lgn/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/lgn/financials/ratios/",
+ "Market Cap": "3.79B",
+ "Enterprise Value": "4.64B",
+ "PE Ratio": "54.63",
+ "Forward PE": "13.30",
+ "PS Ratio": "0.85",
+ "EV / EBITDA": "11.22",
+ "Gross Margin": "19.07%",
+ "Operating Margin": "5.62%",
+ "Profit Margin": "1.04%",
+ "FCF Margin": "6.86%",
+ "Debt / Equity": "1.11",
+ "Debt / EBITDA": "2.55",
+ "Net Cash": "-846.13M",
+ "Total Debt": "1.19B",
+ "Cash & Cash Equivalents": "347.19M",
+ "Return on Invested Capital (ROIC)": "9.07%",
+ "Return on Equity (ROE)": "6.53%",
+ "Revenue": "4.35B",
+ "Net Income": "45.11M",
+ "Free Cash Flow": "298.34M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "n/a",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "4,348",
+  "2,550",
+  "2,099",
+  "1,615",
+  "1,247"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "45.11",
+  "-33.8",
+  "-28.56",
+  "-46.03",
+  "-82.27"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": null
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "CALM",
+ "src_stats": "https://stockanalysis.com/stocks/calm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/calm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/calm/financials/ratios/",
+ "Market Cap": "3.05B",
+ "Enterprise Value": "2.28B",
+ "PE Ratio": "52.86",
+ "Forward PE": "n/a",
+ "PS Ratio": "1.21",
+ "EV / EBITDA": "15.40",
+ "Gross Margin": "14.28%",
+ "Operating Margin": "0.80%",
+ "Profit Margin": "2.32%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "n/a",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "767.59M",
+ "Total Debt": "n/a",
+ "Cash & Cash Equivalents": "767.59M",
+ "Return on Invested Capital (ROIC)": "0.98%",
+ "Return on Equity (ROE)": "2.38%",
+ "Revenue": "2.53B",
+ "Net Income": "58.73M",
+ "Free Cash Flow": "-32.77M",
+ "Dividend Yield": "1.66%",
+ "Beta (5Y)": "0.25",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "2,529",
+  "2,912",
+  "4,262",
+  "2,326",
+  "3,146",
+  "1,777"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "58.73",
+  "316.68",
+  "1,220",
+  "277.89",
+  "758.02",
+  "132.65"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "52.86",
+  "11.18",
+  "3.86",
+  "10.88",
+  "3.07",
+  "17.77"
+ ]
+}

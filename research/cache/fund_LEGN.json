@@ -1,0 +1,63 @@
+{
+ "ticker": "LEGN",
+ "src_stats": "https://stockanalysis.com/stocks/legn/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/legn/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/legn/financials/ratios/",
+ "Market Cap": "3.12B",
+ "Enterprise Value": "2.44B",
+ "PE Ratio": "n/a",
+ "Forward PE": "31.05",
+ "PS Ratio": "2.27",
+ "EV / EBITDA": "47.88",
+ "Gross Margin": "56.98%",
+ "Operating Margin": "2.75%",
+ "Profit Margin": "-0.01%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.13",
+ "Debt / EBITDA": "1.91",
+ "Net Cash": "685.10M",
+ "Total Debt": "167.40M",
+ "Cash & Cash Equivalents": "852.50M",
+ "Return on Invested Capital (ROIC)": "-0.04%",
+ "Return on Equity (ROE)": "-0.02%",
+ "Revenue": "1.36B",
+ "Net Income": "-200,000",
+ "Free Cash Flow": "-187.10M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.55",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,359",
+  "1,029",
+  "627.3",
+  "285.1",
+  "117.01",
+  "68.83"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-0.2",
+  "-296.8",
+  "-177",
+  "-518.3",
+  "-446.35",
+  "-403.58"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

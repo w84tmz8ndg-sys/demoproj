@@ -1,0 +1,63 @@
+{
+ "ticker": "INTA",
+ "src_stats": "https://stockanalysis.com/stocks/inta/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/inta/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/inta/financials/ratios/",
+ "Market Cap": "3.45B",
+ "Enterprise Value": "3.32B",
+ "PE Ratio": "n/a",
+ "Forward PE": "25.10",
+ "PS Ratio": "5.76",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "76.64%",
+ "Operating Margin": "-2.78%",
+ "Profit Margin": "-4.71%",
+ "FCF Margin": "26.59%",
+ "Debt / Equity": "0.07",
+ "Debt / EBITDA": "4.66",
+ "Net Cash": "126.70M",
+ "Total Debt": "21.00M",
+ "Cash & Cash Equivalents": "147.69M",
+ "Return on Invested Capital (ROIC)": "-2.48%",
+ "Return on Equity (ROE)": "-7.11%",
+ "Revenue": "600.04M",
+ "Net Income": "-28.26M",
+ "Free Cash Flow": "159.56M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.30",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "600.04",
+  "577.81",
+  "504.12",
+  "430.52",
+  "350.87",
+  "272.07"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-28.26",
+  "-41.31",
+  "-18.22",
+  "-32.02",
+  "-69.43",
+  "-99.68"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": null
+}

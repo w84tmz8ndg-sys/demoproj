@@ -1,0 +1,70 @@
+{
+ "ticker": "SONO",
+ "src_stats": "https://stockanalysis.com/stocks/sono/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/sono/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/sono/financials/ratios/",
+ "Market Cap": "2.01B",
+ "Enterprise Value": "1.84B",
+ "PE Ratio": "23.32",
+ "Forward PE": "21.01",
+ "PS Ratio": "1.30",
+ "EV / EBITDA": "15.46",
+ "Gross Margin": "44.33%",
+ "Operating Margin": "4.62%",
+ "Profit Margin": "5.79%",
+ "FCF Margin": "7.94%",
+ "Debt / Equity": "0.13",
+ "Debt / EBITDA": "0.39",
+ "Net Cash": "175.34M",
+ "Total Debt": "51.80M",
+ "Cash & Cash Equivalents": "227.14M",
+ "Return on Invested Capital (ROIC)": "32.69%",
+ "Return on Equity (ROE)": "24.12%",
+ "Revenue": "1.55B",
+ "Net Income": "89.60M",
+ "Free Cash Flow": "122.90M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.94",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,547",
+  "1,547",
+  "1,443",
+  "1,518",
+  "1,655",
+  "1,752"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "89.6",
+  "89.6",
+  "-61.14",
+  "-38.15",
+  "-10.27",
+  "67.38"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "23.32",
+  "23.37",
+  "-",
+  "-",
+  "-",
+  "26.25"
+ ]
+}

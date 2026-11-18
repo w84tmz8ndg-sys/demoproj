@@ -1,0 +1,70 @@
+{
+ "ticker": "DV",
+ "src_stats": "https://stockanalysis.com/stocks/dv/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/dv/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/dv/financials/ratios/",
+ "Market Cap": "2.12B",
+ "Enterprise Value": "1.98B",
+ "PE Ratio": "34.49",
+ "Forward PE": "11.95",
+ "PS Ratio": "2.70",
+ "EV / EBITDA": "12.54",
+ "Gross Margin": "82.17%",
+ "Operating Margin": "13.78%",
+ "Profit Margin": "8.22%",
+ "FCF Margin": "21.27%",
+ "Debt / Equity": "0.10",
+ "Debt / EBITDA": "0.63",
+ "Net Cash": "142.49M",
+ "Total Debt": "108.36M",
+ "Cash & Cash Equivalents": "250.85M",
+ "Return on Invested Capital (ROIC)": "6.93%",
+ "Return on Equity (ROE)": "5.85%",
+ "Revenue": "785.84M",
+ "Net Income": "64.59M",
+ "Free Cash Flow": "167.18M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.91",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "785.84",
+  "748.29",
+  "656.85",
+  "572.54",
+  "452.42",
+  "332.74"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "64.59",
+  "50.65",
+  "56.23",
+  "71.47",
+  "43.27",
+  "29.31"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "34.50",
+  "36.39",
+  "57.79",
+  "87.48",
+  "83.68",
+  "180.08"
+ ]
+}

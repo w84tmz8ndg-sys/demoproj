@@ -1,0 +1,70 @@
+{
+ "ticker": "DGII",
+ "src_stats": "https://stockanalysis.com/stocks/dgii/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/dgii/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/dgii/financials/ratios/",
+ "Market Cap": "2.02B",
+ "Enterprise Value": "2.05B",
+ "PE Ratio": "38.50",
+ "Forward PE": "17.28",
+ "PS Ratio": "3.77",
+ "EV / EBITDA": "16.50",
+ "Gross Margin": "63.76%",
+ "Operating Margin": "14.95%",
+ "Profit Margin": "10.03%",
+ "FCF Margin": "28.57%",
+ "Debt / Equity": "0.10",
+ "Debt / EBITDA": "0.54",
+ "Net Cash": "-37.68M",
+ "Total Debt": "67.20M",
+ "Cash & Cash Equivalents": "29.52M",
+ "Return on Invested Capital (ROIC)": "7.80%",
+ "Return on Equity (ROE)": "8.01%",
+ "Revenue": "535.19M",
+ "Net Income": "53.69M",
+ "Free Cash Flow": "152.90M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.00",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "535.19",
+  "535.19",
+  "430.22",
+  "424.05",
+  "444.85",
+  "388.23"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "53.69",
+  "53.69",
+  "40.8",
+  "22.51",
+  "24.77",
+  "19.38"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "38.43",
+  "53.88",
+  "33.17",
+  "44.55",
+  "39.21",
+  "62.95"
+ ]
+}

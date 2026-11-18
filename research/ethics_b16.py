@@ -1,0 +1,4 @@
+from ethics_lib import *
+b = Batch(16)
+b.oks("BOOT THO CVSA GNTX AZZ DORM TARS CDNA COLM DIOD MWA BRC TDW WK LGN COCO VIA FIGS INTA FIZZ", LIGHT_NOTE)
+b.save()

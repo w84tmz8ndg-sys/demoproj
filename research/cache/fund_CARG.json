@@ -1,0 +1,70 @@
+{
+ "ticker": "CARG",
+ "src_stats": "https://stockanalysis.com/stocks/carg/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/carg/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/carg/financials/ratios/",
+ "Market Cap": "3.06B",
+ "Enterprise Value": "3.07B",
+ "PE Ratio": "22.32",
+ "Forward PE": "11.61",
+ "PS Ratio": "3.11",
+ "EV / EBITDA": "11.17",
+ "Gross Margin": "92.14%",
+ "Operating Margin": "26.18%",
+ "Profit Margin": "18.51%",
+ "FCF Margin": "32.72%",
+ "Debt / Equity": "0.60",
+ "Debt / EBITDA": "0.60",
+ "Net Cash": "-17.36M",
+ "Total Debt": "182.27M",
+ "Cash & Cash Equivalents": "164.91M",
+ "Return on Invested Capital (ROIC)": "62.00%",
+ "Return on Equity (ROE)": "55.39%",
+ "Revenue": "993.99M",
+ "Net Income": "184.01M",
+ "Free Cash Flow": "325.22M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.24",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "993.99",
+  "906.98",
+  "798.04",
+  "698.42",
+  "1,655",
+  "951.37"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "184.01",
+  "155.9",
+  "20.97",
+  "31.1",
+  "193.79",
+  "-0.15"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "22.32",
+  "23.48",
+  "180.69",
+  "87.21",
+  "8.60",
+  "-"
+ ]
+}

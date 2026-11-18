@@ -1,0 +1,70 @@
+{
+ "ticker": "COLM",
+ "src_stats": "https://stockanalysis.com/stocks/colm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/colm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/colm/financials/ratios/",
+ "Market Cap": "3.78B",
+ "Enterprise Value": "4.01B",
+ "PE Ratio": "16.39",
+ "Forward PE": "17.35",
+ "PS Ratio": "1.10",
+ "EV / EBITDA": "13.36",
+ "Gross Margin": "50.47%",
+ "Operating Margin": "7.13%",
+ "Profit Margin": "6.97%",
+ "FCF Margin": "8.04%",
+ "Debt / Equity": "0.28",
+ "Debt / EBITDA": "0.92",
+ "Net Cash": "-228.56M",
+ "Total Debt": "458.14M",
+ "Cash & Cash Equivalents": "229.58M",
+ "Return on Invested Capital (ROIC)": "11.21%",
+ "Return on Equity (ROE)": "14.52%",
+ "Revenue": "3.43B",
+ "Net Income": "238.77M",
+ "Free Cash Flow": "275.52M",
+ "Dividend Yield": "1.60%",
+ "Beta (5Y)": "0.87",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "3,426",
+  "3,397",
+  "3,369",
+  "3,487",
+  "3,464",
+  "3,126"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "238.77",
+  "177.22",
+  "223.27",
+  "251.4",
+  "311.44",
+  "354.11"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "16.39",
+  "16.75",
+  "21.50",
+  "19.14",
+  "17.47",
+  "17.95"
+ ]
+}

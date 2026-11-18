@@ -1,0 +1,70 @@
+{
+ "ticker": "FRSH",
+ "src_stats": "https://stockanalysis.com/stocks/frsh/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/frsh/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/frsh/financials/ratios/",
+ "Market Cap": "3.40B",
+ "Enterprise Value": "2.73B",
+ "PE Ratio": "17.19",
+ "Forward PE": "15.35",
+ "PS Ratio": "3.72",
+ "EV / EBITDA": "29.32",
+ "Gross Margin": "85.13%",
+ "Operating Margin": "7.96%",
+ "Profit Margin": "22.28%",
+ "FCF Margin": "26.43%",
+ "Debt / Equity": "0.04",
+ "Debt / EBITDA": "0.28",
+ "Net Cash": "663.81M",
+ "Total Debt": "32.38M",
+ "Cash & Cash Equivalents": "696.19M",
+ "Return on Invested Capital (ROIC)": "5.06%",
+ "Return on Equity (ROE)": "23.58%",
+ "Revenue": "934.18M",
+ "Net Income": "208.17M",
+ "Free Cash Flow": "246.94M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.76",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "934.18",
+  "838.81",
+  "720.42",
+  "596.43",
+  "498",
+  "371.02"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "208.17",
+  "183.72",
+  "-95.37",
+  "-137.44",
+  "-232.13",
+  "-2,839"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "17.19",
+  "18.80",
+  "-",
+  "-",
+  "-",
+  "-"
+ ]
+}

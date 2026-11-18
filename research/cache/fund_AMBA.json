@@ -1,0 +1,63 @@
+{
+ "ticker": "AMBA",
+ "src_stats": "https://stockanalysis.com/stocks/amba/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/amba/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/amba/financials/ratios/",
+ "Market Cap": "2.36B",
+ "Enterprise Value": "2.10B",
+ "PE Ratio": "n/a",
+ "Forward PE": "60.29",
+ "PS Ratio": "5.70",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "58.52%",
+ "Operating Margin": "-14.90%",
+ "Profit Margin": "-13.48%",
+ "FCF Margin": "2.33%",
+ "Debt / Equity": "0.02",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "259.69M",
+ "Total Debt": "12.64M",
+ "Cash & Cash Equivalents": "272.33M",
+ "Return on Invested Capital (ROIC)": "-17.73%",
+ "Return on Equity (ROE)": "-9.41%",
+ "Revenue": "417.80M",
+ "Net Income": "-56.32M",
+ "Free Cash Flow": "9.72M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "2.36",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "417.8",
+  "390.7",
+  "284.87",
+  "226.47",
+  "337.61",
+  "331.86"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-56.32",
+  "-75.87",
+  "-117.13",
+  "-169.42",
+  "-65.39",
+  "-26.41"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": null
+}

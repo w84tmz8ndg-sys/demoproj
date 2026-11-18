@@ -1,0 +1,70 @@
+{
+ "ticker": "FRPT",
+ "src_stats": "https://stockanalysis.com/stocks/frpt/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/frpt/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/frpt/financials/ratios/",
+ "Market Cap": "3.19B",
+ "Enterprise Value": "3.33B",
+ "PE Ratio": "26.19",
+ "Forward PE": "37.61",
+ "PS Ratio": "2.64",
+ "EV / EBITDA": "16.43",
+ "Gross Margin": "42.62%",
+ "Operating Margin": "8.81%",
+ "Profit Margin": "10.90%",
+ "FCF Margin": "5.58%",
+ "Debt / Equity": "0.40",
+ "Debt / EBITDA": "2.33",
+ "Net Cash": "-147.34M",
+ "Total Debt": "493.20M",
+ "Cash & Cash Equivalents": "345.86M",
+ "Return on Invested Capital (ROIC)": "6.00%",
+ "Return on Equity (ROE)": "10.92%",
+ "Revenue": "1.21B",
+ "Net Income": "131.52M",
+ "Free Cash Flow": "67.31M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.71",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,206",
+  "1,102",
+  "975.18",
+  "766.9",
+  "595.34",
+  "425.49"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "131.52",
+  "139.14",
+  "46.93",
+  "-33.61",
+  "-59.49",
+  "-29.7"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "26.19",
+  "21.37",
+  "153.20",
+  "-",
+  "-",
+  "-"
+ ]
+}

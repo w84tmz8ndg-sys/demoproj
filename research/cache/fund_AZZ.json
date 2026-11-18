@@ -1,0 +1,70 @@
+{
+ "ticker": "AZZ",
+ "src_stats": "https://stockanalysis.com/stocks/azz/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/azz/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/azz/financials/ratios/",
+ "Market Cap": "3.85B",
+ "Enterprise Value": "4.41B",
+ "PE Ratio": "23.21",
+ "Forward PE": "17.34",
+ "PS Ratio": "2.21",
+ "EV / EBITDA": "11.44",
+ "Gross Margin": "24.05%",
+ "Operating Margin": "16.74%",
+ "Profit Margin": "9.59%",
+ "FCF Margin": "12.28%",
+ "Debt / Equity": "0.40",
+ "Debt / EBITDA": "1.39",
+ "Net Cash": "-558.43M",
+ "Total Debt": "560.39M",
+ "Cash & Cash Equivalents": "1.95M",
+ "Return on Invested Capital (ROIC)": "11.14%",
+ "Return on Equity (ROE)": "12.32%",
+ "Revenue": "1.75B",
+ "Net Income": "167.46M",
+ "Free Cash Flow": "214.45M",
+ "Dividend Yield": "0.75%",
+ "Beta (5Y)": "1.17",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,746",
+  "1,650",
+  "1,578",
+  "1,538",
+  "1,324",
+  "525.6"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "167.46",
+  "317.26",
+  "52.44",
+  "87.21",
+  "-61.21",
+  "84.02"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "23.21",
+  "12.80",
+  "54.77",
+  "20.96",
+  "-",
+  "14.47"
+ ]
+}

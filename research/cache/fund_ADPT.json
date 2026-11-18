@@ -1,0 +1,63 @@
+{
+ "ticker": "ADPT",
+ "src_stats": "https://stockanalysis.com/stocks/adpt/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/adpt/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/adpt/financials/ratios/",
+ "Market Cap": "4.61B",
+ "Enterprise Value": "4.62B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "15.52",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "46.24%",
+ "Operating Margin": "-16.18%",
+ "Profit Margin": "-23.66%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "2.22",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "-8.79M",
+ "Total Debt": "408.97M",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "-5.96%",
+ "Return on Equity (ROE)": "-36.44%",
+ "Revenue": "298.01M",
+ "Net Income": "-70.52M",
+ "Free Cash Flow": "-8.82M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "2.15",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "298.01",
+  "276.98",
+  "178.96",
+  "170.28",
+  "185.31",
+  "154.34"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-70.52",
+  "-59.5",
+  "-159.49",
+  "-225.25",
+  "-200.19",
+  "-207.28"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

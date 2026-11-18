@@ -1,0 +1,70 @@
+{
+ "ticker": "FIZZ",
+ "src_stats": "https://stockanalysis.com/stocks/fizz/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/fizz/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/fizz/financials/ratios/",
+ "Market Cap": "3.49B",
+ "Enterprise Value": "3.44B",
+ "PE Ratio": "20.02",
+ "Forward PE": "20.05",
+ "PS Ratio": "2.95",
+ "EV / EBITDA": "14.25",
+ "Gross Margin": "36.21%",
+ "Operating Margin": "18.45%",
+ "Profit Margin": "14.81%",
+ "FCF Margin": "13.71%",
+ "Debt / Equity": "0.16",
+ "Debt / EBITDA": "0.23",
+ "Net Cash": "48.33M",
+ "Total Debt": "58.77M",
+ "Cash & Cash Equivalents": "107.10M",
+ "Return on Invested Capital (ROIC)": "50.02%",
+ "Return on Equity (ROE)": "40.12%",
+ "Revenue": "1.18B",
+ "Net Income": "174.89M",
+ "Free Cash Flow": "161.90M",
+ "Dividend Yield": "8.73%",
+ "Beta (5Y)": "0.78",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,181",
+  "1,181",
+  "1,201",
+  "1,192",
+  "1,173",
+  "1,138"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "174.89",
+  "183.65",
+  "186.82",
+  "176.73",
+  "142.16",
+  "158.51"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "20.02",
+  "17.39",
+  "21.59",
+  "23.06",
+  "32.64",
+  "25.96"
+ ]
+}

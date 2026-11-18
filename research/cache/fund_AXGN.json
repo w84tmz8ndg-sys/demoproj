@@ -1,0 +1,63 @@
+{
+ "ticker": "AXGN",
+ "src_stats": "https://stockanalysis.com/stocks/axgn/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/axgn/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/axgn/financials/ratios/",
+ "Market Cap": "3.31B",
+ "Enterprise Value": "2.98B",
+ "PE Ratio": "n/a",
+ "Forward PE": "n/a",
+ "PS Ratio": "12.56",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "74.18%",
+ "Operating Margin": "-5.17%",
+ "Profit Margin": "-11.96%",
+ "FCF Margin": "8.26%",
+ "Debt / Equity": "0.04",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "328.60M",
+ "Total Debt": "19.47M",
+ "Cash & Cash Equivalents": "348.07M",
+ "Return on Invested Capital (ROIC)": "-2.44%",
+ "Return on Equity (ROE)": "-10.35%",
+ "Revenue": "266.93M",
+ "Net Income": "-31.92M",
+ "Free Cash Flow": "22.04M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.15",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "266.93",
+  "225.21",
+  "187.34",
+  "159.01",
+  "138.58",
+  "127.36"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-31.92",
+  "-15.7",
+  "-9.96",
+  "-21.72",
+  "-28.95",
+  "-26.99"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

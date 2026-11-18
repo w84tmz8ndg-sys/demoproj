@@ -1,0 +1,70 @@
+{
+ "ticker": "CENX",
+ "src_stats": "https://stockanalysis.com/stocks/cenx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/cenx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/cenx/financials/ratios/",
+ "Market Cap": "3.26B",
+ "Enterprise Value": "3.03B",
+ "PE Ratio": "3.80",
+ "Forward PE": "3.14",
+ "PS Ratio": "1.09",
+ "EV / EBITDA": "4.25",
+ "Gross Margin": "24.42%",
+ "Operating Margin": "21.07%",
+ "Profit Margin": "29.68%",
+ "FCF Margin": "17.57%",
+ "Debt / Equity": "0.26",
+ "Debt / EBITDA": "0.66",
+ "Net Cash": "232.70M",
+ "Total Debt": "480.30M",
+ "Cash & Cash Equivalents": "713.00M",
+ "Return on Invested Capital (ROIC)": "37.85%",
+ "Return on Equity (ROE)": "68.25%",
+ "Revenue": "3.00B",
+ "Net Income": "891.40M",
+ "Free Cash Flow": "526.30M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "2.18",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,996",
+  "2,528",
+  "2,220",
+  "2,185",
+  "2,777",
+  "2,213"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "891.4",
+  "40",
+  "318.9",
+  "-43.1",
+  "-14.1",
+  "-167.1"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "3.80",
+  "91.43",
+  "5.30",
+  "-",
+  "-",
+  "-"
+ ]
+}

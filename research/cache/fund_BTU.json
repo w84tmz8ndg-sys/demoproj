@@ -1,0 +1,70 @@
+{
+ "ticker": "BTU",
+ "src_stats": "https://stockanalysis.com/stocks/btu/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/btu/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/btu/financials/ratios/",
+ "Market Cap": "2.10B",
+ "Enterprise Value": "2.04B",
+ "PE Ratio": "n/a",
+ "Forward PE": "14.97",
+ "PS Ratio": "0.51",
+ "EV / EBITDA": "7.42",
+ "Gross Margin": "10.20%",
+ "Operating Margin": "-3.35%",
+ "Profit Margin": "-3.55%",
+ "FCF Margin": "n/a",
+ "Debt / Equity": "0.12",
+ "Debt / EBITDA": "1.12",
+ "Net Cash": "60.20M",
+ "Total Debt": "374.10M",
+ "Cash & Cash Equivalents": "434.30M",
+ "Return on Invested Capital (ROIC)": "-4.30%",
+ "Return on Equity (ROE)": "-3.76%",
+ "Revenue": "4.10B",
+ "Net Income": "-145.40M",
+ "Free Cash Flow": "-238.40M",
+ "Dividend Yield": "1.74%",
+ "Beta (5Y)": "0.43",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,095",
+  "3,862",
+  "4,237",
+  "4,947",
+  "4,982",
+  "3,318"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-145.4",
+  "-52.9",
+  "370.9",
+  "759.6",
+  "1,297",
+  "360.1"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "-",
+  "6.86",
+  "4.20",
+  "2.93",
+  "3.62"
+ ]
+}

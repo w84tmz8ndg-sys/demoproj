@@ -1,0 +1,63 @@
+{
+ "ticker": "BLSH",
+ "src_stats": "https://stockanalysis.com/stocks/blsh/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/blsh/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/blsh/financials/ratios/",
+ "Market Cap": "2.92B",
+ "Enterprise Value": "3.13B",
+ "PE Ratio": "n/a",
+ "Forward PE": "34.35",
+ "PS Ratio": "9.71",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "100.00%",
+ "Operating Margin": "-264.83%",
+ "Profit Margin": "n/a",
+ "FCF Margin": "37.34%",
+ "Debt / Equity": "0.21",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "-205.30M",
+ "Total Debt": "518.15M",
+ "Cash & Cash Equivalents": "312.85M",
+ "Return on Invested Capital (ROIC)": "-28.79%",
+ "Return on Equity (ROE)": "-57.07%",
+ "Revenue": "300.72M",
+ "Net Income": "-1.38B",
+ "Free Cash Flow": "112.29M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "n/a",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "300.72",
+  "237.24",
+  "158.48",
+  "88.28",
+  "97.98",
+  "0.29"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-1,380",
+  "-764.68",
+  "78.53",
+  "1,299",
+  "-4,246",
+  "-1,401"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

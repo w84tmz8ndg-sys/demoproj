@@ -1,0 +1,63 @@
+{
+ "ticker": "AMPL",
+ "src_stats": "https://stockanalysis.com/stocks/ampl/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/ampl/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/ampl/financials/ratios/",
+ "Market Cap": "2.16B",
+ "Enterprise Value": "2.02B",
+ "PE Ratio": "n/a",
+ "Forward PE": "111.28",
+ "PS Ratio": "5.45",
+ "EV / EBITDA": "n/a",
+ "Gross Margin": "70.63%",
+ "Operating Margin": "-25.24%",
+ "Profit Margin": "-25.24%",
+ "FCF Margin": "7.96%",
+ "Debt / Equity": "0.07",
+ "Debt / EBITDA": "n/a",
+ "Net Cash": "144.96M",
+ "Total Debt": "9.33M",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "-31.02%",
+ "Return on Equity (ROE)": "-51.30%",
+ "Revenue": "396.45M",
+ "Net Income": "-100.07M",
+ "Free Cash Flow": "31.57M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.29",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "396.45",
+  "343.21",
+  "299.27",
+  "276.28",
+  "238.07",
+  "167.26"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-100.07",
+  "-88.54",
+  "-94.32",
+  "-90.36",
+  "-93.38",
+  "-74.98"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

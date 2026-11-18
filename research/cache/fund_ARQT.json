@@ -1,0 +1,63 @@
+{
+ "ticker": "ARQT",
+ "src_stats": "https://stockanalysis.com/stocks/arqt/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/arqt/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/arqt/financials/ratios/",
+ "Market Cap": "3.46B",
+ "Enterprise Value": "3.32B",
+ "PE Ratio": "126.01",
+ "Forward PE": "39.49",
+ "PS Ratio": "6.79",
+ "EV / EBITDA": "88.75",
+ "Gross Margin": "91.18%",
+ "Operating Margin": "6.91%",
+ "Profit Margin": "5.88%",
+ "FCF Margin": "11.74%",
+ "Debt / Equity": "0.51",
+ "Debt / EBITDA": "3.23",
+ "Net Cash": "135.64M",
+ "Total Debt": "123.82M",
+ "Cash & Cash Equivalents": "259.46M",
+ "Return on Invested Capital (ROIC)": "33.39%",
+ "Return on Equity (ROE)": "14.88%",
+ "Revenue": "508.68M",
+ "Net Income": "29.91M",
+ "Free Cash Flow": "59.71M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.63",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "508.68",
+  "376.07",
+  "196.54",
+  "59.61",
+  "3.69",
+  "-"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "29.91",
+  "-16.14",
+  "-140.04",
+  "-262.14",
+  "-311.46",
+  "-206.36"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": null
+}

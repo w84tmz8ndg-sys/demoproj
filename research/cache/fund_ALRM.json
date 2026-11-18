@@ -1,0 +1,70 @@
+{
+ "ticker": "ALRM",
+ "src_stats": "https://stockanalysis.com/stocks/alrm/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/alrm/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/alrm/financials/ratios/",
+ "Market Cap": "3.26B",
+ "Enterprise Value": "3.29B",
+ "PE Ratio": "29.33",
+ "Forward PE": "22.48",
+ "PS Ratio": "3.01",
+ "EV / EBITDA": "18.76",
+ "Gross Margin": "66.06%",
+ "Operating Margin": "14.79%",
+ "Profit Margin": "10.79%",
+ "FCF Margin": "17.65%",
+ "Debt / Equity": "0.60",
+ "Debt / EBITDA": "2.97",
+ "Net Cash": "-30.31M",
+ "Total Debt": "566.96M",
+ "Cash & Cash Equivalents": "536.64M",
+ "Return on Invested Capital (ROIC)": "12.52%",
+ "Return on Equity (ROE)": "12.77%",
+ "Revenue": "1.08B",
+ "Net Income": "117.00M",
+ "Free Cash Flow": "191.33M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.70",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,084",
+  "1,011",
+  "939.83",
+  "881.68",
+  "842.56",
+  "748.97"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "117",
+  "132.57",
+  "124.12",
+  "81.04",
+  "56.34",
+  "52.26"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "29.33",
+  "19.20",
+  "24.21",
+  "39.86",
+  "43.84",
+  "81.24"
+ ]
+}

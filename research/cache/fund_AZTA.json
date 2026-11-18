@@ -1,0 +1,70 @@
+{
+ "ticker": "AZTA",
+ "src_stats": "https://stockanalysis.com/stocks/azta/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/azta/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/azta/financials/ratios/",
+ "Market Cap": "1.91B",
+ "Enterprise Value": "1.46B",
+ "PE Ratio": "n/a",
+ "Forward PE": "73.65",
+ "PS Ratio": "3.08",
+ "EV / EBITDA": "40.59",
+ "Gross Margin": "44.23%",
+ "Operating Margin": "-3.29%",
+ "Profit Margin": "-26.86%",
+ "FCF Margin": "4.41%",
+ "Debt / Equity": "0.04",
+ "Debt / EBITDA": "1.04",
+ "Net Cash": "450.01M",
+ "Total Debt": "51.87M",
+ "Cash & Cash Equivalents": null,
+ "Return on Invested Capital (ROIC)": "-1.74%",
+ "Return on Equity (ROE)": "-10.11%",
+ "Revenue": "621.70M",
+ "Net Income": "-166.99M",
+ "Free Cash Flow": "27.43M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.47",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "621.7",
+  "621.7",
+  "593.82",
+  "573.45",
+  "551.49",
+  "555.5"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-166.99",
+  "-166.99",
+  "-55.76",
+  "-164.9",
+  "-14.64",
+  "2,133"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "-",
+  "-",
+  "-",
+  "-",
+  "-",
+  "1.51"
+ ]
+}

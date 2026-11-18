@@ -1,0 +1,70 @@
+{
+ "ticker": "COCO",
+ "src_stats": "https://stockanalysis.com/stocks/coco/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/coco/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/coco/financials/ratios/",
+ "Market Cap": "3.65B",
+ "Enterprise Value": "3.51B",
+ "PE Ratio": "32.24",
+ "Forward PE": "31.47",
+ "PS Ratio": "4.80",
+ "EV / EBITDA": "24.78",
+ "Gross Margin": "38.93%",
+ "Operating Margin": "18.25%",
+ "Profit Margin": "15.70%",
+ "FCF Margin": "18.76%",
+ "Debt / Equity": "0.03",
+ "Debt / EBITDA": "0.09",
+ "Net Cash": "138.31M",
+ "Total Debt": "13.69M",
+ "Cash & Cash Equivalents": "152.00M",
+ "Return on Invested Capital (ROIC)": "50.96%",
+ "Return on Equity (ROE)": "32.02%",
+ "Revenue": "767.53M",
+ "Net Income": "120.47M",
+ "Free Cash Flow": "144.02M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.75",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "767.53",
+  "609.78",
+  "516.01",
+  "493.61",
+  "427.79",
+  "379.51"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "120.47",
+  "71.32",
+  "55.95",
+  "46.63",
+  "7.81",
+  "19.02"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "32.24",
+  "42.33",
+  "37.42",
+  "31.25",
+  "98.91",
+  "32.61"
+ ]
+}

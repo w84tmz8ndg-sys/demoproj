@@ -1,0 +1,70 @@
+{
+ "ticker": "CDNA",
+ "src_stats": "https://stockanalysis.com/stocks/cdna/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/cdna/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/cdna/financials/ratios/",
+ "Market Cap": "3.92B",
+ "Enterprise Value": "3.70B",
+ "PE Ratio": "30.92",
+ "Forward PE": "50.72",
+ "PS Ratio": "7.74",
+ "EV / EBITDA": "141.60",
+ "Gross Margin": "70.97%",
+ "Operating Margin": "1.57%",
+ "Profit Margin": "25.86%",
+ "FCF Margin": "12.01%",
+ "Debt / Equity": "0.06",
+ "Debt / EBITDA": "0.87",
+ "Net Cash": "221.48M",
+ "Total Debt": "29.00M",
+ "Cash & Cash Equivalents": "250.48M",
+ "Return on Invested Capital (ROIC)": "4.94%",
+ "Return on Equity (ROE)": "33.04%",
+ "Revenue": "497.40M",
+ "Net Income": "128.63M",
+ "Free Cash Flow": "59.76M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "2.49",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "497.4",
+  "379.81",
+  "333.79",
+  "280.32",
+  "321.79",
+  "296.4"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "128.63",
+  "-21.35",
+  "52.55",
+  "-190.28",
+  "-76.61",
+  "-30.66"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "30.92",
+  "-",
+  "21.85",
+  "-",
+  "-",
+  "-"
+ ]
+}

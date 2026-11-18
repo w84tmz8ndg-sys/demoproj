@@ -1,0 +1,70 @@
+{
+ "ticker": "LOPE",
+ "src_stats": "https://stockanalysis.com/stocks/lope/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/lope/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/lope/financials/ratios/",
+ "Market Cap": "2.91B",
+ "Enterprise Value": "2.86B",
+ "PE Ratio": "12.23",
+ "Forward PE": "10.83",
+ "PS Ratio": "2.57",
+ "EV / EBITDA": "8.17",
+ "Gross Margin": "53.34%",
+ "Operating Margin": "27.27%",
+ "Profit Margin": "21.85%",
+ "FCF Margin": "23.06%",
+ "Debt / Equity": "0.18",
+ "Debt / EBITDA": "0.30",
+ "Net Cash": "48.13M",
+ "Total Debt": "114.01M",
+ "Cash & Cash Equivalents": "162.14M",
+ "Return on Invested Capital (ROIC)": "44.37%",
+ "Return on Equity (ROE)": "35.91%",
+ "Revenue": "1.15B",
+ "Net Income": "250.95M",
+ "Free Cash Flow": "264.85M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.64",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "1,148",
+  "1,106",
+  "1,033",
+  "960.9",
+  "911.31",
+  "896.56"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "250.95",
+  "216.17",
+  "226.23",
+  "204.99",
+  "184.68",
+  "260.34"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "12.23",
+  "21.26",
+  "20.81",
+  "19.04",
+  "17.55",
+  "13.04"
+ ]
+}

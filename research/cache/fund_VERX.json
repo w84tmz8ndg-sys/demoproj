@@ -1,0 +1,70 @@
+{
+ "ticker": "VERX",
+ "src_stats": "https://stockanalysis.com/stocks/verx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/verx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/verx/financials/ratios/",
+ "Market Cap": "2.72B",
+ "Enterprise Value": "2.85B",
+ "PE Ratio": "n/a",
+ "Forward PE": "17.72",
+ "PS Ratio": "3.36",
+ "EV / EBITDA": "88.37",
+ "Gross Margin": "64.61%",
+ "Operating Margin": "3.12%",
+ "Profit Margin": "-5.83%",
+ "FCF Margin": "8.28%",
+ "Debt / Equity": "1.94",
+ "Debt / EBITDA": "9.76",
+ "Net Cash": "-132.14M",
+ "Total Debt": "349.94M",
+ "Cash & Cash Equivalents": "217.80M",
+ "Return on Invested Capital (ROIC)": "7.51%",
+ "Return on Equity (ROE)": "-21.19%",
+ "Revenue": "808.60M",
+ "Net Income": "-47.10M",
+ "Free Cash Flow": "66.93M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.75",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "808.6",
+  "748.44",
+  "666.78",
+  "572.39",
+  "491.62",
+  "425.55"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-47.1",
+  "7.21",
+  "-52.73",
+  "-13.09",
+  "-12.3",
+  "-1.48"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "441.79",
+  "-",
+  "-",
+  "-",
+  "-"
+ ]
+}

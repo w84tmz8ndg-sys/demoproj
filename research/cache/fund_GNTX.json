@@ -1,0 +1,70 @@
+{
+ "ticker": "GNTX",
+ "src_stats": "https://stockanalysis.com/stocks/gntx/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/gntx/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/gntx/financials/ratios/",
+ "Market Cap": "3.86B",
+ "Enterprise Value": "3.72B",
+ "PE Ratio": "10.07",
+ "Forward PE": "9.51",
+ "PS Ratio": "1.47",
+ "EV / EBITDA": "6.26",
+ "Gross Margin": "34.09%",
+ "Operating Margin": "18.78%",
+ "Profit Margin": "15.15%",
+ "FCF Margin": "17.16%",
+ "Debt / Equity": "0.00",
+ "Debt / EBITDA": "0.01",
+ "Net Cash": "138.12M",
+ "Total Debt": "7.55M",
+ "Cash & Cash Equivalents": "145.67M",
+ "Return on Invested Capital (ROIC)": "17.69%",
+ "Return on Equity (ROE)": "15.92%",
+ "Revenue": "2.62B",
+ "Net Income": "390.24M",
+ "Free Cash Flow": "449.39M",
+ "Dividend Yield": "2.56%",
+ "Beta (5Y)": "0.85",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "2,619",
+  "2,534",
+  "2,313",
+  "2,299",
+  "1,919",
+  "1,731"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "390.24",
+  "379.13",
+  "398.87",
+  "422.05",
+  "313.88",
+  "355.21"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "10.07",
+  "13.44",
+  "16.38",
+  "18.05",
+  "20.38",
+  "23.21"
+ ]
+}

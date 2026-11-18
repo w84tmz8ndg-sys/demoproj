@@ -1,0 +1,70 @@
+{
+ "ticker": "MWA",
+ "src_stats": "https://stockanalysis.com/stocks/mwa/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/mwa/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/mwa/financials/ratios/",
+ "Market Cap": "3.71B",
+ "Enterprise Value": "3.59B",
+ "PE Ratio": "16.90",
+ "Forward PE": "15.11",
+ "PS Ratio": "2.51",
+ "EV / EBITDA": "9.65",
+ "Gross Margin": "38.18%",
+ "Operating Margin": "21.84%",
+ "Profit Margin": "15.04%",
+ "FCF Margin": "14.05%",
+ "Debt / Equity": "0.39",
+ "Debt / EBITDA": "1.22",
+ "Net Cash": "112.20M",
+ "Total Debt": "453.80M",
+ "Cash & Cash Equivalents": "566.00M",
+ "Return on Invested Capital (ROIC)": "23.53%",
+ "Return on Equity (ROE)": "20.80%",
+ "Revenue": "1.48B",
+ "Net Income": "221.90M",
+ "Free Cash Flow": "207.30M",
+ "Dividend Yield": "1.34%",
+ "Beta (5Y)": "0.96",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,475",
+  "1,475",
+  "1,430",
+  "1,315",
+  "1,276",
+  "1,247"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "221.9",
+  "221.9",
+  "191.7",
+  "115.9",
+  "85.5",
+  "76.6"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "16.90",
+  "14.94",
+  "20.81",
+  "29.17",
+  "23.21",
+  "21.00"
+ ]
+}

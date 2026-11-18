@@ -1,0 +1,70 @@
+{
+ "ticker": "ATRC",
+ "src_stats": "https://stockanalysis.com/stocks/atrc/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/atrc/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/atrc/financials/ratios/",
+ "Market Cap": "2.80B",
+ "Enterprise Value": "2.71B",
+ "PE Ratio": "179.17",
+ "Forward PE": "162.59",
+ "PS Ratio": "4.76",
+ "EV / EBITDA": "71.06",
+ "Gross Margin": "76.74%",
+ "Operating Margin": "2.89%",
+ "Profit Margin": "2.52%",
+ "FCF Margin": "8.98%",
+ "Debt / Equity": "0.18",
+ "Debt / EBITDA": "2.41",
+ "Net Cash": "90.20M",
+ "Total Debt": "96.83M",
+ "Cash & Cash Equivalents": "187.03M",
+ "Return on Invested Capital (ROIC)": "3.62%",
+ "Return on Equity (ROE)": "2.95%",
+ "Revenue": "589.80M",
+ "Net Income": "14.88M",
+ "Free Cash Flow": "52.94M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.21",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "589.8",
+  "534.53",
+  "465.31",
+  "399.25",
+  "330.38",
+  "274.33"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "14.88",
+  "-11.45",
+  "-44.7",
+  "-30.44",
+  "-46.47",
+  "50.2"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "179.17",
+  "-",
+  "-",
+  "-",
+  "-",
+  "63.62"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ticker": "CVSA",
+ "src_stats": "https://stockanalysis.com/stocks/cvsa/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/cvsa/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/cvsa/financials/ratios/",
+ "Market Cap": "3.91B",
+ "Enterprise Value": "4.44B",
+ "PE Ratio": "16.04",
+ "Forward PE": "12.81",
+ "PS Ratio": "1.97",
+ "EV / EBITDA": "9.80",
+ "Gross Margin": "57.39%",
+ "Operating Margin": "20.07%",
+ "Profit Margin": "12.84%",
+ "FCF Margin": "17.70%",
+ "Debt / Equity": "0.53",
+ "Debt / EBITDA": "1.49",
+ "Net Cash": "-531.37M",
+ "Total Debt": "753.59M",
+ "Cash & Cash Equivalents": "222.22M",
+ "Return on Invested Capital (ROIC)": "16.02%",
+ "Return on Equity (ROE)": "19.30%",
+ "Revenue": "2.00B",
+ "Net Income": "257.16M",
+ "Free Cash Flow": "354.65M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.66",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "2,003",
+  "1,954",
+  "1,788",
+  "1,585",
+  "1,451",
+  "1,382"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "257.16",
+  "251.57",
+  "237.07",
+  "136.78",
+  "93.36",
+  "310.99"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "15.95",
+  "16.86",
+  "19.28",
+  "18.75",
+  "16.04",
+  "5.22"
+ ]
+}

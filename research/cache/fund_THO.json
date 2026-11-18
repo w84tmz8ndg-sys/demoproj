@@ -1,0 +1,70 @@
+{
+ "ticker": "THO",
+ "src_stats": "https://stockanalysis.com/stocks/tho/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/tho/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/tho/financials/ratios/",
+ "Market Cap": "3.90B",
+ "Enterprise Value": "4.33B",
+ "PE Ratio": "22.35",
+ "Forward PE": "20.82",
+ "PS Ratio": "0.41",
+ "EV / EBITDA": "9.38",
+ "Gross Margin": "12.62%",
+ "Operating Margin": "2.05%",
+ "Profit Margin": "1.85%",
+ "FCF Margin": "1.76%",
+ "Debt / Equity": "0.21",
+ "Debt / EBITDA": "1.82",
+ "Net Cash": "-427.99M",
+ "Total Debt": "909.98M",
+ "Cash & Cash Equivalents": "481.99M",
+ "Return on Invested Capital (ROIC)": "3.02%",
+ "Return on Equity (ROE)": "4.09%",
+ "Revenue": "9.61B",
+ "Net Income": "177.54M",
+ "Free Cash Flow": "168.84M",
+ "Dividend Yield": "2.86%",
+ "Beta (5Y)": "1.54",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "9,608",
+  "9,608",
+  "9,579",
+  "10,043",
+  "11,122",
+  "16,313"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "177.54",
+  "177.54",
+  "258.56",
+  "265.31",
+  "374.27",
+  "1,138"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "22.45",
+  "21.98",
+  "18.72",
+  "21.28",
+  "16.45",
+  "4.04"
+ ]
+}

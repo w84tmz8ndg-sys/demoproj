@@ -1,0 +1,70 @@
+{
+ "ticker": "DNOW",
+ "src_stats": "https://stockanalysis.com/stocks/dnow/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/dnow/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/dnow/financials/ratios/",
+ "Market Cap": "2.48B",
+ "Enterprise Value": "2.89B",
+ "PE Ratio": "n/a",
+ "Forward PE": "20.16",
+ "PS Ratio": "0.51",
+ "EV / EBITDA": "17.30",
+ "Gross Margin": "19.81%",
+ "Operating Margin": "1.57%",
+ "Profit Margin": "-3.89%",
+ "FCF Margin": "4.24%",
+ "Debt / Equity": "0.25",
+ "Debt / EBITDA": "2.57",
+ "Net Cash": "-410.00M",
+ "Total Debt": "522.00M",
+ "Cash & Cash Equivalents": "112.00M",
+ "Return on Invested Capital (ROIC)": "2.91%",
+ "Return on Equity (ROE)": "-11.25%",
+ "Revenue": "4.79B",
+ "Net Income": "-185.00M",
+ "Free Cash Flow": "203.00M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "0.97",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,786",
+  "2,820",
+  "2,373",
+  "2,321",
+  "2,136",
+  "1,632"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "-185",
+  "-89",
+  "76",
+  "246",
+  "126",
+  "5"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "-",
+  "-",
+  "18.12",
+  "4.89",
+  "11.13",
+  "188.83"
+ ]
+}

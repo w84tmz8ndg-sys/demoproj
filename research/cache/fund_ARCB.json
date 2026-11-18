@@ -1,0 +1,70 @@
+{
+ "ticker": "ARCB",
+ "src_stats": "https://stockanalysis.com/stocks/arcb/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/arcb/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/arcb/financials/ratios/",
+ "Market Cap": "2.92B",
+ "Enterprise Value": "3.15B",
+ "PE Ratio": "103.75",
+ "Forward PE": "14.09",
+ "PS Ratio": "0.67",
+ "EV / EBITDA": "9.62",
+ "Gross Margin": "8.67%",
+ "Operating Margin": "3.43%",
+ "Profit Margin": "0.66%",
+ "FCF Margin": "5.87%",
+ "Debt / Equity": "0.33",
+ "Debt / EBITDA": "1.14",
+ "Net Cash": "-224.14M",
+ "Total Debt": "431.42M",
+ "Cash & Cash Equivalents": "207.28M",
+ "Return on Invested Capital (ROIC)": "7.36%",
+ "Return on Equity (ROE)": "2.19%",
+ "Revenue": "4.37B",
+ "Net Income": "28.68M",
+ "Free Cash Flow": "256.12M",
+ "Dividend Yield": "0.36%",
+ "Beta (5Y)": "1.73",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "4,367",
+  "4,010",
+  "4,179",
+  "4,427",
+  "5,029",
+  "3,766"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "28.68",
+  "60.1",
+  "173.96",
+  "195.43",
+  "298.21",
+  "213.52"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "103.75",
+  "27.79",
+  "12.55",
+  "14.55",
+  "5.74",
+  "14.35"
+ ]
+}

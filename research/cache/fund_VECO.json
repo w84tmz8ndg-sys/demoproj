@@ -1,0 +1,70 @@
+{
+ "ticker": "VECO",
+ "src_stats": "https://stockanalysis.com/stocks/veco/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/veco/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/veco/financials/ratios/",
+ "Market Cap": "2.25B",
+ "Enterprise Value": "2.03B",
+ "PE Ratio": "88.82",
+ "Forward PE": "13.36",
+ "PS Ratio": "3.05",
+ "EV / EBITDA": "35.50",
+ "Gross Margin": "37.85%",
+ "Operating Margin": "5.00%",
+ "Profit Margin": "3.62%",
+ "FCF Margin": "17.32%",
+ "Debt / Equity": "0.28",
+ "Debt / EBITDA": "4.23",
+ "Net Cash": "219.99M",
+ "Total Debt": "262.52M",
+ "Cash & Cash Equivalents": "482.51M",
+ "Return on Invested Capital (ROIC)": "4.86%",
+ "Return on Equity (ROE)": "2.92%",
+ "Revenue": "726.22M",
+ "Net Income": "26.28M",
+ "Free Cash Flow": "125.80M",
+ "Dividend Yield": "n/a",
+ "Beta (5Y)": "1.42",
+ "fy": [
+  "TTM",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "rev_hist": [
+  "726.22",
+  "664.29",
+  "717.3",
+  "666.44",
+  "646.14",
+  "583.28"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "26.28",
+  "35.39",
+  "73.71",
+  "-30.37",
+  "166.94",
+  "26.04"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022",
+  "FY 2021"
+ ],
+ "pe_hist": [
+  "88.82",
+  "48.59",
+  "20.64",
+  "-",
+  "5.72",
+  "55.22"
+ ]
+}

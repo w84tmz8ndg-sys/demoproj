@@ -1,0 +1,70 @@
+{
+ "ticker": "BRC",
+ "src_stats": "https://stockanalysis.com/stocks/brc/statistics/",
+ "src_fin": "https://stockanalysis.com/stocks/brc/financials/",
+ "src_ratios": "https://stockanalysis.com/stocks/brc/financials/ratios/",
+ "Market Cap": "3.61B",
+ "Enterprise Value": "3.50B",
+ "PE Ratio": "17.94",
+ "Forward PE": "11.98",
+ "PS Ratio": "2.22",
+ "EV / EBITDA": "10.42",
+ "Gross Margin": "51.75%",
+ "Operating Margin": "18.01%",
+ "Profit Margin": "12.36%",
+ "FCF Margin": "11.59%",
+ "Debt / Equity": "0.06",
+ "Debt / EBITDA": "0.23",
+ "Net Cash": "103.56M",
+ "Total Debt": "83.59M",
+ "Cash & Cash Equivalents": "187.15M",
+ "Return on Invested Capital (ROIC)": "18.87%",
+ "Return on Equity (ROE)": "16.11%",
+ "Revenue": "1.66B",
+ "Net Income": "204.64M",
+ "Free Cash Flow": "192.65M",
+ "Dividend Yield": "1.30%",
+ "Beta (5Y)": "0.61",
+ "fy": [
+  "TTM",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "rev_hist": [
+  "1,662",
+  "1,662",
+  "1,514",
+  "1,341",
+  "1,332",
+  "1,302"
+ ],
+ "rev_growth": null,
+ "ni_hist": [
+  "204.64",
+  "204.64",
+  "188.51",
+  "196.46",
+  "174.09",
+  "149.17"
+ ],
+ "eps_growth": null,
+ "ratio_fy": [
+  "Current",
+  "FY 2026",
+  "FY 2025",
+  "FY 2024",
+  "FY 2023",
+  "FY 2022"
+ ],
+ "pe_hist": [
+  "17.94",
+  "21.70",
+  "17.71",
+  "17.31",
+  "14.65",
+  "16.11"
+ ]
+}
